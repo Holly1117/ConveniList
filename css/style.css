@@ -1,0 +1,212 @@
+@charset "UTF-8";
+
+/* ページ全体の設定 */
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+    background-color: #f7f7f7;
+}
+.wrapper {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+
+/* タイトルデザイン */
+#nav {
+    margin: 20px 0 20px 0;
+}
+.nav-content {
+    background: linear-gradient(to bottom, #e4e4e4 50%, #fff 50% );
+    box-shadow: 0 5px 20px #ccc;
+    border-radius: 5px;
+
+    max-width: 800px;
+    margin: 0 auto;
+}
+.nav-title {
+    color: #076cb9;
+    line-height: 42px;
+    text-align: center;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    line-height: 40px;
+}
+.nav li {
+    margin-left: 40px;
+}
+.nav li a {
+    color: black;
+}
+
+.nav .active {
+    color: deepskyblue;
+}
+
+/* カードデザイン */
+.card-list{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card {
+    margin-right: 28px;
+    margin-bottom: 40px;
+    width: 250px;
+
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 5px 20px #ccc;
+    transition: .4s;
+}
+.card:hover{
+    transform: scale(1.03);
+    transition : .4s;
+}
+
+.card-img {
+    border-radius: 5px 5px 0 0;
+    max-width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+.card-content {
+    padding: 10px 20px 10px 20px;
+}
+
+.card-title {
+    height: 40px;
+    font-size: 13px;
+    color: #39c;
+    margin-bottom: 10px;
+}
+.card-title {
+    /* 2行以上の場合は...を表示 */
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden; 
+}
+.card-text {
+    display: flex;
+    justify-content: space-between;
+    color: #777;
+    font-size: 11px;
+
+    line-height: 1.5;
+}
+
+/* セブン用 */
+
+/* 地域タイトル */
+.city-title {
+    background: #a0a0a0;
+    color: #fff;
+    box-shadow: 0 5px 20px #ccc;
+    border-radius: 5px;
+    
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.city-title span {
+    padding-left: 10px;
+}
+.hokkaido {
+    margin-left: 30px;
+}
+/* 最大幅 */
+#seven {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+/* 「もっと見る」*/
+#seven section {
+    margin-bottom: 80px;
+}
+
+button {
+    float: right;
+    margin-right: 15%;
+
+    background: #fff;
+    padding: 10px 15px;
+    width: 120px;
+    border-radius: 13px;
+    border: none;
+    box-shadow: 0 5px 20px #ccc;
+
+    transition: .4s;
+}
+button:hover {
+    cursor: pointer;
+    transform: scale(.95);
+    transition : .4s;
+}
+
+@media screen and (max-width: 780px) {
+    body {
+        background: none;
+    }
+    #nav {
+        margin: 0 0 40px 0;
+    }
+    .nav-content {
+        background: linear-gradient(to bottom, #e4e4e4 50%, rgb(247, 247, 247) 50% );
+    }
+    .card, .nav-content, .card-img {
+        box-shadow: none;
+        border-radius: 0px;
+    }
+    .card {
+        margin-right: 0;
+        margin-bottom: 20px;
+        width: 180px;
+    }
+    .card-content {
+        padding: 0;
+    }
+    .card:nth-child(1n){
+        margin-right: 5px;
+    }
+    .card:nth-child(2n + 1){
+        margin-left: 5px;
+    }
+    .card-img {
+        border-bottom: none;
+    }
+    .card-title {
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden; 
+    }
+    .card-text {
+        flex-wrap: wrap;
+    }
+
+
+    .city-title {
+        max-width: 400px;
+    }
+    .hokkaido {
+        margin-left: 0px;
+    }
+    button {
+        float: none;
+        width: 300px;
+        margin: 0 auto;
+
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

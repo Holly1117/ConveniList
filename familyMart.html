@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>コンビニ新作一覧</title>
+    <link href="./css/style.css" rel="stylesheet">
+    <script src="./js/familyMart.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+</head>
+
+<body>
+
+    <section id="nav">
+        <div class="nav-content">
+            <h3 class="nav-title">コンビニ新作一覧</h3>
+            <ul class="nav">
+                <li><a class="" href="/lawson">ローソン</a></li>
+                <li><a class="" href="/seveneleven">セブン</a></li>
+                <li><a class="active" href="/familymart">ファミマ</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <div class="wrapper">
+        <div class="card-list">
+            {% for json in jsons %}
+            <a href="{{json.product_url}}">
+                <div class="card">
+                    <img class="card-img" src="{{json.product_image}}">
+                    <div class="card-content">
+                        <p class="card-title">{{json.product_name}}</p>
+                        <div class="card-text">
+                            <p>{{json.product_price}}円(税込)</p>
+                            <p>発売日{{json.product_date}}</p>
+                        </div>
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+
+</body>
+
+</html>
