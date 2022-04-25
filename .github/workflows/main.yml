@@ -1,9 +1,8 @@
 name: jsonScraping
 
 on:
-  push:
-    branches: 
-      - master
+  schedule:
+    - cron: '00 3 * * *'
   workflow_dispatch:
 
 jobs:
