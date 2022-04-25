@@ -99,13 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041299/kanto/",
-        "product_name": "サンドむすび　ベーコン＆ベーコン",
-        "product_price": 259,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041299/5631ABCCDE91399644EB129BC4307D9C.jpg",
-        "product_date": "2022.04.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045867/kanto/",
         "product_name": "おむすび＆おかずセット　紅鮭・ツナマヨネーズ",
         "product_price": 345,
@@ -138,6 +131,13 @@
         "product_name": "一膳ごはん　たっぷり炙り焼きさばとだしめし",
         "product_price": 291,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045826/4F664A6BE7B95D87CADB682779CDACE6.jpg",
+        "product_date": "2022.04.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045848/kanto/",
+        "product_name": "たんぱく質が摂れる　グリルチキン弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045848/409C2E6C57E9068AFBA60B589C44567C.jpg",
         "product_date": "2022.04.19"
       }
     ],
@@ -264,6 +264,13 @@
         "product_date": "2022.04.19"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/045645/tokai/",
+        "product_name": "若鶏のチキン南蛮弁当",
+        "product_price": 537,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045645/010F0195B1FEFEF3590B6ADCCF81FD3B.jpg",
+        "product_date": "2022.04.19"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/045842/tokai/",
         "product_name": "一膳ごはん　ツナマヨネーズ",
         "product_price": 270,
@@ -275,13 +282,6 @@
         "product_name": "筍ごはん弁当",
         "product_price": 453,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044414/F0B2B8677F785B06BF92004FB1B281C3.jpg",
-        "product_date": "2022.04.19"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045835/tokai/",
-        "product_name": "旨辛タッカルビ丼",
-        "product_price": 537,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045835/489D580B2048C84552098A29E60A5FF5.jpg",
         "product_date": "2022.04.19"
       }
     ],
@@ -442,20 +442,6 @@
         "product_date": "2022.04.19"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040562/kyushu/",
-        "product_name": "塩さばむすび",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040562/6F9533402EE1A0A125AB141C7AB4E397.jpg",
-        "product_date": "2022.04.19"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040649/kyushu/",
-        "product_name": "新潟県産コシヒカリ　おおいた和牛の牛しぐれ",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040649/125E36A09A2690AB6F4B6D20D1F5E793.jpg",
-        "product_date": "2022.04.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040683/kyushu/",
         "product_name": "まんぷく豚ロース生姜焼き弁当",
         "product_price": 613,
@@ -474,6 +460,20 @@
         "product_name": "高菜めしと　鶏の炙り焼き弁当",
         "product_price": 442,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041307/86C99B45AAAFC4BC4128F75C9D3B4BC7.jpg",
+        "product_date": "2022.04.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045976/kyushu/",
+        "product_name": "甘辛スタミナにら豚丼　大分県産にら使用",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045976/874B104610872E7CB4D40FCDACAC9435.jpg",
+        "product_date": "2022.04.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045958/kyushu/",
+        "product_name": "温玉入り　桜島どりの鶏そぼろ丼",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045958/DC7C8B189DFFBDA8AB93753C32894743.jpg",
         "product_date": "2022.04.19"
       }
     ],
