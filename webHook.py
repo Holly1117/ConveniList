@@ -1,7 +1,8 @@
 import requests
 import json
+import config
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/962181926641356900/wc0m2fnpUJHgTkFph9dDZQ0J0OOJsRrAQp9zeXTEvEDC7Ocn0g0ulkSphraJSapMwhYH'
+WEBHOOK_URL = config.WEBHOOK_URL
 
 LAWSON_CONTENT = [ "Lawson", "https://i.kobe-np.co.jp/rentoku/omoshiro/202201/img/d_14961479.jpg"]
 
@@ -13,14 +14,14 @@ HEADRES = {'Content-Type': 'application/json'}
 
 CONTENT_LIST = [LAWSON_CONTENT,FAMILY_CONTENT,SEVEN_CONTENT]
 
-def get_embeds(index,result):
+def get_embeds(result):
     if (result):
      return [{'title': "Notice from the server",'description': 'List has been updated...','color': 1939322}]
     else:
      return [{'title': "Notice from the server",'description': 'Update failed!\nPlease maintain immediately!','color': 15146762}]
 
 def get_content(index,result):
-        return {'username': CONTENT_LIST[index][0],'avatar_url':  CONTENT_LIST[index][1],'embeds': get_embeds(index,result)}
+        return {'username': CONTENT_LIST[index][0],'avatar_url':  CONTENT_LIST[index][1],'embeds': get_embeds(result)}
 
 def post_requests(index,result):
     requests.post(WEBHOOK_URL, json.dumps(get_content(index,result)), headers=HEADRES)

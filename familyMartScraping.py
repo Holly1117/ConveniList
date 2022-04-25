@@ -52,7 +52,5 @@ def get_product_ymd(product_date):
      else :
          product_date_yyyy = re.findall(r'(.*?)\/', product_date)
          product_date_mm = re.findall(r'\/(.*?)\/', product_date)
-         product_date_dd = re.findall(r'(\d*?)発売', product_date)
+         product_date_dd = re.findall(product_date_yyyy[0] +'\/'+product_date_mm[0]+'\/(\d*)', product_date)
          return product_date_yyyy[0] + "." + product_date_mm[0] + "." + product_date_dd[0]
-
-
