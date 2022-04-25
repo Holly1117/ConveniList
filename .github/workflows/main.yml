@@ -1,0 +1,41 @@
+name: jsonScraping
+
+on:
+  push:
+    branches: 
+      - master
+  workflow_dispatch:
+
+jobs:
+  jsonScraping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.8'
+          architecture: 'x64'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Run Python
+        env: 
+         WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: python -B jsonScraping.py
+      - name: Run a multi-line script
+        env: 
+          LAWSON: 'lawson.json'
+          SEVENELEVEN: 'sevenEleven.json'
+          FAMILYMART: 'familyMart.json'
+          STORETIME: 'storeUpdate.json'
+        run: |
+          git config user.name ${{ secrets.USER_NAME }}
+          git config user.email ${{ secrets.USER_EMAIL }}
+          git remote set-url origin https://${{ secrets.USER_NAME }}:${{ secrets.USER_GITHUB }}@github.com/${{ secrets.USER_NAME }}/${{ secrets.USER_GIT }}
+          git add ${LAWSON}
+          git add ${SEVENELEVEN}
+          git add ${FAMILYMART}
+          git add ${STORETIME}
+          git commit -m "information update"
+          git pull
+          git push origin master
