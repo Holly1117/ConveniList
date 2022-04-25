@@ -62,7 +62,7 @@ def get_product_information():
         "product_name":product_name[index].text,
         "product_price":int(product_price[index].text.replace('円(税込)', '')), 
         "product_image":LN_OFFICE_URL + product_image[index].img.get("src"),
-        "prodcut_date":product_date[index].text.replace('発売日', ''),
-        "prodcut_text":product_text_select
+        "product_date":product_date[index].text.replace('発売日', ''),
+        "product_text":product_text_select
         })
     return LN_PRODUCT_LIST
