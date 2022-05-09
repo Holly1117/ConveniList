@@ -86,10 +86,10 @@
         "product_date": "2022.05.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046321/tohoku/",
-        "product_name": "山形県産つや姫おむすび　サーモンハラス",
-        "product_price": 216,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046321/FEEAC6690913ECAC92088FF9E3BD1321.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/046333/tohoku/",
+        "product_name": "Ｗメイン弁当　豚キムチ×甘辛チキン",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046333/B19FBBAE307F762818C728253D308836.jpg",
         "product_date": "2022.05.03"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2022.05.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046256/hokuriku/",
-        "product_name": "銀鮭塩麹焼の和風幕の内",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046256/8060736BE0CA54C743F5B0F02CED4F37.jpg",
-        "product_date": "2022.05.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046175/hokuriku/",
         "product_name": "イカフライおかか御飯",
         "product_price": 432,
@@ -230,11 +223,18 @@
         "product_date": "2022.05.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046082/hokuriku/",
-        "product_name": "あて巻寿司　イカキムチ納豆",
+        "product_url": "https://www.sej.co.jp/products/a/item/051347/hokuriku/",
+        "product_name": "ミックスサンド",
         "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046082/70E3FCB420FCE7B531B00FF7F5E18F78.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051347/93EF0C711D1AF2EAF0BADE041CD30EE4.jpg",
         "product_date": "2022.05.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051258/hokuriku/",
+        "product_name": "ハムカツたまごサンド",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051258/CCDDD5687173B1EF12E64EE677B6991C.jpg",
+        "product_date": "2022.05.04"
       }
     ],
     "prefecture_name": "北陸"
