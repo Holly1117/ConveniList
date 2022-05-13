@@ -65,13 +65,6 @@
         "product_date": "2022.05.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046575/tohoku/",
-        "product_name": "鶏ごぼうおむすび",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046575/0B37777FBE5119165FDFD2731D1AAEA0.jpg",
-        "product_date": "2022.05.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045871/tohoku/",
         "product_name": "一番だしおむすび　かつおめし",
         "product_price": 124,
@@ -83,6 +76,13 @@
         "product_name": "ツナごはんおむすび",
         "product_price": 124,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045967/F4E372D993CCD50622D96A3A1747F33B.jpg",
+        "product_date": "2022.05.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046575/tohoku/",
+        "product_name": "鶏ごぼうおむすび",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046575/0B37777FBE5119165FDFD2731D1AAEA0.jpg",
         "product_date": "2022.05.10"
       },
       {
@@ -120,17 +120,17 @@
         "product_date": "2022.05.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046420/kanto/",
-        "product_name": "大盛ミックス弁当（カニクリームコロッケ入）",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046420/50EFFEA5906D06C74F1885E2A7B4D636.jpg",
-        "product_date": "2022.05.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042644/kanto/",
         "product_name": "洋食ミックス弁当",
         "product_price": 550,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042644/02AFBBACDB12719D046CEDA649600DAF.jpg",
+        "product_date": "2022.05.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046420/kanto/",
+        "product_name": "大盛ミックス弁当（カニクリームコロッケ入）",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046420/50EFFEA5906D06C74F1885E2A7B4D636.jpg",
         "product_date": "2022.05.10"
       },
       {
