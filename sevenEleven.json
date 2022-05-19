@@ -51,6 +51,13 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/046606/tohoku/",
+        "product_name": "玄米むすび　おかかクリームチーズ",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/046569/tohoku/",
         "product_name": "アスパラベーコンマヨネーズおむすび",
         "product_price": 162,
@@ -83,13 +90,6 @@
         "product_name": "玄米塩むすび",
         "product_price": 118,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046604/EEE02306EE07CC0F008625403B5B5A5C.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046606/tohoku/",
-        "product_name": "玄米むすび　おかかクリームチーズ",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
         "product_date": "2022.05.17"
       }
     ],
@@ -250,13 +250,6 @@
         "product_date": "2022.05.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046502/tokai/",
-        "product_name": "小松菜ベーコンおむすび（浜松産小松菜使用）",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046502/E5AF3FD6BB1194F6CDE4A0F44B53EAB7.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046602/tokai/",
         "product_name": "もち麦もっちり　梅こんぶおむすび",
         "product_price": 129,
@@ -275,6 +268,13 @@
         "product_name": "玄米むすび　おかかクリームチーズ",
         "product_price": 129,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046502/tokai/",
+        "product_name": "小松菜ベーコンおむすび（浜松産小松菜使用）",
+        "product_price": 140,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046502/E5AF3FD6BB1194F6CDE4A0F44B53EAB7.jpg",
         "product_date": "2022.05.17"
       },
       {
