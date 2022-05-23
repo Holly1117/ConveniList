@@ -51,20 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046604/tohoku/",
-        "product_name": "玄米塩むすび",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046604/EEE02306EE07CC0F008625403B5B5A5C.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046606/tohoku/",
-        "product_name": "玄米むすび　おかかクリームチーズ",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046580/tohoku/",
         "product_name": "岩手県産アスパラのベーコンマヨネーズおむすび",
         "product_price": 172,
@@ -83,6 +69,20 @@
         "product_name": "もち麦もっちり　梅こんぶおむすび",
         "product_price": 129,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046602/48B621CE29F4E934B51730052B775C6B.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046604/tohoku/",
+        "product_name": "玄米塩むすび",
+        "product_price": 118,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046604/EEE02306EE07CC0F008625403B5B5A5C.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046606/tohoku/",
+        "product_name": "玄米むすび　おかかクリームチーズ",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
         "product_date": "2022.05.17"
       },
       {
@@ -250,20 +250,6 @@
         "product_date": "2022.05.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046602/tokai/",
-        "product_name": "もち麦もっちり　梅こんぶおむすび",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046602/48B621CE29F4E934B51730052B775C6B.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046606/tokai/",
-        "product_name": "玄米むすび　おかかクリームチーズ",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046502/tokai/",
         "product_name": "小松菜ベーコンおむすび（浜松産小松菜使用）",
         "product_price": 140,
@@ -275,6 +261,20 @@
         "product_name": "玄米塩むすび",
         "product_price": 118,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046604/EEE02306EE07CC0F008625403B5B5A5C.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046606/tokai/",
+        "product_name": "玄米むすび　おかかクリームチーズ",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046602/tokai/",
+        "product_name": "もち麦もっちり　梅こんぶおむすび",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046602/48B621CE29F4E934B51730052B775C6B.jpg",
         "product_date": "2022.05.17"
       },
       {
@@ -312,13 +312,6 @@
         "product_date": "2022.05.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046606/kinki/",
-        "product_name": "玄米むすび　おかかクリームチーズ",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046013/kinki/",
         "product_name": "お肉たっぷり香味ダレの油淋鶏",
         "product_price": 648,
@@ -330,6 +323,13 @@
         "product_name": "おかかたっぷりミニのり弁当",
         "product_price": 324,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046677/94D85005B54BE7AE0299FB07C9CB7F88.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046331/kinki/",
+        "product_name": "鉄鍋炒めのチンジャオロース丼",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046331/A68432472F4BBA9AF2FCEC3450E3244F.jpg",
         "product_date": "2022.05.17"
       }
     ],
@@ -387,13 +387,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046604/shikoku/",
-        "product_name": "玄米塩むすび",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046604/EEE02306EE07CC0F008625403B5B5A5C.jpg",
-        "product_date": "2022.05.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046602/shikoku/",
         "product_name": "もち麦もっちり　梅こんぶおむすび",
         "product_price": 129,
@@ -427,6 +420,13 @@
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046781/AB7A487C5C15AD050AF80D2CE74068DF.jpg",
         "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051374/shikoku/",
+        "product_name": "キャロットラペ＆チキンサンド",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051374/374856D285BBAF5CFBED7974C14A4130.jpg",
+        "product_date": "2022.05.18"
       }
     ],
     "prefecture_name": "四国"
@@ -434,13 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046606/kyushu/",
-        "product_name": "玄米むすび　おかかクリームチーズ",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046606/CE7330B2F27F28E2DF7C6A2EF8BBC457.jpg",
-        "product_date": "2022.05.17"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/046602/kyushu/",
         "product_name": "もち麦もっちり　梅こんぶおむすび",
@@ -470,10 +463,17 @@
         "product_date": "2022.05.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046619/kyushu/",
-        "product_name": "野菜のおいしさがぎゅっキーマカレー",
-        "product_price": 540,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046619/9791010624C7522B68D0FF76D536817A.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/046485/kyushu/",
+        "product_name": "だし香る梅としらすのおむすび茶漬け",
+        "product_price": 300,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046485/B8FCB61EFF789452A97B552F8609CA35.jpg",
+        "product_date": "2022.05.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045925/kyushu/",
+        "product_name": "寿司おむすびかにかま　辛子マヨネーズ入",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045925/C93A488B60C3E4D18C7A32826C8F2328.jpg",
         "product_date": "2022.05.17"
       }
     ],
