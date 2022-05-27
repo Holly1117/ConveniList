@@ -483,17 +483,17 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042351/okinawa/",
-        "product_name": "直巻おむすび　とり五目",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042351/71BA3087131AC1CD6172FE3814539951.jpg",
-        "product_date": "2022.05.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043619/okinawa/",
         "product_name": "具たっぷり直巻　和風ツナマヨネーズ",
         "product_price": 135,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043619/1B50E22043BE054DAC1AD670D8583D9C.jpg",
+        "product_date": "2022.05.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042351/okinawa/",
+        "product_name": "直巻おむすび　とり五目",
+        "product_price": 124,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042351/71BA3087131AC1CD6172FE3814539951.jpg",
         "product_date": "2022.05.24"
       },
       {
