@@ -291,17 +291,17 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046753/kinki/",
-        "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046753/23D2620700B3F768334B716A66C3A0F7.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046751/kinki/",
         "product_name": "手巻おにぎり　昆布〆野沢菜",
         "product_price": 129,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046751/004E02DD21DD561D8933A21C27AA960A.jpg",
+        "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046753/kinki/",
+        "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046753/23D2620700B3F768334B716A66C3A0F7.jpg",
         "product_date": "2022.05.31"
       },
       {
