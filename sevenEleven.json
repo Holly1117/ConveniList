@@ -154,17 +154,17 @@
         "product_date": "2022.05.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046847/koshinetsu/",
-        "product_name": "一番だしおむすびわさびめし安曇野産本わさび",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046847/E7E75EB094918B0E3351F1B23CBFB708.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045465/koshinetsu/",
         "product_name": "一番だしおむすびわさびめし静岡県産本わさび",
         "product_price": 124,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045465/242360B67788D061BB1F2F4183E2C649.jpg",
+        "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046847/koshinetsu/",
+        "product_name": "一番だしおむすびわさびめし安曇野産本わさび",
+        "product_price": 124,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046847/E7E75EB094918B0E3351F1B23CBFB708.jpg",
         "product_date": "2022.05.31"
       },
       {
@@ -243,17 +243,17 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044032/tokai/",
-        "product_name": "手巻おにぎり　サーモンわさびマヨネーズ",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044032/3415EE2842245BBE70360E304F32B3D2.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046280/tokai/",
         "product_name": "手巻おにぎり　旨辛ビビンバ",
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046280/2532E44540CD6BB0E809E9610C687422.jpg",
+        "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044032/tokai/",
+        "product_name": "手巻おにぎり　サーモンわさびマヨネーズ",
+        "product_price": 145,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044032/3415EE2842245BBE70360E304F32B3D2.jpg",
         "product_date": "2022.05.31"
       },
       {
@@ -291,17 +291,17 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046751/kinki/",
-        "product_name": "手巻おにぎり　昆布〆野沢菜",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046751/004E02DD21DD561D8933A21C27AA960A.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046753/kinki/",
         "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
         "product_price": 135,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046753/23D2620700B3F768334B716A66C3A0F7.jpg",
+        "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046751/kinki/",
+        "product_name": "手巻おにぎり　昆布〆野沢菜",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046751/004E02DD21DD561D8933A21C27AA960A.jpg",
         "product_date": "2022.05.31"
       },
       {
@@ -339,24 +339,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046876/chugoku/",
-        "product_name": "味付海苔とりめし",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046876/2A17F0447109697C2CD8B9384CC57330.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046749/chugoku/",
         "product_name": "玉子かけ風だし醤油ごはんおむすび",
         "product_price": 140,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046749/15D3A95A659FA0E6C96B74DA0A8716CD.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045591/chugoku/",
-        "product_name": "新潟県産コシヒカリおむすび　炭火焼さば",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045591/E0A9CBE0E9C4EBA79EE9B51FDCAEDF48.jpg",
         "product_date": "2022.05.31"
       },
       {
@@ -379,6 +365,20 @@
         "product_price": 324,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045560/5FBC09DA0E2DC8F6A60EC72FD2DC5F5E.jpg",
         "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046806/chugoku/",
+        "product_name": "大盛りご飯　わらじチキンカツカレー",
+        "product_price": 691,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046806/557A75FB0556FCA8357D137394F420C1.jpg",
+        "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046882/chugoku/",
+        "product_name": "一膳ごはん　温玉チャーシュー",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046882/BDEC1026B185D2128B16CFD829216A22.jpg",
+        "product_date": "2022.05.31"
       }
     ],
     "prefecture_name": "中国"
@@ -386,20 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046876/shikoku/",
-        "product_name": "味付海苔とりめし",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046876/2A17F0447109697C2CD8B9384CC57330.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045591/shikoku/",
-        "product_name": "新潟県産コシヒカリおむすび　炭火焼さば",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045591/E0A9CBE0E9C4EBA79EE9B51FDCAEDF48.jpg",
-        "product_date": "2022.05.31"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/044399/shikoku/",
         "product_name": "豚焼肉弁当",
@@ -426,6 +412,20 @@
         "product_name": "クロワッサンサンド　ベーコン＆チーズ",
         "product_price": 321,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051081/9A8C38B5E2D23599DF5E375F2781A64C.jpg",
+        "product_date": "2022.06.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/092377/shikoku/",
+        "product_name": "一風堂監修汁なしからかまぜ麺",
+        "product_price": 604,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092377/B20B296421D55193D23D135876FC6CF1.jpg",
+        "product_date": "2022.06.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090557/shikoku/",
+        "product_name": "濃厚チーズとベーコンのカルボナーラ",
+        "product_price": 537,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090557/416CC990A79E3BD9D07330AB05A497BB.jpg",
         "product_date": "2022.06.01"
       }
     ],
@@ -483,17 +483,17 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045285/okinawa/",
-        "product_name": "具たっぷり手巻　牛めし",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045285/9104501EA6800496372B0CE8E51BFA18.jpg",
-        "product_date": "2022.05.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046760/okinawa/",
         "product_name": "手巻おにぎり　鶏そぼろ",
         "product_price": 124,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046760/AEC93491D100A502745FB8D8196EC261.jpg",
+        "product_date": "2022.05.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045285/okinawa/",
+        "product_name": "具たっぷり手巻　牛めし",
+        "product_price": 140,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045285/9104501EA6800496372B0CE8E51BFA18.jpg",
         "product_date": "2022.05.31"
       },
       {
