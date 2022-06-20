@@ -24,13 +24,6 @@
         "product_date": "2022.06.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046894/hokkaido/",
-        "product_name": "大きなおむすび　具たっぷり炭火やきとり",
-        "product_price": 199,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046894/DEB2FB7E08DB4B5019F0459BA4DCC3BC.jpg",
-        "product_date": "2022.06.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046895/hokkaido/",
         "product_name": "おむすび２個入り（竹の子・鮭菜飯）",
         "product_price": 205,
@@ -42,6 +35,13 @@
         "product_name": "わかめ御飯おむすび（三陸産わかめ使用）",
         "product_price": 113,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046892/6AD8C1FFE7F04AF75AAC6457DB3A1663.jpg",
+        "product_date": "2022.06.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047005/hokkaido/",
+        "product_name": "北海道米こだわりおむすび　塩むすび",
+        "product_price": 113,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047005/D7DC854167E9952AC2B1D415E7992679.jpg",
         "product_date": "2022.06.14"
       }
     ],
@@ -161,20 +161,6 @@
         "product_date": "2022.06.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040448/koshinetsu/",
-        "product_name": "梨北米こだわりおむすび黒豚みそ",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040448/EFC91FE5F0978093C3571F274B466222.jpg",
-        "product_date": "2022.06.14"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040443/koshinetsu/",
-        "product_name": "長野県産米こだわりおむすび黒豚みそ",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040443/C6DB972759D14FD6F455DF44E4EBC715.jpg",
-        "product_date": "2022.06.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047041/koshinetsu/",
         "product_name": "こだわり手巻おにぎり　炭火焼き紅鮭切り身",
         "product_price": 226,
@@ -186,6 +172,20 @@
         "product_name": "こだわり手巻おにぎり炭火焼き紅鮭切り身",
         "product_price": 226,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047027/3B626C9240CAFF41E5B7E556E08B3C80.jpg",
+        "product_date": "2022.06.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047026/koshinetsu/",
+        "product_name": "こだわり手巻おにぎり炭火焼き紅鮭切り身",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047026/685C04C324F5EF6EAB6CA3C4C9A23E26.jpg",
+        "product_date": "2022.06.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047025/koshinetsu/",
+        "product_name": "長野県産米こだわりおむすび　塩むすび",
+        "product_price": 113,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047025/4D66F3318188E99AACE5170B95C50538.jpg",
         "product_date": "2022.06.14"
       }
     ],
@@ -230,10 +230,10 @@
         "product_date": "2022.06.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045029/hokuriku/",
-        "product_name": "北陸産米こだわりおむすび　黒豚みそ",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045029/0E64E6A91D081FD22978BC41C20CD315.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047064/hokuriku/",
+        "product_name": "Ｗメイン弁当　牛焼肉×ピリ辛チキン",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047064/BAE72BC32FA7DB42AC7B3BD1B81AD093.jpg",
         "product_date": "2022.06.14"
       }
     ],
@@ -312,13 +312,6 @@
         "product_date": "2022.06.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040322/kinki/",
-        "product_name": "山形県産つや姫おむすび黒豚みそ",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040322/F4BCEACD632632C054E28919172B0BD5.jpg",
-        "product_date": "2022.06.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046963/kinki/",
         "product_name": "こだわり手巻おにぎり　炭火焼き紅鮭切り身",
         "product_price": 226,
@@ -330,6 +323,13 @@
         "product_name": "こだわり手巻おにぎり　熟成いくら醤油漬け",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046146/51BA1DB9DF71F15E2DF250DBCC9EA1FF.jpg",
+        "product_date": "2022.06.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046688/kinki/",
+        "product_name": "サムギョプサル＆キムチチャーハン",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046688/486C31D35CEB7ED25CDAEABC54C62AA8.jpg",
         "product_date": "2022.06.14"
       }
     ],
@@ -435,13 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046761/kyushu/",
-        "product_name": "直巻おむすび　エリンギバター醤油",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046761/FA1863918A6DE24BD181CE3C40996A98.jpg",
-        "product_date": "2022.06.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040217/kyushu/",
         "product_name": "大きなおむすび　　　　和風ツナマヨネーズ",
         "product_price": 156,
@@ -474,6 +467,13 @@
         "product_name": "こだわり手巻おにぎり　熟成いくら",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046075/A5E706EE9105BCA0E173B42688192164.jpg",
+        "product_date": "2022.06.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041000/kyushu/",
+        "product_name": "炭火焼き牛カルビ弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041000/098018F978CE1B12902B60FC4D062633.jpg",
         "product_date": "2022.06.14"
       }
     ],
