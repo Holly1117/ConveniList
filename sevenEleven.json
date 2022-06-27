@@ -10,13 +10,6 @@
         "product_date": "2022.06.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046972/hokkaido/",
-        "product_name": "一番だしおむすび　わさびめし",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046972/4BA3399F2DF029044C67021A6C6590D3.jpg",
-        "product_date": "2022.06.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046803/hokkaido/",
         "product_name": "香ばし炒めのチャーシューチャーハンおむすび",
         "product_price": 140,
@@ -42,6 +35,13 @@
         "product_name": "ミックスグリルプレート",
         "product_price": 550,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046621/29A5AF64CCFCAF789997EC0783AF83DB.jpg",
+        "product_date": "2022.06.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045283/hokkaido/",
+        "product_name": "バターチキンカレー",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045283/B916548835FD3CFFC81FB9B3BB122B9B.jpg",
         "product_date": "2022.06.21"
       }
     ],
@@ -230,11 +230,11 @@
         "product_date": "2022.06.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040697/hokuriku/",
-        "product_name": "焼おにぎりの出汁茶漬け（金沢大野醤油使用）",
-        "product_price": 300,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040697/6D3CE8A0E779D162F623AC588C56DC12.jpg",
-        "product_date": "2022.06.21"
+        "product_url": "https://www.sej.co.jp/products/a/item/051415/hokuriku/",
+        "product_name": "たんぱく質が摂れるチキン＆チリ",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051415/5F536583F79A02A1B6C7E1C8B1CA8819.jpg",
+        "product_date": "2022.06.22"
       }
     ],
     "prefecture_name": "北陸"
@@ -257,6 +257,13 @@
         "product_date": "2022.06.21"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/046761/tokai/",
+        "product_name": "直巻おむすび　エリンギバター醤油",
+        "product_price": 140,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046761/FA1863918A6DE24BD181CE3C40996A98.jpg",
+        "product_date": "2022.06.21"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/040083/tokai/",
         "product_name": "こんがり焼いた焼おにぎり　ヒゲタ本膳だれ使用",
         "product_price": 118,
@@ -275,13 +282,6 @@
         "product_name": "明太のりべん（焼津産鰹の鰹節使用）",
         "product_price": 518,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047011/EBE4E6C257F43DBE85AD70DB58BEACC3.jpg",
-        "product_date": "2022.06.21"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040442/tokai/",
-        "product_name": "磯香る！１０品目のあさりだし炊き御飯",
-        "product_price": 429,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040442/76154DCA1711BDF50C1F9C763829B8D6.jpg",
         "product_date": "2022.06.21"
       }
     ],
@@ -326,10 +326,10 @@
         "product_date": "2022.06.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040964/kinki/",
-        "product_name": "ミートコンボ　ハンバーグ＆炭火焼チキン",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040964/6709B0BA55ADA9F5F5F59D0FE9DD0497.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040312/kinki/",
+        "product_name": "塩麹仕立ての焼さば御飯",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040312/171AF4C4D0EDEB43E22A25B76BD71A51.jpg",
         "product_date": "2022.06.21"
       }
     ],
