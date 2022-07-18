@@ -223,17 +223,17 @@
         "product_date": "2022.07.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042191/hokuriku/",
-        "product_name": "ぶたはげ監修ピリ辛炭火焼き豚丼",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042191/E2B5174719637A0F0B131CC837A6A6E8.jpg",
-        "product_date": "2022.07.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046156/hokuriku/",
         "product_name": "肉野菜炒め弁当",
         "product_price": 496,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046156/BF8F8B685F52FD5CA5B350A5AC9D7705.jpg",
+        "product_date": "2022.07.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042260/hokuriku/",
+        "product_name": "サーモンの寿司",
+        "product_price": 205,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042260/B5CF64C86F794475A02B892229AA67FB.jpg",
         "product_date": "2022.07.12"
       }
     ],
@@ -374,10 +374,10 @@
         "product_date": "2022.07.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042191/chugoku/",
-        "product_name": "ぶたはげ監修ピリ辛炭火焼き豚丼",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042191/E2B5174719637A0F0B131CC837A6A6E8.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/045945/chugoku/",
+        "product_name": "醤油香る炙り焼鯖寿司（甘酢生姜入り）",
+        "product_price": 486,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045945/8300FD4101CE792969A6C093225B99B0.jpg",
         "product_date": "2022.07.12"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2022.07.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042191/shikoku/",
-        "product_name": "ぶたはげ監修ピリ辛炭火焼き豚丼",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042191/E2B5174719637A0F0B131CC837A6A6E8.jpg",
-        "product_date": "2022.07.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/051457/shikoku/",
         "product_name": "たまごサンド",
         "product_price": 270,
@@ -426,6 +419,13 @@
         "product_name": "海老カツタルタルサンド",
         "product_price": 464,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051468/243C85C02216C06BFA2E5176B36739A6.jpg",
+        "product_date": "2022.07.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051435/shikoku/",
+        "product_name": "たるチキサンド",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051435/C736F86F6A42FFD7BC12E5AD8B070ABE.jpg",
         "product_date": "2022.07.13"
       }
     ],
