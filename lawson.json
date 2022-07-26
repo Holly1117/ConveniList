@@ -21,7 +21,7 @@
     "product_price": 235,
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l690557.jpg",
     "product_date": "2022.07.26",
-    "product_text": "※沖縄地域のローソンではお取り扱いしておりません。"
+    "product_text": "※沖縄地域のローソンでは8月9日(火)発売、246円(税込)となります。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455579_1996.html",
@@ -30,6 +30,46 @@
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l683188.jpg",
     "product_date": "2022.07.26",
     "product_text": "※沖縄地域のローソンではお取り扱いしておりません。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455597_1996.html",
+    "product_name": "ご当地美唄　とりめし弁当",
+    "product_price": 538,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220726chubo0001.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※カロリーは参照値となります。※北海道地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455596_1996.html",
+    "product_name": "ときわ亭監修　ビビンパ丼",
+    "product_price": 570,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220726chubo0002.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※カロリーは参照値となります。※東北地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455595_1996.html",
+    "product_name": "ご当地四日市　とんてき丼",
+    "product_price": 570,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220726chubo0004.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※カロリーは参照値となります。※中部地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455594_1996.html",
+    "product_name": "人類みな麺類監修　豚丼",
+    "product_price": 570,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220726chubo0005.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※カロリーは参照値となります。※近畿地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455593_1996.html",
+    "product_name": "ご当地山口　山賊焼丼",
+    "product_price": 538,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220726chubo0006.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※カロリーは参照値となります。※関東・中四国・九州地域のローソンのみのお取り扱いとなります。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455592_1996.html",
@@ -54,6 +94,62 @@
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l679800.jpg",
     "product_date": "2022.07.26",
     "product_text": ""
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455589_1996.html",
+    "product_name": "麺屋彩未監修　冷し辛醤油らーめん",
+    "product_price": 559,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l674056.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※北海道地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455588_1996.html",
+    "product_name": "中華そば嘉一監修　冷たい中華そば",
+    "product_price": 559,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l680939.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※東北地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455587_1996.html",
+    "product_name": "麺屋一燈監修　冷し胡麻だれ野菜マシ太麺",
+    "product_price": 599,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l681023.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※関東地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455586_1996.html",
+    "product_name": "ふくろう監修　冷やしからみそ肉そば",
+    "product_price": 599,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l680839.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※中部地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455585_1996.html",
+    "product_name": "魁力屋監修　冷し醤油ラーメン",
+    "product_price": 559,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l679137.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※近畿地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455584_1996.html",
+    "product_name": "我馬監修　冷やかけ中華そば",
+    "product_price": 559,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l648800.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※中四国地域のローソンのみのお取り扱いとなります。"
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455583_1996.html",
+    "product_name": "博多一幸舎監修　ピリ辛明太冷し豚骨ラーメン",
+    "product_price": 599,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l647569.jpg",
+    "product_date": "2022.07.26",
+    "product_text": "※九州地域のローソンのみのお取り扱いとなります。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1455578_1996.html",
