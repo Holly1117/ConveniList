@@ -38,10 +38,10 @@
         "product_date": "2022.07.26"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047152/hokkaido/",
-        "product_name": "北海道米こだわりおむすび　紅鮭明太子",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047152/454ED13EB926CA01A96BE4F8367B94BC.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040001/hokkaido/",
+        "product_name": "北海道米こだわりおむすび　二段仕込熟成筋子",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040001/475267EA159C9415187D7C2C379EA69E.jpg",
         "product_date": "2022.07.26"
       }
     ],
@@ -99,13 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042953/kanto/",
-        "product_name": "手巻おにぎり青唐辛子　味噌千葉県産青唐使用",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042953/555000BA115415057896BEA7DB677526.jpg",
-        "product_date": "2022.07.26"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042948/kanto/",
         "product_name": "手巻おにぎり豚焼肉マヨネーズ千葉県産豚使用",
         "product_price": 156,
@@ -138,6 +131,13 @@
         "product_name": "炭火焼き牛カルビ弁当",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047115/2DA4CAA128AFE772D71E1372984EB4B1.jpg",
+        "product_date": "2022.07.26"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047100/kanto/",
+        "product_name": "豚ロースとんかつ弁当",
+        "product_price": 550,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047100/5619748E248B9F60FDDE2F35F431CE56.jpg",
         "product_date": "2022.07.26"
       }
     ],
@@ -195,13 +195,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047107/hokuriku/",
-        "product_name": "手巻おにぎり　焼たらこ",
-        "product_price": 156,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047107/C957460410CCE9C9E8552EB7E9D98DB3.jpg",
-        "product_date": "2022.07.26"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042868/hokuriku/",
         "product_name": "手巻おにぎり　炭火牛焼肉",
         "product_price": 162,
@@ -234,6 +227,13 @@
         "product_name": "唐辛子マヨネーズで食べる豚焼肉弁当",
         "product_price": 429,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045361/BD4993996EBAB6DCD764BC88BBC81868.jpg",
+        "product_date": "2022.07.26"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047077/hokuriku/",
+        "product_name": "かつおと昆布の合わせだし麦とろ丼",
+        "product_price": 429,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047077/81ACD19693E405B9585EFB5803F41456.jpg",
         "product_date": "2022.07.26"
       }
     ],
