@@ -483,13 +483,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042808/okinawa/",
-        "product_name": "魯珈監修　スパイシーカレー＆魯肉飯おむすび",
-        "product_price": 291,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042808/F73EF82657C41A35C2C047FB77349431.jpg",
-        "product_date": "2022.08.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040171/okinawa/",
         "product_name": "しそわかめ御飯おむすび",
         "product_price": 118,
@@ -522,6 +515,13 @@
         "product_name": "銀座デリー監修　チキンコルマカレードリア",
         "product_price": 550,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092705/2E1342AEF9D7C68D038B891367E9074C.jpg",
+        "product_date": "2022.08.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/104379/okinawa/",
+        "product_name": "７プレミアム　　　　　ひじき煮",
+        "product_price": 138,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/104379/8B7CD6EF6F8560B16AF1E413E6FC9C97.jpg",
         "product_date": "2022.08.09"
       }
     ],
