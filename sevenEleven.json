@@ -264,13 +264,6 @@
         "product_date": "2022.08.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042926/tokai/",
-        "product_name": "混ぜ飯おむすび　鮭わかめ",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042926/8E9EB1CFF6D0607D08F5437496306A10.jpg",
-        "product_date": "2022.08.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043516/tokai/",
         "product_name": "新潟県産コシヒカリおむすび　サーモンハラス",
         "product_price": 194,
@@ -282,6 +275,13 @@
         "product_name": "２種ソースのチキンカツ＆ハンバーグ弁当",
         "product_price": 604,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042370/AFCC54490469B9D35445327E1058D042.jpg",
+        "product_date": "2022.08.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042606/tokai/",
+        "product_name": "鶏めし（かつおだし香るタレ付き）",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042606/891EF3F5036F09028057D0C72D70BB18.jpg",
         "product_date": "2022.08.09"
       }
     ],
@@ -360,6 +360,13 @@
         "product_date": "2022.08.09"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/046077/chugoku/",
+        "product_name": "混ぜ飯おむすび　きざみ梅",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046077/AFAAB850D974D70BE3D335A0204C053A.jpg",
+        "product_date": "2022.08.09"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/047192/chugoku/",
         "product_name": "厳選米おむすび　サーモンハラス",
         "product_price": 194,
@@ -371,13 +378,6 @@
         "product_name": "新潟県産コシヒカリおむすび　サーモンハラス",
         "product_price": 194,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043516/BE777F43F23D13E2682EA4296583892C.jpg",
-        "product_date": "2022.08.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043013/chugoku/",
-        "product_name": "新潟県産コシヒカリおむすび　紅鮭明太子",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043013/2B6CBAC520A8784631E02D8100D1C29D.jpg",
         "product_date": "2022.08.09"
       }
     ],
@@ -504,24 +504,24 @@
         "product_date": "2022.08.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/092702/okinawa/",
-        "product_name": "魯珈監修　　　　　　　ルーロー麺",
-        "product_price": 604,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092702/B984BA9404768E3D1A68784FF806394A.jpg",
-        "product_date": "2022.08.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/092705/okinawa/",
-        "product_name": "銀座デリー監修　チキンコルマカレードリア",
-        "product_price": 550,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092705/2E1342AEF9D7C68D038B891367E9074C.jpg",
-        "product_date": "2022.08.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/104379/okinawa/",
         "product_name": "７プレミアム　　　　　ひじき煮",
         "product_price": 138,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/104379/8B7CD6EF6F8560B16AF1E413E6FC9C97.jpg",
+        "product_date": "2022.08.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/104377/okinawa/",
+        "product_name": "７プレミアム　　　　　きんぴらごぼう",
+        "product_price": 138,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/104377/A8690044767EB6A32930D92D93635FDA.jpg",
+        "product_date": "2022.08.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/104380/okinawa/",
+        "product_name": "７プレミアム　　　　　切干し大根煮",
+        "product_price": 138,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/104380/E97D2F9F0B9C9653A0EDF8A50970A3D5.jpg",
         "product_date": "2022.08.09"
       }
     ],
