@@ -17,13 +17,6 @@
         "product_date": "2022.08.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043941/hokkaido/",
-        "product_name": "北海道米こだわりおむすび　柿安監修牛ごぼう",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043941/5D0F940CD0DCA7CABA358832BC412E63.jpg",
-        "product_date": "2022.08.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047246/hokkaido/",
         "product_name": "果実の旨味！お好みソースのチキンカツ弁当",
         "product_price": 537,
@@ -42,6 +35,13 @@
         "product_name": "旨辛チーズタッカルビ丼",
         "product_price": 540,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047217/8D4F08E948E3630D925CDF787A763B0B.jpg",
+        "product_date": "2022.08.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043958/hokkaido/",
+        "product_name": "手巻寿司　チキン南蛮巻　タルタルソース入り",
+        "product_price": 156,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043958/3A74EEB8A5E49FA73CB2B75E9941212F.jpg",
         "product_date": "2022.08.16"
       }
     ],
@@ -79,17 +79,17 @@
         "product_date": "2022.08.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047240/tohoku/",
-        "product_name": "岩手県産アスパラとベーコンのおむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047240/F12A4F6355BA15F5429545108D8C68F8.jpg",
-        "product_date": "2022.08.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047238/tohoku/",
         "product_name": "銀河のしずくおむすび　柿安監修牛ごぼう",
         "product_price": 194,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047238/9E00E6F3E4401170ACC739673628807A.jpg",
+        "product_date": "2022.08.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047187/tohoku/",
+        "product_name": "山形県産つや姫おむすび　柿安監修牛ごぼう",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047187/D9D0396DC514B1443CFEDE410D39EE21.jpg",
         "product_date": "2022.08.16"
       }
     ],
@@ -127,17 +127,17 @@
         "product_date": "2022.08.16"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/041189/kanto/",
+        "product_name": "おむすび２個入り　紅鮭・生たらこ",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041189/DD6DD838979CFA4DF33A2F6CE9338012.jpg",
+        "product_date": "2022.08.16"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/047241/kanto/",
         "product_name": "新潟県産コシヒカリおむすび柿安監修牛ごぼう",
         "product_price": 194,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047241/0BA96EE859875307FC8CDE09205FE072.jpg",
-        "product_date": "2022.08.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047246/kanto/",
-        "product_name": "果実の旨味！お好みソースのチキンカツ弁当",
-        "product_price": 537,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047246/F5A0E0E3F48BEAF42612EFF2316068A0.jpg",
         "product_date": "2022.08.16"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2022.08.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047228/hokuriku/",
-        "product_name": "チキン南蛮弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047228/566A6A67C6CA9B746855A99601E2B53B.jpg",
-        "product_date": "2022.08.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047227/hokuriku/",
         "product_name": "とろとろ玉子の鶏かつ御飯",
         "product_price": 410,
@@ -235,6 +228,13 @@
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047274/5A4439E495FC038B78A7F3FA84BA781D.jpg",
         "product_date": "2022.08.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047229/hokuriku/",
+        "product_name": "寿司おむすび　銀鮭と小海老",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047229/20D16713633D6A67FF0BE9DCB2134931.jpg",
+        "product_date": "2022.08.16"
       }
     ],
     "prefecture_name": "北陸"
@@ -242,13 +242,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042868/tokai/",
-        "product_name": "手巻おにぎり　炭火牛焼肉",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042868/4D8A937CA5A64977001D6C9D315F313F.jpg",
-        "product_date": "2022.08.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040828/tokai/",
         "product_name": "味付のりおにぎり　辛子高菜（九州産高菜使用）",
@@ -282,6 +275,13 @@
         "product_name": "発芽雑穀米おむすび　鮭明太子",
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043518/5C8BE136E65D2895842DB320A0FDC266.jpg",
+        "product_date": "2022.08.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047241/tokai/",
+        "product_name": "新潟県産コシヒカリおむすび柿安監修牛ごぼう",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047241/0BA96EE859875307FC8CDE09205FE072.jpg",
         "product_date": "2022.08.16"
       }
     ],
