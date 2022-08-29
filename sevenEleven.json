@@ -10,13 +10,6 @@
         "product_date": "2022.08.23"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047278/hokkaido/",
-        "product_name": "炙りサーモンおむすび",
-        "product_price": 324,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047278/75E1E34684F3F96ACD2181418C2B5574.jpg",
-        "product_date": "2022.08.23"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043518/hokkaido/",
         "product_name": "発芽雑穀米おむすび　鮭明太子",
         "product_price": 151,
@@ -31,17 +24,24 @@
         "product_date": "2022.08.23"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047256/hokkaido/",
-        "product_name": "ピリ辛ニラ玉丼",
-        "product_price": 486,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047256/79C36C12C1EA2E5BD136C33108AA9EA7.jpg",
-        "product_date": "2022.08.23"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042825/hokkaido/",
         "product_name": "混ぜて食べる　温玉ビビンバ",
         "product_price": 583,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042825/343CA52B78628A317B8E69137B4FE57F.jpg",
+        "product_date": "2022.08.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047253/hokkaido/",
+        "product_name": "まんぷく！ポークカレー",
+        "product_price": 537,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047253/181BED5D4228961BBEDC9C9B7AD6D8E0.jpg",
+        "product_date": "2022.08.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050250/hokkaido/",
+        "product_name": "チキン＆たまごサンド",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050250/6E94BEA3222BB9C727E9A1BBC77F492C.jpg",
         "product_date": "2022.08.24"
       }
     ],
@@ -250,20 +250,6 @@
         "product_date": "2022.08.23"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047279/tokai/",
-        "product_name": "つくね蓮根おむすび",
-        "product_price": 216,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047279/B49A86AD5931EDB1271153D57149E6A1.jpg",
-        "product_date": "2022.08.23"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047278/tokai/",
-        "product_name": "炙りサーモンおむすび",
-        "product_price": 324,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047278/75E1E34684F3F96ACD2181418C2B5574.jpg",
-        "product_date": "2022.08.23"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042336/tokai/",
         "product_name": "焼おにぎり　ベーコンチーズ",
         "product_price": 145,
@@ -282,6 +268,20 @@
         "product_name": "銀鮭塩麹焼きの幕の内",
         "product_price": 626,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047089/5AA24DA4E1E19864E1EFADA2459DCBF9.jpg",
+        "product_date": "2022.08.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047270/tokai/",
+        "product_name": "サムギョプサル＆ヤンニョムチキン炒飯",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047270/0FC714F43F7B031D2B2F5E36B128D22C.jpg",
+        "product_date": "2022.08.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047175/tokai/",
+        "product_name": "玉子を味わう特製天津飯",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047175/B73737412AC7909D97814A4E4F0E4E52.jpg",
         "product_date": "2022.08.23"
       }
     ],
@@ -305,13 +305,6 @@
         "product_date": "2022.08.23"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047187/kinki/",
-        "product_name": "山形県産つや姫おむすび　柿安監修牛ごぼう",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047187/D9D0396DC514B1443CFEDE410D39EE21.jpg",
-        "product_date": "2022.08.23"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047267/kinki/",
         "product_name": "さばの一夜干し弁当",
         "product_price": 594,
@@ -326,10 +319,17 @@
         "product_date": "2022.08.23"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047268/kinki/",
-        "product_name": "香ばし炒めのニラ玉丼",
-        "product_price": 496,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047268/09ECBE43B4979531150EC16244FDAFEF.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047269/kinki/",
+        "product_name": "ケイジャンチキン＆スパイシージャンバラヤ",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047269/6B5EDF07DD5618D0FDA2CF13EA6F3082.jpg",
+        "product_date": "2022.08.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047266/kinki/",
+        "product_name": "牛焼肉巻＆豚焼肉唐辛子マヨネーズ巻",
+        "product_price": 351,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047266/507E58C7C13FF8BE82929E59C13ACAD5.jpg",
         "product_date": "2022.08.23"
       }
     ],
