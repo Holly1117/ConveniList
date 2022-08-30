@@ -29,7 +29,7 @@
     "product_price": 538,
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220830chubo0001.jpg",
     "product_date": "2022.08.30",
-    "product_text": "※カロリーは参照値となります。※沖縄地域のローソンではお取り扱いしておりません。"
+    "product_text": "※沖縄地域のローソンではお取り扱いしておりません。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1457012_1996.html",
@@ -37,7 +37,7 @@
     "product_price": 588,
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l20220830chubo0002.jpg",
     "product_date": "2022.08.30",
-    "product_text": "※カロリーは参照値となります。※沖縄地域のローソンではお取り扱いしておりません。"
+    "product_text": "※沖縄地域のローソンではお取り扱いしておりません。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456845_1996.html",
@@ -312,10 +312,26 @@
     "product_text": ""
   },
   {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1457529_1996.html",
+    "product_name": "ネピア　チチヤスチー坊BOXティシュ　200組",
+    "product_price": 228,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l672161_2.jpg",
+    "product_date": "2022.08.30",
+    "product_text": ""
+  },
+  {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456876_1996.html",
     "product_name": "肉の旨みあふれるジューシー肉まん",
     "product_price": 149,
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l638847.jpg",
+    "product_date": "2022.08.30",
+    "product_text": ""
+  },
+  {
+    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456874_1996.html",
+    "product_name": "北海道十勝小豆のつぶあんまん",
+    "product_price": 138,
+    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l638849.jpg",
     "product_date": "2022.08.30",
     "product_text": ""
   },
@@ -326,14 +342,6 @@
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l638755_2.jpg",
     "product_date": "2022.08.30",
     "product_text": "※北海道地域のローソンのみのお取り扱いとなります。"
-  },
-  {
-    "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456874_1996.html",
-    "product_name": "北海道十勝小豆のつぶあんまん",
-    "product_price": 138,
-    "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l638849.jpg",
-    "product_date": "2022.08.30",
-    "product_text": ""
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456875_1996.html",
@@ -405,7 +413,7 @@
     "product_price": 120,
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l463558.jpg",
     "product_date": "2022.08.30",
-    "product_text": "※北海道・南東北・関東・中部・近畿・中四国・九州・沖縄地域のローソン、ナチュラルローソンではお取り扱いしておりません。"
+    "product_text": "※北東北地域のローソンのみのお取り扱いとなります。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456871_1996.html",
@@ -525,7 +533,7 @@
     "product_price": 97,
     "product_image": "https://www.lawson.co.jp/recommend/original/detail/img/l638842.jpg",
     "product_date": "2022.08.30",
-    "product_text": "※北海道・東北・中部・近畿・中四国・九州・沖縄地域のローソン、ナチュラルローソンではお取り扱いしておりません。"
+    "product_text": "※関東地域のローソンのみのお取り扱いとなります。"
   },
   {
     "product_url": "https://www.lawson.co.jp/recommend/original/detail/1456860_1996.html",
