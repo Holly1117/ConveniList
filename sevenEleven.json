@@ -31,17 +31,17 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/hokkaido/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047281/hokkaido/",
+        "product_name": "ひとくち巻寿司　鶏唐揚げマヨネーズ巻",
+        "product_price": 216,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047281/0BDAB1910B53C59AC508C1E0AF650ECF.jpg",
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047306/hokkaido/",
-        "product_name": "ビーフ＆バターチキンナワバリバトルカレー",
-        "product_price": 680,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047306/CFC4F0CA6A1977FB809AD595396ABF25.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/051532/hokkaido/",
+        "product_name": "ペッパーポークサンド",
+        "product_price": 367,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051532/35E518640F13D69400A97D568D4A5BAD.jpg",
         "product_date": "2022.08.31"
       }
     ],
@@ -127,17 +127,17 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/kanto/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047328/kanto/",
         "product_name": "四色ごはん",
         "product_price": 429,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047328/70C659A1249444FA0118738103D5A7FD.jpg",
+        "product_date": "2022.08.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047337/kanto/",
+        "product_name": "だし仕立てのいなり３個",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047337/C7C9358DFC8C991416B81AAABED9689B.jpg",
         "product_date": "2022.08.30"
       }
     ],
@@ -175,17 +175,17 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/koshinetsu/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047405/koshinetsu/",
         "product_name": "三色御飯",
         "product_price": 324,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047405/E25776AD76A3B8D619B8AC3F4B4FEA5A.jpg",
+        "product_date": "2022.08.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047179/koshinetsu/",
+        "product_name": "３種お肉の焼肉丼（焼肉たれ＆塩だれ）",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047179/0E0B6BA197610BC9C23B2EA5AC46A064.jpg",
         "product_date": "2022.08.30"
       }
     ],
@@ -200,20 +200,6 @@
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043764/D9684D924E75DD4F6222BC731EC33A38.jpg",
         "product_date": "2022.08.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/hokuriku/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047306/hokuriku/",
-        "product_name": "ビーフ＆バターチキンナワバリバトルカレー",
-        "product_price": 680,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047306/CFC4F0CA6A1977FB809AD595396ABF25.jpg",
-        "product_date": "2022.09.01"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047175/hokuriku/",
@@ -234,6 +220,20 @@
         "product_name": "ポテトサラダサンド",
         "product_price": 248,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051534/2DDB8933C9E9EDD306A0CBFA0581906D.jpg",
+        "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051421/hokuriku/",
+        "product_name": "バゲットサンド　　　　ハム＆チーズ",
+        "product_price": 334,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051421/61EA880DA756953D34742FC55F030080.jpg",
+        "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051438/hokuriku/",
+        "product_name": "ブリトーチーズ２倍　　ハム＆５種チーズ",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051438/BAD3A00585837AE5A753AD8D813EAC92.jpg",
         "product_date": "2022.08.31"
       }
     ],
@@ -264,13 +264,6 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/tokai/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047308/tokai/",
         "product_name": "しらす炊込み御飯弁当",
         "product_price": 429,
@@ -282,6 +275,13 @@
         "product_name": "イカフライ御飯おかか入　焼津産鰹の鰹節使用",
         "product_price": 429,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047300/D36C890901CE64C5D93DD9097ED08B3B.jpg",
+        "product_date": "2022.08.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047320/tokai/",
+        "product_name": "大盛ごはん味しみどて煮弁当",
+        "product_price": 537,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047320/E46F28113D0D63F8E7D31E0C55C6AD44.jpg",
         "product_date": "2022.08.30"
       }
     ],
@@ -312,13 +312,6 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/kinki/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042794/kinki/",
         "product_name": "ガーリックマヨネーズで食べる豚焼肉弁当",
         "product_price": 429,
@@ -330,6 +323,13 @@
         "product_name": "ミニのり弁当",
         "product_price": 345,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047324/68F49F51568248A6D07843EA6099A164.jpg",
+        "product_date": "2022.08.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045046/kinki/",
+        "product_name": "手巻寿司　たらこマヨネーズ巻",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045046/F1901042E217B16679F254574881EE2D.jpg",
         "product_date": "2022.08.30"
       }
     ],
@@ -353,13 +353,6 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/chugoku/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047314/chugoku/",
         "product_name": "かつおの旨味　高菜ごはん",
         "product_price": 410,
@@ -374,10 +367,17 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047306/chugoku/",
-        "product_name": "ビーフ＆バターチキンナワバリバトルカレー",
-        "product_price": 680,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047306/CFC4F0CA6A1977FB809AD595396ABF25.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042911/chugoku/",
+        "product_name": "手巻寿司　さばとガリマヨネーズ巻",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042911/E90E7CEE741BB1B17A20809421D0A01C.jpg",
+        "product_date": "2022.08.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050367/chugoku/",
+        "product_name": "からしマヨネーズのハムサンド",
+        "product_price": 367,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050367/9E1F837FD1B766AAE386C7F77782B1D3.jpg",
         "product_date": "2022.08.31"
       }
     ],
@@ -394,25 +394,11 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047311/shikoku/",
-        "product_name": "炙り焼きイベリコ豚重",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047311/62225119585B6956ED0C99752115DA33.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047312/shikoku/",
         "product_name": "１／２日分の野菜が摂れる香ばし肉野菜炒め丼",
         "product_price": 540,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047312/CE1D0E2CBAE64A26C8C6C9F955D5DEF6.jpg",
         "product_date": "2022.08.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047306/shikoku/",
-        "product_name": "ビーフ＆バターチキンナワバリバトルカレー",
-        "product_price": 680,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047306/CFC4F0CA6A1977FB809AD595396ABF25.jpg",
-        "product_date": "2022.08.31"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/050367/shikoku/",
@@ -427,6 +413,20 @@
         "product_price": 367,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050048/F1E6CBCAA8ABE3D7D39EE0CDB437C063.jpg",
         "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051438/shikoku/",
+        "product_name": "ブリトーチーズ２倍　　ハム＆５種チーズ",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051438/BAD3A00585837AE5A753AD8D813EAC92.jpg",
+        "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/092382/shikoku/",
+        "product_name": "あったかつゆで食べる　つけ肉うどん",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092382/96FD3EBC4ADAF94E96569B61F04ABFD7.jpg",
+        "product_date": "2022.08.30"
       }
     ],
     "prefecture_name": "四国"
@@ -449,13 +449,6 @@
         "product_date": "2022.09.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047306/kyushu/",
-        "product_name": "ビーフ＆バターチキンナワバリバトルカレー",
-        "product_price": 680,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047306/CFC4F0CA6A1977FB809AD595396ABF25.jpg",
-        "product_date": "2022.08.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047302/kyushu/",
         "product_name": "炭火焼鳥丼　九州産華味鳥使用",
         "product_price": 691,
@@ -463,17 +456,24 @@
         "product_date": "2022.08.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/050073/kyushu/",
-        "product_name": "ひとくちフレンチトースト",
-        "product_price": 226,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050073/B73B291E9B315277985220E0F45FDA04.jpg",
-        "product_date": "2022.08.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/050019/kyushu/",
         "product_name": "バーベキューベーコンバーガー",
         "product_price": 421,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050019/BCE5F5B1AA2EA2223EE37FCA148F252A.jpg",
+        "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051438/kyushu/",
+        "product_name": "ブリトーチーズ２倍　　ハム＆５種チーズ",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051438/BAD3A00585837AE5A753AD8D813EAC92.jpg",
+        "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/092901/kyushu/",
+        "product_name": "ミニ山菜なめこそば",
+        "product_price": 324,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092901/A7D61FCDB9CD3E7292C1158F6CB9674F.jpg",
         "product_date": "2022.08.31"
       }
     ],
@@ -488,13 +488,6 @@
         "product_price": 124,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045967/F4E372D993CCD50622D96A3A1747F33B.jpg",
         "product_date": "2022.08.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047306/okinawa/",
-        "product_name": "ビーフ＆バターチキンナワバリバトルカレー",
-        "product_price": 680,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047306/CFC4F0CA6A1977FB809AD595396ABF25.jpg",
-        "product_date": "2022.08.31"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047299/okinawa/",
@@ -522,6 +515,13 @@
         "product_name": "ミックスサンド",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051502/CC08F93DA11D49377866E86647EAE9F6.jpg",
+        "product_date": "2022.08.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051438/okinawa/",
+        "product_name": "ブリトーチーズ２倍　　ハム＆５種チーズ",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051438/BAD3A00585837AE5A753AD8D813EAC92.jpg",
         "product_date": "2022.08.31"
       }
     ],
