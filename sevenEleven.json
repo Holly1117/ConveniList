@@ -291,27 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047483/kinki/",
-        "product_name": "ご愛顧おにぎり　具たっぷり紅しゃけ",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047483/7568FB4519B6ED2C0082E39991ECA8F6.jpg",
-        "product_date": "2022.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047463/kinki/",
-        "product_name": "ご愛顧おにぎり具たっぷり味付のり辛子明太子",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047463/7D187B6794F109589DFD3EC9C628406C.jpg",
-        "product_date": "2022.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047458/kinki/",
-        "product_name": "ご愛顧おにぎり　具たっぷりツナマヨネーズ",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047458/7FE16129EB6612221BF0F682FF5B842C.jpg",
-        "product_date": "2022.09.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047469/kinki/",
         "product_name": "ぼっかけそばめしおむすび",
         "product_price": 162,
@@ -330,6 +309,27 @@
         "product_name": "明太のり弁当",
         "product_price": 518,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042208/05D0A13760F0F5E4646302EE9B75A591.jpg",
+        "product_date": "2022.09.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047492/kinki/",
+        "product_name": "鶏めし",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047492/CDB5834485710C4E06D67871085CD64D.jpg",
+        "product_date": "2022.09.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047505/kinki/",
+        "product_name": "旧ヤム邸監修　スパイスキーマカレー",
+        "product_price": 702,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047505/E6BBD926EDF09D550263A6EB519D30B6.jpg",
+        "product_date": "2022.09.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047281/kinki/",
+        "product_name": "ひとくち巻寿司　鶏唐揚げマヨネーズ巻",
+        "product_price": 216,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047281/0BDAB1910B53C59AC508C1E0AF650ECF.jpg",
         "product_date": "2022.09.13"
       }
     ],
