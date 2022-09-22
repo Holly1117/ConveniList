@@ -58,13 +58,18 @@ section .title {
     justify-content: center;
     margin-bottom: 50px;
 }
-section title span {
+section .title span {
     display: block;
+    text-align: center;
     font-size: 15px;
     color: gray;
     font-weight: normal;
 }
-section:nth-child(2n + 1) {
+section:nth-child(odd) {
+    background-color: #f3f6f8;
+}
+/* セブンイレブンのみ偶数個目に指定する */
+.seveneleven section:nth-child(even) {
     background-color: #f3f6f8;
 }
 
@@ -98,8 +103,9 @@ section:nth-child(2n + 1) {
     justify-content: center;
 }
 
-.sevenStyle{
-    max-width:1000px
+/* セブンのリスト全体の横幅 */
+.sevenStyle {
+    max-width: 1000px;
 }
 
 /* ファミマだけ画像サイズが違く、ボタンに被るので調整 */
@@ -290,6 +296,10 @@ footer span {
     /* ファミマだけ画像サイズが違うのでグリッドの幅を調整 */
     .famima {
         grid-auto-rows: 285px;
+    }
+    /* セブンのリスト全体の横幅 */
+    .sevenStyle {
+        max-width: 1000px;
     }
     .card, .nav-content, .card-img {
         box-shadow: none;
