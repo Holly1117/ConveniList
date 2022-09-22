@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <!-- OGP -->
+    <meta property="og:url" content="https://hiiragi.dev/conveni/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="コンビニ 新作一覧 | セブン、ローソン、ファミリーマート" />
+    <meta property="og:description" content="コンビニのその先へ" />
+
+    <!-- Twitter用 -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://hiiragi.dev/conveni/" />
+    <meta property="twitter:title" content="コンビニのその先へ" />
+    <meta property="twitter:description" content="新作商品を一目で確認" />
+    <meta property="twitter:image" content="https://hiiragi.dev/conveni/img/hedder.png" />
+    <meta property="og:image" content="https://hiiragi.dev/conveni/img/hedder.png" />
+
+    <!-- ロゴなど -->
+    <meta name="msapplication-TileImage" content="https://hiiragi.dev/conveni/img/favicon.png" />
+    <link rel="shortcut icon" href="https://hiiragi.dev/conveni/img/favicon.ico">
+    <meta name="msapplication-TileColor" content="#39c" />
+
+    <!-- 検索ボックスが表示されないようにする -->
+    <meta name="google" content="nositelinkssearchbox" />
+    <!-- 翻訳表示を表示されないようにする -->
+    <meta name="google" content="notranslate" />
+    <!-- 検索結果の説明文 -->
+    <meta name="description" content="コンビニのその先へ | コンビニ大手3社の新作商品を確認することができます。" />
+
+    <!-- 文字コード -->
+    <meta charset="UTF-8">
+    <!-- IE対策 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- レスポンシブ -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>コンビニ 新作一覧 | セブン、ローソン、ファミリーマート</title>
+
+    <link href="/conveni/css/style.css" rel="stylesheet">
+    <script src="/conveni/js/familyMart.js"></script>
+</head>
+
+<body>
+    <div id="nav" class="main-nav wrapper">
+        <header class="page-header">
+            <nav id="sp-nav" class="sp-nav">
+                <ul class="nav">
+                    <li><a href="/conveni">ホーム<span>home</span></a></li>
+                    <li><a href="/conveni/lawson">ローソン<span>lawson</span></a></li>
+                    <li class="active"><a href="/conveni/familymart">ファミリーマート<span>familymart</span></a></li>
+                    <li><a href="/conveni/seveneleven">セブンイレブン<span>seveneleven</span></a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+
+    <section>
+        <div class="title">
+            <h2>ファミリーマート</h2>
+        </div>
+        <div id="card-list" class="wrapper card-list famima familymart"></div>
+    </section>
+
+    <div id="go-top"><a href="#nav">
+            <div class="box"></div>
+        </a></div>
+
+    <footer id="footer">
+        <div class="wrapper">
+            <p>&copy;コンビニリスト<span>《front-end by <a href="https://itsuki.dev/">itsuki.dev</a> | back-end by <a href="https://hiiragi.dev/">hiiragi.dev</a>》</span></p>
+        </div>
+    </footer>
+
+    <!-- ライブラリ -->
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- 絵文字 -->
+    <script src="https://kit.fontawesome.com/ac90da6757.js" crossorigin="anonymous"></script>
+    <!-- スクロール処理 -->
+    <script type="text/javascript" src="/js/script.js"></script>
+    <!-- フッター固定 -->
+    <script type="text/javascript" src="/js/footerFixed.js"></script>
+</body>
+
+</html>
