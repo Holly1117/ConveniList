@@ -65,11 +65,7 @@ section .title span {
     color: gray;
     font-weight: normal;
 }
-section:nth-child(odd) {
-    background-color: #f3f6f8;
-}
-/* セブンイレブンのみ偶数個目に指定する */
-.seveneleven section:nth-child(even) {
+section:nth-of-type(2n) {
     background-color: #f3f6f8;
 }
 
