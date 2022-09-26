@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047524/hokkaido/",
-        "product_name": "だし香る炊き込みご飯おむすび　ほたてめし",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047524/3D83ED8B0F5AF953D61DCCD0F9E817A3.jpg",
-        "product_date": "2022.09.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046973/hokkaido/",
         "product_name": "一番だしおむすび　こんぶめし",
         "product_price": 124,
@@ -38,11 +31,18 @@
         "product_date": "2022.09.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047523/hokkaido/",
-        "product_name": "手巻寿司　醤油糀入りたまごかけ風納豆巻",
-        "product_price": 156,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047523/7B0DC80106C536D74D2CD7E3875B1958.jpg",
-        "product_date": "2022.09.20"
+        "product_url": "https://www.sej.co.jp/products/a/item/050596/hokkaido/",
+        "product_name": "ポテトサラダサンド",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050596/1D1B11A636FFB80FDEAB82729CFE87CC.jpg",
+        "product_date": "2022.09.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051566/hokkaido/",
+        "product_name": "ベーコンエッグバーガー",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051566/86842E826E7C072453DCADE9305EE18C.jpg",
+        "product_date": "2022.09.21"
       }
     ],
     "prefecture_name": "北海道"
@@ -86,10 +86,10 @@
         "product_date": "2022.09.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040805/tohoku/",
-        "product_name": "洋食ミックス弁当",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040805/D684C76BD6FB7C3431381945B194E1C2.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042273/tohoku/",
+        "product_name": "舞茸炊込みごはんのお弁当",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042273/A89CF9D6DC6FFDE675DCF33EE07B3D05.jpg",
         "product_date": "2022.09.20"
       }
     ],
@@ -103,13 +103,6 @@
         "product_name": "大きなおむすび醤油まぶし飯鶏つくね",
         "product_price": 172,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040870/69C584436EBC57499774942C3999D644.jpg",
-        "product_date": "2022.09.20"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042453/kanto/",
-        "product_name": "ポーク玉子おむすび",
-        "product_price": 248,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042453/22F5E81064B892C93D9728585C637618.jpg",
         "product_date": "2022.09.20"
       },
       {
@@ -138,6 +131,13 @@
         "product_name": "舞茸炊込みごはんのお弁当",
         "product_price": 432,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042273/A89CF9D6DC6FFDE675DCF33EE07B3D05.jpg",
+        "product_date": "2022.09.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041620/kanto/",
+        "product_name": "熟成豆板醤の四川風麻婆丼",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041620/030059D22431A0292686B987D485BE10.jpg",
         "product_date": "2022.09.20"
       }
     ],
@@ -175,17 +175,17 @@
         "product_date": "2022.09.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047382/koshinetsu/",
-        "product_name": "チャーシュー御飯＆油淋鶏（ユーリンチー）",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047382/CE941E52BAAD7B5CD68952CEBC9AE763.jpg",
-        "product_date": "2022.09.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040891/koshinetsu/",
         "product_name": "ミニのり弁当",
         "product_price": 321,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040891/1AF167E56A0AF8FC3F5B32618509351A.jpg",
+        "product_date": "2022.09.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041620/koshinetsu/",
+        "product_name": "熟成豆板醤の四川風麻婆丼",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041620/030059D22431A0292686B987D485BE10.jpg",
         "product_date": "2022.09.20"
       }
     ],
@@ -209,13 +209,6 @@
         "product_date": "2022.09.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040032/hokuriku/",
-        "product_name": "奥三河どり肉の特製親子丼",
-        "product_price": 496,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040032/EAAD16B487A156313FC9CFD3CD7CC0FA.jpg",
-        "product_date": "2022.09.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041620/hokuriku/",
         "product_name": "熟成豆板醤の四川風麻婆丼",
         "product_price": 432,
@@ -235,6 +228,13 @@
         "product_price": 259,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050591/7D05ABE02BC41B2475AD48FC596A2A72.jpg",
         "product_date": "2022.09.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050589/hokuriku/",
+        "product_name": "ブリトータコミートチーズ",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050589/03B651B7565047D6AADC27444D69F5A3.jpg",
+        "product_date": "2022.09.21"
       }
     ],
     "prefecture_name": "北陸"
@@ -298,13 +298,6 @@
         "product_date": "2022.09.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047339/kinki/",
-        "product_name": "ごま油香る　プルコギキンパ",
-        "product_price": 496,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047339/6EB986E0B75B16E854D1D9BBC5A481EC.jpg",
-        "product_date": "2022.09.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040902/kinki/",
         "product_name": "山形県産つや姫おむすび　万願寺とうがらし",
         "product_price": 162,
@@ -330,6 +323,13 @@
         "product_name": "舞茸炊込みごはんのお弁当",
         "product_price": 432,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042273/A89CF9D6DC6FFDE675DCF33EE07B3D05.jpg",
+        "product_date": "2022.09.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041620/kinki/",
+        "product_name": "熟成豆板醤の四川風麻婆丼",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041620/030059D22431A0292686B987D485BE10.jpg",
         "product_date": "2022.09.20"
       }
     ],
@@ -518,10 +518,10 @@
         "product_date": "2022.09.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/105654/okinawa/",
-        "product_name": "千とせ本店監修肉吸い",
-        "product_price": 399,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/105654/18BCAD94B46861C6FB1E9069E99BF304.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/105625/okinawa/",
+        "product_name": "ポン酢で食べる砂ずりと玉ねぎ",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/105625/120F373883C0AE732A5DF3D63DFDFBCC.jpg",
         "product_date": "2022.09.20"
       }
     ],
