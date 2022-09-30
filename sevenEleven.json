@@ -435,13 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044890/kyushu/",
-        "product_name": "焼き鯖と梅おむすび",
-        "product_price": 302,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044890/29A73C5FC4EB243713FC3702EED8708C.jpg",
-        "product_date": "2022.09.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042307/kyushu/",
         "product_name": "だし香る炊き込みご飯おむすび　ほたてめし",
         "product_price": 140,
@@ -475,6 +468,13 @@
         "product_price": 648,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047768/154F0D98A1E72088C83BBA8AA58D5F92.jpg",
         "product_date": "2022.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044937/kyushu/",
+        "product_name": "肉あんかけチャーハン",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044937/E030B7CC1F071EFFBB3F0A833CAAFEF9.jpg",
+        "product_date": "2022.09.27"
       }
     ],
     "prefecture_name": "九州"
