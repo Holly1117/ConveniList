@@ -339,6 +339,13 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/046686/chugoku/",
+        "product_name": "手巻おにぎり　華味鳥使用　鶏そぼろ",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046686/B70D66BF32BF409D62FA6D17823D5E58.jpg",
+        "product_date": "2022.09.27"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/044890/chugoku/",
         "product_name": "焼き鯖と梅おむすび",
         "product_price": 302,
@@ -372,13 +379,6 @@
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044938/4CD11FA27912E19CE38416FD2CD3F55D.jpg",
         "product_date": "2022.09.27"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047768/chugoku/",
-        "product_name": "アルポルト監修　きのこクリームのオムライス",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047768/154F0D98A1E72088C83BBA8AA58D5F92.jpg",
-        "product_date": "2022.10.03"
       }
     ],
     "prefecture_name": "中国"
@@ -387,24 +387,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044890/shikoku/",
-        "product_name": "焼き鯖と梅おむすび",
-        "product_price": 302,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044890/29A73C5FC4EB243713FC3702EED8708C.jpg",
-        "product_date": "2022.09.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042794/shikoku/",
         "product_name": "ガーリックマヨネーズで食べる豚焼肉弁当",
         "product_price": 429,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042794/50C1B6EF37EF9ADB4FAA2338C2847921.jpg",
-        "product_date": "2022.09.27"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047220/shikoku/",
-        "product_name": "しらす炊き込み御飯のお弁当",
-        "product_price": 429,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047220/95F1E43A639219D04FFE32B7096B1FA3.jpg",
         "product_date": "2022.09.27"
       },
       {
@@ -427,6 +413,20 @@
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051578/B24830ACD78178D3C5DC6CFC981FD2C9.jpg",
         "product_date": "2022.09.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093197/shikoku/",
+        "product_name": "小麦の風味香る　きつねさぬきうどん",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093197/81F3BCFD45C5DEBEE2EB329270F4FA92.jpg",
+        "product_date": "2022.09.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093198/shikoku/",
+        "product_name": "こだわりの広島お好み焼き（肉玉そば）",
+        "product_price": 615,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093198/B5930B78B76B6578ADE87B36491D2996.jpg",
+        "product_date": "2022.09.27"
       }
     ],
     "prefecture_name": "四国"
