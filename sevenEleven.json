@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047547/hokkaido/",
-        "product_name": "舞茸おこわおむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047547/12CF56ED8C17364F6CDD62A188B2D10E.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047537/hokkaido/",
         "product_name": "北海道米こだわりおむすび　柿安監修牛舞茸",
         "product_price": 194,
@@ -43,6 +36,13 @@
         "product_price": 378,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047535/47B91D4DD5E82ACB61E79D6753B6D9A3.jpg",
         "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047583/hokkaido/",
+        "product_name": "海鮮の旨味ひろがる　あんかけ炒飯",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047583/21AF4BCF601C0025F9BFA339BA23ACE8.jpg",
+        "product_date": "2022.10.05"
       }
     ],
     "prefecture_name": "北海道"
@@ -113,13 +113,6 @@
         "product_date": "2022.10.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045110/kanto/",
-        "product_name": "さつまいもおこわおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045110/1AF593483DB9772186BC5EF0268902CD.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047546/kanto/",
         "product_name": "新潟県産コシヒカリおむすび　柿安監修牛舞茸",
         "product_price": 194,
@@ -138,6 +131,13 @@
         "product_name": "豚焼肉弁当",
         "product_price": 496,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047560/3745DD4860018E40D58C056A1F6372E3.jpg",
+        "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047550/kanto/",
+        "product_name": "二段仕込みの若鶏唐揚げ弁当",
+        "product_price": 540,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047550/2D3F14113DF1843BC31E79CF5FC791C4.jpg",
         "product_date": "2022.10.04"
       }
     ],
@@ -291,27 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047547/kinki/",
-        "product_name": "舞茸おこわおむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047547/12CF56ED8C17364F6CDD62A188B2D10E.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045110/kinki/",
-        "product_name": "さつまいもおこわおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045110/1AF593483DB9772186BC5EF0268902CD.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047544/kinki/",
-        "product_name": "山形県産つや姫おむすび柿安監修牛舞茸",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047544/49F96B59D5CFA6912291C7171DBF1ED4.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047540/kinki/",
         "product_name": "唐揚弁当マヨネーズ付",
         "product_price": 570,
@@ -331,6 +310,27 @@
         "product_price": 345,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047543/3F4F1DDF312EBD948E0F5A316CF4F7F2.jpg",
         "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047541/kinki/",
+        "product_name": "味しみ特製ロースかつ丼",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047541/722B4972D5B75995FB15C9D8EA154551.jpg",
+        "product_date": "2022.10.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044969/kinki/",
+        "product_name": "手巻寿司　まぐろたたき巻",
+        "product_price": 199,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044969/404942C7F082CB95D14B1E40CE68BB8C.jpg",
+        "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047539/kinki/",
+        "product_name": "牛焼肉唐辛子マヨネーズ巻＆とんかつ巻",
+        "product_price": 351,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047539/1E4A2290788D2986CE5A42E2ED0255B2.jpg",
+        "product_date": "2022.10.04"
       }
     ],
     "prefecture_name": "近畿"
@@ -343,20 +343,6 @@
         "product_name": "しそわかめとかしわめしのおむすびセット",
         "product_price": 367,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047757/F59264CE3AF21B02635C11E7C0DDA8D2.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047704/chugoku/",
-        "product_name": "鮭・しそ昆布のだし醤油むすびセット",
-        "product_price": 397,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047704/AAEA70F34B582AD4FD7C669B671DAE6D.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047682/chugoku/",
-        "product_name": "鮭・しそ昆布のだし醤油むすびセット",
-        "product_price": 410,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047682/F3FCDE7B607B4AF2C892054C90DEBAF8.jpg",
         "product_date": "2022.10.04"
       },
       {
@@ -378,6 +364,20 @@
         "product_name": "トマト１個分のリコピン入りオムライスおむすび",
         "product_price": 156,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040330/3F3FC936940C701248FC9728FBA89597.jpg",
+        "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047679/chugoku/",
+        "product_name": "厳選米おむすび　柿安監修牛舞茸",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047679/D5C47B1D22B7BC300A078FFC55E8C1FC.jpg",
+        "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047546/chugoku/",
+        "product_name": "新潟県産コシヒカリおむすび　柿安監修牛舞茸",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047546/BAB08EB090639C2A52F26D45CA51BA2F.jpg",
         "product_date": "2022.10.04"
       }
     ],
@@ -408,25 +408,25 @@
         "product_date": "2022.10.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047768/shikoku/",
-        "product_name": "アルポルト監修　きのこクリームのオムライス",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047768/154F0D98A1E72088C83BBA8AA58D5F92.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047527/shikoku/",
-        "product_name": "アルポルト監修　トマトとチーズのリゾット",
-        "product_price": 367,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047527/12EB1F9DDFC7707F73283D7FF376A008.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047683/shikoku/",
         "product_name": "鶏唐揚げマヨネーズ巻　５巻",
         "product_price": 367,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047683/632402B6B12423C23F675E06028F42D6.jpg",
         "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051587/shikoku/",
+        "product_name": "照焼チキンとたまごサンド",
+        "product_price": 313,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051587/CE4E3235B99B9027039EEACDDE426951.jpg",
+        "product_date": "2022.10.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051584/shikoku/",
+        "product_name": "ブリトーウインナー２本入りボロネーゼ",
+        "product_price": 291,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051584/6D2BFF6576B5BDEA1AFC69CACFBDA8E5.jpg",
+        "product_date": "2022.10.05"
       }
     ],
     "prefecture_name": "四国"
@@ -439,13 +439,6 @@
         "product_name": "舞茸おこわおむすび",
         "product_price": 140,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047547/12CF56ED8C17364F6CDD62A188B2D10E.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045110/kyushu/",
-        "product_name": "さつまいもおこわおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045110/1AF593483DB9772186BC5EF0268902CD.jpg",
         "product_date": "2022.10.04"
       },
       {
@@ -475,6 +468,13 @@
         "product_price": 702,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047528/DB7238922E354E6794E49BF08B69F947.jpg",
         "product_date": "2022.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045116/kyushu/",
+        "product_name": "豚焼肉弁当（唐辛子マヨネーズ）",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045116/D97A8D6A3C85EA7D5F61B59C8D104330.jpg",
+        "product_date": "2022.10.04"
       }
     ],
     "prefecture_name": "九州"
@@ -487,13 +487,6 @@
         "product_name": "舞茸おこわおむすび",
         "product_price": 140,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047547/12CF56ED8C17364F6CDD62A188B2D10E.jpg",
-        "product_date": "2022.10.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045110/okinawa/",
-        "product_name": "さつまいもおこわおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045110/1AF593483DB9772186BC5EF0268902CD.jpg",
         "product_date": "2022.10.04"
       },
       {
@@ -511,18 +504,25 @@
         "product_date": "2022.10.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047768/okinawa/",
-        "product_name": "アルポルト監修　きのこクリームのオムライス",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047768/154F0D98A1E72088C83BBA8AA58D5F92.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041670/okinawa/",
+        "product_name": "手巻寿司　醤油糀入りたまごかけ風納豆巻",
+        "product_price": 156,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041670/BDC5DF2879678D6E0246F13C202E95D9.jpg",
         "product_date": "2022.10.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047527/okinawa/",
-        "product_name": "アルポルト監修　トマトとチーズのリゾット",
-        "product_price": 367,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047527/12EB1F9DDFC7707F73283D7FF376A008.jpg",
-        "product_date": "2022.10.04"
+        "product_url": "https://www.sej.co.jp/products/a/item/051584/okinawa/",
+        "product_name": "ブリトーウインナー２本入りボロネーゼ",
+        "product_price": 291,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051584/6D2BFF6576B5BDEA1AFC69CACFBDA8E5.jpg",
+        "product_date": "2022.10.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093246/okinawa/",
+        "product_name": "つぶつぶ明太子の濃厚クリームパスタ",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093246/9896A84C8690746A4CBBA8378A3E6647.jpg",
+        "product_date": "2022.10.08"
       }
     ],
     "prefecture_name": "沖縄"
