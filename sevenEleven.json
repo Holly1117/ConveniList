@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045085/hokkaido/",
-        "product_name": "手巻おにぎり　照焼チキンマヨネーズ",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045085/F0254C2FAD1380D6C05C62941F5B0CFD.jpg",
-        "product_date": "2022.10.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047837/hokkaido/",
         "product_name": "おむすび＆おかずセット　焼鮭・ツナマヨネーズ",
         "product_price": 378,
@@ -24,13 +17,6 @@
         "product_date": "2022.10.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047865/hokkaido/",
-        "product_name": "北海道米こだわりおむすび　醤油香る焼さば",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047865/2CFBF2486B5CC2A8D26DACE365DF403B.jpg",
-        "product_date": "2022.10.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047846/hokkaido/",
         "product_name": "塩レモンだれのねぎ塩豚カルビ弁当（麦飯）",
         "product_price": 486,
@@ -38,11 +24,25 @@
         "product_date": "2022.10.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047838/hokkaido/",
-        "product_name": "バター香る海老ピラフ",
-        "product_price": 378,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047838/14B571D41CB44300A217DC3B480D42B5.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047840/hokkaido/",
+        "product_name": "ひとくち巻寿司　海老とツナのサラダロール",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047840/694ADBDE5C6C0878F0E9559F9EBA193F.jpg",
         "product_date": "2022.10.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051622/hokkaido/",
+        "product_name": "ホットドッグ",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051622/2B41336FAE9A40A6F9BC32B0B2F7EBF8.jpg",
+        "product_date": "2022.10.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051606/hokkaido/",
+        "product_name": "ベジラップ胡麻だれこだわりチキン",
+        "product_price": 321,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051606/7693F8806D7ED47B022EAF8A905CE68A.jpg",
+        "product_date": "2022.10.19"
       }
     ],
     "prefecture_name": "北海道"
@@ -65,13 +65,6 @@
         "product_date": "2022.10.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047850/tohoku/",
-        "product_name": "北海道産かぼちゃのチーズ焼おむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047850/92C5068D4D858DB60AE97C47C9715813.jpg",
-        "product_date": "2022.10.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047834/tohoku/",
         "product_name": "山形県産つや姫おむすび　醤油香る焼さば",
         "product_price": 162,
@@ -90,6 +83,13 @@
         "product_name": "塩レモンだれのねぎ塩豚カルビ弁当（麦飯）",
         "product_price": 486,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047846/4F99951470220346EFB994E87F24CB91.jpg",
+        "product_date": "2022.10.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047817/tohoku/",
+        "product_name": "さばの塩焼き幕の内弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047817/CE7ADEB67D849AE87146B9CBF1FD3117.jpg",
         "product_date": "2022.10.18"
       }
     ],
