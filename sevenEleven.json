@@ -24,13 +24,6 @@
         "product_date": "2022.10.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043640/hokkaido/",
-        "product_name": "根室のご当地グルメ　エスカロップ",
-        "product_price": 540,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043640/0EF747D3A3EFD96B41B76ECEAD39726B.jpg",
-        "product_date": "2022.10.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047984/hokkaido/",
         "product_name": "舞茸おこわのお弁当",
         "product_price": 432,
@@ -38,11 +31,18 @@
         "product_date": "2022.10.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047985/hokkaido/",
-        "product_name": "菜彩鶏肉のチキンカレー",
-        "product_price": 432,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047985/1751A51D6C004E2C5BE8CA60783CA015.jpg",
-        "product_date": "2022.10.26"
+        "product_url": "https://www.sej.co.jp/products/a/item/047925/hokkaido/",
+        "product_name": "ふんわり玉子の特製オムカレー",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047925/E84204047EBC0862AB4D133BBF08EB0C.jpg",
+        "product_date": "2022.10.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047889/hokkaido/",
+        "product_name": "御飯",
+        "product_price": 172,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047889/36CF506F11A18B7939ADFFC75E057363.jpg",
+        "product_date": "2022.10.25"
       }
     ],
     "prefecture_name": "北海道"
@@ -56,13 +56,6 @@
         "product_price": 232,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047813/40F0A3A6E6998ED97429F7CC5C35A8A4.jpg",
         "product_date": "2022.10.25"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047977/tohoku/",
-        "product_name": "キーマカレーおむすび",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047977/3E2F61160A7F19D908E9F8C9B8C7A4F3.jpg",
-        "product_date": "2022.10.27"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/042341/tohoku/",
@@ -90,6 +83,13 @@
         "product_name": "秋鮭の海苔弁当",
         "product_price": 453,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047863/F643D4846BE0855F2368939DEAFD2C1D.jpg",
+        "product_date": "2022.10.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044844/tohoku/",
+        "product_name": "ソーセージステーキ＆牛焼肉弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044844/4DF919623FB69960DF762DDC521F5666.jpg",
         "product_date": "2022.10.25"
       }
     ],
@@ -134,10 +134,10 @@
         "product_date": "2022.10.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047956/kanto/",
-        "product_name": "茨城県産栗の　おこわおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047956/DBDDE9910E211B724BB47223043C0669.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047954/kanto/",
+        "product_name": "鶏ごぼうおむすび",
+        "product_price": 124,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047954/9A09CA6770BA44F2D281B0DA2E09B923.jpg",
         "product_date": "2022.10.25"
       }
     ],
@@ -305,13 +305,6 @@
         "product_date": "2022.10.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047958/kinki/",
-        "product_name": "山形県産つや姫おむすび直火焼き神戸牛",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047958/16B93B46456078D3CEDEA326C1266AB9.jpg",
-        "product_date": "2022.10.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047964/kinki/",
         "product_name": "Ｗメイン弁当（生姜焼き・焼き鳥）",
         "product_price": 529,
@@ -330,6 +323,13 @@
         "product_name": "舞茸おこわのお弁当",
         "product_price": 432,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047984/8BA1F5DBD3477C62D79FC6C12313AF1E.jpg",
+        "product_date": "2022.10.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047985/kinki/",
+        "product_name": "菜彩鶏肉のチキンカレー",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047985/1751A51D6C004E2C5BE8CA60783CA015.jpg",
         "product_date": "2022.10.25"
       }
     ],
@@ -394,13 +394,6 @@
         "product_date": "2022.10.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047977/shikoku/",
-        "product_name": "キーマカレーおむすび",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047977/3E2F61160A7F19D908E9F8C9B8C7A4F3.jpg",
-        "product_date": "2022.10.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047614/shikoku/",
         "product_name": "唐辛子マヨネーズで食べる豚焼肉弁当",
         "product_price": 432,
@@ -427,6 +420,13 @@
         "product_price": 378,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047805/10DA51C0E0E11FE3381CB2FDBBD93B3C.jpg",
         "product_date": "2022.10.26"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047891/shikoku/",
+        "product_name": "御飯（大盛）",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047891/9B60872BE3A6FBCF5DD322FC39D258DE.jpg",
+        "product_date": "2022.10.25"
       }
     ],
     "prefecture_name": "四国"
