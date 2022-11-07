@@ -38,11 +38,11 @@
         "product_date": "2022.11.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044241/hokkaido/",
-        "product_name": "手巻寿司　国産大豆の納豆巻",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044241/B89241D7A956617C9B1A105D6D8F21A9.jpg",
-        "product_date": "2022.11.01"
+        "product_url": "https://www.sej.co.jp/products/a/item/051655/hokkaido/",
+        "product_name": "チキンカツサンド",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051655/B83E9326EE2FE02C631F9E4B875E89DE.jpg",
+        "product_date": "2022.11.02"
       }
     ],
     "prefecture_name": "北海道"
@@ -65,13 +65,6 @@
         "product_date": "2022.11.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044402/tohoku/",
-        "product_name": "炭火焼牛たんおむすび　",
-        "product_price": 421,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044402/BAC6F32105BBF2D4D339FE45CBA5FB9D.jpg",
-        "product_date": "2022.11.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043812/tohoku/",
         "product_name": "山菜おこわおむすび",
         "product_price": 135,
@@ -90,6 +83,13 @@
         "product_name": "焼おにぎり　ベーコンチーズ",
         "product_price": 145,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042336/7E945AF07B6BC3008CFE13148C29C20C.jpg",
+        "product_date": "2022.11.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045871/tohoku/",
+        "product_name": "一番だしおむすび　かつおめし",
+        "product_price": 124,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045871/A1F386AE97DE8045B4154987586364C3.jpg",
         "product_date": "2022.11.01"
       }
     ],
@@ -147,20 +147,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/koshinetsu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043996/koshinetsu/",
-        "product_name": "豚骨ラーメン御飯と半熟煮玉子おむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043996/08DA2B609FE91FB69C7F8671B1B70787.jpg",
-        "product_date": "2022.11.01"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043976/koshinetsu/",
-        "product_name": "豚骨ラーメン御飯と半熟煮玉子おむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043976/3CBFEC8953D5CCF09AF3CC12E6A769C7.jpg",
-        "product_date": "2022.11.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047278/koshinetsu/",
         "product_name": "炙りサーモンおむすび",
         "product_price": 324,
@@ -186,6 +172,20 @@
         "product_name": "舞茸おこわおむすび",
         "product_price": 140,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048047/A4673933941379F45DE65B0C327FA217.jpg",
+        "product_date": "2022.11.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044008/koshinetsu/",
+        "product_name": "梨北米こだわりおむすび醤油香る焼さば",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044008/99913AF00C3B7D58D3E56E848A8F0DD5.jpg",
+        "product_date": "2022.11.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044001/koshinetsu/",
+        "product_name": "長野県産米こだわりおむすび　醤油香る焼さば",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044001/E9A57CED46ACAB2EF158318251534DDB.jpg",
         "product_date": "2022.11.01"
       }
     ],
@@ -278,10 +278,10 @@
         "product_date": "2022.11.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042336/tokai/",
-        "product_name": "焼おにぎり　ベーコンチーズ",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042336/7E945AF07B6BC3008CFE13148C29C20C.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043854/tokai/",
+        "product_name": "新潟県産コシヒカリおむすび　陸奥湾産帆立",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043854/97430EE70FE6808D58083C05628F5EF3.jpg",
         "product_date": "2022.11.01"
       }
     ],
@@ -294,7 +294,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/044084/kinki/",
         "product_name": "味付のり　梅おかか",
         "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044084/99F98290E568F708D35361CE476B6F1D.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044084/0B9C57F59B440EA96266C7D2F5FC3FDA.jpg",
         "product_date": "2022.11.01"
       },
       {
@@ -319,17 +319,17 @@
         "product_date": "2022.11.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046178/kinki/",
-        "product_name": "たっぷり玉子のオムすび",
-        "product_price": 156,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046178/997612A3DB3B9E175C62C6660C60AADB.jpg",
-        "product_date": "2022.11.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041703/kinki/",
         "product_name": "たっぷりマヨのツナごはん",
         "product_price": 345,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041703/8D8D8A0038F7644663AC39C148A9A010.jpg",
+        "product_date": "2022.11.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044651/kinki/",
+        "product_name": "ごま油香る　温玉ビビンバ",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044651/B6DBF6E0F9CD605A9B90FD2C8E7FAAD7.jpg",
         "product_date": "2022.11.01"
       }
     ],
@@ -374,10 +374,10 @@
         "product_date": "2022.11.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047669/chugoku/",
-        "product_name": "玄米むすび",
-        "product_price": 108,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047669/D63B63ED5609C5A80F8BEDE66111DE5E.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043825/chugoku/",
+        "product_name": "新潟県産コシヒカリおむすび　わさび昆布",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043825/8E57FFEBBA28691B2DD36180E2B9A980.jpg",
         "product_date": "2022.11.01"
       }
     ],
