@@ -17,13 +17,6 @@
         "product_date": "2022.11.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046366/hokkaido/",
-        "product_name": "だし香る炊き込みご飯おむすび　きのこめし",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046366/3776E23C8A04C3488D45D91EAC96DEBB.jpg",
-        "product_date": "2022.11.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048202/hokkaido/",
         "product_name": "味しみソースのイカフライ御飯",
         "product_price": 432,
@@ -31,18 +24,25 @@
         "product_date": "2022.11.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048253/hokkaido/",
-        "product_name": "Ｗカルビの焼肉丼",
-        "product_price": 756,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048253/316C1B90AE790650FAA3D7C44741095B.jpg",
-        "product_date": "2022.11.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048186/hokkaido/",
         "product_name": "手巻寿司　ひきわり納豆巻",
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048186/40BBC821F813578733ECBBCEBD104815.jpg",
         "product_date": "2022.11.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051644/hokkaido/",
+        "product_name": "ピザトーストサンド（ソフトサラミ）",
+        "product_price": 300,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051644/2940DDC5BA41080AABFFC0BC035AA065.jpg",
+        "product_date": "2022.11.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051726/hokkaido/",
+        "product_name": "ハムぽてサンド",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051726/03728C3FDD89386A9B1961D530310797.jpg",
+        "product_date": "2022.11.23"
       }
     ],
     "prefecture_name": "北海道"
@@ -209,13 +209,6 @@
         "product_date": "2022.11.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048212/hokuriku/",
-        "product_name": "焼おにぎりの出汁茶漬け（金沢大野醤油使用）",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048212/1DAE9E2913FBDEFAB9DCB0C6C15F11D5.jpg",
-        "product_date": "2022.11.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/051726/hokuriku/",
         "product_name": "ハムぽてサンド",
         "product_price": 248,
@@ -230,10 +223,17 @@
         "product_date": "2022.11.23"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/093416/hokuriku/",
-        "product_name": "新潟５大ラーメン　新潟あっさり醤油ラーメン",
+        "product_url": "https://www.sej.co.jp/products/a/item/093415/hokuriku/",
+        "product_name": "麺屋あごすけ監修　焼あごだしの鶏塩上湯麺",
+        "product_price": 637,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093415/24A7CB0827C06CA8AA9E6D2AE86D2781.jpg",
+        "product_date": "2022.11.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093439/hokuriku/",
+        "product_name": "あさりのボンゴレビアンコ",
         "product_price": 464,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093416/0390063CA138E104A254438E29F6F4C7.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093439/F3EF7B282995F0F5BCB131B41873848F.jpg",
         "product_date": "2022.11.23"
       }
     ],
@@ -326,11 +326,11 @@
         "product_date": "2022.11.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048253/kinki/",
-        "product_name": "Ｗカルビの焼肉丼",
-        "product_price": 756,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048253/316C1B90AE790650FAA3D7C44741095B.jpg",
-        "product_date": "2022.11.28"
+        "product_url": "https://www.sej.co.jp/products/a/item/048208/kinki/",
+        "product_name": "半熟玉子と九条ねぎの特製他人丼",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048208/9EEB42AD0AC32C8732154D5AA356D209.jpg",
+        "product_date": "2022.11.22"
       }
     ],
     "prefecture_name": "近畿"
@@ -374,11 +374,11 @@
         "product_date": "2022.11.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048170/chugoku/",
-        "product_name": "チキンステーキ丼",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048170/75D0F9A15C424877E2B1ADA515377C10.jpg",
-        "product_date": "2022.11.28"
+        "product_url": "https://www.sej.co.jp/products/a/item/042634/chugoku/",
+        "product_name": "手巻寿司　豚焼肉唐辛子マヨネーズ巻",
+        "product_price": 145,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042634/6815689CA02B2889A96477AAAC64617A.jpg",
+        "product_date": "2022.11.22"
       }
     ],
     "prefecture_name": "中国"
@@ -463,17 +463,17 @@
         "product_date": "2022.11.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048170/kyushu/",
-        "product_name": "チキンステーキ丼",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048170/75D0F9A15C424877E2B1ADA515377C10.jpg",
-        "product_date": "2022.11.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048168/kyushu/",
         "product_name": "サムギョプサル＆キムチチャーハン",
         "product_price": 648,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048168/45CC6AF67A956E423A48016CA78A2240.jpg",
+        "product_date": "2022.11.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046358/kyushu/",
+        "product_name": "だし香る梅としらすのおむすび茶漬け",
+        "product_price": 324,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046358/1972429E931D41E6279E8001634025A5.jpg",
         "product_date": "2022.11.22"
       }
     ],
