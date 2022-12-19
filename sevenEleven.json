@@ -72,13 +72,6 @@
         "product_date": "2022.12.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048388/tohoku/",
-        "product_name": "銀河しずくおむすび　赤魚西京漬け",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048388/D3EB2C9AB9C03D7B689ED552F564BBD3.jpg",
-        "product_date": "2022.12.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048387/tohoku/",
         "product_name": "銀河のしずくおむすび　柿安監修牛しぐれ煮",
         "product_price": 237,
@@ -90,6 +83,13 @@
         "product_name": "銀河のしずくおむすび　紀州南高梅一粒梅",
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048386/1B33EB0E68835BC1E91ED7BA6B7B1565.jpg",
+        "product_date": "2022.12.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048384/tohoku/",
+        "product_name": "山形県産つや姫おむすび　柿安監修牛しぐれ煮",
+        "product_price": 237,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048384/ECE2630938A1BABC280CAE893F65C11D.jpg",
         "product_date": "2022.12.13"
       }
     ],
@@ -161,13 +161,6 @@
         "product_date": "2022.12.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048452/koshinetsu/",
-        "product_name": "魚沼産コシヒカリおむすび　柿安監修牛しぐれ煮",
-        "product_price": 237,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048452/39B280701964E0E964463B76A8C4CDF2.jpg",
-        "product_date": "2022.12.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048451/koshinetsu/",
         "product_name": "魚沼産コシヒカリおむすび　紀州南高梅一粒梅",
         "product_price": 162,
@@ -175,17 +168,24 @@
         "product_date": "2022.12.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048450/koshinetsu/",
-        "product_name": "魚沼産コシヒカリおむすび　赤魚西京漬け",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048450/FAA3D2DFF891C0776DDFDAB6D418BBE0.jpg",
-        "product_date": "2022.12.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048380/koshinetsu/",
         "product_name": "梨北米こだわりおむすび柿安監修牛しぐれ煮",
         "product_price": 237,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048380/0750788B7A19D860C059DF287EB69471.jpg",
+        "product_date": "2022.12.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048379/koshinetsu/",
+        "product_name": "長野県産米こだわりおむすび柿安監修牛しぐれ煮",
+        "product_price": 237,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048379/C6DF37B6536D54F22B24406EFBFF1FE6.jpg",
+        "product_date": "2022.12.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048378/koshinetsu/",
+        "product_name": "梨北米こだわりおむすび紀州南高梅一粒梅",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048378/9D8B039120C3F50ABDB835A8D7060299.jpg",
         "product_date": "2022.12.13"
       }
     ],
@@ -360,13 +360,6 @@
         "product_date": "2022.12.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048421/chugoku/",
-        "product_name": "厳選米おむすび　赤魚西京漬け",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048421/AE6AD334612FA41CF8C4EC65536CED7D.jpg",
-        "product_date": "2022.12.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048420/chugoku/",
         "product_name": "厳選米おむすび　柿安監修牛しぐれ煮",
         "product_price": 237,
@@ -378,6 +371,13 @@
         "product_name": "新潟県産コシヒカリおむすび柿安監修牛しぐれ煮",
         "product_price": 237,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048390/46C1A90966BE814935218D850757B05A.jpg",
+        "product_date": "2022.12.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048357/chugoku/",
+        "product_name": "新潟県産コシヒカリおむすび紀州南高梅一粒梅",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048357/724629412FCF486B3D8BE2255016E4FE.jpg",
         "product_date": "2022.12.13"
       }
     ],
@@ -470,10 +470,10 @@
         "product_date": "2022.12.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040062/kyushu/",
-        "product_name": "新潟県産コシヒカリ　　長崎和牛の牛しぐれ煮",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040062/E3ECC0823B484F751270AFE97C6F4704.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/048341/kyushu/",
+        "product_name": "チャーシュー御飯＆油淋鶏（ユーリンチー）",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048341/93832DAE966C95367F7561F1EDAFD8A2.jpg",
         "product_date": "2022.12.13"
       }
     ],
