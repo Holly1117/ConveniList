@@ -1,1 +1,530 @@
-null
+[
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048506/hokkaido/",
+        "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048506/68C5D8270B7C7160F9128BF6BCB4E4E5.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048482/hokkaido/",
+        "product_name": "香り箱の寿司",
+        "product_price": 183,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048482/5C1939A1C2F0CC5B62F28D6FD7052A0B.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048525/hokkaido/",
+        "product_name": "ひとくち巻寿司　まぐろたたきたくあん",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048525/10106A155FFBD5AAADD30F3D50DE529F.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051774/hokkaido/",
+        "product_name": "ひとくちフルーツサンド　白桃＆黄桃",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051774/1C4BDD287208E19B9465F56233B78AB9.jpg",
+        "product_date": "2023.01.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090533/hokkaido/",
+        "product_name": "貝だしの旨み塩ラーメン　国産米粉使用",
+        "product_price": 540,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090533/1D6DECFDAE5CA8CCC86A54A9B65F32B2.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090199/hokkaido/",
+        "product_name": "海老入り香ばしあんかけ焼そば",
+        "product_price": 604,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090199/193E7BE1C87DFCA5EE458C7269C394C8.jpg",
+        "product_date": "2022.12.28"
+      }
+    ],
+    "prefecture_name": "北海道"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048528/tohoku/",
+        "product_name": "味付のりおにぎり　梅おかか",
+        "product_price": 124,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048528/6F13C6200F0AA34888CBE76D6A607772.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048506/tohoku/",
+        "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048506/AB5947EF0F25D9847B96F6822EA5832E.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048501/tohoku/",
+        "product_name": "手巻寿司まぐろたたき巻",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048501/7276861480511BEDA29F9A680919930E.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048525/tohoku/",
+        "product_name": "ひとくち巻寿司　まぐろたたきたくあん",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048525/10106A155FFBD5AAADD30F3D50DE529F.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048439/tohoku/",
+        "product_name": "鶏唐揚げマヨネーズ巻５巻",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048439/E15C3FD65254EB20E4CCF0E9D4B1C336.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090533/tohoku/",
+        "product_name": "貝だしの旨み塩ラーメン　国産米粉使用",
+        "product_price": 540,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090533/1D6DECFDAE5CA8CCC86A54A9B65F32B2.jpg",
+        "product_date": "2022.12.28"
+      }
+    ],
+    "prefecture_name": "東北"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048506/kanto/",
+        "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048506/AB5947EF0F25D9847B96F6822EA5832E.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048505/kanto/",
+        "product_name": "直巻おむすび　高菜ご飯と明太子",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048505/B13C762DAA18DAC896B52EBF9E572DA8.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048526/kanto/",
+        "product_name": "炙り焼きソーセージのおむすび",
+        "product_price": 172,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048526/01C3F99734E9E0E4FD1B19E100720603.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048501/kanto/",
+        "product_name": "手巻寿司まぐろたたき巻",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048501/7276861480511BEDA29F9A680919930E.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048525/kanto/",
+        "product_name": "ひとくち巻寿司　まぐろたたきたくあん",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048525/10106A155FFBD5AAADD30F3D50DE529F.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051780/kanto/",
+        "product_name": "桃も苺もサンド",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051780/267BE480757ED0E0643E82C362147272.jpg",
+        "product_date": "2022.12.28"
+      }
+    ],
+    "prefecture_name": "関東"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/koshinetsu/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048506/koshinetsu/",
+        "product_name": "手巻おにぎり　国産鶏使用　鶏そぼろ",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048506/AB5947EF0F25D9847B96F6822EA5832E.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048509/koshinetsu/",
+        "product_name": "魚沼産コシヒカリおむすび　焼鮭とすじこ",
+        "product_price": 205,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048509/AEB1B9484B5FDCCCF418A0FBD8E82C6F.jpg",
+        "product_date": "2023.01.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048508/koshinetsu/",
+        "product_name": "魚沼産コシヒカリおむすび　牛しぐれ煮",
+        "product_price": 216,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048508/7C6C8A3D40DCAAB66AB8393C0F4C1658.jpg",
+        "product_date": "2023.01.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048523/koshinetsu/",
+        "product_name": "デミトマチーズソースのビーフハンバーグ丼",
+        "product_price": 702,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048523/2F731E86162A5ABA25D91DFEA6D7523C.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093500/koshinetsu/",
+        "product_name": "石臼挽きそば粉のたぬき二八そば",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093500/4F6F9D5186574A0C061107C11A84E853.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091096/koshinetsu/",
+        "product_name": "信州産小麦使用麺の年明け海老天うどん",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/091096/661BD3DA15B10943C4F0C920AAC1ED06.jpg",
+        "product_date": "2022.12.31"
+      }
+    ],
+    "prefecture_name": "甲信越"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048520/hokuriku/",
+        "product_name": "大きなおむすび　焼さばと塩昆布めし",
+        "product_price": 216,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048520/FA1696B19057C58BBF2E84E329B9FA29.jpg",
+        "product_date": "2023.01.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048510/hokuriku/",
+        "product_name": "大きなおむすび　銀鮭ハラス",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048510/D53D09CF1094D20687A771D8B0273DAE.jpg",
+        "product_date": "2023.01.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048521/hokuriku/",
+        "product_name": "北陸産米こだわりおむすび　紀州南高梅一粒梅",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048521/A2C2C38C8BE3F6B8E0A5E40888889D87.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048524/hokuriku/",
+        "product_name": "さばのいしる焼き幕の内",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048524/1176B59EFEA381153BEDAC64654A72B3.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048522/hokuriku/",
+        "product_name": "おかずたっぷり海苔弁当",
+        "product_price": 550,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048522/ADC824EFF634EE5D382183C65D7F67B6.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048523/hokuriku/",
+        "product_name": "デミトマチーズソースのビーフハンバーグ丼",
+        "product_price": 702,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048523/2F731E86162A5ABA25D91DFEA6D7523C.jpg",
+        "product_date": "2022.12.27"
+      }
+    ],
+    "prefecture_name": "北陸"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048525/tokai/",
+        "product_name": "ひとくち巻寿司　まぐろたたきたくあん",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048525/10106A155FFBD5AAADD30F3D50DE529F.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090528/tokai/",
+        "product_name": "焦がしチーズのカルボナーラ",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090528/6A5449EC0C611723E1173D8AF0DCF18B.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090287/tokai/",
+        "product_name": "ツナと大根おろしの和風パスタ",
+        "product_price": 429,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090287/FD68B8231C330F05C97CE390AC12BB2A.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090302/tokai/",
+        "product_name": "彩り野菜グラタン",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090302/CB7F0A6FFC5A86CE3311E7083321ADF9.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/302511/tokai/",
+        "product_name": "りんごとカスタードのデニッシュ",
+        "product_price": 183,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302511/9D15CB08C9CA9AC0E9954DD677E43603.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/112797/tokai/",
+        "product_name": "窯焼きシュー　とろ生カスタード",
+        "product_price": 140,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112797/ECD48BE9993D7901D47D6AFE8A3F2898.jpg",
+        "product_date": "2022.12.29"
+      }
+    ],
+    "prefecture_name": "東海"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048515/kinki/",
+        "product_name": "北海道産コーンおむすび",
+        "product_price": 135,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048515/46BD2A460DD12087ECEE64E12C100DEA.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048474/kinki/",
+        "product_name": "雑穀米おむすび　チキンライス",
+        "product_price": 145,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048474/554407CBAF32DFB1AAD8FCF93763FADA.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048517/kinki/",
+        "product_name": "豚ロースとんかつ弁当",
+        "product_price": 669,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048517/2FA539147EBB24CB11247BC251F67F75.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048518/kinki/",
+        "product_name": "牛焼肉めし",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048518/015E86C185A89FFD9BC93D2D01312596.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048472/kinki/",
+        "product_name": "だし飯のっけごはん",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048472/E7DB6B67670E920E03EAD38D6FE4D818.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048519/kinki/",
+        "product_name": "特製デミグラスのチーズハンバーグ弁当",
+        "product_price": 691,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048519/24F59861EFB6C63EE066AFBE1972D6F2.jpg",
+        "product_date": "2022.12.27"
+      }
+    ],
+    "prefecture_name": "近畿"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048525/chugoku/",
+        "product_name": "ひとくち巻寿司　まぐろたたきたくあん",
+        "product_price": 248,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048525/10106A155FFBD5AAADD30F3D50DE529F.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091405/chugoku/",
+        "product_name": "ミニわかめうどん",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/091405/80F78AF288A500A7067B8000E8083A22.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091292/chugoku/",
+        "product_name": "海老天わかめうどん",
+        "product_price": 507,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/091292/34CDA54CC398589CA52903DA3E00DA79.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091457/chugoku/",
+        "product_name": "ねぎ盛り中華そば",
+        "product_price": 550,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/091457/6FC4FA974DA80EE5B8750400BF03D450.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093444/chugoku/",
+        "product_name": "喜多方チャーシュー麺",
+        "product_price": 604,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093444/79BBECB9C1E29362D8AA6A8371361FA3.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090302/chugoku/",
+        "product_name": "彩り野菜グラタン",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090302/CB7F0A6FFC5A86CE3311E7083321ADF9.jpg",
+        "product_date": "2022.12.28"
+      }
+    ],
+    "prefecture_name": "中国"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090381/shikoku/",
+        "product_name": "小麦の風味香るミニわかめさぬきうどん",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090381/97488909706A051D9B7FF750C8178A4B.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/106315/shikoku/",
+        "product_name": "八種具材のお雑煮",
+        "product_price": 367,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/106315/51DC6ACDBE500F5FC32612232B073732.jpg",
+        "product_date": "2022.12.29"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/302511/shikoku/",
+        "product_name": "りんごとカスタードのデニッシュ",
+        "product_price": 183,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302511/9D15CB08C9CA9AC0E9954DD677E43603.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/112797/shikoku/",
+        "product_name": "窯焼きシュー　とろ生カスタード",
+        "product_price": 140,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112797/ECD48BE9993D7901D47D6AFE8A3F2898.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110870/shikoku/",
+        "product_name": "林檎の食感愉しむダブルクリームパイ",
+        "product_price": 324,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110870/466FC6D48DA0DB0CACA11ABB354B3484.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/112795/shikoku/",
+        "product_name": "粒あん＆餡ホイップの生どら焼き",
+        "product_price": 324,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112795/318049F023E5D42C99569C764C27E85E.jpg",
+        "product_date": "2022.12.29"
+      }
+    ],
+    "prefecture_name": "四国"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051746/kyushu/",
+        "product_name": "トーストサンド　三元豚とんかつ",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051746/5A947E956A02C2F0136C191CA46277E2.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050880/kyushu/",
+        "product_name": "いちごが入ったフルーツサンド",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050880/C3438AF5F1EF9AD4A13C37A73E5E4868.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093444/kyushu/",
+        "product_name": "喜多方チャーシュー麺",
+        "product_price": 604,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093444/79BBECB9C1E29362D8AA6A8371361FA3.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/092762/kyushu/",
+        "product_name": "３種ねりごまの旨み汁なし担々麺",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092762/86FF29B84D19F85409575F2E3AF02FC0.jpg",
+        "product_date": "2022.12.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/300687/kyushu/",
+        "product_name": "もちもちチョコブレッド",
+        "product_price": 127,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/300687/DD06F5EED0A037EB9169B5B87C1F8FE1.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/300819/kyushu/",
+        "product_name": "オニオン明太マヨネーズスティック",
+        "product_price": 183,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/300819/84E13B5E4385064E503C304F0B7592F0.jpg",
+        "product_date": "2022.12.27"
+      }
+    ],
+    "prefecture_name": "九州"
+  },
+  {
+    "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
+    "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048082/okinawa/",
+        "product_name": "手巻おにぎり　おかか",
+        "product_price": 118,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048082/EE7CF9FB34E595286DEDE01381053041.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048502/okinawa/",
+        "product_name": "濃厚豚骨ラーメン御飯と半熟味付玉子おむすび",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048502/9FF7E37EDF3C63839B5F1D6A4A79A05F.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048532/okinawa/",
+        "product_name": "チキンステーキ丼",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048532/42F146B387AB6989837FC0B786C112CF.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/100223/okinawa/",
+        "product_name": "たんぱく質が摂れるゆでたまごと蒸し鶏",
+        "product_price": 300,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/100223/60105BE38DD60CF088C0F6465C3FBCC0.jpg",
+        "product_date": "2022.12.29"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/106275/okinawa/",
+        "product_name": "７プレミアム　　　　　明太ポテトサラダ",
+        "product_price": 159,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/106275/5D751216CF09BA2F68C3B04550F39774.jpg",
+        "product_date": "2022.12.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/300451/okinawa/",
+        "product_name": "キャベツが入った鶏メンチカツバーガー",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/300451/931445D1E42AAAF9DF86B03AD1225DBD.jpg",
+        "product_date": "2022.12.27"
+      }
+    ],
+    "prefecture_name": "沖縄"
+  }
+]
