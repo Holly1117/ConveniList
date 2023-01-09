@@ -223,17 +223,17 @@
         "product_date": "2023.01.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048472/hokuriku/",
-        "product_name": "だし飯のっけごはん",
-        "product_price": 432,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048472/E7DB6B67670E920E03EAD38D6FE4D818.jpg",
-        "product_date": "2023.01.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048547/hokuriku/",
         "product_name": "しらすと梅の出汁茶漬け（金沢大野醤油使用）",
         "product_price": 345,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048547/D319B8B5072333C2A00E0482A01C36A5.jpg",
+        "product_date": "2023.01.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051740/hokuriku/",
+        "product_name": "ハムカツたまごサンド",
+        "product_price": 259,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051740/65FA1265099FE4048459D69DFF0CFFFF.jpg",
         "product_date": "2023.01.04"
       }
     ],
@@ -353,13 +353,6 @@
         "product_date": "2023.01.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048544/chugoku/",
-        "product_name": "新潟県産コシヒカリおむすび　帆立バター醤油",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048544/97896F81A60A09EFA187A0E0C38EC771.jpg",
-        "product_date": "2023.01.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048558/chugoku/",
         "product_name": "チキンカツ＆生姜香る豚ロース生姜焼き弁当",
         "product_price": 496,
@@ -379,6 +372,13 @@
         "product_price": 378,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048549/2613C7BFE4B9E7D85CCA41E8366A7E18.jpg",
         "product_date": "2023.01.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048555/chugoku/",
+        "product_name": "焼おにぎりのだし茶漬け（紅鮭と炙りたらこ）",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048555/4B5E69ADFB1D7FE1BF0969F3CE58F351.jpg",
+        "product_date": "2023.01.04"
       }
     ],
     "prefecture_name": "中国"
@@ -387,24 +387,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048554/shikoku/",
-        "product_name": "小松菜ベーコンおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048554/8A1343B5CC9E22186C6679D752EBED27.jpg",
-        "product_date": "2023.01.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040330/shikoku/",
         "product_name": "トマト１個分のリコピン入りオムライスおむすび",
         "product_price": 156,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040330/3F3FC936940C701248FC9728FBA89597.jpg",
-        "product_date": "2023.01.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/048544/shikoku/",
-        "product_name": "新潟県産コシヒカリおむすび　帆立バター醤油",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048544/97896F81A60A09EFA187A0E0C38EC771.jpg",
         "product_date": "2023.01.04"
       },
       {
@@ -426,6 +412,20 @@
         "product_name": "香り箱の寿司",
         "product_price": 183,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048534/04498A901C13CE8F329A555F050177A3.jpg",
+        "product_date": "2023.01.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051785/shikoku/",
+        "product_name": "カスタード＆ホイップのいちごサンド",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051785/F9C98428B0BA92760C3311D92E294239.jpg",
+        "product_date": "2023.01.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051778/shikoku/",
+        "product_name": "デリラップ蒸し鶏のシーザーサラダ",
+        "product_price": 321,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051778/050E0B4182262C1DD1119759176664FF.jpg",
         "product_date": "2023.01.04"
       }
     ],
