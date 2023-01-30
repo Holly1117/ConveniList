@@ -31,17 +31,17 @@
         "product_date": "2023.01.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/050995/hokkaido/",
-        "product_name": "たんぱく質が摂れるブロッコリー＆チキンサンド",
-        "product_price": 399,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050995/785570246C1FA7C88F1B4A4171D5D599.jpg",
-        "product_date": "2023.01.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/051222/hokkaido/",
         "product_name": "ブリトーウインナー２本入りチリミート",
         "product_price": 302,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051222/AD90D3FE883003A5CFB7819B4B416927.jpg",
+        "product_date": "2023.01.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093581/hokkaido/",
+        "product_name": "北海道産蕎麦粉使用　たぬきそば",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093581/96E0ADBB773D1EC76AAC4A00C3F90B28.jpg",
         "product_date": "2023.01.25"
       }
     ],
@@ -168,13 +168,6 @@
         "product_date": "2023.01.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048636/koshinetsu/",
-        "product_name": "甘辛だれで食べる鶏めし",
-        "product_price": 432,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048636/FC7FEA9E59775EB92C536ED65379AA3D.jpg",
-        "product_date": "2023.01.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048657/koshinetsu/",
         "product_name": "２種の味　和風ハンバーグ＆ガーリックポーク",
         "product_price": 637,
@@ -186,6 +179,13 @@
         "product_name": "野沢菜わさび　だし飯茶漬け",
         "product_price": 302,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048655/EDBE6315D9A212F56979F333AFDCFEC5.jpg",
+        "product_date": "2023.01.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048631/koshinetsu/",
+        "product_name": "いなり寿司　柚子",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048631/67C38F5756279CD90FDE6BF7C968AAE5.jpg",
         "product_date": "2023.01.24"
       }
     ],
@@ -278,10 +278,10 @@
         "product_date": "2023.01.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047553/tokai/",
-        "product_name": "キーマカレー＆タンドリー風チキン",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047553/95EDF5011709838A787BB62D596C8778.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/048647/tokai/",
+        "product_name": "欧風ロースカツカレー",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048647/E0A8741C06477F7DE7B024DB66731EF4.jpg",
         "product_date": "2023.01.24"
       }
     ],
@@ -394,13 +394,6 @@
         "product_date": "2023.01.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048603/shikoku/",
-        "product_name": "新潟県産コシヒカリおむすび　たらこ昆布うま煮",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048603/C49E1B0E5976CDCF6C2EBDBE495522F6.jpg",
-        "product_date": "2023.01.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048537/shikoku/",
         "product_name": "鶏だし香る鶏そぼろごはん",
         "product_price": 324,
@@ -427,6 +420,13 @@
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048269/49B0AA85C22B8224407850C9BEBCA716.jpg",
         "product_date": "2023.01.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051164/shikoku/",
+        "product_name": "桃とパインのサンド",
+        "product_price": 334,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051164/46C6BB6E69C779FDD6C0A07D6071184F.jpg",
+        "product_date": "2023.01.25"
       }
     ],
     "prefecture_name": "四国"
