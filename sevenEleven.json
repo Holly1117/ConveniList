@@ -31,18 +31,18 @@
         "product_date": "2023.02.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048863/hokkaido/",
-        "product_name": "赤坂四川飯店監修　麻婆チャーハン",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048863/9A0DB1450C9920D38ECDE150C05114DE.jpg",
-        "product_date": "2023.02.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048879/hokkaido/",
         "product_name": "ひとくち巻寿司　キンパ風プルコギ巻",
         "product_price": 226,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048879/554C8B70EE563331E4FD4AAF7221ACBD.jpg",
         "product_date": "2023.02.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/051859/hokkaido/",
+        "product_name": "トマト＆レタスサンド",
+        "product_price": 375,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051859/640532EFC1E08C5C5DFF616BEBA88519.jpg",
+        "product_date": "2023.02.15"
       }
     ],
     "prefecture_name": "北海道"
@@ -442,13 +442,6 @@
         "product_date": "2023.02.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048860/kyushu/",
-        "product_name": "香ばし炒めの玉子炒飯おむすび",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048860/0EFE0B05ACAEF191F0D2B20684FA7ADA.jpg",
-        "product_date": "2023.02.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048873/kyushu/",
         "product_name": "大盛りごはんレモンポン酢で食べる唐揚げ弁当",
         "product_price": 691,
@@ -474,6 +467,13 @@
         "product_name": "赤坂四川飯店監修　麻婆チャーハン",
         "product_price": 648,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048863/9A0DB1450C9920D38ECDE150C05114DE.jpg",
+        "product_date": "2023.02.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048269/kyushu/",
+        "product_name": "手巻寿司　鶏唐揚マヨネーズ巻",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048269/49B0AA85C22B8224407850C9BEBCA716.jpg",
         "product_date": "2023.02.14"
       }
     ],
