@@ -10,13 +10,6 @@
         "product_date": "2023.02.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048905/hokkaido/",
-        "product_name": "焦がし醤油の鮭バターおむすび",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048905/F2D4ABD467E44476B4A908A123C40D94.jpg",
-        "product_date": "2023.02.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048900/hokkaido/",
         "product_name": "焼つくねおむすび",
         "product_price": 151,
@@ -43,6 +36,13 @@
         "product_price": 496,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048902/87E192C7074BAF78B015F1A5DDA3FF4E.jpg",
         "product_date": "2023.02.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042861/hokkaido/",
+        "product_name": "ルー・ド・メール監修　特選ビーフカレー",
+        "product_price": 810,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042861/9383BB4D3BDF9D1C84BBB3AA782706BA.jpg",
+        "product_date": "2023.02.27"
       }
     ],
     "prefecture_name": "北海道"
@@ -79,17 +79,17 @@
         "product_date": "2023.02.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045635/tohoku/",
-        "product_name": "だし香る炊き込みご飯おむすび　あさりめし",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045635/1F015149C94B5C64882F95978D94A31B.jpg",
-        "product_date": "2023.02.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048957/tohoku/",
         "product_name": "銀河のしずくおむすび　明太子昆布",
         "product_price": 172,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048957/7B53EC8929D657322CC42F5F8852DA3D.jpg",
+        "product_date": "2023.02.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048928/tohoku/",
+        "product_name": "山形県産つや姫おむすび明太子昆布",
+        "product_price": 172,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048928/254A9D3F53724D92FD3FE06FAC7EEBBC.jpg",
         "product_date": "2023.02.21"
       }
     ],
@@ -175,18 +175,18 @@
         "product_date": "2023.02.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048975/koshinetsu/",
-        "product_name": "梨北米こだわりおむすび金目鯛粕漬け",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048975/EF679B96B4B55D09987A60B5F622A682.jpg",
-        "product_date": "2023.02.22"
+        "product_url": "https://www.sej.co.jp/products/a/item/048919/koshinetsu/",
+        "product_name": "魚沼産コシヒカリおむすび　明太子昆布",
+        "product_price": 172,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048919/A11BB0DF2EC44A88ED1C837F780DFEC7.jpg",
+        "product_date": "2023.02.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048974/koshinetsu/",
-        "product_name": "長野県産米こだわりおむすび　金目鯛粕漬け",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048974/25A15F2A99F470ADCC3F18756AD892D4.jpg",
-        "product_date": "2023.02.22"
+        "product_url": "https://www.sej.co.jp/products/a/item/048942/koshinetsu/",
+        "product_name": "ハンバーグ＆エビフライの洋食弁当",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048942/1FB4B434AF342C57A7E39CB76BBE3416.jpg",
+        "product_date": "2023.02.21"
       }
     ],
     "prefecture_name": "甲信越"
@@ -342,7 +342,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/048960/chugoku/",
         "product_name": "手巻おにぎり明太子マヨネーズ",
         "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048960/7B43A2E7B8C3C5F3F475E45D84974ABA.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048960/D68E59AD15A4C2F294B72C3C01471C91.jpg",
         "product_date": "2023.02.21"
       },
       {
@@ -360,13 +360,6 @@
         "product_date": "2023.02.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048961/chugoku/",
-        "product_name": "新潟県産コシヒカリおむすび　明太子昆布",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048961/E1716B19BB01AC6D21F0688888ED2137.jpg",
-        "product_date": "2023.02.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048935/chugoku/",
         "product_name": "厳選米おむすび　明太子昆布",
         "product_price": 172,
@@ -379,6 +372,13 @@
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048942/1FB4B434AF342C57A7E39CB76BBE3416.jpg",
         "product_date": "2023.02.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042855/chugoku/",
+        "product_name": "鶏めし",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042855/B98EDF648E35373BEF09C9D6C1268C14.jpg",
+        "product_date": "2023.02.21"
       }
     ],
     "prefecture_name": "中国"
@@ -390,7 +390,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/048960/shikoku/",
         "product_name": "手巻おにぎり明太子マヨネーズ",
         "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048960/7B43A2E7B8C3C5F3F475E45D84974ABA.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048960/D68E59AD15A4C2F294B72C3C01471C91.jpg",
         "product_date": "2023.02.21"
       },
       {
