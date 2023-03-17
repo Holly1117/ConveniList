@@ -17,13 +17,6 @@
         "product_date": "2023.03.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049017/hokkaido/",
-        "product_name": "一番だしおむすび　かつおめし",
-        "product_price": 113,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049017/4143E6B95F13FC906E0FF1220EE98B13.jpg",
-        "product_date": "2023.03.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049020/hokkaido/",
         "product_name": "お好み幕の内",
         "product_price": 496,
@@ -42,6 +35,13 @@
         "product_name": "ふわっとろ玉子の親子丼",
         "product_price": 464,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049031/26643C2C176232E95931491EECBEF8D1.jpg",
+        "product_date": "2023.03.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046592/hokkaido/",
+        "product_name": "旨辛キムチチャーハン",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046592/7617946C73D369F012B5545E92C28569.jpg",
         "product_date": "2023.03.14"
       }
     ],
@@ -120,13 +120,6 @@
         "product_date": "2023.03.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049017/kanto/",
-        "product_name": "一番だしおむすび　かつおめし",
-        "product_price": 113,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049017/4143E6B95F13FC906E0FF1220EE98B13.jpg",
-        "product_date": "2023.03.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049020/kanto/",
         "product_name": "お好み幕の内",
         "product_price": 496,
@@ -138,6 +131,13 @@
         "product_name": "さばの塩焼き幕の内弁当",
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049024/B2D22536CBE957FD5641C7BBC064002B.jpg",
+        "product_date": "2023.03.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049022/kanto/",
+        "product_name": "紅鮭ごはん",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049022/65FE4952B86C19DBF850DCE08B02DA10.jpg",
         "product_date": "2023.03.14"
       }
     ],
@@ -161,13 +161,6 @@
         "product_date": "2023.03.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049017/koshinetsu/",
-        "product_name": "一番だしおむすび　かつおめし",
-        "product_price": 113,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049017/4143E6B95F13FC906E0FF1220EE98B13.jpg",
-        "product_date": "2023.03.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043807/koshinetsu/",
         "product_name": "舞茸入り五目おこわおむすび",
         "product_price": 140,
@@ -186,6 +179,13 @@
         "product_name": "厳選米おむすび　金目鯛粕漬け",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048721/E95F51931C074AA5BC9062F33DBC185D.jpg",
+        "product_date": "2023.03.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049020/koshinetsu/",
+        "product_name": "お好み幕の内",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049020/D65BBE787E5A5E499CF82C9FCA93B707.jpg",
         "product_date": "2023.03.14"
       }
     ],
