@@ -147,13 +147,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/koshinetsu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049075/koshinetsu/",
-        "product_name": "手巻おにぎりすじこ醤油漬け",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049075/049309C1E982CFBEF09F2F638CC39F54.jpg",
-        "product_date": "2023.03.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049061/koshinetsu/",
         "product_name": "赤飯おこわおむすび",
         "product_price": 135,
@@ -186,6 +179,13 @@
         "product_name": "八代目儀兵衛監修　昆布だしで炊いただしむすび",
         "product_price": 129,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049057/284029B40D7A3BB0D752EA2BC28E61FB.jpg",
+        "product_date": "2023.03.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048423/koshinetsu/",
+        "product_name": "厳選米おむすび　紀州南高梅一粒梅",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048423/106252ACC8247A1097C62E91FF1BA54D.jpg",
         "product_date": "2023.03.21"
       }
     ],
