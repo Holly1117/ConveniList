@@ -72,13 +72,6 @@
         "product_date": "2023.03.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048322/tohoku/",
-        "product_name": "わさび菜飯おむすび",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048322/E393883632F2152B8A0848849E7DA1AE.jpg",
-        "product_date": "2023.03.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049062/tohoku/",
         "product_name": "八代目儀兵衛監修銀しゃりおむすび　ちりめん山椒",
         "product_price": 162,
@@ -90,6 +83,13 @@
         "product_name": "八代目儀兵衛監修銀しゃりおむすび　牛そぼろ",
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049059/C05DF986BCFEB40B21E676982AACAE1B.jpg",
+        "product_date": "2023.03.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049058/tohoku/",
+        "product_name": "八代目儀兵衛監修銀しゃりおむすび　梅ひじき",
+        "product_price": 151,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049058/8B0B5505D09BA5133CBEB3698673018B.jpg",
         "product_date": "2023.03.21"
       }
     ],
@@ -326,10 +326,10 @@
         "product_date": "2023.03.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048942/kinki/",
-        "product_name": "ハンバーグ＆エビフライの洋食弁当",
-        "product_price": 572,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048942/1FB4B434AF342C57A7E39CB76BBE3416.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/049083/kinki/",
+        "product_name": "豚ロースの焼肉御飯（唐辛子マヨネーズ）",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049083/AF4B712A68A81BF63D2F3B54866AFA27.jpg",
         "product_date": "2023.03.21"
       }
     ],
@@ -435,13 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049036/kyushu/",
-        "product_name": "直巻おむすび　　　　　豚みそ",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049036/4339D9BCB589727149977AED60CF8BA2.jpg",
-        "product_date": "2023.03.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049061/kyushu/",
         "product_name": "赤飯おこわおむすび",
         "product_price": 135,
@@ -474,6 +467,13 @@
         "product_name": "八代目儀兵衛監修銀しゃりおむすび　梅ひじき",
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049058/8B0B5505D09BA5133CBEB3698673018B.jpg",
+        "product_date": "2023.03.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049057/kyushu/",
+        "product_name": "八代目儀兵衛監修　昆布だしで炊いただしむすび",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049057/284029B40D7A3BB0D752EA2BC28E61FB.jpg",
         "product_date": "2023.03.21"
       }
     ],
