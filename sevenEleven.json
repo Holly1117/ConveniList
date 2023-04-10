@@ -175,18 +175,18 @@
         "product_date": "2023.04.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049037/koshinetsu/",
-        "product_name": "オムライスおむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049037/0902F762BE5731159151CEA09BFC2F49.jpg",
-        "product_date": "2023.04.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049304/koshinetsu/",
         "product_name": "厳選米おむすび　柿安監修牛山椒",
         "product_price": 226,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049304/F728402DEB34124FB93380658C5305F7.jpg",
         "product_date": "2023.04.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040866/koshinetsu/",
+        "product_name": "唐辛子マヨネーズで食べる豚焼肉弁当",
+        "product_price": 507,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040866/5A57C427169E665FCD7E36289E6C64E2.jpg",
+        "product_date": "2023.04.04"
       }
     ],
     "prefecture_name": "甲信越"
@@ -223,17 +223,17 @@
         "product_date": "2023.04.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049163/hokuriku/",
-        "product_name": "桜海老のだしご飯と鶏の照り焼き",
-        "product_price": 432,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049163/F6BF1527BC0CA42D735BCC0248F0BCD3.jpg",
-        "product_date": "2023.04.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049227/hokuriku/",
         "product_name": "牛と野菜の旨味　欧風ビーフカレー",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049227/452EF9DA20FB5EFFF71023CA5647BED6.jpg",
+        "product_date": "2023.04.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047217/hokuriku/",
+        "product_name": "旨辛チーズタッカルビ丼",
+        "product_price": 540,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/047217/8D4F08E948E3630D925CDF787A763B0B.jpg",
         "product_date": "2023.04.04"
       }
     ],
@@ -264,13 +264,6 @@
         "product_date": "2023.04.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040498/tokai/",
-        "product_name": "あらびきソーセージおむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040498/07DE06F23E24213F075B089DEA43F9AE.jpg",
-        "product_date": "2023.04.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049233/tokai/",
         "product_name": "新潟県産コシヒカリおむすび柿安監修牛山椒",
         "product_price": 226,
@@ -282,6 +275,13 @@
         "product_name": "明太のりべん（焼津産鰹の鰹節使用）",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041342/210B4957EEB5D1889D3D82AB294FDE4A.jpg",
+        "product_date": "2023.04.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041317/tokai/",
+        "product_name": "明太海苔弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041317/D554A0D4682FA406C2AFB5A9E7AB6CFA.jpg",
         "product_date": "2023.04.04"
       }
     ],
@@ -319,17 +319,17 @@
         "product_date": "2023.04.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049261/kinki/",
-        "product_name": "大盛りごはんソーセージステーキ＆豚焼肉弁当",
-        "product_price": 615,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049261/CF0F787AF151ADF2C0144ADE4B06BE98.jpg",
-        "product_date": "2023.04.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049270/kinki/",
         "product_name": "おかかたっぷりミニのり弁当",
         "product_price": 345,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049270/D71AA8F9BDDFB0FE4404D7F8A0E7AEFB.jpg",
+        "product_date": "2023.04.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049163/kinki/",
+        "product_name": "桜海老のだしご飯と鶏の照り焼き",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049163/F6BF1527BC0CA42D735BCC0248F0BCD3.jpg",
         "product_date": "2023.04.04"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2023.04.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041432/shikoku/",
-        "product_name": "新潟県産コシヒカリおむすびしらす大葉たらこ",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041432/CDB08DAF5A7DDB7D613171906D486689.jpg",
-        "product_date": "2023.04.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041383/shikoku/",
         "product_name": "海苔弁当",
         "product_price": 496,
@@ -426,6 +419,13 @@
         "product_name": "豚ロースとんかつ弁当",
         "product_price": 624,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040850/8E20234B7FFBF1734859FCEDD933C528.jpg",
+        "product_date": "2023.04.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049202/shikoku/",
+        "product_name": "おむすび弁当",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049202/9838C1093BFD99785FD9CF8551F6C063.jpg",
         "product_date": "2023.04.04"
       }
     ],
