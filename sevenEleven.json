@@ -291,13 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049413/kinki/",
-        "product_name": "おむすび２個入り（しそわかめ・梅おかか）",
-        "product_price": 302,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049413/CA2290B264077446A6F5105FCC721576.jpg",
-        "product_date": "2023.04.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049499/kinki/",
         "product_name": "おかか混ぜご飯おむすび",
         "product_price": 113,
@@ -330,6 +323,13 @@
         "product_name": "ジューシーチキン弁当",
         "product_price": 615,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049414/F84D6AAB0AEA33DC83A3EFAE460FC5FE.jpg",
+        "product_date": "2023.04.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049421/kinki/",
+        "product_name": "炙り鶏の特製親子丼",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049421/F6A7C25395C8F9F8CC141291D470E8EA.jpg",
         "product_date": "2023.04.11"
       }
     ],
