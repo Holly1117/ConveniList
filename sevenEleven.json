@@ -51,13 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049669/tohoku/",
-        "product_name": "発芽雑穀米おむすび　明太クリームチーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049669/199E8F0D5B6E615A28A835D7DF9F48FF.jpg",
-        "product_date": "2023.04.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049617/tohoku/",
         "product_name": "カリカリ梅おむすび",
         "product_price": 140,
@@ -72,13 +65,6 @@
         "product_date": "2023.04.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049593/tohoku/",
-        "product_name": "玄米むすび　鮭昆布",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049593/B07443427381267AE30A0A76095BAED6.jpg",
-        "product_date": "2023.04.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049655/tohoku/",
         "product_name": "会津産コシヒカリおむすび　生たらこ",
         "product_price": 205,
@@ -90,6 +76,20 @@
         "product_name": "会津産コシヒカリおむすび　柿安監修牛山椒",
         "product_price": 226,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049613/9431410BB4741472717B10318021CA8F.jpg",
+        "product_date": "2023.04.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049568/tohoku/",
+        "product_name": "会津産コシヒカリおむすび　サーモンハラス",
+        "product_price": 210,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049568/BE8D461358196D119625AF2046E8BDF9.jpg",
+        "product_date": "2023.04.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049566/tohoku/",
+        "product_name": "チャーハン＆醤油ダレで食べる豚の炙り焼き",
+        "product_price": 507,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049566/CCC12D8A46BC5FA1A93B89AAC313F0A4.jpg",
         "product_date": "2023.04.25"
       }
     ],
@@ -298,13 +298,6 @@
         "product_date": "2023.04.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049593/kinki/",
-        "product_name": "玄米むすび　鮭昆布",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049593/B07443427381267AE30A0A76095BAED6.jpg",
-        "product_date": "2023.04.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049576/kinki/",
         "product_name": "もち麦もっちり　梅こんぶおむすび",
         "product_price": 140,
@@ -319,17 +312,24 @@
         "product_date": "2023.04.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049603/kinki/",
-        "product_name": "ミートコンボにんにく醤油ご飯",
-        "product_price": 637,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049603/36C7B3C92BCB1C86A3AE2624ACDD197B.jpg",
-        "product_date": "2023.04.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/049601/kinki/",
         "product_name": "モッツァレラソースのロコモコ丼",
         "product_price": 645,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049601/FB537AAED1781BB42F0B9C5E70B58CFF.jpg",
+        "product_date": "2023.04.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049602/kinki/",
+        "product_name": "手巻寿司シーフードサラダ巻",
+        "product_price": 199,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049602/82DC476C9077024E254B85233C502AE4.jpg",
+        "product_date": "2023.04.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/049055/kinki/",
+        "product_name": "手巻寿司　まぐろたたき巻",
+        "product_price": 221,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049055/6F437DA6096A0BDF5F4992058CEA3FBD.jpg",
         "product_date": "2023.04.25"
       }
     ],
@@ -374,11 +374,11 @@
         "product_date": "2023.04.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049621/chugoku/",
-        "product_name": "手巻寿司　さばガリ巻（Ｌ）",
-        "product_price": 226,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049621/92F8DD26100C3574D19990790E80F6AD.jpg",
-        "product_date": "2023.04.25"
+        "product_url": "https://www.sej.co.jp/products/a/item/052084/chugoku/",
+        "product_name": "ボックスサンド（ハムチ―ズ＆ツナコーン）",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052084/AE22DD03D568C5C34D80CBD5B6434100.jpg",
+        "product_date": "2023.04.26"
       }
     ],
     "prefecture_name": "中国"
@@ -422,10 +422,10 @@
         "product_date": "2023.04.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/048806/shikoku/",
-        "product_name": "厳選米おむすび　生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048806/68A61906C38383FB267012D10C2BF121.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/044641/shikoku/",
+        "product_name": "厳選米おむすび　炭火焼広島牛（わさび添え）",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044641/E9D8BEA3C9EE98F9C022C39319556D87.jpg",
         "product_date": "2023.04.25"
       }
     ],
