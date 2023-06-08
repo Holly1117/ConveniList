@@ -195,6 +195,27 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/040228/hokuriku/",
+        "product_name": "ぶたはげ監修　ピリ辛炭火焼き豚丼",
+        "product_price": 734,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040228/BB337464504AE4EB8F045FB8A35AA7EF.jpg",
+        "product_date": "2023.06.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040325/hokuriku/",
+        "product_name": "Ｓｕａｇｅ監修チキンと野菜のスープカレー",
+        "product_price": 745,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040325/18983C72D26E7FA8CAF3B31F6F8793AF.jpg",
+        "product_date": "2023.06.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040229/hokuriku/",
+        "product_name": "三國シェフ監修　ビーフシチューオムライス",
+        "product_price": 702,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040229/21257984F96B383A70D20D641DE2326F.jpg",
+        "product_date": "2023.06.06"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/052187/hokuriku/",
         "product_name": "チキンカツサンド",
         "product_price": 410,
@@ -214,27 +235,6 @@
         "product_price": 429,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052185/F3986D0364FADB0E0F9766EB837CBADA.jpg",
         "product_date": "2023.06.07"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/052186/hokuriku/",
-        "product_name": "ブリトーチーズ２倍　　ハム＆５種チーズ",
-        "product_price": 399,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052186/0AF6410C3339462463C4E692A813B569.jpg",
-        "product_date": "2023.06.07"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/090744/hokuriku/",
-        "product_name": "蒸し鶏と半熟玉子のラーメンサラダ",
-        "product_price": 486,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090744/741254EF1B4A9A5956B5BE0DE13B4AC9.jpg",
-        "product_date": "2023.06.06"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/090849/hokuriku/",
-        "product_name": "梅光軒監修　旭川醤油ラーメン",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090849/F5AFB29DEBC353504090CE2BC5ABCAC9.jpg",
-        "product_date": "2023.06.06"
       }
     ],
     "prefecture_name": "北陸"
@@ -291,6 +291,13 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/040350/kinki/",
+        "product_name": "北海道産秋鮭とおかかのおむすび",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040350/C54860D02FB3DEF6DC35D08B1DD86F67.jpg",
+        "product_date": "2023.06.06"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/040309/kinki/",
         "product_name": "阿部商店監修いかめしおむすび",
         "product_price": 194,
@@ -323,13 +330,6 @@
         "product_name": "ハンバーグ＆エビフライの洋食弁当",
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040314/E78A445BCAC320CFDCF1D041E3B814A5.jpg",
-        "product_date": "2023.06.06"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040214/kinki/",
-        "product_name": "黒胡椒だれのジューシーチキン弁当",
-        "product_price": 615,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040214/156CB65775F585E1046914E325D2C235.jpg",
         "product_date": "2023.06.06"
       }
     ],
