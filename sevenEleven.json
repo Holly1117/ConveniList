@@ -483,20 +483,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040350/okinawa/",
-        "product_name": "北海道産秋鮭とおかかのおむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040350/C54860D02FB3DEF6DC35D08B1DD86F67.jpg",
-        "product_date": "2023.06.06"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040309/okinawa/",
-        "product_name": "阿部商店監修いかめしおむすび",
-        "product_price": 194,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040309/22F8D7B38B4CC52BE73099E67E3F1E87.jpg",
-        "product_date": "2023.06.06"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040181/okinawa/",
         "product_name": "厳選米おむすび　北海道産生たらこ",
         "product_price": 205,
@@ -523,6 +509,20 @@
         "product_price": 199,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040179/C49CBE70D9963C9DD15BFEA12670BDE0.jpg",
         "product_date": "2023.06.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040196/okinawa/",
+        "product_name": "手巻寿司　サーモンクリームチーズ巻",
+        "product_price": 226,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040196/9D1BFC9B008BF14EBED4AE0AB759E413.jpg",
+        "product_date": "2023.06.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052094/okinawa/",
+        "product_name": "三元豚とんかつサンド",
+        "product_price": 453,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052094/23DA291424A2CE506813D76A97DFFA61.jpg",
+        "product_date": "2023.06.07"
       }
     ],
     "prefecture_name": "沖縄"
