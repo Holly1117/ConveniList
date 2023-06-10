@@ -435,6 +435,13 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/040309/kyushu/",
+        "product_name": "阿部商店監修いかめしおむすび",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040309/22F8D7B38B4CC52BE73099E67E3F1E87.jpg",
+        "product_date": "2023.06.06"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/040311/kyushu/",
         "product_name": "新潟県産コシヒカリおむすび　北海道産生たらこ",
         "product_price": 205,
@@ -468,13 +475,6 @@
         "product_price": 399,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052186/0AF6410C3339462463C4E692A813B569.jpg",
         "product_date": "2023.06.07"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/090744/kyushu/",
-        "product_name": "蒸し鶏と半熟玉子のラーメンサラダ",
-        "product_price": 486,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090744/741254EF1B4A9A5956B5BE0DE13B4AC9.jpg",
-        "product_date": "2023.06.06"
       }
     ],
     "prefecture_name": "九州"
