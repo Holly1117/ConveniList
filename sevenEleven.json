@@ -51,20 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041211/tohoku/",
-        "product_name": "スタミナ源たれ　豚焼肉おむすび",
-        "product_price": 178,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041211/BD3B6A9FCCF511FA01729EFED2FB9E0E.jpg",
-        "product_date": "2023.07.25"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041210/tohoku/",
-        "product_name": "いわて牛五ツ星　ビビンバおむすび",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041210/CF5309B428AC0470D9DB1451E31C276D.jpg",
-        "product_date": "2023.07.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041207/tohoku/",
         "product_name": "仙台味噌焼きおにぎり　ねぎ味噌",
         "product_price": 162,
@@ -72,25 +58,39 @@
         "product_date": "2023.07.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041204/tohoku/",
-        "product_name": "だだちゃ豆と塩昆布のおむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041204/B22EFAD1E8E48A1641D861AF32A531F2.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041164/tohoku/",
+        "product_name": "香ばし炒めの玉子炒飯おむすび",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041164/999CD7D7B066A64B601E9BA3B5A9FFEE.jpg",
         "product_date": "2023.07.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041203/tohoku/",
-        "product_name": "いぶりがっこと昆布の混ぜごはんおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041203/31ADD0641C67B64C9DD5B1B1A990AC79.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041173/tohoku/",
+        "product_name": "豚焼肉食べ比べ重",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041173/651B5743E2222902224A815F18FAD623.jpg",
         "product_date": "2023.07.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041191/tohoku/",
-        "product_name": "味めしおむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041191/E7A6A9421C389401CDAC9D6FE045F3E5.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/049603/tohoku/",
+        "product_name": "ミートコンボにんにく醤油ご飯",
+        "product_price": 637,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049603/5006B09A12641F85A74CB323323F2B14.jpg",
         "product_date": "2023.07.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041208/tohoku/",
+        "product_name": "明太ミニのり弁当",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041208/A5EDE3EF87F7E93CB32444C336419456.jpg",
+        "product_date": "2023.07.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041223/tohoku/",
+        "product_name": "ルー・ド・メール監修　欧風ビーフカレー",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041223/B26B7B5024D470756F49749C1E77E829.jpg",
+        "product_date": "2023.07.31"
       }
     ],
     "prefecture_name": "東北"
@@ -291,13 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040832/kinki/",
-        "product_name": "混ぜ飯おむすび　万願寺とうがらし",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040832/B27CB03561F1221D54E0D442370995CA.jpg",
-        "product_date": "2023.07.26"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041164/kinki/",
         "product_name": "香ばし炒めの玉子炒飯おむすび",
         "product_price": 129,
@@ -309,13 +302,6 @@
         "product_name": "一番だしおむすび　しょうがめし",
         "product_price": 118,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041163/A550097E227E16E86D68963F8FBF2D94.jpg",
-        "product_date": "2023.07.25"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041232/kinki/",
-        "product_name": "牛めし幕の内弁当",
-        "product_price": 583,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041232/EDD5F746AF6FD867DCA79208D23BC253.jpg",
         "product_date": "2023.07.25"
       },
       {
@@ -331,6 +317,20 @@
         "product_price": 615,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041233/6F46CB4A8829C5CE2B558297E3999F66.jpg",
         "product_date": "2023.07.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040731/kinki/",
+        "product_name": "旧ヤム邸監修　和風だしのスパイスカレー",
+        "product_price": 702,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040731/16E9334C6845CCDC45437E6DFF94620C.jpg",
+        "product_date": "2023.07.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041229/kinki/",
+        "product_name": "魯珈監修　ろかプレート",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041229/5C92EE36E7703058E336608144447300.jpg",
+        "product_date": "2023.07.31"
       }
     ],
     "prefecture_name": "近畿"
