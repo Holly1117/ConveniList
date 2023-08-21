@@ -99,20 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041413/kanto/",
-        "product_name": "しゃくし菜おむすび　埼玉県産しゃくし菜使用",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041413/7DC012E23C7608D551188983D543D6B6.jpg",
-        "product_date": "2023.08.15"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041367/kanto/",
-        "product_name": "群馬県産カリカリ梅おむすび",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041367/7ECE5E6611CEC1FD6095EF2C560E8363.jpg",
-        "product_date": "2023.08.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041366/kanto/",
         "product_name": "かみなりごはんおむすび",
         "product_price": 118,
@@ -138,6 +124,20 @@
         "product_name": "八代目儀兵衛監修銀しゃりおむすび　鮭すじこ",
         "product_price": 205,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041448/0CE3F071E9C3A3E8FB420567942653C7.jpg",
+        "product_date": "2023.08.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041446/kanto/",
+        "product_name": "八代目儀兵衛監修銀しゃりおむすびちりめん山椒",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041446/E926D3D9AAA74B200C5F8F3538B5909C.jpg",
+        "product_date": "2023.08.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041445/kanto/",
+        "product_name": "八代目儀兵衛監修　昆布だしで炊いただしむすび",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041445/CCB298BB4F1F204AA647C80DFF04677D.jpg",
         "product_date": "2023.08.15"
       }
     ],
@@ -387,13 +387,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041326/shikoku/",
-        "product_name": "３種具材混ぜ飯（ごま油香るチュモッパ）",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041326/A54CA516AC82043229883D27787BE6AD.jpg",
-        "product_date": "2023.08.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041452/shikoku/",
         "product_name": "八代目儀兵衛監修　土佐甘とう肉みそ",
         "product_price": 162,
@@ -426,6 +419,13 @@
         "product_name": "八代目儀兵衛監修銀しゃりおむすび　牛そぼろ",
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041441/BFE005F76CE2AE3E74FC863DB0E92025.jpg",
+        "product_date": "2023.08.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041544/shikoku/",
+        "product_name": "和風ツナごはん別添マヨネーズ",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041544/61D1E8D4DB16D4FE3266BBA4044D5F22.jpg",
         "product_date": "2023.08.15"
       }
     ],
@@ -486,7 +486,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/040038/okinawa/",
         "product_name": "直巻おむすび　海老マヨネーズ",
         "product_price": 199,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040038/A2C7676977D64E2EC9976AC4CA5662C8.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040038/CED486D48E214C3CF56684DA2CE6D83C.jpg",
         "product_date": "2023.08.15"
       },
       {
