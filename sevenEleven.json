@@ -79,17 +79,17 @@
         "product_date": "2023.09.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041923/tohoku/",
-        "product_name": "秋田県産枝豆のおむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041923/733EE341354439C71D1E26A71F55E17B.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040046/tohoku/",
+        "product_name": "牛豚鶏の焼肉弁当　ピリ辛・塩・甘辛",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040046/70654AA3E8A466F74ECA278AFB1F35F7.jpg",
         "product_date": "2023.09.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041908/tohoku/",
-        "product_name": "特製だしつゆ　天タレまぶしおむすび",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041908/E8C45F3AC1E395E84C5331609F4D0737.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041933/tohoku/",
+        "product_name": "ミックスグリル弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041933/24A90139763F57B59B3F5E39D5BC5EC4.jpg",
         "product_date": "2023.09.12"
       }
     ],
@@ -175,17 +175,17 @@
         "product_date": "2023.09.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/049448/koshinetsu/",
-        "product_name": "オムライスおむすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/049448/EC818E93E97C87269F37A6F8AA37E453.jpg",
-        "product_date": "2023.09.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041863/koshinetsu/",
         "product_name": "きのこ炊き込み御飯幕の内",
         "product_price": 540,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041863/ECB634DED69ED18CFC7FAA16B4FA8209.jpg",
+        "product_date": "2023.09.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041861/koshinetsu/",
+        "product_name": "３種お肉の焼肉丼（焼肉たれ＆塩だれ）",
+        "product_price": 648,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041861/52BF7DF61F57D32B8A7EAE3177AFB83B.jpg",
         "product_date": "2023.09.12"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2023.09.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040227/hokuriku/",
-        "product_name": "醤が決め手の麻婆茄子弁当",
-        "product_price": 432,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040227/71CBCFB1007613E465090A069B45A05A.jpg",
-        "product_date": "2023.09.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041623/hokuriku/",
         "product_name": "いなり寿司　梅しそ",
         "product_price": 162,
@@ -235,6 +228,13 @@
         "product_price": 367,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050359/A9F4911B123D3ED81AFB7D877E8C762D.jpg",
         "product_date": "2023.09.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/092736/hokuriku/",
+        "product_name": "新潟５大ラーメン　燕三条背脂醤油ラーメン",
+        "product_price": 537,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/092736/DAE12711C3C134812E8AFE7973490669.jpg",
+        "product_date": "2023.09.12"
       }
     ],
     "prefecture_name": "北陸"
@@ -449,13 +449,6 @@
         "product_date": "2023.09.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041853/kyushu/",
-        "product_name": "小松菜めしおむすび　福岡県産小松菜使用",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041853/623DB45E4FEC0E9745CABA24E74C8AFC.jpg",
-        "product_date": "2023.09.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041326/kyushu/",
         "product_name": "３種具材混ぜ飯（ごま油香るチュモッパ）",
         "product_price": 172,
@@ -474,6 +467,13 @@
         "product_name": "高菜チャーハン",
         "product_price": 421,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041855/C11C8AF59F8E0635634EDAFEA1B8D24F.jpg",
+        "product_date": "2023.09.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041893/kyushu/",
+        "product_name": "おだし香る和風カレー",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041893/3B04FFEA0C86F479D59568DE6F207037.jpg",
         "product_date": "2023.09.12"
       }
     ],
