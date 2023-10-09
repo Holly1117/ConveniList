@@ -5,13 +5,13 @@ import re
 
 FM_OFFICE_URL = 'https://www.family.co.jp/goods/newgoods.html'
 
-FM_PRODUCT_URL = 'ly-mod-infoset4-link'
+FM_PRODUCT_URL = 'ly-mod-infoset3-link'
 
-FM_PRODUCT_IMAGE = 'ly-mod-infoset4-img'
+FM_PRODUCT_IMAGE = 'ly-mod-infoset3-img'
 
-FM_DETAIL_NAME = 'ly-mod-infoset4-ttl'
+FM_DETAIL_NAME = 'ly-mod-infoset3-ttl'
 
-FM_DETAIL_PRICE = 'ly-mod-infoset4-txt'
+FM_DETAIL_PRICE = 'ly-mod-infoset3-txt'
 
 FM_DETAIL_DATE = 'ly-goods-spec'
 
