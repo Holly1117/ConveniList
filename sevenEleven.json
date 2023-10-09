@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/hokkaido/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042112/hokkaido/",
         "product_name": "肉盛弁当（メンチかつ・牛焼肉・たれ唐揚げ）",
         "product_price": 626,
@@ -24,17 +17,10 @@
         "product_date": "2023.10.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041625/hokkaido/",
-        "product_name": "しらすと明太子のご飯",
-        "product_price": 453,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041625/0392E251386042A8A7F39D2A8502FDB4.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042272/hokkaido/",
         "product_name": "９種具材のコク旨中華丼",
         "product_price": 572,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042272/818CC3A41FB176758D25E32753F859B6.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042272/F8A47ACA3A9D555A6C180A51AC7BB724.jpg",
         "product_date": "2023.10.03"
       },
       {
@@ -43,6 +29,20 @@
         "product_price": 367,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050136/2BB1D2C381D64CD71EDB02B2A7431938.jpg",
         "product_date": "2023.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050148/hokkaido/",
+        "product_name": "ソーセージエッグマフィン",
+        "product_price": 300,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050148/9455FA42EB2F1B198B5E243023A6C172.jpg",
+        "product_date": "2023.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050146/hokkaido/",
+        "product_name": "ブリトーウインナー２本入りアラビアータ",
+        "product_price": 302,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050146/70BE27E0C9433B9DCE165844F4C47249.jpg",
+        "product_date": "2023.10.04"
       }
     ],
     "prefecture_name": "北海道"
@@ -50,13 +50,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/tohoku/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/042076/tohoku/",
         "product_name": "はらこめしおむすび",
@@ -91,6 +84,13 @@
         "product_price": 453,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042143/313137BEC73609A68DDFFA9A9A44E019.jpg",
         "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041725/tohoku/",
+        "product_name": "甘辛ソースのイカフライ御飯",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041725/2E59C74E144D1CE640296F40B40D8CDE.jpg",
+        "product_date": "2023.10.03"
       }
     ],
     "prefecture_name": "東北"
@@ -99,17 +99,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/kanto/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042199/kanto/",
         "product_name": "新潟県産コシヒカリおむすび　金目鯛粕漬け",
         "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042199/E192F2BDE246F15D63D28945ABAB31AF.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042199/59488331ACA8EB04BC16C64786C44B04.jpg",
         "product_date": "2023.10.03"
       },
       {
@@ -139,6 +132,13 @@
         "product_price": 626,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042112/7C10EEA44259E6388BA25E7D1D9E35E6.jpg",
         "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042217/kanto/",
+        "product_name": "ピリ辛チキンマヨネーズ御飯",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042217/39F2AFDFAB03BCFDB192B93D05B810A5.jpg",
+        "product_date": "2023.10.03"
       }
     ],
     "prefecture_name": "関東"
@@ -161,13 +161,6 @@
         "product_date": "2023.10.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/koshinetsu/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042061/koshinetsu/",
         "product_name": "枝豆ごはんおむすび",
         "product_price": 129,
@@ -186,6 +179,13 @@
         "product_name": "厳選米おむすび　金目鯛粕漬け",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042119/55B6E7072852726231A7620E62FD45DB.jpg",
+        "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042112/koshinetsu/",
+        "product_name": "肉盛弁当（メンチかつ・牛焼肉・たれ唐揚げ）",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042112/7C10EEA44259E6388BA25E7D1D9E35E6.jpg",
         "product_date": "2023.10.03"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2023.10.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/hokuriku/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042071/hokuriku/",
         "product_name": "枝豆ごはんおむすび",
         "product_price": 129,
@@ -234,6 +227,13 @@
         "product_name": "オムライスおむすび",
         "product_price": 167,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042058/D904E9A6B258E75D4945E5F69F07E0F0.jpg",
+        "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042065/hokuriku/",
+        "product_name": "海苔弁当",
+        "product_price": 615,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042065/B10BE7A54A70FE4CAE7234B46783EAAF.jpg",
         "product_date": "2023.10.03"
       }
     ],
@@ -247,13 +247,6 @@
         "product_name": "きのこおむすび＆おかずセット",
         "product_price": 388,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041718/8FBED9B8F5AB8020B1B7A10336562BE0.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/tokai/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
         "product_date": "2023.10.03"
       },
       {
@@ -283,6 +276,13 @@
         "product_price": 604,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040942/6701F47536830E60D251202A6ADDB694.jpg",
         "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042153/tokai/",
+        "product_name": "一膳ごはん　炙り焼き紅鮭とだし飯",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042153/2A1033317006B5CA9BCBF04DD82228C5.jpg",
+        "product_date": "2023.10.03"
       }
     ],
     "prefecture_name": "東海"
@@ -290,13 +290,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/kinki/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040300/kinki/",
         "product_name": "山形県産つや姫おむすび　北海道産生たらこ",
@@ -312,13 +305,6 @@
         "product_date": "2023.10.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042146/kinki/",
-        "product_name": "銀鮭塩麹焼き幕の内",
-        "product_price": 561,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042146/871CE20986FA05C7FCCA3B06EC00B713.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041944/kinki/",
         "product_name": "一膳ごはん　洋食ランチ",
         "product_price": 356,
@@ -331,6 +317,20 @@
         "product_price": 189,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042108/66A35B80F5392E256C1E0CD32D633E8C.jpg",
         "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042148/kinki/",
+        "product_name": "いなり寿司　秋の味覚きのこ",
+        "product_price": 172,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042148/520403344A78334479886BF9ACF442DD.jpg",
+        "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050152/kinki/",
+        "product_name": "三元豚とんかつサンド",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050152/1666456A9846FC8D4E46843D1780D918.jpg",
+        "product_date": "2023.10.04"
       }
     ],
     "prefecture_name": "近畿"
@@ -360,13 +360,6 @@
         "product_date": "2023.10.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/chugoku/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042132/chugoku/",
         "product_name": "お好み幕の内",
         "product_price": 529,
@@ -377,7 +370,14 @@
         "product_url": "https://www.sej.co.jp/products/a/item/042131/chugoku/",
         "product_name": "にんにく醤油仕立ての若鶏唐揚げ弁当",
         "product_price": 550,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042131/E5D3E8B8592228DF221983CE4C19AD7E.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042131/BE70A3E760F45B03C8D1812C671CA9D2.jpg",
+        "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042113/chugoku/",
+        "product_name": "にんにく醤油仕立ての若鶏唐揚げ弁当",
+        "product_price": 540,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042113/1AB188AA916010DBA4B6486077C9E07B.jpg",
         "product_date": "2023.10.03"
       }
     ],
@@ -386,13 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/shikoku/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/042113/shikoku/",
         "product_name": "にんにく醤油仕立ての若鶏唐揚げ弁当",
@@ -415,17 +408,24 @@
         "product_date": "2023.10.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042030/shikoku/",
-        "product_name": "赤坂四川飯店監修　油淋鶏弁当",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042030/DEF7664F49B4A25971352DD9A753543C.jpg",
-        "product_date": "2023.10.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042036/shikoku/",
         "product_name": "いなり寿司　秋の味覚きのこ",
         "product_price": 172,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042036/80BDBB509750CBF198F0D02EBB5EE5AA.jpg",
+        "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042128/shikoku/",
+        "product_name": "具たっぷりサラダ巻５巻",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042128/B3D471F5A51807CB62FD92772BF372E0.jpg",
+        "product_date": "2023.10.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042127/shikoku/",
+        "product_name": "鶏唐揚げマヨネーズ巻　５巻",
+        "product_price": 432,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042127/2F16C3516F394D30BB2A941CD3E61D2D.jpg",
         "product_date": "2023.10.03"
       }
     ],
@@ -434,13 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042095/kyushu/",
-        "product_name": "赤坂四川飯店監修　五目炒飯おむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042095/F0544FB3573925FE622948A2F5F759E1.jpg",
-        "product_date": "2023.10.03"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040497/kyushu/",
         "product_name": "チキンカツ弁当",
@@ -474,6 +467,13 @@
         "product_name": "生ハム＆モッツァレラロール",
         "product_price": 388,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050387/EF34FB9914BF1593B14ECFF8F6505ED2.jpg",
+        "product_date": "2023.10.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050146/kyushu/",
+        "product_name": "ブリトーウインナー２本入りアラビアータ",
+        "product_price": 302,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050146/70BE27E0C9433B9DCE165844F4C47249.jpg",
         "product_date": "2023.10.04"
       }
     ],
