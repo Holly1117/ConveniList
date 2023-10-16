@@ -86,10 +86,10 @@
         "product_date": "2023.10.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042246/tohoku/",
-        "product_name": "会津産コシヒカリおむすび　金目鯛粕漬け",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042246/D49B5052D8E9A5B51C94ACBCE0782012.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041251/tohoku/",
+        "product_name": "コーンバター醤油おむすび",
+        "product_price": 118,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041251/AB71F92DD63BE895693653CFD12CC0D9.jpg",
         "product_date": "2023.10.10"
       }
     ],
@@ -168,13 +168,6 @@
         "product_date": "2023.10.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042207/koshinetsu/",
-        "product_name": "魚沼産コシヒカリおむすび　金目鯛粕漬け",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042207/1006C62528F286640BBAA2E73BED912F.jpg",
-        "product_date": "2023.10.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042218/koshinetsu/",
         "product_name": "にんにく醤油仕立ての　若鶏唐揚げ弁当",
         "product_price": 540,
@@ -186,6 +179,13 @@
         "product_name": "唐揚げ弁当",
         "product_price": 648,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042156/CF180D43F6F6FDFBB9570BBB69ADC7C2.jpg",
+        "product_date": "2023.10.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042220/koshinetsu/",
+        "product_name": "海苔弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042220/AB57138B2DB4BDDF8DFF688077E9552E.jpg",
         "product_date": "2023.10.10"
       }
     ],
@@ -291,13 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042232/kinki/",
-        "product_name": "混ぜ飯おむすび万願寺唐辛子昆布",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042232/98C1E7B3F69934AAC38FE0D4E7C4CC81.jpg",
-        "product_date": "2023.10.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/048047/kinki/",
         "product_name": "舞茸おこわおむすび",
         "product_price": 140,
@@ -331,6 +324,13 @@
         "product_price": 453,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042334/DED14A4605A15FA2DA60CE0371A714E2.jpg",
         "product_date": "2023.10.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042305/kinki/",
+        "product_name": "旨辛麻婆丼　",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042305/261A9FF811ED75F8AE63744D44B36778.jpg",
+        "product_date": "2023.10.10"
       }
     ],
     "prefecture_name": "近畿"
