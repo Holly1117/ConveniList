@@ -51,13 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042145/tohoku/",
-        "product_name": "手巻おにぎり福島県ねぎのねぎ味噌",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042145/14AF98A44650B0F499B8CDBD0D7219F4.jpg",
-        "product_date": "2023.10.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042283/tohoku/",
         "product_name": "大きなおむすび　味ごはん",
         "product_price": 216,
@@ -79,17 +72,24 @@
         "product_date": "2023.10.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042278/tohoku/",
-        "product_name": "玄米むすび生姜鶏そぼろ",
-        "product_price": 156,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042278/A254306F5B670DB2CCC474320F424D85.jpg",
-        "product_date": "2023.10.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042309/tohoku/",
         "product_name": "八代目儀兵衛監修銀しゃりおむすび九条ねぎ味噌",
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042309/9C61F048A42404EB1ACE75193DB056F5.jpg",
+        "product_date": "2023.10.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/048999/tohoku/",
+        "product_name": "山形県産つや姫おむすび牛たんと青南蛮味噌",
+        "product_price": 216,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/048999/4BEAF4ABAB8598E584486E0569129EB7.jpg",
+        "product_date": "2023.10.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042345/tohoku/",
+        "product_name": "ターメリックライス＆　　　　タンドリー風チキン",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042345/32D4E3115D5BB464D4B84E9B3597BFFB.jpg",
         "product_date": "2023.10.17"
       }
     ],
@@ -342,7 +342,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/042356/chugoku/",
         "product_name": "直巻おむすび　ベーコンおかか",
         "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042356/09D10C7105C05BD1130F1BA6778585FE.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042356/2EBD8807F042C8EF1A7583A47A979D9C.jpg",
         "product_date": "2023.10.17"
       },
       {
@@ -350,20 +350,6 @@
         "product_name": "北海道産帆立使用　ほたてめしおむすび",
         "product_price": 237,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042435/330E0E4C955FC6794009F0D7494C2465.jpg",
-        "product_date": "2023.10.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042353/chugoku/",
-        "product_name": "中華おかずむすび　小松菜と豚肉",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042353/AB964E24856C18DD6664063DF658A42C.jpg",
-        "product_date": "2023.10.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042352/chugoku/",
-        "product_name": "シビれる辛さ　汁なし担々むすび",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042352/E8B60F00225D8172B5954DC76C04295A.jpg",
         "product_date": "2023.10.17"
       },
       {
@@ -379,6 +365,20 @@
         "product_price": 464,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042420/8AE22440D61355CE331CCB2F687B110A.jpg",
         "product_date": "2023.10.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042299/chugoku/",
+        "product_name": "鉄板焼きチキンステーキ弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042299/012052215DAE4963CC0BE42829C4901E.jpg",
+        "product_date": "2023.10.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042301/chugoku/",
+        "product_name": "スパイスの香りバターチキンカレー",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042301/BBEB12268EB7676D62E5DFEDA7BED80B.jpg",
+        "product_date": "2023.10.17"
       }
     ],
     "prefecture_name": "中国"
@@ -390,7 +390,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/042356/shikoku/",
         "product_name": "直巻おむすび　ベーコンおかか",
         "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042356/09D10C7105C05BD1130F1BA6778585FE.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042356/2EBD8807F042C8EF1A7583A47A979D9C.jpg",
         "product_date": "2023.10.17"
       },
       {
@@ -422,10 +422,10 @@
         "product_date": "2023.10.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042006/shikoku/",
-        "product_name": "銀鮭塩麹焼の和風幕の内",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042006/26773B1564A3CA074763B96AF121D6F3.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042301/shikoku/",
+        "product_name": "スパイスの香りバターチキンカレー",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042301/BBEB12268EB7676D62E5DFEDA7BED80B.jpg",
         "product_date": "2023.10.17"
       }
     ],
@@ -463,18 +463,18 @@
         "product_date": "2023.10.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042285/kyushu/",
-        "product_name": "大盛りごはん九州醤油の鶏唐揚弁当",
-        "product_price": 669,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042285/C1BF4B4DA2F87B5C03988BBF9BAB5FF7.jpg",
-        "product_date": "2023.10.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042389/kyushu/",
         "product_name": "かしわめし弁当",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042389/2F1873115C67F50C62727CCD072CAC3E.jpg",
         "product_date": "2023.10.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042287/kyushu/",
+        "product_name": "炭火塩焼き鳥丼大分県産かぼすたれ使用",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042287/A4CB7FA902AB98B40084F59C089A8F07.jpg",
+        "product_date": "2023.10.20"
       }
     ],
     "prefecture_name": "九州"
