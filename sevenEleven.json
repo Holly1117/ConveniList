@@ -65,20 +65,6 @@
         "product_date": "2023.10.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042541/tohoku/",
-        "product_name": "大きなおむすび塩だれで食べるねぎチャーシュー",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042541/CEC118995A7FA1FA5C40B035833BE29C.jpg",
-        "product_date": "2023.11.01"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042548/tohoku/",
-        "product_name": "山菜おこわおむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042548/3C92A3D9D745B6B21C3DF38273A73444.jpg",
-        "product_date": "2023.10.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042469/tohoku/",
         "product_name": "舞茸おこわおむすび",
         "product_price": 145,
@@ -90,6 +76,20 @@
         "product_name": "鶏ごぼうおむすび　青森県産ごぼう使用",
         "product_price": 124,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042393/7E062EAA2CFFDB1B32256DC23C8E6869.jpg",
+        "product_date": "2023.10.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042467/tohoku/",
+        "product_name": "八代目儀兵衛監修　熟成紅しゃけ西京焼き",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042467/E688BCEBA28B0446C3F57A7B401C6D47.jpg",
+        "product_date": "2023.10.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042514/tohoku/",
+        "product_name": "チキン南蛮弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042514/006F92C449DFCED898415EE2E7708783.jpg",
         "product_date": "2023.10.31"
       }
     ],
@@ -103,13 +103,6 @@
         "product_name": "赤飯おこわおむすび",
         "product_price": 140,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042577/BB71B6FDE7137EF21E3A119432B64057.jpg",
-        "product_date": "2023.10.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042545/kanto/",
-        "product_name": "大きなおむすび　コーンバター醤油",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042545/FA6436087803C7694FF4B1D641E5487A.jpg",
         "product_date": "2023.10.31"
       },
       {
@@ -138,6 +131,13 @@
         "product_name": "八代目儀兵衛監修　熟成紅しゃけ西京焼き",
         "product_price": 194,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042467/E688BCEBA28B0446C3F57A7B401C6D47.jpg",
+        "product_date": "2023.10.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042514/kanto/",
+        "product_name": "チキン南蛮弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042514/006F92C449DFCED898415EE2E7708783.jpg",
         "product_date": "2023.10.31"
       }
     ],
@@ -223,17 +223,17 @@
         "product_date": "2023.10.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042513/hokuriku/",
-        "product_name": "舞茸おこわのお弁当",
-        "product_price": 540,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042513/B66EF35326861F6F254C70B52D8AC2C7.jpg",
-        "product_date": "2023.10.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042498/hokuriku/",
         "product_name": "焼さばほぐし御飯",
         "product_price": 453,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042498/DFC835709C70EB833EC70D7D8411B262.jpg",
+        "product_date": "2023.10.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042530/hokuriku/",
+        "product_name": "鯛めし茶漬け（輪島港水揚げ真鯛使用）",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042530/3FEB88CD04EEFD4823616C4DCF4A8551.jpg",
         "product_date": "2023.10.31"
       }
     ],
@@ -298,13 +298,6 @@
         "product_date": "2023.10.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042310/kinki/",
-        "product_name": "一番だしおむすびしょうがめし",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042310/3F2336FAB87F82EAF083A70E280738C9.jpg",
-        "product_date": "2023.10.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042467/kinki/",
         "product_name": "八代目儀兵衛監修　熟成紅しゃけ西京焼き",
         "product_price": 194,
@@ -319,18 +312,25 @@
         "product_date": "2023.10.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042557/kinki/",
-        "product_name": "天とじ丼（海老・とり・かき揚げ）",
-        "product_price": 648,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042557/807D69A80DD57D4EDC4C85579B4AC383.jpg",
-        "product_date": "2023.10.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042501/kinki/",
         "product_name": "手巻寿司ツナキムチ巻",
         "product_price": 194,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042501/051E25312CBBADEAC2E7889AE1CBDF8F.jpg",
         "product_date": "2023.10.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050555/kinki/",
+        "product_name": "海老ブロッコリーサンド",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050555/8AA977B583774FE898D872D1C99B9C62.jpg",
+        "product_date": "2023.11.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050803/kinki/",
+        "product_name": "たんぱく質が摂れるチキン＆チリ",
+        "product_price": 442,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050803/32711B0E91B33CA3D2A00688F7E0D0F6.jpg",
+        "product_date": "2023.11.06"
       }
     ],
     "prefecture_name": "近畿"
@@ -511,18 +511,18 @@
         "product_date": "2023.11.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/093835/okinawa/",
-        "product_name": "千とせ本店監修　浪花の肉うどん",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093835/33D90D4C4296A8394FBD5CCE63425862.jpg",
-        "product_date": "2023.11.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/093846/okinawa/",
         "product_name": "みらいデリ博多一風堂監修とんこつラーメン",
         "product_price": 615,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093846/E187082E4FA9E0BD191B77B01CD51A4A.jpg",
         "product_date": "2023.11.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/093081/okinawa/",
+        "product_name": "濃厚背脂豚骨ラーメン",
+        "product_price": 604,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093081/751B1077B00BACB13654D80E41E586CF.jpg",
+        "product_date": "2023.10.31"
       }
     ],
     "prefecture_name": "沖縄"
