@@ -3,24 +3,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043140/hokkaido/",
-        "product_name": "かにめしおむすび",
-        "product_price": 248,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043140/D40A4548D58FB1B578326A2C9F122D9A.jpg",
-        "product_date": "2023.12.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042055/hokkaido/",
         "product_name": "柿安監修　牛めしおむすび",
         "product_price": 183,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042055/D4A982FDDE03949B6DA399203F6FA59A.jpg",
-        "product_date": "2023.12.05"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043087/hokkaido/",
-        "product_name": "豚焼肉チャーハン（道産ポーク使用）",
-        "product_price": 496,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043087/9138B9792A6264D1D352DAAF6F334D76.jpg",
         "product_date": "2023.12.05"
       },
       {
@@ -31,18 +17,32 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043075/hokkaido/",
-        "product_name": "エリックサウス監修　ビリヤニ",
-        "product_price": 734,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043075/53157AF12359FD0CDE21E89A1BB6B10A.jpg",
-        "product_date": "2023.12.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043142/hokkaido/",
         "product_name": "手巻寿司　まぐろたたきたくあん巻",
         "product_price": 205,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043142/7796E7CAC9DE6675500CE815B417313C.jpg",
         "product_date": "2023.12.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050024/hokkaido/",
+        "product_name": "明太ポテトサンド",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050024/17FAB589783AEC2D48EDA94275AF0EBF.jpg",
+        "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050309/hokkaido/",
+        "product_name": "スモークサーモン＆クリームチーズロール",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050309/80ABF372C3E1228509EAA0B996A92D21.jpg",
+        "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050302/hokkaido/",
+        "product_name": "ブリトーベーコン＆クワトロチーズ",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050302/E139AAAA7EF965ECF2BEDDD0C653EA2A.jpg",
+        "product_date": "2023.12.06"
       }
     ],
     "prefecture_name": "北海道"
@@ -168,13 +168,6 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043075/koshinetsu/",
-        "product_name": "エリックサウス監修　ビリヤニ",
-        "product_price": 734,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043075/53157AF12359FD0CDE21E89A1BB6B10A.jpg",
-        "product_date": "2023.12.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043142/koshinetsu/",
         "product_name": "手巻寿司　まぐろたたきたくあん巻",
         "product_price": 205,
@@ -187,6 +180,13 @@
         "product_price": 216,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043111/F55A1B4C335FCC3D072F000E68CA1AD6.jpg",
         "product_date": "2023.12.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042064/koshinetsu/",
+        "product_name": "だし仕立てのいなり３個",
+        "product_price": 275,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042064/8FEF6F19C8263185FDE0C702F0CF5AD9.jpg",
+        "product_date": "2023.12.06"
       }
     ],
     "prefecture_name": "甲信越"
@@ -243,13 +243,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042918/tokai/",
-        "product_name": "韓国風手巻おにぎり　かに味噌醤油まぜめし",
-        "product_price": 178,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042918/3EF7401EB4EA00AB03973AF61675364C.jpg",
-        "product_date": "2023.12.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043140/tokai/",
         "product_name": "かにめしおむすび",
         "product_price": 248,
@@ -282,6 +275,13 @@
         "product_name": "一膳ごはん　名古屋コーチン鶏肉の鶏そぼろ",
         "product_price": 378,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043107/48319C9F61CACD0F7B66CBB83151750C.jpg",
+        "product_date": "2023.12.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043142/tokai/",
+        "product_name": "手巻寿司　まぐろたたきたくあん巻",
+        "product_price": 205,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043142/7796E7CAC9DE6675500CE815B417313C.jpg",
         "product_date": "2023.12.05"
       }
     ],
@@ -326,11 +326,11 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043075/kinki/",
-        "product_name": "エリックサウス監修　ビリヤニ",
-        "product_price": 734,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043075/53157AF12359FD0CDE21E89A1BB6B10A.jpg",
-        "product_date": "2023.12.11"
+        "product_url": "https://www.sej.co.jp/products/a/item/043052/kinki/",
+        "product_name": "三國シェフ監修　ビーフシチューオムライス",
+        "product_price": 702,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043052/76B11F0679D0204C7E565290DE5338CA.jpg",
+        "product_date": "2023.12.05"
       }
     ],
     "prefecture_name": "近畿"
@@ -353,13 +353,6 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043080/chugoku/",
-        "product_name": "デジカルビ丼",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043080/C45D11846D8AA811FB2B7ED1997C8C1F.jpg",
-        "product_date": "2023.12.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043059/chugoku/",
         "product_name": "〆さばの寿司",
         "product_price": 216,
@@ -378,6 +371,13 @@
         "product_name": "コンビーフポテトサンド",
         "product_price": 291,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050310/76C40D32F2A1EEFC7B9BA8FBFAE40144.jpg",
+        "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050309/chugoku/",
+        "product_name": "スモークサーモン＆クリームチーズロール",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050309/4D86A47EB5652DB36ECED4788632B3C0.jpg",
         "product_date": "2023.12.06"
       }
     ],
@@ -401,13 +401,6 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043052/shikoku/",
-        "product_name": "三國シェフ監修　ビーフシチューオムライス",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043052/76B11F0679D0204C7E565290DE5338CA.jpg",
-        "product_date": "2023.12.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043059/shikoku/",
         "product_name": "〆さばの寿司",
         "product_price": 216,
@@ -427,6 +420,13 @@
         "product_price": 291,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050310/76C40D32F2A1EEFC7B9BA8FBFAE40144.jpg",
         "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050309/shikoku/",
+        "product_name": "スモークサーモン＆クリームチーズロール",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050309/4D86A47EB5652DB36ECED4788632B3C0.jpg",
+        "product_date": "2023.12.06"
       }
     ],
     "prefecture_name": "四国"
@@ -442,27 +442,6 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042055/kyushu/",
-        "product_name": "柿安監修　牛めしおむすび",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042055/D4A982FDDE03949B6DA399203F6FA59A.jpg",
-        "product_date": "2023.12.05"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043080/kyushu/",
-        "product_name": "デジカルビ丼",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043080/C45D11846D8AA811FB2B7ED1997C8C1F.jpg",
-        "product_date": "2023.12.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043075/kyushu/",
-        "product_name": "エリックサウス監修　ビリヤニ",
-        "product_price": 734,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043075/53157AF12359FD0CDE21E89A1BB6B10A.jpg",
-        "product_date": "2023.12.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043091/kyushu/",
         "product_name": "鶏の旨味　鶏飯（桜島どりムネ肉使用）",
         "product_price": 432,
@@ -475,6 +454,27 @@
         "product_price": 183,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042996/4CF96E19D2CE4A9131EBD01BDFE53610.jpg",
         "product_date": "2023.12.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042881/kyushu/",
+        "product_name": "いなり寿司　岩下の新生姜・牛ごぼう",
+        "product_price": 172,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042881/8852F459B492A760E3BABE4E1244B522.jpg",
+        "product_date": "2023.12.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050324/kyushu/",
+        "product_name": "九州産華味鳥ホットサンドチキンカツ",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050324/18BFEBD035A5CA96856B2A962CAAFC90.jpg",
+        "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/050309/kyushu/",
+        "product_name": "スモークサーモン＆クリームチーズロール",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/050309/4D86A47EB5652DB36ECED4788632B3C0.jpg",
+        "product_date": "2023.12.06"
       }
     ],
     "prefecture_name": "九州"
@@ -497,20 +497,6 @@
         "product_date": "2023.12.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043075/okinawa/",
-        "product_name": "エリックサウス監修　ビリヤニ",
-        "product_price": 734,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043075/53157AF12359FD0CDE21E89A1BB6B10A.jpg",
-        "product_date": "2023.12.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043052/okinawa/",
-        "product_name": "三國シェフ監修　ビーフシチューオムライス",
-        "product_price": 702,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043052/76B11F0679D0204C7E565290DE5338CA.jpg",
-        "product_date": "2023.12.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/050302/okinawa/",
         "product_name": "ブリトーベーコン＆クワトロチーズ",
         "product_price": 345,
@@ -523,6 +509,20 @@
         "product_price": 723,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/093965/9917581ED03E5AB0E3BA76C8BC2C8ACA.jpg",
         "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091094/okinawa/",
+        "product_name": "台湾風まぜそば",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/091094/22F0BD3FF1B3C9A1847E388792103D95.jpg",
+        "product_date": "2023.12.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/101822/okinawa/",
+        "product_name": "柿安監修牛すき鍋",
+        "product_price": 810,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/101822/762581D7C4492FB376AB8EB999F8CC58.jpg",
+        "product_date": "2023.12.05"
       }
     ],
     "prefecture_name": "沖縄"
