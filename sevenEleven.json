@@ -51,13 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043327/tohoku/",
-        "product_name": "直巻おむすびサーモン　わさびマヨネーズ",
-        "product_price": 156,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043327/73434B572EAD09A26099A25644EDBA12.jpg",
-        "product_date": "2023.12.26"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042917/tohoku/",
         "product_name": "直巻おむすび　やみつき香味ダレとたまご",
         "product_price": 194,
@@ -90,6 +83,13 @@
         "product_name": "ピラフと海老フライのグリルチキン弁当",
         "product_price": 680,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041731/427E108DFE8549A28FE37B56066E35AA.jpg",
+        "product_date": "2023.12.26"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041263/tohoku/",
+        "product_name": "ビーフタルタル弁当",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041263/341E006A867C526DE077F9B43BD29325.jpg",
         "product_date": "2023.12.26"
       }
     ],
