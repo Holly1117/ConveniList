@@ -17,13 +17,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043447/hokkaido/",
-        "product_name": "厳選米おむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043447/D661354C65E85DF16827DCC25D6EB7DA.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043415/hokkaido/",
         "product_name": "厳選米おむすび北海道産帆立煮",
         "product_price": 302,
@@ -38,10 +31,17 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043108/hokkaido/",
-        "product_name": "大盛りごはんカレーピラフ＆チキン南蛮",
-        "product_price": 637,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043108/E18C4AD160DEA65AD70BD14270CB5B4B.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042136/hokkaido/",
+        "product_name": "ピリ辛チキンマヨネーズ御飯",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042136/B61C7BA31E5791060DF497DF7B96F61B.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043464/hokkaido/",
+        "product_name": "香ばし炒めの五目チャーハン",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043464/E92C9C8F3F499002AE92BC8B203377D2.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -79,17 +79,17 @@
         "product_date": "2024.01.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043501/tohoku/",
-        "product_name": "会津産コシヒカリおむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043501/4A5A48A3894098989ECC998BA6BB6096.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043458/tohoku/",
         "product_name": "山形県産つや姫おむすび北海道産生たらこ",
         "product_price": 205,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043458/B7827DB752527F873272CFCC36C2C892.jpg",
+        "product_date": "2024.01.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043440/tohoku/",
+        "product_name": "銀河のしずくおむすび　北海道産生たらこ",
+        "product_price": 205,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043440/7DA8D6F610EBA472662CEA4EB863492E.jpg",
         "product_date": "2024.01.10"
       }
     ],
@@ -113,13 +113,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043486/kanto/",
-        "product_name": "新潟県産コシヒカリおむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043486/9951D4631CE91EF4E309FAD073824EB1.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043483/kanto/",
         "product_name": "新潟県産コシヒカリおむすび　北海道産帆立煮",
         "product_price": 302,
@@ -138,6 +131,13 @@
         "product_name": "一膳ごはん　桜姫鶏の鶏そぼろとだし飯",
         "product_price": 291,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043567/4D9A87932ED16F3634BA07E76F9A4363.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043404/kanto/",
+        "product_name": "一膳ごはん　　　　　　ミニのり弁当",
+        "product_price": 302,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043404/6B365716EB214E2BA941614F130F8E7E.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -161,20 +161,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042310/koshinetsu/",
-        "product_name": "一番だしおむすびしょうがめし",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042310/3F2336FAB87F82EAF083A70E280738C9.jpg",
-        "product_date": "2024.01.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043466/koshinetsu/",
-        "product_name": "魚沼産コシヒカリおむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043466/99D01AF3EB5CD4CF83494175D0F22C1A.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043465/koshinetsu/",
         "product_name": "魚沼産コシヒカリおむすび　北海道産帆立煮",
         "product_price": 302,
@@ -187,6 +173,20 @@
         "product_price": 205,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043447/D661354C65E85DF16827DCC25D6EB7DA.jpg",
         "product_date": "2024.01.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043415/koshinetsu/",
+        "product_name": "厳選米おむすび北海道産帆立煮",
+        "product_price": 302,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043415/AD1CC0641DD48E46C32F5D51B066C71C.jpg",
+        "product_date": "2024.01.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043556/koshinetsu/",
+        "product_name": "ねぎ塩だれの豚カルビ弁当（麦入りご飯）",
+        "product_price": 529,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043556/59EF36F69C85F4026D4D4344232B86F5.jpg",
+        "product_date": "2024.01.09"
       }
     ],
     "prefecture_name": "甲信越"
@@ -209,13 +209,6 @@
         "product_date": "2024.01.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043429/hokuriku/",
-        "product_name": "北陸産米こだわりおむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043429/F8C1D20888C6B7E80A3AB27F8FC5C388.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043556/hokuriku/",
         "product_name": "ねぎ塩だれの豚カルビ弁当（麦入りご飯）",
         "product_price": 529,
@@ -234,6 +227,13 @@
         "product_name": "醤の旨味引き立つ　麻婆丼",
         "product_price": 399,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043563/57C8AA4180E7F2081CFF38D3EDF0BF36.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043421/hokuriku/",
+        "product_name": "ふんわり玉子炒めとニラのあんかけ丼",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043421/050C69D5BEEF4A00EF0CA1745FE32E63.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -264,13 +264,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043486/tokai/",
-        "product_name": "新潟県産コシヒカリおむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043486/9951D4631CE91EF4E309FAD073824EB1.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043483/tokai/",
         "product_name": "新潟県産コシヒカリおむすび　北海道産帆立煮",
         "product_price": 302,
@@ -282,6 +275,13 @@
         "product_name": "ねぎ塩だれの豚カルビ弁当（麦入りご飯）",
         "product_price": 529,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043556/59EF36F69C85F4026D4D4344232B86F5.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043467/tokai/",
+        "product_name": "まんぷくソーセージステーキ＆牛焼肉弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043467/36D2CC850CABAA5382ECBDA2D79A0B38.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -305,13 +305,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043458/kinki/",
-        "product_name": "山形県産つや姫おむすび北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043458/B7827DB752527F873272CFCC36C2C892.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043435/kinki/",
         "product_name": "山形県産つや姫おむすび　北海道産帆立煮",
         "product_price": 302,
@@ -330,6 +323,13 @@
         "product_name": "ガーリックチキン弁当",
         "product_price": 453,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043450/C6ADB6B06ED75D7EC1E27C9433A79D88.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043063/kinki/",
+        "product_name": "一膳ごはん　焼肉＆唐揚げ",
+        "product_price": 324,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043063/AEC088C4FA10A70DBE71F4F25BB73569.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -353,13 +353,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043447/chugoku/",
-        "product_name": "厳選米おむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043447/D661354C65E85DF16827DCC25D6EB7DA.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043415/chugoku/",
         "product_name": "厳選米おむすび北海道産帆立煮",
         "product_price": 302,
@@ -378,6 +371,13 @@
         "product_name": "高菜と明太子のごはん",
         "product_price": 421,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041744/AB7F607EA4180881409C752E22BE4370.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043563/chugoku/",
+        "product_name": "醤の旨味引き立つ　麻婆丼",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043563/57C8AA4180E7F2081CFF38D3EDF0BF36.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -401,13 +401,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043447/shikoku/",
-        "product_name": "厳選米おむすび　北海道産生たらこ",
-        "product_price": 205,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043447/D661354C65E85DF16827DCC25D6EB7DA.jpg",
-        "product_date": "2024.01.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043415/shikoku/",
         "product_name": "厳選米おむすび北海道産帆立煮",
         "product_price": 302,
@@ -426,6 +419,13 @@
         "product_name": "高菜と明太子のごはん",
         "product_price": 421,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041744/AB7F607EA4180881409C752E22BE4370.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043563/shikoku/",
+        "product_name": "醤の旨味引き立つ　麻婆丼",
+        "product_price": 399,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043563/57C8AA4180E7F2081CFF38D3EDF0BF36.jpg",
         "product_date": "2024.01.09"
       }
     ],
@@ -449,13 +449,6 @@
         "product_date": "2024.01.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042310/kyushu/",
-        "product_name": "一番だしおむすびしょうがめし",
-        "product_price": 118,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042310/3F2336FAB87F82EAF083A70E280738C9.jpg",
-        "product_date": "2024.01.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043486/kyushu/",
         "product_name": "新潟県産コシヒカリおむすび　北海道産生たらこ",
         "product_price": 205,
@@ -474,6 +467,13 @@
         "product_name": "ビーフタルタル弁当",
         "product_price": 637,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043509/B84304EDBCB34A0E379A8F93624F65B8.jpg",
+        "product_date": "2024.01.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042187/kyushu/",
+        "product_name": "２種ソースのハムカツ＆ハンバーグ弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042187/31BB84763620D3A957E935BF9CF20B11.jpg",
         "product_date": "2024.01.09"
       }
     ],
