@@ -31,17 +31,17 @@
         "product_date": "2024.01.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043747/hokkaido/",
-        "product_name": "ほっけの一夜干し弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043747/C0AF83803037AC6CFB0C8F83FB3B181E.jpg",
-        "product_date": "2024.01.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043121/hokkaido/",
         "product_name": "洋風幕の内（チキンライス＆ハンバーグ）",
         "product_price": 540,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043121/6BC70B428C21F87A758DD22AC12D2D2E.jpg",
+        "product_date": "2024.01.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043743/hokkaido/",
+        "product_name": "ビーフタルタル弁当",
+        "product_price": 464,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043743/E992AB2B39E6681FAB6E9677491FF86A.jpg",
         "product_date": "2024.01.30"
       }
     ],
@@ -120,13 +120,6 @@
         "product_date": "2024.01.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043747/kanto/",
-        "product_name": "ほっけの一夜干し弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043747/C0AF83803037AC6CFB0C8F83FB3B181E.jpg",
-        "product_date": "2024.01.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043791/kanto/",
         "product_name": "野菜と食べる温玉ビビンバ（もち麦ごはん）",
         "product_price": 594,
@@ -138,6 +131,13 @@
         "product_name": "旨辛キムチチャーハン",
         "product_price": 399,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043787/0E75BA357932BC02604A8C13B9AF20DC.jpg",
+        "product_date": "2024.01.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043780/kanto/",
+        "product_name": "豚バラ味噌漬け丼",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043780/1A66FA2E1784D6309BE7E292A02D9B36.jpg",
         "product_date": "2024.01.30"
       }
     ],
@@ -435,13 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043747/kyushu/",
-        "product_name": "ほっけの一夜干し弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043747/C0AF83803037AC6CFB0C8F83FB3B181E.jpg",
-        "product_date": "2024.01.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043791/kyushu/",
         "product_name": "野菜と食べる温玉ビビンバ（もち麦ごはん）",
         "product_price": 594,
@@ -475,6 +468,13 @@
         "product_price": 615,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094124/EB30963DEA54B3B3F18332D0F089E8B3.jpg",
         "product_date": "2024.01.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/094097/kyushu/",
+        "product_name": "♪香ばし炒め野菜の　　コク旨ちゃんぽん",
+        "product_price": 583,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094097/02EA48889B9BF8CA4EF353B86B53B1E1.jpg",
+        "product_date": "2024.01.30"
       }
     ],
     "prefecture_name": "九州"
