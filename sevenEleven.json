@@ -182,10 +182,10 @@
         "product_date": "2024.02.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042971/koshinetsu/",
-        "product_name": "鶏づくし弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042971/9FE8AEC7A6A2FE11A5C3FA35EAB560DF.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043935/koshinetsu/",
+        "product_name": "鶏だし香る鶏そぼろごはん",
+        "product_price": 345,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043935/3CFC33FF0485321B5C0B3776397493C4.jpg",
         "product_date": "2024.02.20"
       }
     ],
@@ -319,17 +319,17 @@
         "product_date": "2024.02.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044047/kinki/",
-        "product_name": "デミチキンカツ弁当",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044047/0C8FC8E1A139812B3F6A821D255002D7.jpg",
-        "product_date": "2024.02.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044039/kinki/",
         "product_name": "お出汁のきいた特製他人丼",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044039/88CF2E697F1F93C379A82F5FDE2AC96D.jpg",
+        "product_date": "2024.02.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044071/kinki/",
+        "product_name": "手巻寿司　まぐろたたき卵黄巻",
+        "product_price": 205,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044071/51172CC07E509CA6D7F7519215E87938.jpg",
         "product_date": "2024.02.20"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2024.02.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044072/shikoku/",
-        "product_name": "雑穀米おむすび　チキン辛子マヨネーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044072/4AE5316A1EC3252320938A6C7EA15D86.jpg",
-        "product_date": "2024.02.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041828/shikoku/",
         "product_name": "豚焼肉弁当",
         "product_price": 518,
@@ -422,10 +415,17 @@
         "product_date": "2024.02.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043920/shikoku/",
-        "product_name": "しらすと明太子のご飯",
+        "product_url": "https://www.sej.co.jp/products/a/item/043872/shikoku/",
+        "product_name": "焼肉＆唐揚げごはん",
         "product_price": 378,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043920/1089DF86B56D594D1A2FD27155DC982E.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043872/E95A48D93CF63FE50008D45D1B6E1EB0.jpg",
+        "product_date": "2024.02.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044038/shikoku/",
+        "product_name": "鶏唐揚げのみぞれあんかけ丼",
+        "product_price": 529,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044038/BD9FD926C6EB4572B1D0F38F59374125.jpg",
         "product_date": "2024.02.20"
       }
     ],
