@@ -2,7 +2,7 @@
 <html lang="ja">
   <head>
     <!-- OGP -->
-    <meta property="og:url" content="https://conveni.hiiragi.dev/" />
+    <meta property="og:url" content="https://conveni.hiiragi.dev" />
     <meta property="og:type" content="article" />
     <meta
       property="og:title"
@@ -12,7 +12,7 @@
 
     <!-- Twitter用 -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://conveni.hiiragi.dev/" />
+    <meta property="twitter:url" content="https://conveni.hiiragi.dev" />
     <meta property="twitter:title" content="コンビニのその先へ" />
     <meta property="twitter:description" content="新作商品を一目で確認" />
     <meta
@@ -55,18 +55,18 @@
     <title>コンビニ 新作一覧 | セブン、ローソン、ファミリーマート</title>
 
     <link href="/css/style.css" rel="stylesheet" />
-    <script src="/js/lawson.js"></script>
+    <script src="/js/index.js"></script>
   </head>
 
   <body>
     <div id="nav" class="main-nav wrapper">
       <header class="page-header">
-        <nav id="sp-nav" class="sp-nav">
+        <nav>
           <ul class="nav">
-            <li>
+            <li class="active">
               <a href="/conveni">ホーム<span>home</span></a>
             </li>
-            <li class="active">
+            <li>
               <a href="/lawson">ローソン<span>lawson</span></a>
             </li>
             <li>
@@ -82,9 +82,57 @@
 
     <section>
       <div class="title">
+        <h2>コンビニリストとは？</h2>
+      </div>
+
+      <div class="txt-hide">
+        <div class="wrapper box">
+          <p class="text">
+            コンビニ新作一覧は、大手コンビニ3社の新作商品をまとめて閲覧することができるサービスです。
+            <br /><br /><span>＜使い方＞</span>
+            <br />・商品を押すと、公式詳細ページに移動することができるので、詳しい情報も簡単に確認できます。
+            <br />・メニューバーもしくは右下の「もっと見る」ボタンから、新商品すべてをまとめて閲覧可能です。
+            <span><br />※対象地域が限られている商品がございます。</span>
+          </p>
+        </div>
+      </div>
+      <div class="sp-button wrapper"><button class="more"></button></div>
+    </section>
+
+    <!-- ローソン -->
+    <section>
+      <div class="title">
         <h2>ローソン</h2>
       </div>
+
       <div id="card-list" class="wrapper card-list lawson"></div>
+      <div class="wrapper">
+        <a href="/lawson"><button>もっと見る</button></a>
+      </div>
+    </section>
+
+    <!-- ファミリーマート -->
+    <section>
+      <div class="title">
+        <h2>ファミリーマート</h2>
+      </div>
+
+      <div id="card-list" class="wrapper card-list famima familymart"></div>
+      <div class="wrapper">
+        <a href="/familymart"><button>もっと見る</button></a>
+      </div>
+    </section>
+
+    <!-- セブンイレブン -->
+    <section>
+      <div class="title">
+        <h2>セブンイレブン<span class="tips">※北海道地域</span></h2>
+      </div>
+
+      <div id="card-list" class="wrapper card-list seveneleven"></div>
+      <div class="wrapper">
+        <a href="/seveneleven"><button>他の地域も見る</button></a>
+      </div>
     </section>
 
     <div id="go-top">
@@ -115,7 +163,7 @@
       src="https://kit.fontawesome.com/ac90da6757.js"
       crossorigin="anonymous"
     ></script>
-    <!-- スクロール処理 -->
+    <!-- 各種処理 -->
     <script type="text/javascript" src="/js/script.js"></script>
   </body>
 </html>
