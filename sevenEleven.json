@@ -51,13 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043830/tohoku/",
-        "product_name": "おむすび２個入り　紅鮭・ツナマヨネーズ",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043830/41DB15118C49660CEDF0E38DA8C161A7.jpg",
-        "product_date": "2024.03.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044385/tohoku/",
         "product_name": "八代目儀兵衛監修おむすび　サーモンハラス",
         "product_price": 205,
@@ -91,6 +84,13 @@
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044381/5B87CD9EE8559D96DE54A123AF007AC6.jpg",
         "product_date": "2024.03.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044380/tohoku/",
+        "product_name": "八代目儀兵衛監修おむすび　炭火焼さば",
+        "product_price": 183,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044380/788567190C7E6635995AB35CDE3A9C90.jpg",
+        "product_date": "2024.03.19"
       }
     ],
     "prefecture_name": "東北"
@@ -113,13 +113,6 @@
         "product_date": "2024.03.19"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043830/kanto/",
-        "product_name": "おむすび２個入り　紅鮭・ツナマヨネーズ",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043830/41DB15118C49660CEDF0E38DA8C161A7.jpg",
-        "product_date": "2024.03.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044385/kanto/",
         "product_name": "八代目儀兵衛監修おむすび　サーモンハラス",
         "product_price": 205,
@@ -138,6 +131,13 @@
         "product_name": "八代目儀兵衛監おむすび　北海道産炙りたらこ",
         "product_price": 205,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044383/17E68230F6674B4443E7A7346B84492E.jpg",
+        "product_date": "2024.03.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044382/kanto/",
+        "product_name": "八代目儀兵衛監修肉みそ（名古屋コーチン使用）",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044382/81EFC56F290E4FCF4EC1C4280FC8E247.jpg",
         "product_date": "2024.03.19"
       }
     ],
@@ -326,10 +326,10 @@
         "product_date": "2024.03.19"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044380/kinki/",
-        "product_name": "八代目儀兵衛監修おむすび　炭火焼さば",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044380/788567190C7E6635995AB35CDE3A9C90.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/044361/kinki/",
+        "product_name": "大盛りごはん海老ピラフ＆ミックスグリル弁当",
+        "product_price": 637,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044361/44169E0C754E5E9DA96206BCB08C2414.jpg",
         "product_date": "2024.03.19"
       }
     ],
