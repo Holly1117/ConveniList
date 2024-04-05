@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044345/hokkaido/",
-        "product_name": "韓国風手巻おにぎり　ポックンパ",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044345/6F3F45BB656E4840677777E6C0B4F743.jpg",
-        "product_date": "2024.04.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044557/hokkaido/",
         "product_name": "直巻しょうゆおむすび　紅しゃけ",
         "product_price": 199,
@@ -42,6 +35,13 @@
         "product_name": "大きなおむすび　具たっぷり和風ツナマヨネーズ",
         "product_price": 199,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044561/7B541F6F27A0E25BB545E43208FE1E8B.jpg",
+        "product_date": "2024.04.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044560/hokkaido/",
+        "product_name": "大きなおむすび　具たっぷりたらこバター醤油",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044560/96381680B201BDF88BA8FE6329ED61D6.jpg",
         "product_date": "2024.04.02"
       }
     ],
