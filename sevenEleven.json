@@ -86,10 +86,10 @@
         "product_date": "2024.04.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044657/tohoku/",
-        "product_name": "大きなおむすび　焼肉タレご飯牛焼肉",
-        "product_price": 232,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044657/3B043B9FCE9D79994DF18F0F66F33CB8.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/044730/tohoku/",
+        "product_name": "濃厚豚骨醤油仕立ての半熟煮玉子おむすび",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044730/8ECD44E2CB7A3743475A369ECAABEAEC.jpg",
         "product_date": "2024.04.02"
       }
     ],
@@ -134,10 +134,10 @@
         "product_date": "2024.04.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044657/kanto/",
-        "product_name": "大きなおむすび　焼肉タレご飯牛焼肉",
-        "product_price": 232,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044657/3B043B9FCE9D79994DF18F0F66F33CB8.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/044730/kanto/",
+        "product_name": "濃厚豚骨醤油仕立ての半熟煮玉子おむすび",
+        "product_price": 194,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044730/8ECD44E2CB7A3743475A369ECAABEAEC.jpg",
         "product_date": "2024.04.02"
       }
     ],
@@ -223,17 +223,17 @@
         "product_date": "2024.04.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044479/hokuriku/",
-        "product_name": "ビーフペッパーおむすび",
-        "product_price": 129,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044479/B9B80A703E7CE91B582E4D145A7CF126.jpg",
-        "product_date": "2024.04.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044634/hokuriku/",
         "product_name": "ねぎ塩だれの豚カルビ弁当（麦入りご飯）",
         "product_price": 540,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044634/F3070CAB8574A5F623AD6BC37118DB8C.jpg",
+        "product_date": "2024.04.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044649/hokuriku/",
+        "product_name": "焼肉丼（ピリ辛豚焼肉・牛焼肉・鶏黒胡椒焼）",
+        "product_price": 658,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044649/1E04055D8CF16492A7254F9E88863CD1.jpg",
         "product_date": "2024.04.02"
       }
     ],
@@ -247,13 +247,6 @@
         "product_name": "直巻おむすび　おかかクリームチーズ",
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044732/81FA0F357DEF2F04AD09D30A14570139.jpg",
-        "product_date": "2024.04.02"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044628/tokai/",
-        "product_name": "直巻おむすび　サーモンわさびマヨネーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044628/2551DC47BF05AB4F7F49F8C58A02329E.jpg",
         "product_date": "2024.04.02"
       },
       {
@@ -283,6 +276,13 @@
         "product_price": 199,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044696/471E0803C681AD8E65B2806E7CCB0F17.jpg",
         "product_date": "2024.04.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044694/tokai/",
+        "product_name": "焦がし醤油ダレのコク旨チャーハンおむすび",
+        "product_price": 167,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044694/925A1A6B4B8217011CCF5963844821C6.jpg",
+        "product_date": "2024.04.02"
       }
     ],
     "prefecture_name": "東海"
