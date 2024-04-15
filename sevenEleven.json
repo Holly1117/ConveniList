@@ -31,17 +31,17 @@
         "product_date": "2024.04.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044763/hokkaido/",
-        "product_name": "魚介の旨み　シーフードピラフおむすび",
-        "product_price": 167,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044763/95AD171E4974D8A34B4A78CDF7DDAC53.jpg",
-        "product_date": "2024.04.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044759/hokkaido/",
         "product_name": "焼きガラ醤油仕立ての炒飯おむすび",
         "product_price": 129,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044759/FD0C07CDF1A4F8C754274EEC885F3AA6.jpg",
+        "product_date": "2024.04.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044746/hokkaido/",
+        "product_name": "チキンステーキ　ペッパーオニオンライス",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044746/1F78D528956EBB134B11255DC8C0CEF5.jpg",
         "product_date": "2024.04.09"
       }
     ],
@@ -99,13 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044832/kanto/",
-        "product_name": "直巻おむすび　旨辛鶏唐げマヨネーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044832/E67EC756E48F6A4CF729EA69E86C67AD.jpg",
-        "product_date": "2024.04.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044758/kanto/",
         "product_name": "直巻おむすび　豚キムチ",
         "product_price": 172,
@@ -138,6 +131,13 @@
         "product_name": "おむすび２個入り　焼鮭・和風ツナマヨネーズ",
         "product_price": 248,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044745/99C4B1033BB438219B9202BEE8D98E61.jpg",
+        "product_date": "2024.04.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044767/kanto/",
+        "product_name": "塩むすび",
+        "product_price": 113,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044767/3C28590838192A7525584D440CFDDA58.jpg",
         "product_date": "2024.04.09"
       }
     ],
@@ -374,11 +374,11 @@
         "product_date": "2024.04.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044763/chugoku/",
-        "product_name": "魚介の旨み　シーフードピラフおむすび",
-        "product_price": 167,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044763/95AD171E4974D8A34B4A78CDF7DDAC53.jpg",
-        "product_date": "2024.04.11"
+        "product_url": "https://www.sej.co.jp/products/a/item/044759/chugoku/",
+        "product_name": "焼きガラ醤油仕立ての炒飯おむすび",
+        "product_price": 129,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044759/FD0C07CDF1A4F8C754274EEC885F3AA6.jpg",
+        "product_date": "2024.04.09"
       }
     ],
     "prefecture_name": "中国"
@@ -442,13 +442,6 @@
         "product_date": "2024.04.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044789/kyushu/",
-        "product_name": "直巻おむすび　鶏そぼろ（国産鶏肉桜姫使用）",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044789/253BD0609700D815413D8FC335E961D0.jpg",
-        "product_date": "2024.04.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044761/kyushu/",
         "product_name": "赤飯おこわおむすび",
         "product_price": 145,
@@ -474,6 +467,13 @@
         "product_name": "かしわめしおむすび２個入り",
         "product_price": 237,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044785/251F0C7ED989DE991ED41845BB8569AA.jpg",
+        "product_date": "2024.04.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044784/kyushu/",
+        "product_name": "やみつきいか昆布おむすび",
+        "product_price": 140,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044784/B842D83E3C3606F236F2FBFB3364BC58.jpg",
         "product_date": "2024.04.09"
       }
     ],
