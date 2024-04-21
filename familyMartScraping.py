@@ -2,6 +2,7 @@
 import requests
 from bs4 import BeautifulSoup
 import re
+from datetime import datetime
 
 FM_OFFICE_URL = 'https://www.family.co.jp/goods/newgoods.html'
 
@@ -42,15 +43,15 @@ def get_product_dates(product_url):
     beasutiful_soup = BeautifulSoup(get_requests.text, "html.parser")
     product_date = beasutiful_soup.find("ul", attrs={'class': FM_DETAIL_DATE})
     return product_date.li.text.replace('発売日：', '')
-
+ 
 def get_product_ymd(product_date):
-     if '年' in product_date:
-         product_date_yyyy = re.findall(r'(.*?)年', product_date)
-         product_date_mm = re.findall(r'年(.*?)月', product_date)
-         product_date_dd = re.findall(r'月(.*?)日', product_date)
-         return product_date_yyyy[0] + "." + product_date_mm[0] + "." + product_date_dd[0]
-     else :
-         product_date_yyyy = re.findall(r'(.*?)\/', product_date)
-         product_date_mm = re.findall(r'\/(.*?)\/', product_date)
-         product_date_dd = re.findall(product_date_yyyy[0] +'\/'+product_date_mm[0]+'\/(\d*)', product_date)
-         return product_date_yyyy[0] + "." + product_date_mm[0] + "." + product_date_dd[0]
+    current_year = datetime.now().year
+    if '年' in product_date:
+        product_date_yyyy = re.findall(r'(.*?)年', product_date)[0]
+        product_date_mm = re.findall(r'年(.*?)月', product_date)[0]
+        product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
+        return product_date_yyyy + "." + product_date_mm + "." + product_date_dd
+    else:
+        product_date_mm = re.findall(r'(.*?)月', product_date)[0]
+        product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
+        return str(current_year) + "." + product_date_mm + "." + product_date_dd
