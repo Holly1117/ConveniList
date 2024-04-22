@@ -86,10 +86,10 @@
         "product_date": "2024.04.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042315/tohoku/",
-        "product_name": "炙りベーコンおむすび　（チーズマヨネーズ入）",
-        "product_price": 167,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042315/8DE883B7C73370761DB6905607BB6C34.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043594/tohoku/",
+        "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043594/C3DDF04684C3D187FA505431D0A2BF57.jpg",
         "product_date": "2024.04.16"
       }
     ],
@@ -243,13 +243,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044880/tokai/",
-        "product_name": "東海限定ご愛顧味付海苔海老マヨネーズ",
-        "product_price": 156,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044880/45AC00D3B83078F82BE1AA1B48A8DDB7.jpg",
-        "product_date": "2024.04.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044887/tokai/",
         "product_name": "おむすび＆おかず　焼鮭・ツナマヨネーズ",
         "product_price": 388,
@@ -283,6 +276,13 @@
         "product_price": 378,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044279/33B0F28ABD5F7E1C4236D86E244D638D.jpg",
         "product_date": "2024.04.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044751/tokai/",
+        "product_name": "鶏ちゃん丼（醤油味）　清流美どり使用",
+        "product_price": 561,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044751/C95110D6218D04AC9819BD6880A114E9.jpg",
+        "product_date": "2024.04.16"
       }
     ],
     "prefecture_name": "東海"
@@ -305,13 +305,6 @@
         "product_date": "2024.04.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044956/kinki/",
-        "product_name": "竹の子炊き込み御飯幕の内",
-        "product_price": 572,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044956/3A99AA678341C081C54540E41DBE938D.jpg",
-        "product_date": "2024.04.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044899/kinki/",
         "product_name": "鮭と明太子のごはん",
         "product_price": 345,
@@ -331,6 +324,13 @@
         "product_price": 194,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044964/8F3026C6592F22CF0213595100959FB1.jpg",
         "product_date": "2024.04.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044986/kinki/",
+        "product_name": "カニカマの寿司",
+        "product_price": 162,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044986/7F95EDEF05A6AD017C89300695798DE8.jpg",
+        "product_date": "2024.04.17"
       }
     ],
     "prefecture_name": "近畿"
