@@ -4,15 +4,17 @@ import config
 
 WEBHOOK_URL = config.WEBHOOK_URL
 
-LAWSON_CONTENT = [ "Lawson", "https://i.kobe-np.co.jp/rentoku/omoshiro/202201/img/d_14961479.jpg"]
+LAWSON_CONTENT = [ "ローソン", "https://i.kobe-np.co.jp/rentoku/omoshiro/202201/img/d_14961479.jpg"]
 
-FAMILY_CONTENT = ["FamilyMart","https://joinus-terrace.com/img/joinusfmg/store/storage/w670xh670/cname_20181029135326.jpg"]
+FAMILY_CONTENT = ["ファミリーマート","https://greensprings.jp/wp/wp-content/uploads/2020/03/img-logo_Familymart.png"]
 
-SEVEN_CONTENT = ["SevenEleven","https://play-lh.googleusercontent.com/EEX7U_o2Q9o4kjuo1j1IR4JCm6LO29BifTdi404TFFQxnQsB8sGFXONbTDC6Yko3iik"]
+SEVEN_CONTENT = ["セブンイレブン","https://play-lh.googleusercontent.com/EEX7U_o2Q9o4kjuo1j1IR4JCm6LO29BifTdi404TFFQxnQsB8sGFXONbTDC6Yko3iik"]
+
+DAILY_CONTENT = ["デイリーヤマザキ","https://pbs.twimg.com/profile_images/1113599389249839104/eD2onJy9_400x400.jpg"]
 
 HEADRES = {'Content-Type': 'application/json'}
 
-CONTENT_LIST = [LAWSON_CONTENT,FAMILY_CONTENT,SEVEN_CONTENT]
+CONTENT_LIST = [LAWSON_CONTENT,FAMILY_CONTENT,SEVEN_CONTENT,DAILY_CONTENT]
 
 def get_embeds(result):
     if (result):
