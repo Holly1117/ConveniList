@@ -51,24 +51,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045296/tohoku/",
-        "product_name": "味付海苔おにぎり　おかか",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045296/C91986C5E40B7D8BAA5CCEF2F11CD32A.jpg",
-        "product_date": "2024.05.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045286/tohoku/",
         "product_name": "菜めしつぼ漬けおむすび",
         "product_price": 129,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045286/E94BD98BA4277194A9093B87BF134BB9.jpg",
-        "product_date": "2024.05.07"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044894/tohoku/",
-        "product_name": "天タレまぶしおむすび　小海老入り",
-        "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044894/AD6ACE45705E63492482E9CB4785FD8F.jpg",
         "product_date": "2024.05.07"
       },
       {
@@ -91,6 +77,20 @@
         "product_price": 410,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045293/BC54F9379E5ECEE1FE64007FCAFDC145.jpg",
         "product_date": "2024.05.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044658/tohoku/",
+        "product_name": "ポークカレー",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044658/55DAE8CDD24E38E2EF1A68DD1BB43DFE.jpg",
+        "product_date": "2024.05.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045234/tohoku/",
+        "product_name": "ふんわり玉子のオムライス",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045234/33ACFCA76F45B6C25AAC9EB713654FAC.jpg",
+        "product_date": "2024.05.07"
       }
     ],
     "prefecture_name": "東北"
@@ -98,13 +98,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/045296/kanto/",
-        "product_name": "味付海苔おにぎり　おかか",
-        "product_price": 135,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045296/C91986C5E40B7D8BAA5CCEF2F11CD32A.jpg",
-        "product_date": "2024.05.07"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/045242/kanto/",
         "product_name": "直巻おむすび　高菜ご飯と明太子",
@@ -138,6 +131,13 @@
         "product_name": "３種おにぎりのお弁当",
         "product_price": 410,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045293/BC54F9379E5ECEE1FE64007FCAFDC145.jpg",
+        "product_date": "2024.05.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045241/kanto/",
+        "product_name": "海老天とかき揚げの天重",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045241/2C49AA69C1F7EE36513CDDEE3D15D12D.jpg",
         "product_date": "2024.05.07"
       }
     ],
@@ -360,13 +360,6 @@
         "product_date": "2024.05.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/094559/chugoku/",
-        "product_name": "みらいデリ博多一風堂監修とんこつラーメン",
-        "product_price": 615,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094559/5CD6D40B22102FF7037019F66B62746D.jpg",
-        "product_date": "2024.05.08"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/094557/chugoku/",
         "product_name": "ダシが決め手　ぶっかけ素麺",
         "product_price": 518,
@@ -378,6 +371,13 @@
         "product_name": "焼茶そば",
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094539/FDFE3C13FE2FDD5CB9D50599E08A3169.jpg",
+        "product_date": "2024.05.08"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/094524/chugoku/",
+        "product_name": "魚介の旨味が詰まったピリ辛トマトパスタ",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094524/7B7CC8FFA458CF8484E35E9E2CC22048.jpg",
         "product_date": "2024.05.08"
       }
     ],
@@ -438,7 +438,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/045092/kyushu/",
         "product_name": "八代目儀兵衛監修おむすび　鮭すじこ",
         "product_price": 210,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045092/7F6FE5A603100FE31831433ADFE7093D.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045092/CADBD9FC4187F13E479515B1A55BF22E.jpg",
         "product_date": "2024.05.07"
       },
       {
@@ -456,13 +456,6 @@
         "product_date": "2024.05.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/094559/kyushu/",
-        "product_name": "みらいデリ博多一風堂監修とんこつラーメン",
-        "product_price": 615,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094559/5CD6D40B22102FF7037019F66B62746D.jpg",
-        "product_date": "2024.05.08"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/094549/kyushu/",
         "product_name": "別府冷麺",
         "product_price": 496,
@@ -474,6 +467,13 @@
         "product_name": "焼茶そば",
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094539/FDFE3C13FE2FDD5CB9D50599E08A3169.jpg",
+        "product_date": "2024.05.08"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/094550/kyushu/",
+        "product_name": "福岡県産きのこのバター醤油パスタ",
+        "product_price": 518,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094550/BE67CC35663A12F09E3BA977BD47B737.jpg",
         "product_date": "2024.05.08"
       }
     ],
@@ -493,7 +493,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/045092/okinawa/",
         "product_name": "八代目儀兵衛監修おむすび　鮭すじこ",
         "product_price": 210,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045092/7F6FE5A603100FE31831433ADFE7093D.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045092/CADBD9FC4187F13E479515B1A55BF22E.jpg",
         "product_date": "2024.05.07"
       },
       {
