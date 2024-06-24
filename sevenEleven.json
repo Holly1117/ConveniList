@@ -99,13 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045832/kanto/",
-        "product_name": "直巻おむすび　旨辛鶏唐揚げマヨネーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045832/3EB920EEE2B910FCECAB45B293B705FD.jpg",
-        "product_date": "2024.06.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045847/kanto/",
         "product_name": "たまご醤油おむすび",
         "product_price": 118,
@@ -138,6 +131,13 @@
         "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
         "product_price": 691,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045831/26F9FCECB6720C6F0091989319FC8D91.jpg",
+        "product_date": "2024.06.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045809/kanto/",
+        "product_name": "鶏めし御飯と夏野菜おかずのお弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045809/F362BC02E006929355A73FC019C019A0.jpg",
         "product_date": "2024.06.18"
       }
     ],
@@ -182,10 +182,10 @@
         "product_date": "2024.06.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045410/koshinetsu/",
-        "product_name": "かにめしおむすび",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045410/9EB3C05C8B8050245D0E95352760DD72.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/045791/koshinetsu/",
+        "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045791/42CDFFD4F06325234ABB699C5B11DAB8.jpg",
         "product_date": "2024.06.18"
       }
     ],
@@ -209,13 +209,6 @@
         "product_date": "2024.06.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045410/hokuriku/",
-        "product_name": "かにめしおむすび",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045410/9EB3C05C8B8050245D0E95352760DD72.jpg",
-        "product_date": "2024.06.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045791/hokuriku/",
         "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
         "product_price": 594,
@@ -235,6 +228,13 @@
         "product_price": 178,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040615/48B835DAD3D4282E19773351837C5038.jpg",
         "product_date": "2024.06.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052437/hokuriku/",
+        "product_name": "ブロッコリー＆ツナ　サンド",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052437/C5DD3CC5B7792353756FE2899AE80F9A.jpg",
+        "product_date": "2024.06.19"
       }
     ],
     "prefecture_name": "北陸"
@@ -374,10 +374,10 @@
         "product_date": "2024.06.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040446/chugoku/",
-        "product_name": "豚ロースとんかつ弁当",
-        "product_price": 637,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040446/8C34BCCFE437A4F3D9A61F4312117593.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/045799/chugoku/",
+        "product_name": "魯珈監修　ろかプレート",
+        "product_price": 699,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045799/74FC37E380F5252562728E6516D3FC6E.jpg",
         "product_date": "2024.06.18"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2024.06.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040446/shikoku/",
-        "product_name": "豚ロースとんかつ弁当",
-        "product_price": 637,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040446/8C34BCCFE437A4F3D9A61F4312117593.jpg",
-        "product_date": "2024.06.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045830/shikoku/",
         "product_name": "松山どりの鶏そぼろとだしごはん",
         "product_price": 321,
@@ -426,6 +419,13 @@
         "product_name": "魯珈監修　ろかプレート",
         "product_price": 699,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045799/74FC37E380F5252562728E6516D3FC6E.jpg",
+        "product_date": "2024.06.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045797/shikoku/",
+        "product_name": "麻婆チャーハン",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045797/0A02074E1A4364658C2FF1540C5DB128.jpg",
         "product_date": "2024.06.18"
       }
     ],
@@ -463,17 +463,17 @@
         "product_date": "2024.06.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045410/kyushu/",
-        "product_name": "かにめしおむすび",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045410/9EB3C05C8B8050245D0E95352760DD72.jpg",
-        "product_date": "2024.06.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045023/kyushu/",
         "product_name": "がっつり油淋鶏とチャーシュー御飯",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045023/5522971EF83460B09BB1F9EC974A031B.jpg",
+        "product_date": "2024.06.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041321/kyushu/",
+        "product_name": "かしわめし",
+        "product_price": 375,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041321/B0493BC9E5A6D2BCE8C06CB74469CC46.jpg",
         "product_date": "2024.06.18"
       }
     ],
@@ -487,13 +487,6 @@
         "product_name": "大きなおむすび　和風ツナマヨネーズ",
         "product_price": 199,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044572/EE2DFF6FF53F70AB401764A72630A881.jpg",
-        "product_date": "2024.06.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044768/okinawa/",
-        "product_name": "おむすび２個入り　焼鮭・和風ツナマヨネーズ",
-        "product_price": 248,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044768/4B05AD07DFCA20EC336E73B70AD1DE61.jpg",
         "product_date": "2024.06.18"
       },
       {
@@ -522,6 +515,13 @@
         "product_name": "釜揚げしらすと小松菜わかめのまぜ麦ごはん",
         "product_price": 321,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045764/6C4E1295366466DA2EED80DF3072624A.jpg",
+        "product_date": "2024.06.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043606/okinawa/",
+        "product_name": "ふんわりたまごの天津飯",
+        "product_price": 486,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043606/CFA09685F4521F0FB5CBD2762F3C59FE.jpg",
         "product_date": "2024.06.18"
       }
     ],
