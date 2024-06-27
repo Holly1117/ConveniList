@@ -23,21 +23,26 @@ DY_PRODUCT_LIST = []
 
 def get_product_information():
     get_requests = requests.get(DY_OFFICE_URL)
-    beasutiful_soup = BeautifulSoup(get_requests.text, "html.parser")
-    product_detailList = beasutiful_soup.find_all("div", attrs={'class': DY_DETAIL_LIST})
+    beautiful_soup = BeautifulSoup(get_requests.text, "html.parser")
+    product_detailList = beautiful_soup.find_all("div", attrs={'class': DY_DETAIL_LIST})
     for detailIndex ,detail in enumerate(product_detailList):
-        product_dateList = detail.find_all("h3",attrs={'class': DY_DETAIL_DATE})
+        product_dateList = detail.find_all("h3", attrs={'class': DY_DETAIL_DATE})
         product_name = detail.find_all("h3", attrs={'class': DY_DETAIL_NAME})
         product_price = detail.find_all("span", attrs={'class': DY_DETAIL_PRICE})
         product_image = detail.find_all("figure", attrs={'class': DY_PRODUCT_IMAGE})
         product_date = product_dateList[0].text
         for nameIndex ,name in enumerate(product_name):
-            product_price_findall = re.findall(r'(\d*?)円', product_price[nameIndex].text)
+            product_price_findall = re.findall(r'税込(\d+)\s*円', product_price[nameIndex].text)
+            if product_price_findall and product_price_findall[0].isdigit():
+                price = int(product_price_findall[0])
+            else:
+                price = None  # デフォルト値やエラーハンドリングを設定
+
             DY_DETAIL_DATE_LIST.append({
-            "product_name":name.text.replace('\n', '').replace('\t', ''),
-            "product_price":int(product_price_findall[0]),
-            "product_date":get_product_ymd(product_date),
-            "product_image":product_image[nameIndex].img.get("src")
+                "product_name": name.text.replace('\n', '').replace('\t', ''),
+                "product_price": price,
+                "product_date": get_product_ymd(product_date),
+                "product_image": product_image[nameIndex].img.get("src")
             })
     return DY_DETAIL_DATE_LIST
 
@@ -45,3 +50,4 @@ def get_product_ymd(product_date):
     current_year = datetime.now().year
     product_date = re.findall(r'(\d{1,2})月(\d{1,2})日', product_date)
     return str(current_year) + "." + product_date[0][0] + "." + product_date[0][1]
+
