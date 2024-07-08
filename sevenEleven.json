@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046011/hokkaido/",
-        "product_name": "直巻おむすび　旨辛鶏唐揚げマヨネーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/046011/B47296AA86917DEF59EA3C2FFFAEA531.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040128/hokkaido/",
         "product_name": "大きなおむすび　和風ツナマヨネーズ",
         "product_price": 205,
@@ -24,13 +17,6 @@
         "product_date": "2024.07.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045411/hokkaido/",
-        "product_name": "あさり御飯おむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045411/54895780B50C5F8609BD44F708ACF00A.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040060/hokkaido/",
         "product_name": "八代目儀兵衛監修黒豚そぼろ（九州産黒豚使用）",
         "product_price": 183,
@@ -42,6 +28,20 @@
         "product_name": "親子丼",
         "product_price": 496,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040308/EB46A48CCB2951BC99C329EE48A2E1EC.jpg",
+        "product_date": "2024.07.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040312/hokkaido/",
+        "product_name": "ハンバーグ丼　おろし玉ねぎソース",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040312/171AF4C4D0EDEB43E22A25B76BD71A51.jpg",
+        "product_date": "2024.07.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045458/hokkaido/",
+        "product_name": "手巻寿司ツナマヨネーズ巻",
+        "product_price": 183,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045458/F40D9AAC627AEABFF01B0B346A8D77DB.jpg",
         "product_date": "2024.07.02"
       }
     ],
@@ -65,13 +65,6 @@
         "product_date": "2024.07.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040236/tohoku/",
-        "product_name": "やみつきいか昆布おむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040236/43A9E0AC931DA8A09F8386FFE9979977.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045989/tohoku/",
         "product_name": "ツナごはんおむすび",
         "product_price": 140,
@@ -90,6 +83,13 @@
         "product_name": "コロッケ＆唐揚げ弁当",
         "product_price": 421,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040217/5DBBE7452DE3B190F184AA81BE5BEED1.jpg",
+        "product_date": "2024.07.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040215/tohoku/",
+        "product_name": "オニオンソースハンバーグ弁当",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040215/209DFC4B5F03B25A5F5E0E954A30E1E6.jpg",
         "product_date": "2024.07.02"
       }
     ],
@@ -120,13 +120,6 @@
         "product_date": "2024.07.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040236/kanto/",
-        "product_name": "やみつきいか昆布おむすび",
-        "product_price": 140,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040236/43A9E0AC931DA8A09F8386FFE9979977.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040060/kanto/",
         "product_name": "八代目儀兵衛監修黒豚そぼろ（九州産黒豚使用）",
         "product_price": 183,
@@ -138,6 +131,13 @@
         "product_name": "熟成だれの炭火焼き牛カルビ弁当",
         "product_price": 753,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040283/FA8E0A6BC10EFBD330D7AC7CFC9A803C.jpg",
+        "product_date": "2024.07.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040293/kanto/",
+        "product_name": "ねぎ塩だれの豚カルビ弁当（麦入りご飯）",
+        "product_price": 561,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040293/8F4B3269466B15CA945886E177EA6243.jpg",
         "product_date": "2024.07.02"
       }
     ],
@@ -312,13 +312,6 @@
         "product_date": "2024.07.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040215/kinki/",
-        "product_name": "オニオンソースハンバーグ弁当",
-        "product_price": 421,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040215/209DFC4B5F03B25A5F5E0E954A30E1E6.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040302/kinki/",
         "product_name": "チャーシュー丼",
         "product_price": 399,
@@ -330,6 +323,13 @@
         "product_name": "けずりチーズのせ　トマトソースのオムライス",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043880/CF4EDACC59068F62FF93B72BBF507E35.jpg",
+        "product_date": "2024.07.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045940/kinki/",
+        "product_name": "手巻寿司　鰹だし醤油タレの納豆巻",
+        "product_price": 178,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045940/01A555EB47073B3CC05B94D68734B877.jpg",
         "product_date": "2024.07.02"
       }
     ],
@@ -435,20 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040122/kyushu/",
-        "product_name": "大きなおむすび　のり佃煮　有明海産海苔使用",
-        "product_price": 178,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040122/FE30A91A874891AAD1A6A7871637D1F7.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040116/kyushu/",
-        "product_name": "大きなおむすび　豚高菜（九州産高菜使用）",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040116/615B04FA23AEA7A2BD7483613B02983D.jpg",
-        "product_date": "2024.07.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040707/kyushu/",
         "product_name": "炭火焼き牛カルビ弁当",
         "product_price": 645,
@@ -475,6 +461,20 @@
         "product_price": 645,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040107/490A4CD1F3DB9AAF0FC4F1732BB6D635.jpg",
         "product_date": "2024.07.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052462/kyushu/",
+        "product_name": "野菜ミックスサンド",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052462/6BF8A86B1FA8FBC52E8E023C15589BF1.jpg",
+        "product_date": "2024.07.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052461/kyushu/",
+        "product_name": "バゲットサンド　パストラミチキン",
+        "product_price": 367,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052461/0AF626154723C649ED3D114C611E9243.jpg",
+        "product_date": "2024.07.03"
       }
     ],
     "prefecture_name": "九州"
