@@ -3,24 +3,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041283/hokkaido/",
-        "product_name": "鮭マヨネーズおむすび　道産ブロッコリー入り",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041283/0A7888AD4817239839F8F648DDFACDEA.jpg",
-        "product_date": "2024.07.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041256/hokkaido/",
         "product_name": "ガツンと辛い　山わさびおむすび",
         "product_price": 124,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041256/38F6367C642D99F0D4FBF7BCF33D589B.jpg",
-        "product_date": "2024.07.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041240/hokkaido/",
-        "product_name": "ブロッコリーベーコンピラフおむすび",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041240/F0E0CB3466AF769D2369BB081C051C8E.jpg",
         "product_date": "2024.07.30"
       },
       {
@@ -42,6 +28,20 @@
         "product_name": "海苔弁当",
         "product_price": 429,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041273/B0B9C7B4BC04D6B24C95547358104129.jpg",
+        "product_date": "2024.07.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040559/hokkaido/",
+        "product_name": "ずっしり　洋食ＭＩＸ弁当",
+        "product_price": 626,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040559/5CC8281941A8BC2DC0A84F1FC16D5759.jpg",
+        "product_date": "2024.07.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041565/hokkaido/",
+        "product_name": "梅しらすごはんの季節幕の内",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041565/68E7A3DDB7A786FD93B905E96A036639.jpg",
         "product_date": "2024.07.30"
       }
     ],
@@ -511,17 +511,17 @@
         "product_date": "2024.07.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/094702/okinawa/",
-        "product_name": "ねばねば納豆のミニそば",
-        "product_price": 399,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094702/6D554111960B13953A6AAB398FE19636.jpg",
-        "product_date": "2024.07.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/102001/okinawa/",
         "product_name": "７プレミアム　きんぴらごぼう",
         "product_price": 149,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/102001/8D2CCDBB7C48080D694A540CFC50C910.jpg",
+        "product_date": "2024.07.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/101999/okinawa/",
+        "product_name": "７プレミアム　ひじき煮",
+        "product_price": 149,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/101999/1FF217CE2983C0A5604C1FC4C7F76CE2.jpg",
         "product_date": "2024.07.30"
       }
     ],
