@@ -360,13 +360,6 @@
         "product_date": "2024.08.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042135/chugoku/",
-        "product_name": "手巻寿司　いくら巻",
-        "product_price": 237,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042135/4492752D3D5AFF191DC2AD0F7FFAA8AE.jpg",
-        "product_date": "2024.08.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/052524/chugoku/",
         "product_name": "４種のフルーツサンド",
         "product_price": 388,
@@ -379,6 +372,13 @@
         "product_price": 280,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052326/89DD9C079781F1A019F00F320D6E9CEE.jpg",
         "product_date": "2024.08.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090516/chugoku/",
+        "product_name": "明太クリームうどん",
+        "product_price": 507,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090516/EBF0C2DDA527F14B91E2F7D89E241302.jpg",
+        "product_date": "2024.08.13"
       }
     ],
     "prefecture_name": "中国"
@@ -470,11 +470,11 @@
         "product_date": "2024.08.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042135/kyushu/",
-        "product_name": "手巻寿司　いくら巻",
-        "product_price": 237,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042135/4492752D3D5AFF191DC2AD0F7FFAA8AE.jpg",
-        "product_date": "2024.08.13"
+        "product_url": "https://www.sej.co.jp/products/a/item/051531/kyushu/",
+        "product_name": "九州産華味鳥チーズチキンカツサンド",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/051531/B045882B1585B60B38C87ABC26CF4C7F.jpg",
+        "product_date": "2024.08.14"
       }
     ],
     "prefecture_name": "九州"
