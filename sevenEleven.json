@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042202/hokkaido/",
-        "product_name": "オムライスおむすび　トマトソース",
-        "product_price": 170,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042202/6FEE97FDD73705EBF07DCE932B1F3997.jpg",
-        "product_date": "2024.08.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042201/hokkaido/",
         "product_name": "軟骨入り　焼つくねおむすび",
         "product_price": 181,
@@ -31,17 +24,24 @@
         "product_date": "2024.08.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042205/hokkaido/",
-        "product_name": "一膳ごはん　明太バター（もち麦）",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042205/353D587782EDD767CADF6DB1BF9A818C.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041676/hokkaido/",
+        "product_name": "しらす御飯　北限のしらす使用",
+        "product_price": 378,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041676/709988A7C27875A105D18D4F06362347.jpg",
         "product_date": "2024.08.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042203/hokkaido/",
-        "product_name": "一膳ごはん　あじほぐし",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042203/2734AC40D695C764BBFA7B8406D7FFC7.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042208/hokkaido/",
+        "product_name": "ハンバーグ丼　おろし大根ソース",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042208/05D0A13760F0F5E4646302EE9B75A591.jpg",
+        "product_date": "2024.08.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041035/hokkaido/",
+        "product_name": "ピリ辛海老チリチャーハン",
+        "product_price": 604,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041035/6600B59B80A4C96EB0046C0DB72DA83D.jpg",
         "product_date": "2024.08.20"
       }
     ],
@@ -134,10 +134,10 @@
         "product_date": "2024.08.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042205/kanto/",
-        "product_name": "一膳ごはん　明太バター（もち麦）",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042205/353D587782EDD767CADF6DB1BF9A818C.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042211/kanto/",
+        "product_name": "生姜焼き丼",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042211/A815CD0E896D9C35F3EFBEC2112778CD.jpg",
         "product_date": "2024.08.20"
       }
     ],
@@ -216,24 +216,24 @@
         "product_date": "2024.08.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042205/hokuriku/",
-        "product_name": "一膳ごはん　明太バター（もち麦）",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042205/353D587782EDD767CADF6DB1BF9A818C.jpg",
-        "product_date": "2024.08.20"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042203/hokuriku/",
-        "product_name": "一膳ごはん　あじほぐし",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042203/2734AC40D695C764BBFA7B8406D7FFC7.jpg",
-        "product_date": "2024.08.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042208/hokuriku/",
         "product_name": "ハンバーグ丼　おろし大根ソース",
         "product_price": 496,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042208/05D0A13760F0F5E4646302EE9B75A591.jpg",
+        "product_date": "2024.08.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052018/hokuriku/",
+        "product_name": "スパイシーチキンサンド",
+        "product_price": 321,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052018/4C7A5D0A8E9441304E82C002F97C29AA.jpg",
+        "product_date": "2024.08.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090690/hokuriku/",
+        "product_name": "お月見納豆そば",
+        "product_price": 637,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/090690/04BC8CA35012C3282CFD0ECEEB52430E.jpg",
         "product_date": "2024.08.20"
       }
     ],
@@ -339,13 +339,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042191/chugoku/",
-        "product_name": "直巻おむすび　広島菜キムチ",
-        "product_price": 162,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042191/E2B5174719637A0F0B131CC837A6A6E8.jpg",
-        "product_date": "2024.08.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042202/chugoku/",
         "product_name": "オムライスおむすび　トマトソース",
         "product_price": 170,
@@ -378,6 +371,13 @@
         "product_name": "生姜焼き丼",
         "product_price": 496,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042211/A815CD0E896D9C35F3EFBEC2112778CD.jpg",
+        "product_date": "2024.08.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042208/chugoku/",
+        "product_name": "ハンバーグ丼　おろし大根ソース",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042208/05D0A13760F0F5E4646302EE9B75A591.jpg",
         "product_date": "2024.08.20"
       }
     ],
