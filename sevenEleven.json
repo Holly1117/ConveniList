@@ -10,13 +10,6 @@
         "product_date": "2024.08.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042373/hokkaido/",
-        "product_name": "ロコモコプレート",
-        "product_price": 645,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042373/FD187467FB9BC2B9CC7D8A791AC071E4.jpg",
-        "product_date": "2024.08.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042372/hokkaido/",
         "product_name": "カルボ飯",
         "product_price": 594,
@@ -24,24 +17,31 @@
         "product_date": "2024.08.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042198/hokkaido/",
-        "product_name": "ツナ＆ソーセージキムパ",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042198/A0F0EB0F1C593C73872711E8CA4023C5.jpg",
-        "product_date": "2024.08.27"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/052533/hokkaido/",
-        "product_name": "ブロッコリー＆ベーコンサラダサンド",
-        "product_price": 367,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052533/22913C2C6ECC1B2E2BBCA378E78BE2D8.jpg",
-        "product_date": "2024.08.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/052538/hokkaido/",
         "product_name": "サルサフライドチキンバーガー",
         "product_price": 410,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052538/17BF5E2DD3FCDB50F47CD362B10DE021.jpg",
+        "product_date": "2024.08.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052532/hokkaido/",
+        "product_name": "ブリトーウインナー２本入りチリミートチーズ",
+        "product_price": 302,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052532/A87EDE573DA10338ECE461C61B53FBFB.jpg",
+        "product_date": "2024.08.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/094568/hokkaido/",
+        "product_name": "野菜たっぷり焼うどん",
+        "product_price": 529,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094568/6F70C2C26E6B35622030082989132F2A.jpg",
+        "product_date": "2024.08.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/094551/hokkaido/",
+        "product_name": "たっぷりたらこのスパゲティ",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/094551/791DC63AD99DC40C007E1DEC1EA6163D.jpg",
         "product_date": "2024.08.28"
       }
     ],
@@ -55,13 +55,6 @@
         "product_name": "直巻おむすび　宮城県産きくらげラー油マヨ",
         "product_price": 162,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042351/71BA3087131AC1CD6172FE3814539951.jpg",
-        "product_date": "2024.08.27"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042170/tohoku/",
-        "product_name": "郡山市産大葉使用の大葉味噌おむすび",
-        "product_price": 145,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042170/04A203515F28C01793C00855C9FEC4E0.jpg",
         "product_date": "2024.08.27"
       },
       {
@@ -90,6 +83,13 @@
         "product_name": "八代目儀兵衛監修おむすび　ねぎ塩牛たん",
         "product_price": 259,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042273/A89CF9D6DC6FFDE675DCF33EE07B3D05.jpg",
+        "product_date": "2024.08.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042331/tohoku/",
+        "product_name": "イカフライタルタルソース御飯",
+        "product_price": 375,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042331/714CE959D6CED9CCBC160A769E8F4BD3.jpg",
         "product_date": "2024.08.27"
       }
     ],
@@ -246,7 +246,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/042192/tokai/",
         "product_name": "浜名湖のりの佃煮おむすび",
         "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042192/3DE0E15DF1F5EE02CC0FB7816C598556.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042192/05688AB1D33A1FA56366D80CD577AE18.jpg",
         "product_date": "2024.08.27"
       },
       {
@@ -367,17 +367,17 @@
         "product_date": "2024.08.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045102/chugoku/",
-        "product_name": "チキンカツ弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045102/90FCFF52BCCB575F27C4EA83943BC093.jpg",
-        "product_date": "2024.08.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042331/chugoku/",
         "product_name": "イカフライタルタルソース御飯",
         "product_price": 375,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042331/714CE959D6CED9CCBC160A769E8F4BD3.jpg",
+        "product_date": "2024.08.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042373/chugoku/",
+        "product_name": "ロコモコプレート",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042373/FD187467FB9BC2B9CC7D8A791AC071E4.jpg",
         "product_date": "2024.08.27"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2024.08.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045102/shikoku/",
-        "product_name": "チキンカツ弁当",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045102/90FCFF52BCCB575F27C4EA83943BC093.jpg",
-        "product_date": "2024.08.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042331/shikoku/",
         "product_name": "イカフライタルタルソース御飯",
         "product_price": 375,
@@ -422,10 +415,17 @@
         "product_date": "2024.08.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042284/shikoku/",
-        "product_name": "チーズ豚キムチ丼",
-        "product_price": 583,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042284/5CAB844540917DB94DE05AF40FDAF109.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042373/shikoku/",
+        "product_name": "ロコモコプレート",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042373/FD187467FB9BC2B9CC7D8A791AC071E4.jpg",
+        "product_date": "2024.08.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042372/shikoku/",
+        "product_name": "カルボ飯",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042372/EE46B991C3FA0E028E4A3B4878274340.jpg",
         "product_date": "2024.08.27"
       }
     ],
