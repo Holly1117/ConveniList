@@ -99,20 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042711/kanto/",
-        "product_name": "直巻おむすび　明太子クリームチーズ",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042711/F152E223D6B3D73FC3C4911B0A3507B0.jpg",
-        "product_date": "2024.09.03"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042578/kanto/",
-        "product_name": "どーんとおむすび　九州産若鶏の炭火焼鳥",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042578/016DE072CF504F774226D5A6D8164B6D.jpg",
-        "product_date": "2024.09.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042569/kanto/",
         "product_name": "天タレまぶしおむすび　紅生姜入り",
         "product_price": 118,
@@ -138,6 +124,20 @@
         "product_name": "しらす御飯　北限のしらす使用",
         "product_price": 378,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041676/709988A7C27875A105D18D4F06362347.jpg",
+        "product_date": "2024.09.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043925/kanto/",
+        "product_name": "ミニ海苔弁当",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043925/B71F6D687AE8C02542D1FF9009FA9016.jpg",
+        "product_date": "2024.09.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042589/kanto/",
+        "product_name": "メンチカツカレー",
+        "product_price": 496,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042589/21A7234807D6FA2B1AA1965601CAB0FB.jpg",
         "product_date": "2024.09.03"
       }
     ],
@@ -260,7 +260,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/043767/tokai/",
         "product_name": "混ぜ飯おむすび　うなぎのタレまぶし",
         "product_price": 124,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043767/AFE1477D2CFF6ADC677A23BBDE2C6446.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043767/5E6E7CADC5567A18BE324EA5AE4109BC.jpg",
         "product_date": "2024.09.03"
       },
       {
@@ -305,13 +305,6 @@
         "product_date": "2024.09.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042473/kinki/",
-        "product_name": "ずっしり　トリプルミートコンボ",
-        "product_price": 645,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042473/3B1028E9D63428D1E821A697C815E4F2.jpg",
-        "product_date": "2024.09.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042664/kinki/",
         "product_name": "大盛りごはん！洋食ミックス弁当",
         "product_price": 637,
@@ -330,6 +323,13 @@
         "product_name": "麻婆丼",
         "product_price": 348,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042678/DF1814CFB8E33399787FA7455FAA2A48.jpg",
+        "product_date": "2024.09.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042675/kinki/",
+        "product_name": "バターチキンカレー",
+        "product_price": 348,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042675/926575F42A280C27A3DAEEC83D993F30.jpg",
         "product_date": "2024.09.03"
       }
     ],
