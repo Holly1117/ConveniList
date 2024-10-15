@@ -46,12 +46,17 @@ def get_product_dates(product_url):
  
 def get_product_ymd(product_date):
     current_year = datetime.now().year
-    if '年' in product_date:
-        product_date_yyyy = re.findall(r'(.*?)年', product_date)[0]
-        product_date_mm = re.findall(r'年(.*?)月', product_date)[0]
-        product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
-        return product_date_yyyy + "." + product_date_mm + "." + product_date_dd
-    else:
-        product_date_mm = re.findall(r'(.*?)月', product_date)[0]
-        product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
-        return str(current_year) + "." + product_date_mm + "." + product_date_dd
+    try:
+        if '年' in product_date:
+            product_date_yyyy = re.findall(r'(.*?)年', product_date)[0]
+            product_date_mm = re.findall(r'年(.*?)月', product_date)[0]
+            product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
+            return product_date_yyyy + "." + product_date_mm + "." + product_date_dd
+        else:
+            product_date_mm = re.findall(r'(.*?)月', product_date)[0]
+            product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
+            return str(current_year) + "." + product_date_mm + "." + product_date_dd
+    except IndexError:
+        return ""
+
+get_product_information()
