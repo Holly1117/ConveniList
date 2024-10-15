@@ -57,6 +57,6 @@ def get_product_ymd(product_date):
             product_date_dd = re.findall(r'月(.*?)日', product_date)[0]
             return str(current_year) + "." + product_date_mm + "." + product_date_dd
     except IndexError:
-        return ""
+        return "未定"
 
 get_product_information()
