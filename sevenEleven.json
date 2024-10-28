@@ -68,7 +68,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/043354/tohoku/",
         "product_name": "直巻おむすび　炭火牛焼肉",
         "product_price": 192,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043354/6A0499334ED096E8E59B0BE3BA724FD8.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043354/9AB704B8B521CD450C82EE20761B9A5A.jpg",
         "product_date": "2024.10.22"
       },
       {
@@ -147,13 +147,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/koshinetsu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043360/koshinetsu/",
-        "product_name": "直巻おむすび　梅キムチ",
-        "product_price": 159,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043360/5EA44CDE27A6C6B4EE5B11D8D3CE1F08.jpg",
-        "product_date": "2024.10.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044527/koshinetsu/",
         "product_name": "カリカリ梅おむすび　国産梅使用",
         "product_price": 149,
@@ -187,6 +180,13 @@
         "product_price": 151,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044030/060A4FF6D867A729E4A15F5AD514E7E7.jpg",
         "product_date": "2024.10.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044534/koshinetsu/",
+        "product_name": "大きなおむすび　豚カルビ焼肉マヨ",
+        "product_price": 259,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044534/A7102C49870444F394901C43D5DAFB4D.jpg",
+        "product_date": "2024.10.22"
       }
     ],
     "prefecture_name": "甲信越"
@@ -199,13 +199,6 @@
         "product_name": "直巻おむすび　梅キムチ",
         "product_price": 159,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043360/5EA44CDE27A6C6B4EE5B11D8D3CE1F08.jpg",
-        "product_date": "2024.10.22"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043354/hokuriku/",
-        "product_name": "直巻おむすび　炭火牛焼肉",
-        "product_price": 192,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043354/6A0499334ED096E8E59B0BE3BA724FD8.jpg",
         "product_date": "2024.10.22"
       },
       {
@@ -234,6 +227,13 @@
         "product_name": "おむすび２個入り　紅鮭・和風ツナマヨネーズ",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044504/761D8CB7E8D4481B6E98CE67ACE8B4E8.jpg",
+        "product_date": "2024.10.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044500/hokuriku/",
+        "product_name": "おむすび＆おかず　紅鮭・ツナマヨネーズ",
+        "product_price": 410,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044500/3457198B40FAADD6332E85043EAA66D2.jpg",
         "product_date": "2024.10.22"
       }
     ],
@@ -500,7 +500,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/043354/okinawa/",
         "product_name": "直巻おむすび　炭火牛焼肉",
         "product_price": 192,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043354/6A0499334ED096E8E59B0BE3BA724FD8.jpg",
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043354/9AB704B8B521CD450C82EE20761B9A5A.jpg",
         "product_date": "2024.10.22"
       },
       {
