@@ -99,17 +99,17 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044638/kanto/",
-        "product_name": "大きなおむすび鳥めし",
-        "product_price": 264,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044638/DDFF9C2180F899588B0EE4F9127AD8B2.jpg",
-        "product_date": "2024.10.29"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044639/kanto/",
         "product_name": "大きなおむすび鳥めし",
         "product_price": 264,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044639/C71D3F9713CDBDCE580D433D6E5B031F.jpg",
+        "product_date": "2024.10.29"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044638/kanto/",
+        "product_name": "大きなおむすび鳥めし",
+        "product_price": 264,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044638/DDFF9C2180F899588B0EE4F9127AD8B2.jpg",
         "product_date": "2024.10.29"
       },
       {
