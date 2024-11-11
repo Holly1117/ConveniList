@@ -154,13 +154,6 @@
         "product_date": "2024.11.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044812/koshinetsu/",
-        "product_name": "２種ソースのハムカツ＆ハンバーグ弁当",
-        "product_price": 626,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044812/98EFA289AE74ECCBB28F74DB17CCC177.jpg",
-        "product_date": "2024.11.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043864/koshinetsu/",
         "product_name": "鶏めし御飯幕の内",
         "product_price": 594,
@@ -187,6 +180,13 @@
         "product_price": 537,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044905/7593A1972B0FB1D90E06A6829A796354.jpg",
         "product_date": "2024.11.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044845/koshinetsu/",
+        "product_name": "味しみロースかつ丼",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044845/6C9AF9458C675E7AB4BC66DAFCF4B627.jpg",
+        "product_date": "2024.11.06"
       }
     ],
     "prefecture_name": "甲信越"
@@ -250,10 +250,10 @@
         "product_date": "2024.11.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041986/tokai/",
-        "product_name": "大盛りごはん！ビーフライス＆チキンステーキ",
-        "product_price": 637,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041986/D6E6A76F9B9590C837BA0752C2AF729C.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041159/tokai/",
+        "product_name": "がっつり油淋鶏とチャーシュー御飯",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041159/DFB3BF30DF57BA0A462E40C874DE5F4A.jpg",
         "product_date": "2024.11.05"
       },
       {
@@ -346,13 +346,6 @@
         "product_date": "2024.11.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044579/chugoku/",
-        "product_name": "どーんとおむすび　アジフライ",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044579/4E49FFB736BD17EDCB52805AE07D6296.jpg",
-        "product_date": "2024.11.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044818/chugoku/",
         "product_name": "岡山名物　とりめし",
         "product_price": 496,
@@ -379,6 +372,13 @@
         "product_price": 626,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044830/F1F59B4D953ADD86DFEE615327739548.jpg",
         "product_date": "2024.11.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044905/chugoku/",
+        "product_name": "牛めし",
+        "product_price": 537,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044905/7593A1972B0FB1D90E06A6829A796354.jpg",
+        "product_date": "2024.11.05"
       }
     ],
     "prefecture_name": "中国"
@@ -386,13 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044579/shikoku/",
-        "product_name": "どーんとおむすび　アジフライ",
-        "product_price": 270,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044579/4E49FFB736BD17EDCB52805AE07D6296.jpg",
-        "product_date": "2024.11.05"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/043695/shikoku/",
         "product_name": "こだわりおむすび　丸ごと半熟煮玉子",
@@ -427,6 +420,13 @@
         "product_price": 537,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044905/7593A1972B0FB1D90E06A6829A796354.jpg",
         "product_date": "2024.11.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044815/shikoku/",
+        "product_name": "欧風ロースカツカレー",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044815/6B2AFE0406F3F7BCBC7FF335F45C439B.jpg",
+        "product_date": "2024.11.05"
       }
     ],
     "prefecture_name": "四国"
@@ -449,13 +449,6 @@
         "product_date": "2024.11.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043864/kyushu/",
-        "product_name": "鶏めし御飯幕の内",
-        "product_price": 594,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043864/F223F3323E94E48553826445278B3028.jpg",
-        "product_date": "2024.11.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044905/kyushu/",
         "product_name": "牛めし",
         "product_price": 537,
@@ -475,6 +468,13 @@
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044637/7BAB969BD4CBC6EA9C8C1E77AACC808C.jpg",
         "product_date": "2024.11.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052646/kyushu/",
+        "product_name": "ＢＬＴサンド",
+        "product_price": 429,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052646/AE4F709EB72FCEBC9FDB69650D0DA884.jpg",
+        "product_date": "2024.11.06"
       }
     ],
     "prefecture_name": "九州"
@@ -497,13 +497,6 @@
         "product_date": "2024.11.08"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044278/okinawa/",
-        "product_name": "なすのコク旨肉味噌炒め丼",
-        "product_price": 399,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044278/5622E80113B15C76EACB2550F42B3E91.jpg",
-        "product_date": "2024.11.08"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/095010/okinawa/",
         "product_name": "だし香るかき揚げそば",
         "product_price": 496,
@@ -523,6 +516,13 @@
         "product_price": 399,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/095034/359E8DA410614816E6FF4C1EBF63FF81.jpg",
         "product_date": "2024.11.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/095036/okinawa/",
+        "product_name": "３種チーズと濃厚ソースのミートドリア",
+        "product_price": 348,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/095036/CB5DF787201E62DB5BFA21DF2C7E6A00.jpg",
+        "product_date": "2024.11.05"
       }
     ],
     "prefecture_name": "沖縄"
