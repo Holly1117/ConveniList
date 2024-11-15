@@ -99,13 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044865/kanto/",
-        "product_name": "直巻おむすび　黒豚そぼろ（九州産黒豚使用）",
-        "product_price": 183,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044865/199ABF8980FA002507BDD4F678F885CD.jpg",
-        "product_date": "2024.11.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044923/kanto/",
         "product_name": "しらすおむすび",
         "product_price": 145,
@@ -138,6 +131,13 @@
         "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
         "product_price": 604,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/041205/F35D4BD871CB1AA7B5CE7D83FB061157.jpg",
+        "product_date": "2024.11.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044921/kanto/",
+        "product_name": "しらす御飯",
+        "product_price": 356,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044921/5374A45FEA28B4C1F34DF11E00ED7DB2.jpg",
         "product_date": "2024.11.12"
       }
     ],
