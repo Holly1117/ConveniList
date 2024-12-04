@@ -176,7 +176,7 @@
   },
   {
     "product_url": "https://www.family.co.jp/goods/noodle/0815291.html",
-    "product_name": "【関東】信州産きのこ使用　きのこそば",
+    "product_name": "【山梨県·長野県·静岡県(東部)】信州産きのこ使用　きのこそば",
     "product_price": 540,
     "product_date": "2024.12.3",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0815291.jpg"
@@ -334,13 +334,6 @@
     "product_price": 398,
     "product_date": "2024.12.3",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1026016.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/chilleddaily/2212340.html",
-    "product_name": "胡瓜のおつまみ",
-    "product_price": 240,
-    "product_date": "2024.12.3",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/2212340.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/friedfoods/0255882.html",
@@ -712,6 +705,13 @@
     "product_price": 730,
     "product_date": "2024.12.6",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7915642.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929724.html",
+    "product_name": "ピクミン　テラリウムコレクション2",
+    "product_price": 430,
+    "product_date": "2024.12.4",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929724.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/omusubi/0411325.html",
@@ -890,7 +890,7 @@
   },
   {
     "product_url": "https://www.family.co.jp/goods/noodle/0815291.html",
-    "product_name": "【関東】信州産きのこ使用　きのこそば",
+    "product_name": "【山梨県·長野県·静岡県(東部)】信州産きのこ使用　きのこそば",
     "product_price": 540,
     "product_date": "2024.12.3",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0815291.jpg"
@@ -1048,13 +1048,6 @@
     "product_price": 398,
     "product_date": "2024.12.3",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1026016.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/chilleddaily/2212340.html",
-    "product_name": "胡瓜のおつまみ",
-    "product_price": 240,
-    "product_date": "2024.12.3",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/2212340.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/friedfoods/0255882.html",
@@ -1426,5 +1419,12 @@
     "product_price": 730,
     "product_date": "2024.12.6",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7915642.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929724.html",
+    "product_name": "ピクミン　テラリウムコレクション2",
+    "product_price": 430,
+    "product_date": "2024.12.4",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929724.jpg"
   }
 ]
