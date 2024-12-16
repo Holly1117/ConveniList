@@ -72,13 +72,6 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042512/tohoku/",
-        "product_name": "山形県産殿様のだだちゃ豆のおむすび",
-        "product_price": 151,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/042512/37D4819653286371DEB76709581F22D2.jpg",
-        "product_date": "2024.12.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045477/tohoku/",
         "product_name": "こだわりおむすび　海老天むす",
         "product_price": 257,
@@ -90,6 +83,13 @@
         "product_name": "こだわりおむすび　ねぎ塩牛たん",
         "product_price": 259,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045289/FB02E1C743A15840A216074DBAAB1713.jpg",
+        "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044007/tohoku/",
+        "product_name": "牛焼肉＆チキン南蛮弁当",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044007/BE6CA6F92ABB038BB5438A312B18E461.jpg",
         "product_date": "2024.12.10"
       }
     ],
@@ -154,13 +154,6 @@
         "product_date": "2024.12.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040099/koshinetsu/",
-        "product_name": "直巻おむすび　牛すきと丹波しめじ",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040099/4DA261B2E97EF2FBAAF21FDF1D2BEE7C.jpg",
-        "product_date": "2024.12.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045385/koshinetsu/",
         "product_name": "こだわりおむすび　ねぎ塩牛たん",
         "product_price": 259,
@@ -175,17 +168,24 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045460/koshinetsu/",
-        "product_name": "やみつきデジカルビ　ハニーマスタード",
-        "product_price": 699,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045460/88375C17EA0620BE0895FD2265E5ABEA.jpg",
-        "product_date": "2024.12.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045344/koshinetsu/",
         "product_name": "１／２日分の野菜がとれる中華丼",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045344/19A319C0E9765C6D62722D5522DEB613.jpg",
+        "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045342/koshinetsu/",
+        "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045342/10899847579D78E06D81982B88EFAC66.jpg",
+        "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045310/koshinetsu/",
+        "product_name": "豚キムチ丼",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045310/EC0D3F676B17B2A902196A3911877146.jpg",
         "product_date": "2024.12.10"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045460/hokuriku/",
-        "product_name": "やみつきデジカルビ　ハニーマスタード",
-        "product_price": 699,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045460/88375C17EA0620BE0895FD2265E5ABEA.jpg",
-        "product_date": "2024.12.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045344/hokuriku/",
         "product_name": "１／２日分の野菜がとれる中華丼",
         "product_price": 594,
@@ -235,6 +228,13 @@
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045342/10899847579D78E06D81982B88EFAC66.jpg",
         "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045310/hokuriku/",
+        "product_name": "豚キムチ丼",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045310/EC0D3F676B17B2A902196A3911877146.jpg",
+        "product_date": "2024.12.10"
       }
     ],
     "prefecture_name": "北陸"
@@ -242,13 +242,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040099/tokai/",
-        "product_name": "直巻おむすび　牛すきと丹波しめじ",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040099/4DA261B2E97EF2FBAAF21FDF1D2BEE7C.jpg",
-        "product_date": "2024.12.10"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040097/tokai/",
         "product_name": "直巻おむすび　明太チーズ",
@@ -283,6 +276,13 @@
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045346/CAAC0C09E73FD97EC1E501BA7E3C92A5.jpg",
         "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045288/tokai/",
+        "product_name": "篠島港水揚げしらすと　おだしごはん（麦飯）",
+        "product_price": 321,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045288/119F484E873B924DEA85D3FD31AE6AF8.jpg",
+        "product_date": "2024.12.10"
       }
     ],
     "prefecture_name": "東海"
@@ -290,13 +290,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040099/kinki/",
-        "product_name": "直巻おむすび　牛すきと丹波しめじ",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040099/4DA261B2E97EF2FBAAF21FDF1D2BEE7C.jpg",
-        "product_date": "2024.12.11"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/045326/kinki/",
         "product_name": "壬生菜昆布おむすび　京都府産壬生菜使用",
@@ -319,17 +312,24 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045460/kinki/",
-        "product_name": "やみつきデジカルビ　ハニーマスタード",
-        "product_price": 699,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045460/88375C17EA0620BE0895FD2265E5ABEA.jpg",
-        "product_date": "2024.12.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045342/kinki/",
         "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
         "product_price": 572,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045342/10899847579D78E06D81982B88EFAC66.jpg",
+        "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045323/kinki/",
+        "product_name": "１／２日分の野菜　中華丼",
+        "product_price": 572,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045323/758DB22EDED082DF05961702A72955CC.jpg",
+        "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043880/kinki/",
+        "product_name": "けずりチーズのせ　トマトソースのオムライス",
+        "product_price": 594,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/043880/CF4EDACC59068F62FF93B72BBF507E35.jpg",
         "product_date": "2024.12.10"
       }
     ],
@@ -422,11 +422,11 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045460/shikoku/",
-        "product_name": "やみつきデジカルビ　ハニーマスタード",
-        "product_price": 699,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045460/88375C17EA0620BE0895FD2265E5ABEA.jpg",
-        "product_date": "2024.12.14"
+        "product_url": "https://www.sej.co.jp/products/a/item/045358/shikoku/",
+        "product_name": "香川の味　黒胡椒仕立てのかしわ丼",
+        "product_price": 645,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045358/F5C5309B3C208D9CBABF1269FCEC8662.jpg",
+        "product_date": "2024.12.10"
       }
     ],
     "prefecture_name": "四国"
@@ -434,13 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040099/kyushu/",
-        "product_name": "直巻おむすび　牛すきと丹波しめじ",
-        "product_price": 172,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/040099/4DA261B2E97EF2FBAAF21FDF1D2BEE7C.jpg",
-        "product_date": "2024.12.10"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/044462/kyushu/",
         "product_name": "大きなおむすび　チャーシューわさびマヨネーズ",
@@ -463,18 +456,25 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045460/kyushu/",
-        "product_name": "やみつきデジカルビ　ハニーマスタード",
-        "product_price": 699,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045460/88375C17EA0620BE0895FD2265E5ABEA.jpg",
-        "product_date": "2024.12.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045344/kyushu/",
         "product_name": "１／２日分の野菜がとれる中華丼",
         "product_price": 594,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045344/19A319C0E9765C6D62722D5522DEB613.jpg",
         "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045327/kyushu/",
+        "product_name": "鶏肉とキャベツのピリ辛丼",
+        "product_price": 561,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045327/32BAE07EB10568DB0443B4308D77D2B9.jpg",
+        "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052018/kyushu/",
+        "product_name": "スパイシーチキンサンド",
+        "product_price": 321,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052018/4C7A5D0A8E9441304E82C002F97C29AA.jpg",
+        "product_date": "2024.12.11"
       }
     ],
     "prefecture_name": "九州"
@@ -504,13 +504,6 @@
         "product_date": "2024.12.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045504/okinawa/",
-        "product_name": "やみつきデジカルビ　ハニーマスタード",
-        "product_price": 699,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/045504/B2D5F982AD7608FD7776522BD4CA74F1.jpg",
-        "product_date": "2024.12.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045383/okinawa/",
         "product_name": "チキンオーバーライス",
         "product_price": 594,
@@ -523,6 +516,13 @@
         "product_price": 181,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/044931/FA9F5708C2D6481F48EBC0100C575BAB.jpg",
         "product_date": "2024.12.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052640/okinawa/",
+        "product_name": "たまご＆タルタル海老カツサンド",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/052640/6821A13E7C6B4C615A49BB6B29271D66.jpg",
+        "product_date": "2024.12.11"
       }
     ],
     "prefecture_name": "沖縄"
