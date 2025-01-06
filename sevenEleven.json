@@ -10,31 +10,10 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/105769/hokkaido/",
-        "product_name": "黒胡椒香る　餃子",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/105769/574B2A401C7ADC51466929B44976145A.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/300355/hokkaido/",
         "product_name": "カスタードデニッシュ",
         "product_price": 159,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/300355/0BAE8B63F5B69DB7D63798BA66649D19.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/hokkaido/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/hokkaido/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
         "product_date": "2024.12.31"
       },
       {
@@ -43,6 +22,27 @@
         "product_price": 388,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
         "product_date": "2025.01.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110542/hokkaido/",
+        "product_name": "いちごと練乳の　もっちりみるくわらび",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110542/F1AC6CC56DBDA42EDE14CC2825E00B90.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450549/hokkaido/",
+        "product_name": "７プレミアム　まるで甘熟いちご",
+        "product_price": 192,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/450549/2E171398E7E6C52A694C9BE5B8901300.jpg",
+        "product_date": "2025.01.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450452/hokkaido/",
+        "product_name": "明治　ブルガリア果肉　ＹＧデザート白桃",
+        "product_price": 237,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/450452/33F82A0126ED8D8C9CAF000FC09F7EB3.jpg",
+        "product_date": "2024.12.31"
       }
     ],
     "prefecture_name": "北海道"
@@ -72,24 +72,24 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/tohoku/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/tohoku/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/112723/tohoku/",
         "product_name": "いちごホイップのミニかまくら",
         "product_price": 388,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/113783/tohoku/",
+        "product_name": "ホワイトチョコもこ　　しろあんカスタード",
+        "product_price": 213,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/113783/A9DB0400647DE48DDFF959384D1BE843.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110542/tohoku/",
+        "product_name": "いちごと練乳の　もっちりみるくわらび",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110542/F1AC6CC56DBDA42EDE14CC2825E00B90.jpg",
         "product_date": "2024.12.31"
       }
     ],
@@ -120,24 +120,24 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/kanto/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/kanto/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/112723/kanto/",
         "product_name": "いちごホイップのミニかまくら",
         "product_price": 388,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110155/kanto/",
+        "product_name": "ふんわり宇治抹茶シフォン",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110155/0142210B8D20B6DF3F87E0E276177F6E.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110542/kanto/",
+        "product_name": "いちごと練乳の　もっちりみるくわらび",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110542/F1AC6CC56DBDA42EDE14CC2825E00B90.jpg",
         "product_date": "2024.12.31"
       }
     ],
@@ -168,13 +168,6 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/105729/koshinetsu/",
-        "product_name": "黒胡椒香る　餃子",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/105729/32BD8177AEC7697AC99D55565023B0E7.jpg",
-        "product_date": "2025.01.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/105851/koshinetsu/",
         "product_name": "オニオンサーモンのマヨサラダ",
         "product_price": 321,
@@ -186,6 +179,13 @@
         "product_name": "７Ｐ　いちごチョコがけツイストドーナツ３個入",
         "product_price": 181,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/290049/287D9A803A0D61401516AD8566E4F000.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/112723/koshinetsu/",
+        "product_name": "いちごホイップのミニかまくら",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
         "product_date": "2024.12.31"
       }
     ],
@@ -223,17 +223,17 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/hokuriku/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
+        "product_url": "https://www.sej.co.jp/products/a/item/112724/hokuriku/",
+        "product_name": "おいしい愛知牛乳使用　ホイップみるくプリン",
+        "product_price": 313,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112724/18E0C6D2F3F4F99B18FBB4CC0618D8CD.jpg",
+        "product_date": "2025.01.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/hokuriku/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/112723/hokuriku/",
+        "product_name": "いちごホイップのミニかまくら",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
         "product_date": "2024.12.31"
       }
     ],
@@ -271,17 +271,17 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/tokai/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/112724/tokai/",
+        "product_name": "おいしい愛知牛乳使用　ホイップみるくプリン",
+        "product_price": 313,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112724/18E0C6D2F3F4F99B18FBB4CC0618D8CD.jpg",
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/tokai/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/112723/tokai/",
+        "product_name": "いちごホイップのミニかまくら",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
         "product_date": "2024.12.31"
       }
     ],
@@ -305,20 +305,6 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/kinki/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/kinki/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/112723/kinki/",
         "product_name": "いちごホイップのミニかまくら",
         "product_price": 388,
@@ -331,6 +317,20 @@
         "product_price": 421,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110155/0142210B8D20B6DF3F87E0E276177F6E.jpg",
         "product_date": "2025.01.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110542/kinki/",
+        "product_name": "いちごと練乳の　もっちりみるくわらび",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110542/F1AC6CC56DBDA42EDE14CC2825E00B90.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450549/kinki/",
+        "product_name": "７プレミアム　まるで甘熟いちご",
+        "product_price": 192,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/450549/2E171398E7E6C52A694C9BE5B8901300.jpg",
+        "product_date": "2025.01.04"
       }
     ],
     "prefecture_name": "近畿"
@@ -346,31 +346,10 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302724/chugoku/",
-        "product_name": "紅白あんぱん　　　　　ホイップ入り",
-        "product_price": 192,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302724/33AEB0DF3EAE706EEA53A025ED247710.jpg",
-        "product_date": "2025.01.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/302177/chugoku/",
         "product_name": "ジューシー鶏メンチカツサンド",
         "product_price": 203,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302177/A896A0D7793E73D82A45DE5C0D2EFCC8.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/chugoku/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/chugoku/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
         "product_date": "2024.12.31"
       },
       {
@@ -379,6 +358,27 @@
         "product_price": 388,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
         "product_date": "2025.01.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110155/chugoku/",
+        "product_name": "ふんわり宇治抹茶シフォン",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110155/0142210B8D20B6DF3F87E0E276177F6E.jpg",
+        "product_date": "2025.01.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/110542/chugoku/",
+        "product_name": "いちごと練乳の　もっちりみるくわらび",
+        "product_price": 270,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110542/F1AC6CC56DBDA42EDE14CC2825E00B90.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450549/chugoku/",
+        "product_name": "７プレミアム　まるで甘熟いちご",
+        "product_price": 192,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/450549/2E171398E7E6C52A694C9BE5B8901300.jpg",
+        "product_date": "2025.01.04"
       }
     ],
     "prefecture_name": "中国"
@@ -401,13 +401,6 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302724/shikoku/",
-        "product_name": "紅白あんぱん　　　　　ホイップ入り",
-        "product_price": 192,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302724/33AEB0DF3EAE706EEA53A025ED247710.jpg",
-        "product_date": "2025.01.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/302177/shikoku/",
         "product_name": "ジューシー鶏メンチカツサンド",
         "product_price": 203,
@@ -415,17 +408,24 @@
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/shikoku/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/112723/shikoku/",
+        "product_name": "いちごホイップのミニかまくら",
+        "product_price": 388,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112723/D8BE813AEEBD0ADA47E4E6BAF12F94CB.jpg",
         "product_date": "2024.12.31"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/shikoku/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/110155/shikoku/",
+        "product_name": "ふんわり宇治抹茶シフォン",
+        "product_price": 421,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110155/0142210B8D20B6DF3F87E0E276177F6E.jpg",
+        "product_date": "2025.01.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/112631/shikoku/",
+        "product_name": "北海道産牛乳使用　　　みるくクリーム大福",
+        "product_price": 159,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/112631/E657250610E9CCF7B7BA95628EF07104.jpg",
         "product_date": "2024.12.31"
       }
     ],
@@ -439,20 +439,6 @@
         "product_name": "７Ｐ　いちごチョコがけツイストドーナツ３個入",
         "product_price": 181,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/290049/287D9A803A0D61401516AD8566E4F000.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302291/kyushu/",
-        "product_name": "アソートドーナツ３個入り",
-        "product_price": 321,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302291/F361D9F7D43BF64EBD34A5C1F11526DF.jpg",
-        "product_date": "2024.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302287/kyushu/",
-        "product_name": "もちもち食感リングドーナツいちご",
-        "product_price": 138,
-        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/302287/CD909AA0500D613A52EC4C20F0604C88.jpg",
         "product_date": "2024.12.31"
       },
       {
@@ -474,6 +460,20 @@
         "product_name": "いちごと練乳の　もっちりみるくわらび",
         "product_price": 270,
         "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/110542/F1AC6CC56DBDA42EDE14CC2825E00B90.jpg",
+        "product_date": "2024.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450549/kyushu/",
+        "product_name": "７プレミアム　まるで甘熟いちご",
+        "product_price": 192,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/450549/2E171398E7E6C52A694C9BE5B8901300.jpg",
+        "product_date": "2025.01.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450452/kyushu/",
+        "product_name": "明治　ブルガリア果肉　ＹＧデザート白桃",
+        "product_price": 237,
+        "product_image": "https://img.7api-01.dp1.sej.co.jp/item-image/450452/33F82A0126ED8D8C9CAF000FC09F7EB3.jpg",
         "product_date": "2024.12.31"
       }
     ],
