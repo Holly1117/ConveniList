@@ -1,198 +1,772 @@
 [
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0614382.html",
-    "product_name": "ミックス弁当（ハンバーグ&コロッケ入り）",
+    "product_url": "https://www.family.co.jp/goods/omusubi/0411172.html",
+    "product_name": "【世界の山ちゃん®監修】スパイシーチャーハン&唐揚おむすび",
+    "product_price": 260,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411172.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0411370.html",
+    "product_name": "具だくさん！高菜明太",
+    "product_price": 178,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411370.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0411417.html",
+    "product_name": "鮭明太おむすび",
+    "product_price": 125,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411417.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0414708.html",
+    "product_name": "【東北】直巻　会津味噌のねぎ味噌",
+    "product_price": 135,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0414708.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0417075.html",
+    "product_name": "大きなおむすび　鶏そぼろ",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0417075.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0614405.html",
+    "product_name": "甘辛とりめし弁当",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614405.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0616157.html",
+    "product_name": "【関西】玉子そぼろのとりめし弁当",
+    "product_price": 478,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0616157.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0616225.html",
+    "product_name": "【世界の山ちゃん®監修】山賊焼弁当",
+    "product_price": 598,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0616225.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0614603.html",
+    "product_name": "【北海道】鶏そぼろ弁当",
+    "product_price": 320,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614603.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0617048.html",
+    "product_name": "【九州】かぼすポン酢で食べる　とり天弁当",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0617048.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0515160.html",
+    "product_name": "いなり&玉子寿司セット",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0515160.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0515184.html",
+    "product_name": "【北陸】五目寿司",
+    "product_price": 145,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0515184.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0510226.html",
+    "product_name": "たけのこいなり寿司",
+    "product_price": 168,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510226.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0510448.html",
+    "product_name": "サンド寿司　まぐろたくあん",
+    "product_price": 298,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510448.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sandwich/0910316.html",
+    "product_name": "から揚げサンド",
+    "product_price": 398,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0910316.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sandwich/0912716.html",
+    "product_name": "【東京都の一部】チェダーチーズと国産チキンのトーストサンド",
     "product_price": 450,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614382.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0912716.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sandwich/0920315.html",
-    "product_name": "トルティーヤ　牛焼肉とハムチーズ",
-    "product_price": 398,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0920315.jpg"
+    "product_url": "https://www.family.co.jp/goods/sandwich/0910385.html",
+    "product_name": "【東北・関東】全粒粉サンド　サラダチキンとたまご",
+    "product_price": 368,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0910385.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/noodle/0812054.html",
-    "product_name": "特製醤油だれが決め手炙り焼チャーシューの油そば",
-    "product_price": 498,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812054.jpg"
+    "product_url": "https://www.family.co.jp/goods/sandwich/0920230.html",
+    "product_name": "【関東・東海・関西】フライドチキンのトルティーヤ",
+    "product_price": 320,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0920230.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/noodle/0823142.html",
-    "product_name": "【関東・東海】大盛　牛すき風焼うどん",
+    "product_url": "https://www.family.co.jp/goods/bread/1520224.html",
+    "product_name": "生フランスパン（明太バター）",
+    "product_price": 178,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1520224.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1530445.html",
+    "product_name": "【ファミマのいちご狩り®】もちっと食感のいちごパン",
+    "product_price": 138,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1530445.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1520927.html",
+    "product_name": "チキンカツカレートースト",
+    "product_price": 228,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1520927.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1532951.html",
+    "product_name": "【ファミマのいちご狩り®】いちご果肉入りホイップのメロンパン",
+    "product_price": 158,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1532951.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1512083.html",
+    "product_name": "パン・オ・ショコラ4個入",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1512083.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1538885.html",
+    "product_name": "【東海・北陸】豆パン（マーガリンサンド）",
+    "product_price": 150,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1538885.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0812412.html",
+    "product_name": "コク旨　ちゃんぽん",
+    "product_price": 550,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812412.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0810296.html",
+    "product_name": "【山梨県・長野県・静岡県（東部）】山梨県郷土料理　ほうとう",
     "product_price": 560,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0823142.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0810296.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/noodle/0812405.html",
-    "product_name": "【関東】特製醤油だれが決め手直火焼チャーシューの油そば",
+    "product_url": "https://www.family.co.jp/goods/noodle/0810562.html",
+    "product_name": "【関東】支那そばや監修　醤油らぁ麺",
+    "product_price": 648,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0810562.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0814683.html",
+    "product_name": "【東北】盛岡じゃじゃ麺",
+    "product_price": 540,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0814683.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0815024.html",
+    "product_name": "【東海】1/3日分の野菜使用　コク旨ちゃんぽん",
+    "product_price": 598,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0815024.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0815406.html",
+    "product_name": "【東海】もろこしうどん",
+    "product_price": 530,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0815406.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0816359.html",
+    "product_name": "【関西】玉子あんかけうどん",
     "product_price": 498,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812405.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0816359.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/1130355.html",
-    "product_name": "海老とイカの明太子スパゲティサラダ",
-    "product_price": 258,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1130355.jpg"
+    "product_url": "https://www.family.co.jp/goods/salad/1210309.html",
+    "product_name": "甘酢しょうゆの油淋鶏サラダ",
+    "product_price": 468,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1210309.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/1182347.html",
-    "product_name": "ポテトフライ（ほろ甘バター醤油風味）",
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1130331.html",
+    "product_name": "蒸し鶏と塩昆布のやみつきキャベツ",
+    "product_price": 228,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1130331.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1161526.html",
+    "product_name": "だしがじゅわ！明太マヨ厚焼き玉子",
+    "product_price": 370,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1161526.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1182330.html",
+    "product_name": "豚肉ときくらげの中華炒め",
     "product_price": 398,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1182347.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1182330.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/friedfoods/0254175.html",
-    "product_name": "【東海・北陸】ファミからむね（あごだし塩味）",
-    "product_price": 98,
-    "product_date": "2025.1.6",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0254175.jpg"
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1182354.html",
+    "product_name": "ねぎ塩だれで食べる揚げ鶏",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1182354.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/dessert/1940282.html",
-    "product_name": "いちごのフレンチクルーラー（いちごホイップ入）",
+    "product_url": "https://www.family.co.jp/goods/deli/1062656.html",
+    "product_name": "豚玉お好み焼&焼そば",
+    "product_price": 480,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1062656.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/deli/1020809.html",
+    "product_name": "食物繊維が摂れる海藻とオクラの味噌汁",
+    "product_price": 348,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1020809.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/deli/1062724.html",
+    "product_name": "【北海道・東北】ネギニラチヂミ&焼そば",
+    "product_price": 480,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1062724.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/friedfoods/0252461.html",
+    "product_name": "【世界の山ちゃん®監修】ころじゃが（黒胡椒味）",
+    "product_price": 238,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0252461.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/dessert/1944006.html",
+    "product_name": "【ファミマのいちご狩り®】いちごのクレープ",
+    "product_price": 378,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1944006.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/dessert/1940497.html",
+    "product_name": "2色のお芋パフェ",
+    "product_price": 298,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1940497.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/dessert/1950434.html",
+    "product_name": "【ファミマのいちご狩り®】冷やして食べるとろけるくりーむパン　いちごミルク",
+    "product_price": 290,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1950434.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324884.html",
+    "product_name": "【ファミマのいちご狩り®】いちごバウムクーヘン",
     "product_price": 190,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1940282.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324884.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/dessert/1940572.html",
-    "product_name": "いちごのティラミス",
-    "product_price": 328,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1940572.jpg"
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324891.html",
+    "product_name": "【ファミマのいちご狩り®】いちごフィナンシェ",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324891.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/snack/4912651.html",
-    "product_name": "山芳　ポテトチップス　4種のチーズ味",
-    "product_price": 185,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/4912651.jpg"
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324907.html",
+    "product_name": "【ファミマのいちご狩り®】いちごスノーボールクッキー",
+    "product_price": 180,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324907.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/cw/7454240.html",
-    "product_name": " 福袋 二〇二五",
-    "product_price": 0,
-    "product_date": "2025.1.1",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/7454240.jpg"
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1325058.html",
+    "product_name": "【ファミマのいちご狩り®】いちごタルト",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1325058.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/cw/7331008.html",
-    "product_name": "今治タオルハンカチ 太陽と星",
-    "product_price": 660,
-    "product_date": "2025.1.1",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331008.jpg"
+    "product_url": "https://www.family.co.jp/goods/processed_foods/3819234.html",
+    "product_name": "ふくちゃんラーメン監修　豚骨ラーメン",
+    "product_price": 278,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/3819234.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/charakuji/7921896.html",
-    "product_name": "百福トミカ",
-    "product_price": 770,
-    "product_date": "2025.1.1",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/7921896.jpg"
+    "product_url": "https://www.family.co.jp/goods/snack/4820048.html",
+    "product_name": "【ファミマのいちご狩り®】濃い味苺の甘ずっぱさキャラメルコーン",
+    "product_price": 138,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/4820048.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0614382.html",
-    "product_name": "ミックス弁当（ハンバーグ&コロッケ入り）",
+    "product_url": "https://www.family.co.jp/goods/snack/4725244.html",
+    "product_name": "カバヤ　タフグミmini　レモン&ソーダデュオ",
+    "product_price": 257,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/4725244.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/snack/4820079.html",
+    "product_name": "【ファミマのいちご狩り®】パリふわ食感で甘ずっぱいいちごチョコマシュマロ",
+    "product_price": 258,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/4820079.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/snack/5031887.html",
+    "product_name": "きらら　ポルチーニリゾット風味せんべい",
+    "product_price": 162,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/5031887.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/drink/1750331.html",
+    "product_name": "【ファミマのいちご狩り®】Afternoon Tea監修　ストロベリーティーラテ　240ml",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1750331.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/ice/3450390.html",
+    "product_name": "赤城　たべる牧場　黒みつきなこ",
+    "product_price": 270,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/3450390.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/ice/3464328.html",
+    "product_name": "【ファミマのいちご狩り®】ロッテ　ワッフルコーンいちご練乳",
+    "product_price": 298,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/3464328.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0411172.html",
+    "product_name": "【世界の山ちゃん®監修】スパイシーチャーハン&唐揚おむすび",
+    "product_price": 260,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411172.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0411370.html",
+    "product_name": "具だくさん！高菜明太",
+    "product_price": 178,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411370.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0411417.html",
+    "product_name": "鮭明太おむすび",
+    "product_price": 125,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411417.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0414708.html",
+    "product_name": "【東北】直巻　会津味噌のねぎ味噌",
+    "product_price": 135,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0414708.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/omusubi/0417075.html",
+    "product_name": "大きなおむすび　鶏そぼろ",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0417075.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0614405.html",
+    "product_name": "甘辛とりめし弁当",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614405.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0616157.html",
+    "product_name": "【関西】玉子そぼろのとりめし弁当",
+    "product_price": 478,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0616157.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0616225.html",
+    "product_name": "【世界の山ちゃん®監修】山賊焼弁当",
+    "product_price": 598,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0616225.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0614603.html",
+    "product_name": "【北海道】鶏そぼろ弁当",
+    "product_price": 320,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614603.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/obento/0617048.html",
+    "product_name": "【九州】かぼすポン酢で食べる　とり天弁当",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0617048.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0515160.html",
+    "product_name": "いなり&玉子寿司セット",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0515160.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0515184.html",
+    "product_name": "【北陸】五目寿司",
+    "product_price": 145,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0515184.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0510226.html",
+    "product_name": "たけのこいなり寿司",
+    "product_price": 168,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510226.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sushi/0510448.html",
+    "product_name": "サンド寿司　まぐろたくあん",
+    "product_price": 298,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510448.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sandwich/0910316.html",
+    "product_name": "から揚げサンド",
+    "product_price": 398,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0910316.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sandwich/0912716.html",
+    "product_name": "【東京都の一部】チェダーチーズと国産チキンのトーストサンド",
     "product_price": 450,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614382.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0912716.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sandwich/0920315.html",
-    "product_name": "トルティーヤ　牛焼肉とハムチーズ",
-    "product_price": 398,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0920315.jpg"
+    "product_url": "https://www.family.co.jp/goods/sandwich/0910385.html",
+    "product_name": "【東北・関東】全粒粉サンド　サラダチキンとたまご",
+    "product_price": 368,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0910385.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/noodle/0812054.html",
-    "product_name": "特製醤油だれが決め手炙り焼チャーシューの油そば",
-    "product_price": 498,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812054.jpg"
+    "product_url": "https://www.family.co.jp/goods/sandwich/0920230.html",
+    "product_name": "【関東・東海・関西】フライドチキンのトルティーヤ",
+    "product_price": 320,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0920230.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/noodle/0823142.html",
-    "product_name": "【関東・東海】大盛　牛すき風焼うどん",
+    "product_url": "https://www.family.co.jp/goods/bread/1520224.html",
+    "product_name": "生フランスパン（明太バター）",
+    "product_price": 178,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1520224.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1530445.html",
+    "product_name": "【ファミマのいちご狩り®】もちっと食感のいちごパン",
+    "product_price": 138,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1530445.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1520927.html",
+    "product_name": "チキンカツカレートースト",
+    "product_price": 228,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1520927.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1532951.html",
+    "product_name": "【ファミマのいちご狩り®】いちご果肉入りホイップのメロンパン",
+    "product_price": 158,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1532951.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1512083.html",
+    "product_name": "パン・オ・ショコラ4個入",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1512083.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/bread/1538885.html",
+    "product_name": "【東海・北陸】豆パン（マーガリンサンド）",
+    "product_price": 150,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1538885.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0812412.html",
+    "product_name": "コク旨　ちゃんぽん",
+    "product_price": 550,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812412.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0810296.html",
+    "product_name": "【山梨県・長野県・静岡県（東部）】山梨県郷土料理　ほうとう",
     "product_price": 560,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0823142.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0810296.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/noodle/0812405.html",
-    "product_name": "【関東】特製醤油だれが決め手直火焼チャーシューの油そば",
+    "product_url": "https://www.family.co.jp/goods/noodle/0810562.html",
+    "product_name": "【関東】支那そばや監修　醤油らぁ麺",
+    "product_price": 648,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0810562.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0814683.html",
+    "product_name": "【東北】盛岡じゃじゃ麺",
+    "product_price": 540,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0814683.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0815024.html",
+    "product_name": "【東海】1/3日分の野菜使用　コク旨ちゃんぽん",
+    "product_price": 598,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0815024.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0815406.html",
+    "product_name": "【東海】もろこしうどん",
+    "product_price": 530,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0815406.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/noodle/0816359.html",
+    "product_name": "【関西】玉子あんかけうどん",
     "product_price": 498,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812405.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0816359.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/1130355.html",
-    "product_name": "海老とイカの明太子スパゲティサラダ",
-    "product_price": 258,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1130355.jpg"
+    "product_url": "https://www.family.co.jp/goods/salad/1210309.html",
+    "product_name": "甘酢しょうゆの油淋鶏サラダ",
+    "product_price": 468,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1210309.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/1182347.html",
-    "product_name": "ポテトフライ（ほろ甘バター醤油風味）",
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1130331.html",
+    "product_name": "蒸し鶏と塩昆布のやみつきキャベツ",
+    "product_price": 228,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1130331.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1161526.html",
+    "product_name": "だしがじゅわ！明太マヨ厚焼き玉子",
+    "product_price": 370,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1161526.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1182330.html",
+    "product_name": "豚肉ときくらげの中華炒め",
     "product_price": 398,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1182347.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1182330.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/friedfoods/0254175.html",
-    "product_name": "【東海・北陸】ファミからむね（あごだし塩味）",
-    "product_price": 98,
-    "product_date": "2025.1.6",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0254175.jpg"
+    "product_url": "https://www.family.co.jp/goods/sidedishes/1182354.html",
+    "product_name": "ねぎ塩だれで食べる揚げ鶏",
+    "product_price": 498,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1182354.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/dessert/1940282.html",
-    "product_name": "いちごのフレンチクルーラー（いちごホイップ入）",
+    "product_url": "https://www.family.co.jp/goods/deli/1062656.html",
+    "product_name": "豚玉お好み焼&焼そば",
+    "product_price": 480,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1062656.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/deli/1020809.html",
+    "product_name": "食物繊維が摂れる海藻とオクラの味噌汁",
+    "product_price": 348,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1020809.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/deli/1062724.html",
+    "product_name": "【北海道・東北】ネギニラチヂミ&焼そば",
+    "product_price": 480,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1062724.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/friedfoods/0252461.html",
+    "product_name": "【世界の山ちゃん®監修】ころじゃが（黒胡椒味）",
+    "product_price": 238,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0252461.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/dessert/1944006.html",
+    "product_name": "【ファミマのいちご狩り®】いちごのクレープ",
+    "product_price": 378,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1944006.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/dessert/1940497.html",
+    "product_name": "2色のお芋パフェ",
+    "product_price": 298,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1940497.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/dessert/1950434.html",
+    "product_name": "【ファミマのいちご狩り®】冷やして食べるとろけるくりーむパン　いちごミルク",
+    "product_price": 290,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1950434.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324884.html",
+    "product_name": "【ファミマのいちご狩り®】いちごバウムクーヘン",
     "product_price": 190,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1940282.jpg"
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324884.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/dessert/1940572.html",
-    "product_name": "いちごのティラミス",
-    "product_price": 328,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1940572.jpg"
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324891.html",
+    "product_name": "【ファミマのいちご狩り®】いちごフィナンシェ",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324891.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/snack/4912651.html",
-    "product_name": "山芳　ポテトチップス　4種のチーズ味",
-    "product_price": 185,
-    "product_date": "2024.12.31",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/4912651.jpg"
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324907.html",
+    "product_name": "【ファミマのいちご狩り®】いちごスノーボールクッキー",
+    "product_price": 180,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324907.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/cw/7454240.html",
-    "product_name": " 福袋 二〇二五",
-    "product_price": 0,
-    "product_date": "2025.1.1",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/7454240.jpg"
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1325058.html",
+    "product_name": "【ファミマのいちご狩り®】いちごタルト",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1325058.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/cw/7331008.html",
-    "product_name": "今治タオルハンカチ 太陽と星",
-    "product_price": 660,
-    "product_date": "2025.1.1",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331008.jpg"
+    "product_url": "https://www.family.co.jp/goods/processed_foods/3819234.html",
+    "product_name": "ふくちゃんラーメン監修　豚骨ラーメン",
+    "product_price": 278,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/3819234.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/charakuji/7921896.html",
-    "product_name": "百福トミカ",
-    "product_price": 770,
-    "product_date": "2025.1.1",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/7921896.jpg"
+    "product_url": "https://www.family.co.jp/goods/snack/4820048.html",
+    "product_name": "【ファミマのいちご狩り®】濃い味苺の甘ずっぱさキャラメルコーン",
+    "product_price": 138,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/4820048.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/snack/4725244.html",
+    "product_name": "カバヤ　タフグミmini　レモン&ソーダデュオ",
+    "product_price": 257,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/4725244.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/snack/4820079.html",
+    "product_name": "【ファミマのいちご狩り®】パリふわ食感で甘ずっぱいいちごチョコマシュマロ",
+    "product_price": 258,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/4820079.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/snack/5031887.html",
+    "product_name": "きらら　ポルチーニリゾット風味せんべい",
+    "product_price": 162,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/5031887.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/drink/1750331.html",
+    "product_name": "【ファミマのいちご狩り®】Afternoon Tea監修　ストロベリーティーラテ　240ml",
+    "product_price": 198,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1750331.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/ice/3450390.html",
+    "product_name": "赤城　たべる牧場　黒みつきなこ",
+    "product_price": 270,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/3450390.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/ice/3464328.html",
+    "product_name": "【ファミマのいちご狩り®】ロッテ　ワッフルコーンいちご練乳",
+    "product_price": 298,
+    "product_date": "2025.1.7",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/3464328.jpg"
   }
 ]
