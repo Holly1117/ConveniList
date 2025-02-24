@@ -278,10 +278,10 @@
         "product_date": "2025.02.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046454/tokai/",
-        "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
-        "product_price": 594,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046454/48B9564B686057E6488CCB209318C61A.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/046450/tokai/",
+        "product_name": "デミグラスソースの鉄板焼ハンバーグプレート",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046450/FF58F73333EAFFF8A67D0D34E0D4AB2E.jpg",
         "product_date": "2025.02.18"
       }
     ],
@@ -329,7 +329,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/046308/kinki/",
         "product_name": "生姜焼き丼",
         "product_price": 496,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046308/82AE30CFA53C855C60CC5689F895E43F.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046308/11C5C0DA41F0FCB485D96C7118450375.jpg",
         "product_date": "2025.02.18"
       }
     ],
@@ -401,13 +401,6 @@
         "product_date": "2025.02.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046123/shikoku/",
-        "product_name": "こだわりおむすび　炭火牛焼肉",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046123/D0967490C4A7DD08DC586A5479C927EF.jpg",
-        "product_date": "2025.02.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046440/shikoku/",
         "product_name": "バターピラフ＆濃厚デミチキンカツナポリタン",
         "product_price": 753,
@@ -425,7 +418,14 @@
         "product_url": "https://www.sej.co.jp/products/a/item/046308/shikoku/",
         "product_name": "生姜焼き丼",
         "product_price": 496,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046308/82AE30CFA53C855C60CC5689F895E43F.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046308/11C5C0DA41F0FCB485D96C7118450375.jpg",
+        "product_date": "2025.02.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046450/shikoku/",
+        "product_name": "デミグラスソースの鉄板焼ハンバーグプレート",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046450/FF58F73333EAFFF8A67D0D34E0D4AB2E.jpg",
         "product_date": "2025.02.18"
       }
     ],
@@ -504,24 +504,24 @@
         "product_date": "2025.02.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046440/okinawa/",
-        "product_name": "バターピラフ＆濃厚デミチキンカツナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046440/5A76C07E5EB94B804E00CF5E6A90C6F5.jpg",
-        "product_date": "2025.02.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046439/okinawa/",
-        "product_name": "背脂にんにくマヨ　唐揚げ＆ペペロンチーノ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046439/E058EAFF43C1D3806A1C14CA5CBF7DBE.jpg",
-        "product_date": "2025.02.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046446/okinawa/",
         "product_name": "鶏照り焼きとおだしごはん",
         "product_price": 399,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046446/6B0454ED678707AC052A4E695296BC37.jpg",
+        "product_date": "2025.02.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046124/okinawa/",
+        "product_name": "おだし香るお蕎麦屋さんのカレー",
+        "product_price": 399,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046124/8F08D25D2A55C6974A8715FBFD7FD982.jpg",
+        "product_date": "2025.02.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046385/okinawa/",
+        "product_name": "手巻寿司　ツナコーンマヨネーズ巻",
+        "product_price": 159,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046385/F7B31DA918B3E7331D677DDAD96D017C.jpg",
         "product_date": "2025.02.18"
       }
     ],
