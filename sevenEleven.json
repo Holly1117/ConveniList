@@ -24,13 +24,6 @@
         "product_date": "2025.02.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046481/hokkaido/",
-        "product_name": "こだわりおむすび　黒豚青唐味噌",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046481/CC79DCD397AA28D0B305E428B1863D23.jpg",
-        "product_date": "2025.02.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046490/hokkaido/",
         "product_name": "おかかたっぷり　明太のり弁当",
         "product_price": 561,
@@ -42,6 +35,13 @@
         "product_name": "生姜焼き丼",
         "product_price": 496,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046474/C9D155A7683AD457CEF8B97A51B2BAE6.jpg",
+        "product_date": "2025.02.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046454/hokkaido/",
+        "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046454/48B9564B686057E6488CCB209318C61A.jpg",
         "product_date": "2025.02.25"
       }
     ],
@@ -65,13 +65,6 @@
         "product_date": "2025.02.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046481/tohoku/",
-        "product_name": "こだわりおむすび　黒豚青唐味噌",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046481/CC79DCD397AA28D0B305E428B1863D23.jpg",
-        "product_date": "2025.02.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046490/tohoku/",
         "product_name": "おかかたっぷり　明太のり弁当",
         "product_price": 561,
@@ -90,6 +83,13 @@
         "product_name": "たんぱく質が摂れるチキン＆たまごサンド",
         "product_price": 399,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052799/B6D1A1A81A043C51C135A35D4309A77C.jpg",
+        "product_date": "2025.02.26"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052796/tohoku/",
+        "product_name": "ラップデリシーザーサラダ",
+        "product_price": 321,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052796/2A5A2929BA73C06A8B9FBDD3CCFA78B1.jpg",
         "product_date": "2025.02.26"
       }
     ],
@@ -168,13 +168,6 @@
         "product_date": "2025.02.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046481/koshinetsu/",
-        "product_name": "こだわりおむすび　黒豚青唐味噌",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046481/CC79DCD397AA28D0B305E428B1863D23.jpg",
-        "product_date": "2025.02.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046490/koshinetsu/",
         "product_name": "おかかたっぷり　明太のり弁当",
         "product_price": 561,
@@ -186,6 +179,13 @@
         "product_name": "生姜焼き丼",
         "product_price": 496,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046308/11C5C0DA41F0FCB485D96C7118450375.jpg",
+        "product_date": "2025.02.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046495/koshinetsu/",
+        "product_name": "野菜の旨み　うま煮チャーハン",
+        "product_price": 626,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046495/2ACAD539F7A2EBA279FD4D0619772C8E.jpg",
         "product_date": "2025.02.25"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2025.02.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046481/hokuriku/",
-        "product_name": "こだわりおむすび　黒豚青唐味噌",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046481/CC79DCD397AA28D0B305E428B1863D23.jpg",
-        "product_date": "2025.02.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046490/hokuriku/",
         "product_name": "おかかたっぷり　明太のり弁当",
         "product_price": 561,
@@ -234,6 +227,13 @@
         "product_name": "生姜焼き丼",
         "product_price": 496,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046308/11C5C0DA41F0FCB485D96C7118450375.jpg",
+        "product_date": "2025.02.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/045925/hokuriku/",
+        "product_name": "五目あんかけチャーハン",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/045925/EAEE14743C974C924FB6A0D17C99414C.jpg",
         "product_date": "2025.02.25"
       }
     ],
@@ -353,13 +353,6 @@
         "product_date": "2025.02.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046481/chugoku/",
-        "product_name": "こだわりおむすび　黒豚青唐味噌",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046481/CC79DCD397AA28D0B305E428B1863D23.jpg",
-        "product_date": "2025.02.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046490/chugoku/",
         "product_name": "おかかたっぷり　明太のり弁当",
         "product_price": 561,
@@ -379,6 +372,13 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046503/8E34FA29D0A296031BE4A9475CCD0687.jpg",
         "product_date": "2025.02.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052799/chugoku/",
+        "product_name": "たんぱく質が摂れるチキン＆たまごサンド",
+        "product_price": 399,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052799/B6D1A1A81A043C51C135A35D4309A77C.jpg",
+        "product_date": "2025.02.26"
       }
     ],
     "prefecture_name": "中国"
