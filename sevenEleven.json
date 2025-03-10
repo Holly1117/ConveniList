@@ -38,10 +38,10 @@
         "product_date": "2025.03.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/052808/hokkaido/",
-        "product_name": "いちご入りフルーツミックスサンド",
-        "product_price": 453,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052808/5C03957202D1978609B98BA5C713C2F9.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/052792/hokkaido/",
+        "product_name": "ミニロール（ハムたまご＆コロッケ）",
+        "product_price": 270,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052792/C4EE9E9412254C616767DDC660311743.jpg",
         "product_date": "2025.03.05"
       }
     ],
@@ -223,17 +223,17 @@
         "product_date": "2025.03.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040387/hokuriku/",
-        "product_name": "ガーリックトマト　チキンステーキ弁当",
-        "product_price": 537,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040387/1E10FF91AC72001D45A571C1D2A3CECD.jpg",
-        "product_date": "2025.03.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040386/hokuriku/",
         "product_name": "豚焼肉弁当",
         "product_price": 507,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040386/04D2C1BBCB2E9462C2CB03D1D6FEFC55.jpg",
+        "product_date": "2025.03.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046267/hokuriku/",
+        "product_name": "イカフライタルタルソース御飯",
+        "product_price": 421,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046267/3C1A520F1F6EB4E7C065463549618EF9.jpg",
         "product_date": "2025.03.04"
       }
     ],
@@ -463,18 +463,18 @@
         "product_date": "2025.03.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/052804/kyushu/",
-        "product_name": "佐賀県産いちごさんのサンド",
-        "product_price": 496,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052804/3DF561DC7F953D721C0A2BF003554B15.jpg",
-        "product_date": "2025.03.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/052803/kyushu/",
         "product_name": "ミニロール（たまごサラダ＆ハム）",
         "product_price": 259,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052803/E9F0B22B70195D0A0D7719A7E594BEB7.jpg",
         "product_date": "2025.03.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090516/kyushu/",
+        "product_name": "明太クリームうどん",
+        "product_price": 507,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090516/EBF0C2DDA527F14B91E2F7D89E241302.jpg",
+        "product_date": "2025.03.04"
       }
     ],
     "prefecture_name": "九州"
@@ -511,18 +511,18 @@
         "product_date": "2025.03.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040887/okinawa/",
-        "product_name": "赤麻婆＆チャーハン",
-        "product_price": 594,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040887/BA4BB4F3F6A189F7159C33CAA64E633E.jpg",
-        "product_date": "2025.03.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/095375/okinawa/",
         "product_name": "とみ田監修　ウマ辛豚ラーメン",
         "product_price": 734,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/095375/F7F74488CDE8A9AC0823FC24CE953FC0.jpg",
         "product_date": "2025.03.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/104864/okinawa/",
+        "product_name": "ごまごまチキン",
+        "product_price": 270,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/104864/E319B8D632C89EBC6F4363EE393A071F.jpg",
+        "product_date": "2025.03.06"
       }
     ],
     "prefecture_name": "沖縄"
