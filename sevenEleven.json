@@ -3,27 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046523/hokkaido/",
-        "product_name": "直巻おむすび　おかかと小海老の彩り混ぜめし",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046523/8E96A710BA34FA7CCFD4E8EE54741FBF.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046529/hokkaido/",
-        "product_name": "春の彩りおむすびセット　６個入り",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046529/E037EB1184875CC41B965653641C2803.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041699/hokkaido/",
-        "product_name": "春のおむすび＆おかずセット",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041699/492E4656479B46A708D63DB738FB9268.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046527/hokkaido/",
         "product_name": "天タレまぶしおむすび　小海老入り",
         "product_price": 138,
@@ -43,6 +22,27 @@
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040433/F594420CFFDA8BA110F2432C43DA17C7.jpg",
         "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041301/hokkaido/",
+        "product_name": "春の彩り　おにぎりランチ",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041301/AF765E8ABC02EB02666CF278694C8821.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041345/hokkaido/",
+        "product_name": "チキン＆メンチカツカレー",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041345/83BF35634065094406E91626ECFD8F91.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046531/hokkaido/",
+        "product_name": "手巻寿司　サーモンオニオンマヨネーズ巻",
+        "product_price": 248,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046531/104725CCE62FB1E1A8806B419B15B39A.jpg",
+        "product_date": "2025.03.18"
       }
     ],
     "prefecture_name": "北海道"
@@ -55,20 +55,6 @@
         "product_name": "直巻おむすび　おかかと小海老の彩り混ぜめし",
         "product_price": 170,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046523/8E96A710BA34FA7CCFD4E8EE54741FBF.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046529/tohoku/",
-        "product_name": "春の彩りおむすびセット　６個入り",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046529/E037EB1184875CC41B965653641C2803.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046528/tohoku/",
-        "product_name": "春のおむすび＆おかずセット",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046528/53E16F24CDBA0A9EC548918FCFBDFE3F.jpg",
         "product_date": "2025.03.18"
       },
       {
@@ -90,6 +76,20 @@
         "product_name": "春の彩り　おにぎりランチ",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041301/AF765E8ABC02EB02666CF278694C8821.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046526/tohoku/",
+        "product_name": "鮭おかゆ",
+        "product_price": 378,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046526/60C76338025E9D9DF7455160B651C67E.jpg",
+        "product_date": "2025.03.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046531/tohoku/",
+        "product_name": "手巻寿司　サーモンオニオンマヨネーズ巻",
+        "product_price": 248,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046531/104725CCE62FB1E1A8806B419B15B39A.jpg",
         "product_date": "2025.03.18"
       }
     ],
@@ -230,10 +230,10 @@
         "product_date": "2025.03.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041301/hokuriku/",
-        "product_name": "春の彩り　おにぎりランチ",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041301/AF765E8ABC02EB02666CF278694C8821.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040502/hokuriku/",
+        "product_name": "ふんわり玉子のピリ辛ニラ玉丼",
+        "product_price": 529,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040502/B04C4C26912DAD148362EB0DF63F1160.jpg",
         "product_date": "2025.03.18"
       }
     ],
@@ -247,13 +247,6 @@
         "product_name": "直巻おむすび　おかかと小海老の彩り混ぜめし",
         "product_price": 170,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046523/8E96A710BA34FA7CCFD4E8EE54741FBF.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046529/tokai/",
-        "product_name": "春の彩りおむすびセット　６個入り",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046529/E037EB1184875CC41B965653641C2803.jpg",
         "product_date": "2025.03.18"
       },
       {
@@ -283,6 +276,13 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046537/596EB845C6C30F18EC5FCF454B496204.jpg",
         "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041677/tokai/",
+        "product_name": "豚焼肉弁当",
+        "product_price": 505,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041677/7E256CC162EAFAAB46B5CE5C51C3897E.jpg",
+        "product_date": "2025.03.18"
       }
     ],
     "prefecture_name": "東海"
@@ -298,20 +298,6 @@
         "product_date": "2025.03.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046529/kinki/",
-        "product_name": "春の彩りおむすびセット　６個入り",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046529/E037EB1184875CC41B965653641C2803.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046528/kinki/",
-        "product_name": "春のおむすび＆おかずセット",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046528/53E16F24CDBA0A9EC548918FCFBDFE3F.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046527/kinki/",
         "product_name": "天タレまぶしおむすび　小海老入り",
         "product_price": 138,
@@ -319,17 +305,31 @@
         "product_date": "2025.03.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041394/kinki/",
-        "product_name": "こだわりおむすび　ねぎ塩牛たん",
-        "product_price": 259,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041394/76A6CCAE0CCAF540A6CF0F742C8C5107.jpg",
-        "product_date": "2025.03.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041783/kinki/",
         "product_name": "明太のり弁当",
         "product_price": 561,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041783/DA6DC3941A4B0D856A560B908156056F.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041300/kinki/",
+        "product_name": "たけのこ御飯幕の内",
+        "product_price": 604,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041300/91B1C3B70D60950185BE9241DECFB465.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041704/kinki/",
+        "product_name": "洋食コンボ（ハンバーグ＆ナポリタン）",
+        "product_price": 591,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041704/80DA97A9F265B36D50DA94AAF9C260B7.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041301/kinki/",
+        "product_name": "春の彩り　おにぎりランチ",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041301/AF765E8ABC02EB02666CF278694C8821.jpg",
         "product_date": "2025.03.18"
       }
     ],
@@ -442,31 +442,10 @@
         "product_date": "2025.03.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046529/kyushu/",
-        "product_name": "春の彩りおむすびセット　６個入り",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046529/E037EB1184875CC41B965653641C2803.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046528/kyushu/",
-        "product_name": "春のおむすび＆おかずセット",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046528/53E16F24CDBA0A9EC548918FCFBDFE3F.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046527/kyushu/",
         "product_name": "天タレまぶしおむすび　小海老入り",
         "product_price": 138,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046527/07993B9434E442BDE4BB3B831DA097CD.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041300/kyushu/",
-        "product_name": "たけのこ御飯幕の内",
-        "product_price": 604,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041300/91B1C3B70D60950185BE9241DECFB465.jpg",
         "product_date": "2025.03.18"
       },
       {
@@ -475,6 +454,27 @@
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040433/F594420CFFDA8BA110F2432C43DA17C7.jpg",
         "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046078/kyushu/",
+        "product_name": "背徳飯やみつきタルだく唐揚げ丼",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046078/18B112B96D5C01AA8D38418D8FAF5810.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041803/kyushu/",
+        "product_name": "鶏だしスープもち麦ごはん　九州産華味鳥使用",
+        "product_price": 399,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041803/85C3D814F7D6BB338132EA74EC18AE8D.jpg",
+        "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046530/kyushu/",
+        "product_name": "手巻寿司　まぐろたたきわさび醤油巻",
+        "product_price": 248,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046530/85C11030256778F3299FDD53A1ED3982.jpg",
+        "product_date": "2025.03.18"
       }
     ],
     "prefecture_name": "九州"
@@ -482,13 +482,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046523/okinawa/",
-        "product_name": "直巻おむすび　おかかと小海老の彩り混ぜめし",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046523/8E96A710BA34FA7CCFD4E8EE54741FBF.jpg",
-        "product_date": "2025.03.18"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/046335/okinawa/",
         "product_name": "一膳御飯おむすび　　　和風ツナマヨネーズ",
@@ -504,13 +497,6 @@
         "product_date": "2025.03.18"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041300/okinawa/",
-        "product_name": "たけのこ御飯幕の内",
-        "product_price": 604,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041300/91B1C3B70D60950185BE9241DECFB465.jpg",
-        "product_date": "2025.03.18"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/045962/okinawa/",
         "product_name": "肉あんかけチャーハン",
         "product_price": 645,
@@ -523,6 +509,20 @@
         "product_price": 192,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040776/C75103DA0882E22FB5316A682556AC6F.jpg",
         "product_date": "2025.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/095411/okinawa/",
+        "product_name": "ソース焼そば",
+        "product_price": 486,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/095411/BFF91E31EAF27166D84313BF16E8A3E6.jpg",
+        "product_date": "2025.03.19"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/107198/okinawa/",
+        "product_name": "炭火焼鳥しお（別添わさび）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/107198/63FA860DEF7D3AD8C50B90F463B57E47.jpg",
+        "product_date": "2025.03.20"
       }
     ],
     "prefecture_name": "沖縄"
