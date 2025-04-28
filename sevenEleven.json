@@ -161,20 +161,6 @@
         "product_date": "2025.04.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046726/koshinetsu/",
-        "product_name": "紅しゃけといくらのおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046726/6AB1A7E159B599D2B98790D9BB37E709.jpg",
-        "product_date": "2025.04.22"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046712/koshinetsu/",
-        "product_name": "紅しゃけといくらのおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046712/E192EDCA595A2AA2193ACB702D7274A4.jpg",
-        "product_date": "2025.04.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046683/koshinetsu/",
         "product_name": "上伊那産アスパラとベーコンのおむすび",
         "product_price": 213,
@@ -187,6 +173,20 @@
         "product_price": 192,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046716/60D399EE9B85785BB140AF07123971B3.jpg",
         "product_date": "2025.04.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046684/koshinetsu/",
+        "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046684/591632BC5149A983C2D2FD913FAC7BB6.jpg",
+        "product_date": "2025.04.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046344/koshinetsu/",
+        "product_name": "豚ロースとんかつ弁当",
+        "product_price": 702,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046344/591A387A653A7CE9FF0597183741585B.jpg",
+        "product_date": "2025.04.22"
       }
     ],
     "prefecture_name": "甲信越"
@@ -194,20 +194,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046635/hokuriku/",
-        "product_name": "直巻おむすび　おかかとねぎの混ぜめし",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046635/854D4903FE497F214BE0E9EF34CABF84.jpg",
-        "product_date": "2025.04.22"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046712/hokuriku/",
-        "product_name": "紅しゃけといくらのおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046712/E192EDCA595A2AA2193ACB702D7274A4.jpg",
-        "product_date": "2025.04.22"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/046716/hokuriku/",
         "product_name": "こだわりおむすび　さば味噌",
@@ -235,6 +221,20 @@
         "product_price": 518,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046615/4998895E0773EF7B390B0B32427824E1.jpg",
         "product_date": "2025.04.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046724/hokuriku/",
+        "product_name": "助六寿司",
+        "product_price": 473,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046724/38E54551B01F2805AE89BDD0593315DF.jpg",
+        "product_date": "2025.04.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052949/hokuriku/",
+        "product_name": "ポテたまサラダサンド",
+        "product_price": 302,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052949/8FD424621EF3DBAD5B4236CA1CF8CC3A.jpg",
+        "product_date": "2025.04.23"
       }
     ],
     "prefecture_name": "北陸"
@@ -463,17 +463,17 @@
         "product_date": "2025.04.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/045870/kyushu/",
-        "product_name": "玉子をのせたキムチ炒飯おむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/045870/A0B91CD9599C24C4DD6FF2E8A38F3D1E.jpg",
-        "product_date": "2025.04.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046718/kyushu/",
         "product_name": "バターチキンカレー",
         "product_price": 399,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046718/012D6AF10EA63FA0F97A3794705A986F.jpg",
+        "product_date": "2025.04.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046720/kyushu/",
+        "product_name": "ふっくらお揚げのいなり　３個入り",
+        "product_price": 289,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046720/B9DC17FEBAB576B39D4DB340475026CC.jpg",
         "product_date": "2025.04.22"
       }
     ],
