@@ -298,20 +298,6 @@
         "product_date": "2025.04.29"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046716/kinki/",
-        "product_name": "こだわりおむすび　さば味噌",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046716/60D399EE9B85785BB140AF07123971B3.jpg",
-        "product_date": "2025.04.29"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042583/kinki/",
-        "product_name": "海苔弁当",
-        "product_price": 572,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042583/1775F9962C48BCE2D51A8AEC175AFFF2.jpg",
-        "product_date": "2025.04.29"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042572/kinki/",
         "product_name": "ずっしり！チキン南蛮＆生姜焼き",
         "product_price": 699,
@@ -330,6 +316,20 @@
         "product_name": "バターチキンカレー",
         "product_price": 399,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046718/012D6AF10EA63FA0F97A3794705A986F.jpg",
+        "product_date": "2025.04.29"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046758/kinki/",
+        "product_name": "香り箱の寿司",
+        "product_price": 205,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046758/EC4AA101051EB09B4BA7929DAFD85EA5.jpg",
+        "product_date": "2025.04.29"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046722/kinki/",
+        "product_name": "サラダ巻（のり巻３巻・ごま巻２巻）",
+        "product_price": 462,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046722/0011909BE87B131B4751EDD3C310832E.jpg",
         "product_date": "2025.04.29"
       }
     ],
@@ -490,13 +490,6 @@
         "product_date": "2025.04.29"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041006/okinawa/",
-        "product_name": "こだわりおむすび　炭火焼さば",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041006/E25C295CAB2B7AFF30C47CB6612BE6AD.jpg",
-        "product_date": "2025.04.29"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046515/okinawa/",
         "product_name": "鶏ガラ醤油餡の天津飯",
         "product_price": 537,
@@ -522,6 +515,13 @@
         "product_name": "たんぱく質が摂れるチキンコブサンド",
         "product_price": 399,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052971/3BE7172D303D23810FA0E39B03A69EAB.jpg",
+        "product_date": "2025.04.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052967/okinawa/",
+        "product_name": "ブリトーチーズ倍盛り　ハム＆チーズ",
+        "product_price": 419,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052967/D122A8F7B87879698C3985697F64FC52.jpg",
         "product_date": "2025.04.30"
       }
     ],
