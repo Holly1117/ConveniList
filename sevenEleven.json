@@ -86,11 +86,11 @@
         "product_date": "2025.05.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046852/tohoku/",
-        "product_name": "ご愛顧　東北限定　三陸産わかめのおむすび",
-        "product_price": 129,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046852/D92B06C64A31ADC5D9B862EB1F170A30.jpg",
-        "product_date": "2025.05.23"
+        "product_url": "https://www.sej.co.jp/products/a/item/046947/tohoku/",
+        "product_name": "こだわりおむすび　熟成いくら",
+        "product_price": 297,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046947/18D127B79419CF9B6CF18C75C72D4C69.jpg",
+        "product_date": "2025.05.20"
       }
     ],
     "prefecture_name": "東北"
@@ -161,20 +161,6 @@
         "product_date": "2025.05.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046918/koshinetsu/",
-        "product_name": "直巻おむすび　炭火牛焼肉",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046918/3C80041AA880F2FF1625958495E94F09.jpg",
-        "product_date": "2025.05.20"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046818/koshinetsu/",
-        "product_name": "具だくさんおむすびイカフライ＆おかか入り金平",
-        "product_price": 300,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046818/CCEE3C31BE4C28C2FF4AE6619687E75C.jpg",
-        "product_date": "2025.05.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046959/koshinetsu/",
         "product_name": "塩むすび",
         "product_price": 138,
@@ -186,6 +172,20 @@
         "product_name": "ツナ御飯おむすび海老ツナ明太子マヨネーズ",
         "product_price": 278,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046917/E2BB2DD54B3EABD0B9DC95B1B9C09175.jpg",
+        "product_date": "2025.05.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046947/koshinetsu/",
+        "product_name": "こだわりおむすび　熟成いくら",
+        "product_price": 297,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046947/18D127B79419CF9B6CF18C75C72D4C69.jpg",
+        "product_date": "2025.05.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046946/koshinetsu/",
+        "product_name": "こだわりおむすび　ちりめん山椒",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046946/F399D2D34F0A2D152F22958ED580A8DE.jpg",
         "product_date": "2025.05.20"
       }
     ],
@@ -367,17 +367,17 @@
         "product_date": "2025.05.20"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/045981/chugoku/",
+        "product_name": "具だくさんおむすび　明太のり弁",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/045981/5ED086876DE61E4529D9F18C540E0C74.jpg",
+        "product_date": "2025.05.20"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/046959/chugoku/",
         "product_name": "塩むすび",
         "product_price": 138,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046959/62F10AE6016E93F70DC3CB1BFAACE022.jpg",
-        "product_date": "2025.05.20"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/046955/chugoku/",
-        "product_name": "親鳥つくねおむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046955/9BE1298CDB0E132AC66034E7B1C707B3.jpg",
         "product_date": "2025.05.20"
       }
     ],
@@ -456,13 +456,6 @@
         "product_date": "2025.05.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/046714/kyushu/",
-        "product_name": "具だくさんおむすび　かつ丼",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046714/E919856B9F4B86BA478E5D042AE79C48.jpg",
-        "product_date": "2025.05.20"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046959/kyushu/",
         "product_name": "塩むすび",
         "product_price": 138,
@@ -474,6 +467,13 @@
         "product_name": "こだわりおむすび　熟成いくら",
         "product_price": 297,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046947/18D127B79419CF9B6CF18C75C72D4C69.jpg",
+        "product_date": "2025.05.20"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/046946/kyushu/",
+        "product_name": "こだわりおむすび　ちりめん山椒",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046946/F399D2D34F0A2D152F22958ED580A8DE.jpg",
         "product_date": "2025.05.20"
       }
     ],
