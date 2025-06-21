@@ -14,13 +14,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0410212.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/omusubi/0411233.html",
-    "product_name": "塩こんぶおむすび",
-    "product_price": 150,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411233.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/omusubi/0410410.html",
     "product_name": "味付海苔　おかか味噌",
     "product_price": 173,
@@ -56,13 +49,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0730631.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0730679.html",
-    "product_name": "トマトのうまみ！バターチキンカレー",
-    "product_price": 594,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0730679.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/obento/0614245.html",
     "product_name": "鮭ほぐし飯（和風だしごはん）",
     "product_price": 365,
@@ -82,13 +68,6 @@
     "product_price": 520,
     "product_date": "2025.6.17",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0750639.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/sushi/0510172.html",
-    "product_name": "手巻寿司　サーモン（青まぜ）",
-    "product_price": 248,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510172.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/sushi/0514668.html",
@@ -294,13 +273,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1134506.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/deli/1062939.html",
-    "product_name": "増量広島お好み焼　肉玉そば",
-    "product_price": 598,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1062939.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/deli/1062021.html",
     "product_name": "【北海道・東北】いか玉お好み焼&豚玉明太ソースお好み焼",
     "product_price": 570,
@@ -341,20 +313,6 @@
     "product_price": 238,
     "product_date": "2025.6.17",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/2111568.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/chilleddaily/2650609.html",
-    "product_name": "【関東】にしんのマリネ",
-    "product_price": 348,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/2650609.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/friedfoods/0251389.html",
-    "product_name": "【関西】スティックチキン（あっさり塩味）",
-    "product_price": 240,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0251389.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/dessert/1941968.html",
@@ -481,6 +439,13 @@
     "product_price": 800,
     "product_date": "2025.6.21",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7916328.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7921698.html",
+    "product_name": "たまごっち　めじるしアクセサリー2",
+    "product_price": 330,
+    "product_date": "2025.6.21",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7921698.webp"
   },
   {
     "product_url": "https://www.family.co.jp/goods/charakuji/7913570.html",
@@ -546,13 +511,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0410212.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/omusubi/0411233.html",
-    "product_name": "塩こんぶおむすび",
-    "product_price": 150,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0411233.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/omusubi/0410410.html",
     "product_name": "味付海苔　おかか味噌",
     "product_price": 173,
@@ -588,13 +546,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0730631.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0730679.html",
-    "product_name": "トマトのうまみ！バターチキンカレー",
-    "product_price": 594,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0730679.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/obento/0614245.html",
     "product_name": "鮭ほぐし飯（和風だしごはん）",
     "product_price": 365,
@@ -614,13 +565,6 @@
     "product_price": 520,
     "product_date": "2025.6.17",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0750639.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/sushi/0510172.html",
-    "product_name": "手巻寿司　サーモン（青まぜ）",
-    "product_price": 248,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510172.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/sushi/0514668.html",
@@ -826,13 +770,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1134506.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/deli/1062939.html",
-    "product_name": "増量広島お好み焼　肉玉そば",
-    "product_price": 598,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1062939.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/deli/1062021.html",
     "product_name": "【北海道・東北】いか玉お好み焼&豚玉明太ソースお好み焼",
     "product_price": 570,
@@ -873,20 +810,6 @@
     "product_price": 238,
     "product_date": "2025.6.17",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/2111568.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/chilleddaily/2650609.html",
-    "product_name": "【関東】にしんのマリネ",
-    "product_price": 348,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/2650609.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/friedfoods/0251389.html",
-    "product_name": "【関西】スティックチキン（あっさり塩味）",
-    "product_price": 240,
-    "product_date": "2025.6.17",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0251389.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/dessert/1941968.html",
@@ -1013,6 +936,13 @@
     "product_price": 800,
     "product_date": "2025.6.21",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7916328.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7921698.html",
+    "product_name": "たまごっち　めじるしアクセサリー2",
+    "product_price": 330,
+    "product_date": "2025.6.21",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7921698.webp"
   },
   {
     "product_url": "https://www.family.co.jp/goods/charakuji/7913570.html",
