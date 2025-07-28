@@ -415,18 +415,18 @@
         "product_date": "2025.07.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047263/shikoku/",
-        "product_name": "銀鮭塩麹焼の和風幕の内",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047263/406DFACDEBACA8AAD763D264804CFDDC.jpg",
-        "product_date": "2025.07.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043537/shikoku/",
         "product_name": "ミニ海苔弁当",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043537/DCA4D6931E3D8ACFCC67C7CAD4DF2A17.jpg",
         "product_date": "2025.07.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043541/shikoku/",
+        "product_name": "銀座デリー監修カシミールカレー",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043541/0EF0C1E9DA01647ED80EAF18169FA9DD.jpg",
+        "product_date": "2025.07.28"
       }
     ],
     "prefecture_name": "四国"
@@ -449,13 +449,6 @@
         "product_date": "2025.07.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047353/kyushu/",
-        "product_name": "味一ねぎのねぎ味噌おむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047353/8058C4DB5C99B8D397FA9C4CA8E832AA.jpg",
-        "product_date": "2025.07.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043990/kyushu/",
         "product_name": "一番だしおむすび　大葉味噌",
         "product_price": 149,
@@ -474,6 +467,13 @@
         "product_name": "のり佃煮おむすび",
         "product_price": 172,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043307/CFE71340EEAB550690042675E5323836.jpg",
+        "product_date": "2025.07.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043544/kyushu/",
+        "product_name": "おろし玉ねぎソースのハンバーグ丼",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043544/FAC4D8B9D0B442297717B6E30AAD3AF7.jpg",
         "product_date": "2025.07.22"
       }
     ],
@@ -497,13 +497,6 @@
         "product_date": "2025.07.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043536/okinawa/",
-        "product_name": "チーズ＆Ｗハンバーグ　ライスボール",
-        "product_price": 345,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043536/9D2DB245936E71C300D7EBE7ABE5E3A2.jpg",
-        "product_date": "2025.07.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/046946/okinawa/",
         "product_name": "こだわりおむすび　ちりめん山椒",
         "product_price": 213,
@@ -523,6 +516,13 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046792/516D786905C8399D3BE6D94A82BCEF38.jpg",
         "product_date": "2025.07.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053112/okinawa/",
+        "product_name": "ツナ＆きゅうりサンド",
+        "product_price": 345,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053112/B39973C809B39010C5F30B12868076E3.jpg",
+        "product_date": "2025.07.23"
       }
     ],
     "prefecture_name": "沖縄"
