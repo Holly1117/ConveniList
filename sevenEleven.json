@@ -195,13 +195,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047818/hokuriku/",
-        "product_name": "旨さ相盛おむすび　肉そぼろと卵黄",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047818/FFF66EE1DF2860FD332D3AD75DF7D351.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047817/hokuriku/",
         "product_name": "旨さ相盛おむすび　高菜と明太子",
         "product_price": 311,
@@ -234,6 +227,13 @@
         "product_name": "月夜のとろけるチーズソース　ロコモコ丼",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047829/78AEA9A43678C70A1E111825C9AA3A75.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047828/hokuriku/",
+        "product_name": "禁断のガリチーカルボ飯",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047828/EA4A54FA4ADDF27C6432BF8082BAA245.jpg",
         "product_date": "2025.09.09"
       }
     ],
@@ -449,13 +449,6 @@
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047816/kyushu/",
-        "product_name": "旨さ相盛おむすび　紅しゃけとすじこ",
-        "product_price": 367,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047816/95D5FA99F73FE4446B48698CA059ABC2.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047820/kyushu/",
         "product_name": "韓国風チョレギのり　　おむすび",
         "product_price": 167,
@@ -474,6 +467,13 @@
         "product_name": "アジフライ御飯",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047825/0506BF5F67EB58912C12CE3D8F192C9C.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047829/kyushu/",
+        "product_name": "月夜のとろけるチーズソース　ロコモコ丼",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047829/78AEA9A43678C70A1E111825C9AA3A75.jpg",
         "product_date": "2025.09.09"
       }
     ],
