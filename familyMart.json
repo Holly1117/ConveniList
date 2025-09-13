@@ -84,6 +84,13 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0515108.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/sandwich/0970198.html",
+    "product_name": "ピザサンド　さつまいもチーズ",
+    "product_price": 330,
+    "product_date": "2025.9.15",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0970198.jpg"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/sandwich/0912778.html",
     "product_name": "【東京都の一部】厚切りトマトとベーコンと国産チキンサンド",
     "product_price": 498,
@@ -173,13 +180,6 @@
     "product_price": 430,
     "product_date": "2025.9.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0812146.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/noodle/0812153.html",
-    "product_name": "国産鶏むね肉使用　鶏天うどん",
-    "product_price": 646,
-    "product_date": "2025.9.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812153.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/noodle/0810340.html",
@@ -427,11 +427,39 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/3463352.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/disc/83111840.html",
+    "product_name": "【ファミマオンライン】FINAL FANTASY VII REMAKE INTERGRADE",
+    "product_price": 478,
+    "product_date": "2026.1.22",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/83111840.webp"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/charakuji/7911712.html",
     "product_name": "一番くじ アニメ「ぼっち・ざ・ろっく！」VOLUME 4",
     "product_price": 850,
     "product_date": "2025.9.13",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7911712.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929212.html",
+    "product_name": "スヌーピー　アンティーク　ジオラマ　コレクション",
+    "product_price": 210,
+    "product_date": "2025.9.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929212.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929175.html",
+    "product_name": "Snoopy SWING ORNAMENT",
+    "product_price": 210,
+    "product_date": "2025.9.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929175.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929427.html",
+    "product_name": "SNOOPY Wreath Collection",
+    "product_price": 210,
+    "product_date": "2025.9.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929427.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/charakuji/6329495.html",
@@ -560,6 +588,13 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0515108.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/sandwich/0970198.html",
+    "product_name": "ピザサンド　さつまいもチーズ",
+    "product_price": 330,
+    "product_date": "2025.9.15",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/0970198.jpg"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/sandwich/0912778.html",
     "product_name": "【東京都の一部】厚切りトマトとベーコンと国産チキンサンド",
     "product_price": 498,
@@ -649,13 +684,6 @@
     "product_price": 430,
     "product_date": "2025.9.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0812146.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/noodle/0812153.html",
-    "product_name": "国産鶏むね肉使用　鶏天うどん",
-    "product_price": 646,
-    "product_date": "2025.9.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0812153.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/noodle/0810340.html",
@@ -903,11 +931,39 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/3463352.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/disc/83111840.html",
+    "product_name": "【ファミマオンライン】FINAL FANTASY VII REMAKE INTERGRADE",
+    "product_price": 478,
+    "product_date": "2026.1.22",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/83111840.webp"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/charakuji/7911712.html",
     "product_name": "一番くじ アニメ「ぼっち・ざ・ろっく！」VOLUME 4",
     "product_price": 850,
     "product_date": "2025.9.13",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7911712.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929212.html",
+    "product_name": "スヌーピー　アンティーク　ジオラマ　コレクション",
+    "product_price": 210,
+    "product_date": "2025.9.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929212.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929175.html",
+    "product_name": "Snoopy SWING ORNAMENT",
+    "product_price": 210,
+    "product_date": "2025.9.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929175.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7929427.html",
+    "product_name": "SNOOPY Wreath Collection",
+    "product_price": 210,
+    "product_date": "2025.9.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7929427.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/charakuji/6329495.html",
