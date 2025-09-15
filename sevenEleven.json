@@ -17,20 +17,6 @@
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044102/hokkaido/",
-        "product_name": "鮭バター醤油おむすび　北海道産秋鮭使用",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044102/61D88DFD845F80BC10E3C768D2377CEF.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047244/hokkaido/",
-        "product_name": "旨辛タコミートおむすび",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047244/4B3E4F5DFB7A3F902F78A5B63CC90FFB.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047826/hokkaido/",
         "product_name": "ミックスフライ＆ナポリタン",
         "product_price": 753,
@@ -42,6 +28,20 @@
         "product_name": "炙り焼き鯖のお弁当（小松菜ちりめんごはん）",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047827/FFC7CD1F9DFEEB075891EFABEB8F854B.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047828/hokkaido/",
+        "product_name": "禁断のガリチーカルボ飯",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047828/EA4A54FA4ADDF27C6432BF8082BAA245.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053189/hokkaido/",
+        "product_name": "ソーセージエッグマフィン",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053189/487E4819F4C0C06E92C2F6F14771E020.jpg",
         "product_date": "2025.09.09"
       }
     ],
@@ -291,20 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047845/kinki/",
-        "product_name": "混ぜ飯おむすび　しらすポン酢",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047845/AB9144D5BCD4E196B16FEA8D73BFE137.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047826/kinki/",
-        "product_name": "ミックスフライ＆ナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047826/680528E1048F49B79B23C25629E4286B.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047827/kinki/",
         "product_name": "炙り焼き鯖のお弁当（小松菜ちりめんごはん）",
         "product_price": 429,
@@ -319,17 +305,31 @@
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047828/kinki/",
-        "product_name": "禁断のガリチーカルボ飯",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047828/EA4A54FA4ADDF27C6432BF8082BAA245.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047848/kinki/",
         "product_name": "ふっくらお揚げのいなり",
         "product_price": 181,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047848/89059F52050C8D451E48143F552F116E.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053189/kinki/",
+        "product_name": "ソーセージエッグマフィン",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053189/487E4819F4C0C06E92C2F6F14771E020.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053195/kinki/",
+        "product_name": "クロックマダム",
+        "product_price": 321,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053195/26065CF718E198D76AD5F09B0E6A206E.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090698/kinki/",
+        "product_name": "冷しぶっかけうどん",
+        "product_price": 367,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090698/AF2724A79E3A00A7FBF4E74F52766CB3.jpg",
         "product_date": "2025.09.09"
       }
     ],
@@ -338,13 +338,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047574/chugoku/",
-        "product_name": "直巻おむすび　辛味噌豚タン",
-        "product_price": 205,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047574/3644968DCC145E53E632957C02F9C8F6.jpg",
-        "product_date": "2025.09.09"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047818/chugoku/",
         "product_name": "旨さ相盛おむすび　肉そぼろと卵黄",
@@ -379,6 +372,13 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047828/EA4A54FA4ADDF27C6432BF8082BAA245.jpg",
         "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047815/chugoku/",
+        "product_name": "ふっくらたまごの天津飯",
+        "product_price": 570,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047815/AC7022A80E78492C413DF2DA4A591EB6.jpg",
+        "product_date": "2025.09.11"
       }
     ],
     "prefecture_name": "中国"
@@ -391,13 +391,6 @@
         "product_name": "直巻おむすび　とり五目",
         "product_price": 178,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047578/FB1BF5DE570CC97FCA337074DCA24C93.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047574/shikoku/",
-        "product_name": "直巻おむすび　辛味噌豚タン",
-        "product_price": 205,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047574/3644968DCC145E53E632957C02F9C8F6.jpg",
         "product_date": "2025.09.09"
       },
       {
@@ -415,18 +408,25 @@
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047826/shikoku/",
-        "product_name": "ミックスフライ＆ナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047826/680528E1048F49B79B23C25629E4286B.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047829/shikoku/",
         "product_name": "月夜のとろけるチーズソース　ロコモコ丼",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047829/78AEA9A43678C70A1E111825C9AA3A75.jpg",
         "product_date": "2025.09.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047828/shikoku/",
+        "product_name": "禁断のガリチーカルボ飯",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047828/EA4A54FA4ADDF27C6432BF8082BAA245.jpg",
+        "product_date": "2025.09.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047800/shikoku/",
+        "product_name": "香り箱の寿司",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047800/9D22461D5B8165348EEB2D8B12F2F122.jpg",
+        "product_date": "2025.09.09"
       }
     ],
     "prefecture_name": "四国"
@@ -497,13 +497,6 @@
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047818/okinawa/",
-        "product_name": "旨さ相盛おむすび　肉そぼろと卵黄",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047818/FFF66EE1DF2860FD332D3AD75DF7D351.jpg",
-        "product_date": "2025.09.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044102/okinawa/",
         "product_name": "鮭バター醤油おむすび　北海道産秋鮭使用",
         "product_price": 203,
@@ -511,17 +504,24 @@
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047664/okinawa/",
-        "product_name": "こだわりおむすび　黒毛和牛そぼろ",
-        "product_price": 278,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047664/8FDF08BAFA2DA998F8F196CAFC151E66.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047829/okinawa/",
+        "product_name": "月夜のとろけるチーズソース　ロコモコ丼",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047829/78AEA9A43678C70A1E111825C9AA3A75.jpg",
+        "product_date": "2025.09.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047828/okinawa/",
+        "product_name": "禁断のガリチーカルボ飯",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047828/EA4A54FA4ADDF27C6432BF8082BAA245.jpg",
         "product_date": "2025.09.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047501/okinawa/",
-        "product_name": "幕の内弁当",
-        "product_price": 496,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047501/A05D40260F6C755CB322B5B2F379715A.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/047652/okinawa/",
+        "product_name": "手巻寿司　納豆巻",
+        "product_price": 203,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047652/6CF6E1E87DCC4EC6F436D40E245344AD.jpg",
         "product_date": "2025.09.09"
       }
     ],
