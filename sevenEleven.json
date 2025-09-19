@@ -99,13 +99,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040425/kanto/",
-        "product_name": "神奈川限定　湘南しらすと菜飯のおむすび",
-        "product_price": 210,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040425/437292EB0078CB623FD0AEE82ECA8AC7.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047913/kanto/",
         "product_name": "高菜ごはんおむすび",
         "product_price": 159,
@@ -138,6 +131,13 @@
         "product_name": "おかずが主役豚焼肉＆唐揚げ弁当",
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047910/DA24F0E29385BE8B54C9384095D9AFDE.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047904/kanto/",
+        "product_name": "若鶏のにんにく醤油唐揚げ弁当",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047904/25102F8754A37FC7F0BA4B35B68C2DF0.jpg",
         "product_date": "2025.09.16"
       }
     ],
