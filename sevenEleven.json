@@ -72,13 +72,6 @@
         "product_date": "2025.09.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047865/tohoku/",
-        "product_name": "でかむすび　ハワイアンフライドライス",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047865/99D0D0E89CBE949F67A5F16430391C51.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047926/tohoku/",
         "product_name": "味しみロースかつ丼",
         "product_price": 645,
@@ -91,6 +84,13 @@
         "product_price": 581,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047925/877B6DF5491919209B4BA13289637F28.jpg",
         "product_date": "2025.09.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047922/tohoku/",
+        "product_name": "じっくり煮込んだポークカレー",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047922/2D5D9866032AFA0EDE2FAFDDA16759DF.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "東北"
@@ -113,20 +113,6 @@
         "product_date": "2025.09.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/kanto/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/kanto/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047910/kanto/",
         "product_name": "おかずが主役豚焼肉＆唐揚げ弁当",
         "product_price": 537,
@@ -139,6 +125,20 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047904/25102F8754A37FC7F0BA4B35B68C2DF0.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047903/kanto/",
+        "product_name": "チキンかつ弁当",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047903/AF0D44521590063C24F9745952B71400.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047902/kanto/",
+        "product_name": "若鶏のジューシー唐揚げ弁当",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047902/610CACF07EC2EDB5BFD5DAD37F5CBE42.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "関東"
@@ -147,38 +147,10 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/koshinetsu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/koshinetsu/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/koshinetsu/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044132/koshinetsu/",
-        "product_name": "一番だしおむすび　しそ昆布たくあん",
-        "product_price": 156,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044132/58010C7F179B0BF0F7DE92EE21CE70D2.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047916/koshinetsu/",
         "product_name": "豚焼肉弁当（唐辛子マヨネーズ）",
         "product_price": 583,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047916/5414BA054B53F16D9FC70A09E8E0E848.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047904/koshinetsu/",
-        "product_name": "若鶏のにんにく醤油唐揚げ弁当",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047904/25102F8754A37FC7F0BA4B35B68C2DF0.jpg",
         "product_date": "2025.09.16"
       },
       {
@@ -187,6 +159,34 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047926/7B5CBE3FB8DF9D5F91B33F26794991B3.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047925/koshinetsu/",
+        "product_name": "牛めし",
+        "product_price": 581,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047925/877B6DF5491919209B4BA13289637F28.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047922/koshinetsu/",
+        "product_name": "じっくり煮込んだポークカレー",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047922/2D5D9866032AFA0EDE2FAFDDA16759DF.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047905/koshinetsu/",
+        "product_name": "ふわっとろ濃厚親子丼",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047905/32559318B5F86974DCFEEEA01BAE42F6.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047888/koshinetsu/",
+        "product_name": "奥三河どり肉の親子丼　半熟玉子入り",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047888/F7DC401B411EFD2A3124EB1F84F1760B.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "甲信越"
@@ -194,20 +194,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/hokuriku/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/hokuriku/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047916/hokuriku/",
         "product_name": "豚焼肉弁当（唐辛子マヨネーズ）",
@@ -235,6 +221,20 @@
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047922/2D5D9866032AFA0EDE2FAFDDA16759DF.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047888/hokuriku/",
+        "product_name": "奥三河どり肉の親子丼　半熟玉子入り",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047888/F7DC401B411EFD2A3124EB1F84F1760B.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047882/hokuriku/",
+        "product_name": "手巻寿司　海老マヨネーズ巻",
+        "product_price": 224,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047882/2207BED299F21321B034DBDAD6B7A525.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "北陸"
@@ -242,20 +242,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/tokai/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/tokai/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047889/tokai/",
         "product_name": "若鶏の唐揚げ弁当",
@@ -283,6 +269,20 @@
         "product_price": 581,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047925/877B6DF5491919209B4BA13289637F28.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047922/tokai/",
+        "product_name": "じっくり煮込んだポークカレー",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047922/2D5D9866032AFA0EDE2FAFDDA16759DF.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047888/tokai/",
+        "product_name": "奥三河どり肉の親子丼　半熟玉子入り",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047888/F7DC401B411EFD2A3124EB1F84F1760B.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "東海"
@@ -290,20 +290,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/kinki/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/kinki/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047901/kinki/",
         "product_name": "牛挽肉チャプチェの韓国弁当（麦ごはん）",
@@ -331,6 +317,20 @@
         "product_price": 572,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047897/0BD399463CC5B06E7E312101E80B7633.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047895/kinki/",
+        "product_name": "お出汁のきいた特製ロースかつ丼",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047895/5D63C30335969CEA9196B0BE5F331101.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047882/kinki/",
+        "product_name": "手巻寿司　海老マヨネーズ巻",
+        "product_price": 224,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047882/2207BED299F21321B034DBDAD6B7A525.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "近畿"
@@ -338,20 +338,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/chugoku/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/chugoku/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047926/chugoku/",
         "product_name": "味しみロースかつ丼",
@@ -379,6 +365,20 @@
         "product_price": 594,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047905/32559318B5F86974DCFEEEA01BAE42F6.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047934/chugoku/",
+        "product_name": "甘口醤油仕立ての鶏唐揚丼　山口県産ねぎ使用",
+        "product_price": 734,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047934/8802ED623558C1FB801F9280F0367B69.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047506/chugoku/",
+        "product_name": "ピリ辛ガパオライス",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047506/B5DECF21684CA176B1F579C64D2F0628.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "中国"
@@ -386,27 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/shikoku/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/shikoku/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047600/shikoku/",
-        "product_name": "岡山名物　とりめし",
-        "product_price": 591,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047600/FB50C10CF19F3B326C6ADB10A021F167.jpg",
-        "product_date": "2025.09.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047926/shikoku/",
         "product_name": "味しみロースかつ丼",
@@ -427,6 +406,27 @@
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047922/2D5D9866032AFA0EDE2FAFDDA16759DF.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047905/shikoku/",
+        "product_name": "ふわっとろ濃厚親子丼",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047905/32559318B5F86974DCFEEEA01BAE42F6.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047506/shikoku/",
+        "product_name": "ピリ辛ガパオライス",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047506/B5DECF21684CA176B1F579C64D2F0628.jpg",
+        "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044131/shikoku/",
+        "product_name": "梅しそいなり",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044131/DF1C8958F51DB6724A031D5B3859CD5E.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "四国"
@@ -434,13 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047886/kyushu/",
-        "product_name": "満月オムライスおむすびトマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047886/5AC371E949D9F20CE2E770EC77D9CC02.jpg",
-        "product_date": "2025.09.16"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047884/kyushu/",
         "product_name": "お月見ベーコンエッグおむすび",
@@ -475,6 +468,13 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047926/7B5CBE3FB8DF9D5F91B33F26794991B3.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047925/kyushu/",
+        "product_name": "牛めし",
+        "product_price": 581,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047925/877B6DF5491919209B4BA13289637F28.jpg",
+        "product_date": "2025.09.16"
       }
     ],
     "prefecture_name": "九州"
@@ -497,13 +497,6 @@
         "product_date": "2025.09.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047884/okinawa/",
-        "product_name": "お月見ベーコンエッグおむすび",
-        "product_price": 243,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047884/1D423DC8342D3F71FE4BB90D4FE377F5.jpg",
-        "product_date": "2025.09.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047919/okinawa/",
         "product_name": "チキン南蛮＆鶏そぼろ弁当",
         "product_price": 572,
@@ -523,6 +516,13 @@
         "product_price": 581,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047925/877B6DF5491919209B4BA13289637F28.jpg",
         "product_date": "2025.09.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053209/okinawa/",
+        "product_name": "ブリトー台湾風ルーローチーズ",
+        "product_price": 311,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053209/97CEF945887734EB9D0C0A3B23CA957F.jpg",
+        "product_date": "2025.09.17"
       }
     ],
     "prefecture_name": "沖縄"
