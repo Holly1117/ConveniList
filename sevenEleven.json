@@ -10,13 +10,6 @@
         "product_date": "2025.09.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044394/hokkaido/",
-        "product_name": "秋の味覚　鶏釜めし仕立て",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044394/715C8949AA1E644239B7323C64BB23ED.jpg",
-        "product_date": "2025.09.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047961/hokkaido/",
         "product_name": "たれカツ丼",
         "product_price": 702,
@@ -38,10 +31,17 @@
         "product_date": "2025.10.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/053229/hokkaido/",
-        "product_name": "チャバタ　２種きのことグリルチキン",
-        "product_price": 399,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053229/B6DA8B04AABEF606C936EC44EB14AAF2.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/094249/hokkaido/",
+        "product_name": "海老と６種野菜の焼ビーフン",
+        "product_price": 388,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/094249/91A21889B666BDA9E6639A2AF53C672F.jpg",
+        "product_date": "2025.10.01"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090056/hokkaido/",
+        "product_name": "ケチャップソースの大盛ナポリタン",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090056/CADFF270948655BC8DD0658D67DF8348.jpg",
         "product_date": "2025.09.30"
       }
     ],
@@ -168,13 +168,6 @@
         "product_date": "2025.09.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/047993/koshinetsu/",
-        "product_name": "かぐら南蛮入り　オムライスおむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047993/3FE403736635F4CB1FA62F4ECBA547A4.jpg",
-        "product_date": "2025.09.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044394/koshinetsu/",
         "product_name": "秋の味覚　鶏釜めし仕立て",
         "product_price": 429,
@@ -186,6 +179,13 @@
         "product_name": "おだし香るお蕎麦屋さんのカレー",
         "product_price": 399,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047986/3B02439F508DA991FDB628AEBFF611D8.jpg",
+        "product_date": "2025.09.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047989/koshinetsu/",
+        "product_name": "鶏唐揚げマヨネーズ巻５巻",
+        "product_price": 473,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047989/B2BAF5649CFF0A5A61FD1E72EEDCE64C.jpg",
         "product_date": "2025.09.30"
       }
     ],
@@ -422,11 +422,11 @@
         "product_date": "2025.09.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042993/shikoku/",
-        "product_name": "ふんわり玉子のデミオムライス",
+        "product_url": "https://www.sej.co.jp/products/a/item/047987/shikoku/",
+        "product_name": "チキンメンチカツカレー",
         "product_price": 626,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042993/1FFC7BEFE2D845A42E7E6C7D29BCF507.jpg",
-        "product_date": "2025.10.01"
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047987/B149D57CAB9691AF38155965DCE1AD80.jpg",
+        "product_date": "2025.09.30"
       }
     ],
     "prefecture_name": "四国"
@@ -434,13 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047991/kyushu/",
-        "product_name": "直巻おむすび　牛キムチマヨネーズ",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047991/1F7336DC47EB56EF6489CB0C545959E2.jpg",
-        "product_date": "2025.09.30"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047984/kyushu/",
         "product_name": "おおきなおむすび　新生姜わかめ",
@@ -474,6 +467,13 @@
         "product_name": "背徳飯明太タルだく鶏唐揚げ丼",
         "product_price": 732,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047985/498FF141BE4D0E86449699A29860D77F.jpg",
+        "product_date": "2025.09.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053229/kyushu/",
+        "product_name": "チャバタ　２種きのことグリルチキン",
+        "product_price": 399,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053229/B6DA8B04AABEF606C936EC44EB14AAF2.jpg",
         "product_date": "2025.09.30"
       }
     ],
