@@ -291,13 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040306/kinki/",
-        "product_name": "旨さ相盛おむすび　梅とおかか",
-        "product_price": 300,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040306/D77342025A20BBE7BD9217997CA3EA67.jpg",
-        "product_date": "2025.10.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040214/kinki/",
         "product_name": "濃厚豚骨醤油仕立て　半熟煮玉子おむすび",
         "product_price": 203,
@@ -331,6 +324,13 @@
         "product_price": 421,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053254/D9F0F77D7F5E009244A3C36698E65F96.jpg",
         "product_date": "2025.10.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090670/kinki/",
+        "product_name": "鰹出汁の旨味引き立つ　かき揚げそば",
+        "product_price": 540,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090670/8958679D9B3E317FD1F1E7D44C415C2D.jpg",
+        "product_date": "2025.10.15"
       }
     ],
     "prefecture_name": "近畿"
