@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040306/hokkaido/",
-        "product_name": "旨さ相盛おむすび　梅とおかか",
-        "product_price": 300,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040306/D77342025A20BBE7BD9217997CA3EA67.jpg",
-        "product_date": "2025.10.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040214/hokkaido/",
         "product_name": "濃厚豚骨醤油仕立て　半熟煮玉子おむすび",
         "product_price": 203,
@@ -42,6 +35,13 @@
         "product_name": "豚生姜焼き弁当",
         "product_price": 637,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040470/97844FEC02DA43336857CB3CC90A801B.jpg",
+        "product_date": "2025.10.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040528/hokkaido/",
+        "product_name": "ピリ辛マヨネーズの豚焼肉ごはん",
+        "product_price": 356,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040528/ED7A6A37EB46556CE91B9686087CED57.jpg",
         "product_date": "2025.10.14"
       }
     ],
