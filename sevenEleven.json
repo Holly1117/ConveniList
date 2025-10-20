@@ -65,13 +65,6 @@
         "product_date": "2025.10.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040214/tohoku/",
-        "product_name": "濃厚豚骨醤油仕立て　半熟煮玉子おむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040214/4924728559A305DC8C76AAAD7A026B9A.jpg",
-        "product_date": "2025.10.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040178/tohoku/",
         "product_name": "ビーフシチューオムライス",
         "product_price": 645,
@@ -90,6 +83,13 @@
         "product_name": "たんぱく質が摂れるチキン＆チリ",
         "product_price": 432,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053252/5D2001EF41D0B178E1C2F3078C4F1317.jpg",
+        "product_date": "2025.10.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/052451/tohoku/",
+        "product_name": "たんぱく質が摂れるチキンロール",
+        "product_price": 421,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052451/2D8DA9C41E61715CFF7BD561DF2BA216.jpg",
         "product_date": "2025.10.15"
       }
     ],
@@ -168,6 +168,13 @@
         "product_date": "2025.10.14"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/044128/koshinetsu/",
+        "product_name": "おおきなおむすび　梅しそちりめん",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044128/8D8D9DCA451049FF85FF798B6AC7115F.jpg",
+        "product_date": "2025.10.14"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/040214/koshinetsu/",
         "product_name": "濃厚豚骨醤油仕立て　半熟煮玉子おむすび",
         "product_price": 203,
@@ -179,13 +186,6 @@
         "product_name": "まぐろたたき丼",
         "product_price": 810,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040035/B70F61A857AE17AB24B8ADDE0FF8107D.jpg",
-        "product_date": "2025.10.14"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040042/koshinetsu/",
-        "product_name": "ピリ辛肉そぼろあんかけチャーハン",
-        "product_price": 669,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040042/A8463CD50AB56803FE566F170750C256.jpg",
         "product_date": "2025.10.14"
       }
     ],
@@ -449,13 +449,6 @@
         "product_date": "2025.10.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040014/kyushu/",
-        "product_name": "蓮根つくねおむすび　　（佐賀県産蓮根使用）",
-        "product_price": 205,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040014/6F889CB493B139991F0CA802C6E7C8C8.jpg",
-        "product_date": "2025.10.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040010/kyushu/",
         "product_name": "豚角煮おむすび（和からし入り）",
         "product_price": 248,
@@ -463,17 +456,24 @@
         "product_date": "2025.10.15"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040208/kyushu/",
-        "product_name": "エリンギバター醤油おむすび",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040208/DD81770B1D40438C75279A28EDD3ED00.jpg",
-        "product_date": "2025.10.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040018/kyushu/",
         "product_name": "ビーフタルタル弁当",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040018/8BD937A994B87793D4BCEE12FC42A41A.jpg",
+        "product_date": "2025.10.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040016/kyushu/",
+        "product_name": "ミニのり弁当（麦飯）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040016/B53BD60468FDB518AE80BA4EA2DE6B0E.jpg",
+        "product_date": "2025.10.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047942/kyushu/",
+        "product_name": "香味だれで食べる　揚げナスと豚しゃぶ丼",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047942/21439C98E48D5E760FF7D32DCF96FB0C.jpg",
         "product_date": "2025.10.14"
       }
     ],
@@ -482,27 +482,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040200/okinawa/",
-        "product_name": "オムライスおむすび　トマトソース",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040200/969857D3A4FBF8C63B73C62A9F4CD84E.jpg",
-        "product_date": "2025.10.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040048/okinawa/",
-        "product_name": "こだわりおむすび　金目鯛の煮付け",
-        "product_price": 257,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040048/AD4377512C49E9172758B2ECFF0B9B54.jpg",
-        "product_date": "2025.10.14"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/047826/okinawa/",
-        "product_name": "ミックスフライ＆ナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047826/680528E1048F49B79B23C25629E4286B.jpg",
-        "product_date": "2025.10.14"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/043544/okinawa/",
         "product_name": "おろし玉ねぎソースのハンバーグ丼",
@@ -522,6 +501,27 @@
         "product_name": "手巻寿司　たまご醤油納豆巻",
         "product_price": 213,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040028/674E97969A7D557153BF8EF625BB9828.jpg",
+        "product_date": "2025.10.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053252/okinawa/",
+        "product_name": "たんぱく質が摂れるチキン＆チリ",
+        "product_price": 432,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053252/5D2001EF41D0B178E1C2F3078C4F1317.jpg",
+        "product_date": "2025.10.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053251/okinawa/",
+        "product_name": "たんぱく質が摂れるチキンロール",
+        "product_price": 421,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053251/D3F960B92A6A21F1F403EB86D0FBBEF9.jpg",
+        "product_date": "2025.10.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090670/okinawa/",
+        "product_name": "鰹出汁の旨味引き立つ　かき揚げそば",
+        "product_price": 540,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090670/8958679D9B3E317FD1F1E7D44C415C2D.jpg",
         "product_date": "2025.10.14"
       }
     ],
