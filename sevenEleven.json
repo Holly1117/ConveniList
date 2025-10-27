@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040024/hokkaido/",
-        "product_name": "直火焼つくねおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040024/75D3A9255005C30AF63FED5F96F2F5C8.jpg",
-        "product_date": "2025.10.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040022/hokkaido/",
         "product_name": "香ばし炒めコク旨チャーハンおむすび",
         "product_price": 170,
@@ -42,6 +35,13 @@
         "product_name": "五目いなり　根菜入り",
         "product_price": 210,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040026/4DB2520270B437A553E9279E9529F3FF.jpg",
+        "product_date": "2025.10.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040013/hokkaido/",
+        "product_name": "ひきわり納豆巻　１２巻",
+        "product_price": 410,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040013/C7A148ED8ECC0AE94CE481035D92BBB6.jpg",
         "product_date": "2025.10.21"
       }
     ],
@@ -154,13 +154,6 @@
         "product_date": "2025.10.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040024/koshinetsu/",
-        "product_name": "直火焼つくねおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040024/75D3A9255005C30AF63FED5F96F2F5C8.jpg",
-        "product_date": "2025.10.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040022/koshinetsu/",
         "product_name": "香ばし炒めコク旨チャーハンおむすび",
         "product_price": 170,
@@ -186,6 +179,13 @@
         "product_name": "ビーフシチューオムライス",
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040178/875BB9E0635F9412187AB80513D3AAF7.jpg",
+        "product_date": "2025.10.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040026/koshinetsu/",
+        "product_name": "五目いなり　根菜入り",
+        "product_price": 210,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040026/4DB2520270B437A553E9279E9529F3FF.jpg",
         "product_date": "2025.10.21"
       }
     ],
@@ -230,11 +230,11 @@
         "product_date": "2025.10.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040026/hokuriku/",
-        "product_name": "五目いなり　根菜入り",
-        "product_price": 210,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040026/4DB2520270B437A553E9279E9529F3FF.jpg",
-        "product_date": "2025.10.21"
+        "product_url": "https://www.sej.co.jp/products/a/item/053257/hokuriku/",
+        "product_name": "よくばりミックスサンド",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053257/8AF74C5A5B9972BF4A0CB087B2B1FE71.jpg",
+        "product_date": "2025.10.22"
       }
     ],
     "prefecture_name": "北陸"
@@ -298,13 +298,6 @@
         "product_date": "2025.10.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040024/kinki/",
-        "product_name": "直火焼つくねおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040024/75D3A9255005C30AF63FED5F96F2F5C8.jpg",
-        "product_date": "2025.10.21"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040022/kinki/",
         "product_name": "香ばし炒めコク旨チャーハンおむすび",
         "product_price": 170,
@@ -326,11 +319,18 @@
         "product_date": "2025.10.21"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040178/kinki/",
-        "product_name": "ビーフシチューオムライス",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040178/875BB9E0635F9412187AB80513D3AAF7.jpg",
-        "product_date": "2025.10.21"
+        "product_url": "https://www.sej.co.jp/products/a/item/053260/kinki/",
+        "product_name": "ポテトとベーコンのホワイトソース",
+        "product_price": 321,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053260/8C660494771099DAD754688AB0CB0939.jpg",
+        "product_date": "2025.10.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053259/kinki/",
+        "product_name": "ブリトーモッツァレラ　とトマトのマルゲリ－タ",
+        "product_price": 311,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053259/100EC6E85A1FBDCB6507390AF070FFF0.jpg",
+        "product_date": "2025.10.22"
       }
     ],
     "prefecture_name": "近畿"
@@ -338,13 +338,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040162/chugoku/",
-        "product_name": "旨さ相盛おむすび　唐揚げと明太マヨネーズ",
-        "product_price": 334,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040162/88B13A177055690DB40DE53BC54ADD4B.jpg",
-        "product_date": "2025.10.21"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040024/chugoku/",
         "product_name": "直火焼つくねおむすび",
@@ -379,6 +372,13 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040140/874AFAEC145BEB2104A2A9371F237A03.jpg",
         "product_date": "2025.10.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040156/chugoku/",
+        "product_name": "かしわめし",
+        "product_price": 419,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040156/72D64B0C314530533DF3A68839A5CC83.jpg",
+        "product_date": "2025.10.21"
       }
     ],
     "prefecture_name": "中国"
@@ -386,13 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040162/shikoku/",
-        "product_name": "旨さ相盛おむすび　唐揚げと明太マヨネーズ",
-        "product_price": 334,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040162/88B13A177055690DB40DE53BC54ADD4B.jpg",
-        "product_date": "2025.10.21"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047780/shikoku/",
         "product_name": "おむすび＆おかず　紅鮭・ツナマヨネーズ",
@@ -426,6 +419,13 @@
         "product_name": "濃厚豚骨醤油仕立て　半熟煮玉子おむすび",
         "product_price": 203,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040214/4924728559A305DC8C76AAAD7A026B9A.jpg",
+        "product_date": "2025.10.21"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040172/shikoku/",
+        "product_name": "こだわりおむすび　土佐かつお煮",
+        "product_price": 192,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040172/A2315CDCCC409891CC3BFCFDB06143B5.jpg",
         "product_date": "2025.10.21"
       }
     ],
