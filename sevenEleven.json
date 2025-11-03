@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040058/hokkaido/",
-        "product_name": "旨さ相盛おむすび　明太マヨネーズとたらこ",
-        "product_price": 291,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040058/BB6D060039B1DA3961B64BD7F4F7446B.jpg",
-        "product_date": "2025.10.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047784/hokkaido/",
         "product_name": "直火焼ソーセージのおむすび",
         "product_price": 221,
@@ -24,24 +17,31 @@
         "product_date": "2025.10.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040166/hokkaido/",
-        "product_name": "二色ごはんのお弁当～赤魚塩麹焼入り～",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040166/D826FCFA86C451F05A9C2B51E861F607.jpg",
-        "product_date": "2025.10.28"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040272/hokkaido/",
-        "product_name": "デミタルチキンカツ＆ナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040272/D97D60D7E557D3820609B5536BDF1A0E.jpg",
-        "product_date": "2025.10.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040191/hokkaido/",
         "product_name": "イカフライタルタルソース御飯",
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040191/9C9D6A33213289228AA1DF6325FEC696.jpg",
+        "product_date": "2025.10.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040358/hokkaido/",
+        "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
+        "product_price": 615,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040358/F2B5D86BB8D94AD39CA1D971B54A052F.jpg",
+        "product_date": "2025.10.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040195/hokkaido/",
+        "product_name": "香ばし炒めの野菜あんかけチャーハン",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040195/9D5B47C23E780F61F9E82D25B0242D89.jpg",
+        "product_date": "2025.11.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040363/hokkaido/",
+        "product_name": "高菜チャーハン",
+        "product_price": 399,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040363/191D9C9F5C52A5582C81F0063A07CFE6.jpg",
         "product_date": "2025.10.28"
       }
     ],
@@ -55,13 +55,6 @@
         "product_name": "おおきなおむすび　しゃけバター",
         "product_price": 213,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040275/A23D3A8B5795E8E2358805CEA3461826.jpg",
-        "product_date": "2025.10.28"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040058/tohoku/",
-        "product_name": "旨さ相盛おむすび　明太マヨネーズとたらこ",
-        "product_price": 291,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040058/BB6D060039B1DA3961B64BD7F4F7446B.jpg",
         "product_date": "2025.10.28"
       },
       {
@@ -90,6 +83,13 @@
         "product_name": "こだわりおむすび黒豚肉味噌　九州産黒豚使用",
         "product_price": 235,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040276/562B333E4F7BD9ECEDDDC2B416640A1C.jpg",
+        "product_date": "2025.10.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040063/tohoku/",
+        "product_name": "こだわりおむすび　鮭ハラス",
+        "product_price": 257,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040063/EE570EA7A6986565358CFD2D98A8C37D.jpg",
         "product_date": "2025.10.28"
       }
     ],
@@ -223,17 +223,17 @@
         "product_date": "2025.10.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040272/hokuriku/",
-        "product_name": "デミタルチキンカツ＆ナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040272/D97D60D7E557D3820609B5536BDF1A0E.jpg",
-        "product_date": "2025.10.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040279/hokuriku/",
         "product_name": "たらこバターごはん（麦飯）",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040279/8607C58F2A1B3968833EBFBF66D5B01A.jpg",
+        "product_date": "2025.10.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040358/hokuriku/",
+        "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
+        "product_price": 615,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040358/F2B5D86BB8D94AD39CA1D971B54A052F.jpg",
         "product_date": "2025.10.28"
       }
     ],
@@ -326,10 +326,10 @@
         "product_date": "2025.10.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040166/kinki/",
-        "product_name": "二色ごはんのお弁当～赤魚塩麹焼入り～",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040166/D826FCFA86C451F05A9C2B51E861F607.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040279/kinki/",
+        "product_name": "たらこバターごはん（麦飯）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040279/8607C58F2A1B3968833EBFBF66D5B01A.jpg",
         "product_date": "2025.10.28"
       }
     ],
@@ -449,13 +449,6 @@
         "product_date": "2025.10.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040276/kyushu/",
-        "product_name": "こだわりおむすび黒豚肉味噌　九州産黒豚使用",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040276/562B333E4F7BD9ECEDDDC2B416640A1C.jpg",
-        "product_date": "2025.10.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/047664/kyushu/",
         "product_name": "こだわりおむすび　黒毛和牛そぼろ",
         "product_price": 278,
@@ -463,18 +456,25 @@
         "product_date": "2025.10.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040166/kyushu/",
-        "product_name": "二色ごはんのお弁当～赤魚塩麹焼入り～",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040166/D826FCFA86C451F05A9C2B51E861F607.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040279/kyushu/",
+        "product_name": "たらこバターごはん（麦飯）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040279/8607C58F2A1B3968833EBFBF66D5B01A.jpg",
         "product_date": "2025.10.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040272/kyushu/",
-        "product_name": "デミタルチキンカツ＆ナポリタン",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040272/D97D60D7E557D3820609B5536BDF1A0E.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/040358/kyushu/",
+        "product_name": "旨辛牛焼肉の温玉ビビンバ丼",
+        "product_price": 615,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040358/F2B5D86BB8D94AD39CA1D971B54A052F.jpg",
         "product_date": "2025.10.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053275/kyushu/",
+        "product_name": "シャキシャキレタスサンド",
+        "product_price": 343,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053275/687427006B3377F4B11FE64684E5D325.jpg",
+        "product_date": "2025.10.29"
       }
     ],
     "prefecture_name": "九州"
@@ -482,13 +482,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040058/okinawa/",
-        "product_name": "旨さ相盛おむすび　明太マヨネーズとたらこ",
-        "product_price": 291,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040058/BB6D060039B1DA3961B64BD7F4F7446B.jpg",
-        "product_date": "2025.10.28"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040370/okinawa/",
         "product_name": "炭火焼牛カルビおむすび",
@@ -523,6 +516,13 @@
         "product_price": 248,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040173/5B6118ADC9C16C514666F35527E80EAB.jpg",
         "product_date": "2025.10.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040026/okinawa/",
+        "product_name": "五目いなり　根菜入り",
+        "product_price": 210,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040026/4DB2520270B437A553E9279E9529F3FF.jpg",
+        "product_date": "2025.10.29"
       }
     ],
     "prefecture_name": "沖縄"
