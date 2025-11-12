@@ -595,11 +595,53 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7912719.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/charakuji/6391867.html",
+    "product_name": "TVアニメ「青春ブタ野郎はサンタクロースの夢を見ない」 アクリルスタンド",
+    "product_price": 650,
+    "product_date": "2025.11.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6391867.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/6392239.html",
+    "product_name": "TVアニメ「青春ブタ野郎はサンタクロースの夢を見ない」 A4サイズクリアファイル3枚セット",
+    "product_price": 100,
+    "product_date": "2025.11.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6392239.jpg"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/charakuji/6320041.html",
     "product_name": "アニメ『ウマ娘 シンデレラグレイ』真空断熱カップコーヒータンブラー　全4種",
     "product_price": 399,
     "product_date": "2025.11.12",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/6320041.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7920349.html",
+    "product_name": "ミニナノ　星のカービィ",
+    "product_price": 770,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7920349.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7920592.html",
+    "product_name": "ミニナノ　星のカービィ　vol.2",
+    "product_price": 770,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7920592.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7931994.html",
+    "product_name": "星のカービィ　ソフビパペットマスコット2",
+    "product_price": 660,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7931994.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7931710.html",
+    "product_name": "星のカービィ　アイスクリームタワー",
+    "product_price": 200,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7931710.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/omusubi/0411240.html",
@@ -1197,10 +1239,52 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7912719.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/charakuji/6391867.html",
+    "product_name": "TVアニメ「青春ブタ野郎はサンタクロースの夢を見ない」 アクリルスタンド",
+    "product_price": 650,
+    "product_date": "2025.11.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6391867.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/6392239.html",
+    "product_name": "TVアニメ「青春ブタ野郎はサンタクロースの夢を見ない」 A4サイズクリアファイル3枚セット",
+    "product_price": 100,
+    "product_date": "2025.11.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6392239.jpg"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/charakuji/6320041.html",
     "product_name": "アニメ『ウマ娘 シンデレラグレイ』真空断熱カップコーヒータンブラー　全4種",
     "product_price": 399,
     "product_date": "2025.11.12",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/6320041.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7920349.html",
+    "product_name": "ミニナノ　星のカービィ",
+    "product_price": 770,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7920349.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7920592.html",
+    "product_name": "ミニナノ　星のカービィ　vol.2",
+    "product_price": 770,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7920592.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7931994.html",
+    "product_name": "星のカービィ　ソフビパペットマスコット2",
+    "product_price": 660,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7931994.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7931710.html",
+    "product_name": "星のカービィ　アイスクリームタワー",
+    "product_price": 200,
+    "product_date": "2025.11.12",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7931710.jpg"
   }
 ]
