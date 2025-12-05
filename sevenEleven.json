@@ -127,17 +127,17 @@
         "product_date": "2025.12.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040684/kanto/",
-        "product_name": "バターのせ焼きおにぎり",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040684/5E5BBC83434663EED6FBF8013E544CB9.jpg",
-        "product_date": "2025.12.02"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040735/kanto/",
         "product_name": "お手軽ごはん　野菜かき揚げ　海老入り",
         "product_price": 321,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040735/818A522A343C283A89CE35D19FD833A9.jpg",
+        "product_date": "2025.12.02"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040716/kanto/",
+        "product_name": "お手軽ごはん　チャーシューピリ辛マヨネーズ",
+        "product_price": 321,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040716/DC7059B3C6145FDB89FB85012C8B0043.jpg",
         "product_date": "2025.12.02"
       }
     ],
@@ -490,6 +490,13 @@
         "product_date": "2025.12.02"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/046228/okinawa/",
+        "product_name": "一膳御飯おむすび　とり五目",
+        "product_price": 203,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/046228/669E6E26211E7BDB5ECD9A4260049BB0.jpg",
+        "product_date": "2025.12.04"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/047141/okinawa/",
         "product_name": "ねぎ塩豚カルビ弁当　（もち麦ごはん）",
         "product_price": 537,
@@ -515,13 +522,6 @@
         "product_name": "手巻寿司　シーフードサラダ巻",
         "product_price": 248,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040614/D6AF677553296A1A4C91180B43DA00CD.jpg",
-        "product_date": "2025.12.02"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/052552/okinawa/",
-        "product_name": "九州産華味鳥チーズチキンカツサンド",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052552/6F04C8E3120DD5CCF0BC877817B46D2B.jpg",
         "product_date": "2025.12.02"
       }
     ],
