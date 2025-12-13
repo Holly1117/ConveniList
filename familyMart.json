@@ -49,20 +49,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0616126.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0614337.html",
-    "product_name": "豚焼肉弁当",
-    "product_price": 477,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614337.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/obento/0730280.html",
-    "product_name": "特製醤油だれの炙り焼豚丼",
-    "product_price": 698,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0730280.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/obento/0730259.html",
     "product_name": "スパイス香る！ロースかつカレー",
     "product_price": 645,
@@ -89,13 +75,6 @@
     "product_price": 498,
     "product_date": "2025.12.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0735506.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/sushi/0510455.html",
-    "product_name": "サンド寿司　まぐろたたき",
-    "product_price": 365,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510455.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/sushi/0515566.html",
@@ -336,13 +315,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1171563.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/2234939.html",
-    "product_name": "かつおの旨みとするめの風味ピリ辛玉こんにゃく",
-    "product_price": 158,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/2234939.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/deli/1021523.html",
     "product_name": "生姜香る！具だくさん和風スープ",
     "product_price": 398,
@@ -390,6 +362,27 @@
     "product_price": 248,
     "product_date": "2025.12.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1955330.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324181.html",
+    "product_name": "大きいバウムクーヘン",
+    "product_price": 238,
+    "product_date": "2025.12.9",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324181.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324143.html",
+    "product_name": "大きいフィナンシェ",
+    "product_price": 238,
+    "product_date": "2025.12.9",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324143.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1327366.html",
+    "product_name": "大きいクッキー",
+    "product_price": 258,
+    "product_date": "2025.12.9",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1327366.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/processed_foods/3931349.html",
@@ -460,13 +453,6 @@
     "product_price": 397,
     "product_date": "2025.12.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/3520802.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/frozen_foods/3520895.html",
-    "product_name": "【関東】たんぱく質が摂れる炭火焼鶏つくね",
-    "product_price": 354,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/3520895.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/ice/3461600.html",
@@ -544,6 +530,13 @@
     "product_price": 790,
     "product_date": "2025.12.13",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7910548.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7920899.html",
+    "product_name": "サンリオキャラクターズくるま形ライトキーホルダー",
+    "product_price": 770,
+    "product_date": "2025.12.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7920899.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/charakuji/6329457.html",
@@ -616,20 +609,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0616126.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0614337.html",
-    "product_name": "豚焼肉弁当",
-    "product_price": 477,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0614337.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/obento/0730280.html",
-    "product_name": "特製醤油だれの炙り焼豚丼",
-    "product_price": 698,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0730280.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/obento/0730259.html",
     "product_name": "スパイス香る！ロースかつカレー",
     "product_price": 645,
@@ -656,13 +635,6 @@
     "product_price": 498,
     "product_date": "2025.12.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0735506.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/sushi/0510455.html",
-    "product_name": "サンド寿司　まぐろたたき",
-    "product_price": 365,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510455.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/sushi/0515566.html",
@@ -903,13 +875,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1171563.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/2234939.html",
-    "product_name": "かつおの旨みとするめの風味ピリ辛玉こんにゃく",
-    "product_price": 158,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/2234939.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/deli/1021523.html",
     "product_name": "生姜香る！具だくさん和風スープ",
     "product_price": 398,
@@ -957,6 +922,27 @@
     "product_price": 248,
     "product_date": "2025.12.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1955330.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324181.html",
+    "product_name": "大きいバウムクーヘン",
+    "product_price": 238,
+    "product_date": "2025.12.9",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324181.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324143.html",
+    "product_name": "大きいフィナンシェ",
+    "product_price": 238,
+    "product_date": "2025.12.9",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324143.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1327366.html",
+    "product_name": "大きいクッキー",
+    "product_price": 258,
+    "product_date": "2025.12.9",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1327366.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/processed_foods/3931349.html",
@@ -1027,13 +1013,6 @@
     "product_price": 397,
     "product_date": "2025.12.9",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/3520802.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/frozen_foods/3520895.html",
-    "product_name": "【関東】たんぱく質が摂れる炭火焼鶏つくね",
-    "product_price": 354,
-    "product_date": "2025.12.9",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/3520895.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/ice/3461600.html",
@@ -1111,6 +1090,13 @@
     "product_price": 790,
     "product_date": "2025.12.13",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/7910548.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/charakuji/7920899.html",
+    "product_name": "サンリオキャラクターズくるま形ライトキーホルダー",
+    "product_price": 770,
+    "product_date": "2025.12.13",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7920899.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/charakuji/6329457.html",
