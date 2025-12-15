@@ -216,13 +216,6 @@
         "product_date": "2025.12.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040826/hokuriku/",
-        "product_name": "とんかつ＆洋食ミックス弁当",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040826/4F698AFFAA8C368E0C8501FE51EE1D32.jpg",
-        "product_date": "2025.12.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040783/hokuriku/",
         "product_name": "鶏照り焼きと和だしごはん",
         "product_price": 429,
@@ -234,6 +227,13 @@
         "product_name": "海鮮の旨味　１０品目の中華丼",
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040756/9B44156CEF33218010520DEE6F31A41F.jpg",
+        "product_date": "2025.12.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040824/hokuriku/",
+        "product_name": "具たっぷり細巻寿司　和風ツナマヨネーズ",
+        "product_price": 278,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040824/56B75772D4EDD46E1B4B94C583A3DABE.jpg",
         "product_date": "2025.12.09"
       }
     ],
@@ -329,7 +329,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/040832/kinki/",
         "product_name": "焦がしバター醤油のグリルチキン弁当",
         "product_price": 689,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040832/B27CB03561F1221D54E0D442370995CA.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040832/0C53528AC0165EB97056BD1D9771692F.jpg",
         "product_date": "2025.12.09"
       }
     ],
@@ -422,11 +422,11 @@
         "product_date": "2025.12.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040841/shikoku/",
-        "product_name": "ジュージュワ鉄板焼き　ハンバーグ弁当",
-        "product_price": 829,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040841/1E96F7509BB7E146C4C3BF07019C3933.jpg",
-        "product_date": "2025.12.15"
+        "product_url": "https://www.sej.co.jp/products/a/item/047807/shikoku/",
+        "product_name": "寿司おむすび　カリカリ梅たくあん",
+        "product_price": 181,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047807/D9DD44E3B5936C4C3CCDC162A947F3E6.jpg",
+        "product_date": "2025.12.09"
       }
     ],
     "prefecture_name": "四国"
@@ -434,13 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040852/kyushu/",
-        "product_name": "玉子をのせたジャンバラヤおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040852/93D1AE9CD8D287E5D818E91C71784924.jpg",
-        "product_date": "2025.12.09"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040845/kyushu/",
         "product_name": "バター香る　海老ピラフおむすび",
@@ -475,6 +468,13 @@
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040757/AEB010122EFE58A3DAB1DEE0977E34E9.jpg",
         "product_date": "2025.12.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040761/kyushu/",
+        "product_name": "大盛飯　炭火焼ぶた丼",
+        "product_price": 753,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040761/E230CCAADB1FD370521F355FABDC560A.jpg",
+        "product_date": "2025.12.09"
       }
     ],
     "prefecture_name": "九州"
@@ -507,14 +507,14 @@
         "product_url": "https://www.sej.co.jp/products/a/item/040838/okinawa/",
         "product_name": "じゅーしー弁当",
         "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040838/18DFEDEE44C88A25AC286F4E76EFB690.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040838/DA4FBC084FBD9DD5D6E0E4656BC06BAF.jpg",
         "product_date": "2025.12.10"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/047603/okinawa/",
         "product_name": "７種おかずの明太のり弁当",
         "product_price": 667,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047603/F84D5935766C398532ED1B4D4C61ED46.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047603/95E415763BCBF9C1DF0B2376DDB9828D.jpg",
         "product_date": "2025.12.09"
       },
       {
