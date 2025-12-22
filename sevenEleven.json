@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040859/hokkaido/",
-        "product_name": "手巻おにぎり　おかか",
-        "product_price": 178,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040859/17E4E88C7A2404D30A76E878369537E1.jpg",
-        "product_date": "2025.12.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040847/hokkaido/",
         "product_name": "ライスバーガー　炭火焼牛カルビ",
         "product_price": 354,
@@ -42,6 +35,13 @@
         "product_name": "こだわりおむすび　炙りたらこ",
         "product_price": 224,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040767/89649472FB55E72F419C080C3DE9FCF5.jpg",
+        "product_date": "2025.12.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040863/hokkaido/",
+        "product_name": "ぶたはげ監修　炭火焼き豚丼",
+        "product_price": 753,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040863/98110F2683AF874B4BBB1E81AEAA5259.jpg",
         "product_date": "2025.12.16"
       }
     ],
@@ -271,17 +271,17 @@
         "product_date": "2025.12.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040873/tokai/",
-        "product_name": "直火焼きハンバーグ弁当",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040873/E9736E69895FFE74F558AC7A7C227EE4.jpg",
-        "product_date": "2025.12.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040866/tokai/",
         "product_name": "直火焼きハンバーグ弁当",
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040866/5A57C427169E665FCD7E36289E6C64E2.jpg",
+        "product_date": "2025.12.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040955/tokai/",
+        "product_name": "ウインナーチーズカレー",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040955/6FF3106408A66D9F0D548CF314ADC89A.jpg",
         "product_date": "2025.12.16"
       }
     ],
@@ -349,7 +349,7 @@
         "product_url": "https://www.sej.co.jp/products/a/item/040810/chugoku/",
         "product_name": "炭火焼豚バラの海苔弁当",
         "product_price": 680,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040810/6421DD16E0E5333E96284379A13C6850.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040810/184A119E17D53891A700DD0AB8C98CC4.jpg",
         "product_date": "2025.12.16"
       },
       {
@@ -358,13 +358,6 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040908/87575A58A272C9619FFA9DD91627B410.jpg",
         "product_date": "2025.12.16"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040907/chugoku/",
-        "product_name": "しみしみ牛肉豆腐のお弁当",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040907/B06738596661C4E30A5EEFD589B3B195.jpg",
-        "product_date": "2025.12.19"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/040880/chugoku/",
@@ -378,6 +371,13 @@
         "product_name": "手巻寿司　青じそ納豆巻",
         "product_price": 213,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047651/3B3409AEC66EFF438E361FA51FE4E326.jpg",
+        "product_date": "2025.12.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047550/chugoku/",
+        "product_name": "牛焼肉マヨネーズ巻５巻",
+        "product_price": 473,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047550/6F90F9BEC7DB2A141F63B0981C4D5596.jpg",
         "product_date": "2025.12.16"
       }
     ],
@@ -415,17 +415,17 @@
         "product_date": "2025.12.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040907/shikoku/",
-        "product_name": "しみしみ牛肉豆腐のお弁当",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040907/B06738596661C4E30A5EEFD589B3B195.jpg",
-        "product_date": "2025.12.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053405/shikoku/",
         "product_name": "香川県産レタスのシャキシャキレタスサンド",
         "product_price": 354,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053405/AFD17955AC291F7E4F8FA556F3600E7E.jpg",
+        "product_date": "2025.12.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053404/shikoku/",
+        "product_name": "ロースとんかつサンド",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053404/6BD6C59A51F07AA89494775136C9BA14.jpg",
         "product_date": "2025.12.17"
       }
     ],
@@ -456,13 +456,6 @@
         "product_date": "2025.12.16"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044444/kyushu/",
-        "product_name": "こだわりおむすび　　　レモンステーキ風",
-        "product_price": 302,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044444/4FFC4FBF688406C68DD7C59D611C38F1.jpg",
-        "product_date": "2025.12.16"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040810/kyushu/",
         "product_name": "炭火焼豚バラの海苔弁当",
         "product_price": 680,
@@ -474,6 +467,13 @@
         "product_name": "直火焼きハンバーグ弁当",
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040873/E9736E69895FFE74F558AC7A7C227EE4.jpg",
+        "product_date": "2025.12.16"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/047478/kyushu/",
+        "product_name": "ピリ辛チキン＆鶏そぼろ弁当",
+        "product_price": 615,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047478/39D51B8FC3FA161F192D3DAA41D49288.jpg",
         "product_date": "2025.12.16"
       }
     ],
