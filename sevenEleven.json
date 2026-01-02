@@ -24,6 +24,13 @@
         "product_date": "2025.12.30"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/hokkaido/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/040077/hokkaido/",
         "product_name": "寿司おむすび　カリカリ梅たくあん",
         "product_price": 162,
@@ -36,13 +43,6 @@
         "product_price": 213,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040064/CAD023CAC0DFFA3263503F8C521EF00A.jpg",
         "product_date": "2025.12.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041057/hokkaido/",
-        "product_name": "まぐろたたき巻　５巻",
-        "product_price": 505,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041057/460497C6D3BA9F886704A95F6386F0B1.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "北海道"
@@ -50,6 +50,13 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/tohoku/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/053416/tohoku/",
         "product_name": "ミニロール（たまごサラダ＆ハムチーズ）",
@@ -84,13 +91,6 @@
         "product_price": 259,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110296/2D614B074381379979A6E7D6CBAB54BD.jpg",
         "product_date": "2026.01.01"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/110161/tohoku/",
-        "product_name": "跳ねる！でっかいざくざくカステラ",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110161/9F729DD0FDA99CDC4E76B33B9B0A70CB.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "東北"
@@ -98,6 +98,13 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/kanto/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/053411/kanto/",
         "product_name": "チキン勝つサンド　九州産華味鳥使用　",
@@ -132,13 +139,6 @@
         "product_price": 159,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/290294/9205C01A9483D019870B62398FAE7F44.jpg",
         "product_date": "2025.12.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/302452/kanto/",
-        "product_name": "７Ｐ　いちごジャム＆ホイップクリームパン",
-        "product_price": 149,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/302452/083C1CF9F98DF12AD9057C6D2C3CA1DB.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "関東"
@@ -152,6 +152,13 @@
         "product_price": 181,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/045492/ECBB656D3E0A5C941C23363977E68C3D.jpg",
         "product_date": "2025.12.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/koshinetsu/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2026.01.01"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/052925/koshinetsu/",
@@ -180,13 +187,6 @@
         "product_price": 159,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/290294/9205C01A9483D019870B62398FAE7F44.jpg",
         "product_date": "2025.12.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/303574/koshinetsu/",
-        "product_name": "富士山ミルク使用の牛乳パン紅ほっぺ苺クリーム",
-        "product_price": 278,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/303574/7B94D7E76F0A5D73EC9740FB52C2910F.jpg",
-        "product_date": "2026.01.05"
       }
     ],
     "prefecture_name": "甲信越"
@@ -200,6 +200,13 @@
         "product_price": 183,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040141/FE5F5C7CE15F4C0D76930CE93D8D673E.jpg",
         "product_date": "2025.12.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/hokuriku/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2026.01.01"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/041037/hokuriku/",
@@ -228,13 +235,6 @@
         "product_price": 280,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110333/ECE2268EFB15543E6B2640730B96EF02.jpg",
         "product_date": "2026.01.01"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/110296/hokuriku/",
-        "product_name": "とろ生チーズケーキ　いちご",
-        "product_price": 259,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110296/2D614B074381379979A6E7D6CBAB54BD.jpg",
-        "product_date": "2026.01.01"
       }
     ],
     "prefecture_name": "北陸"
@@ -248,6 +248,13 @@
         "product_price": 221,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/047784/EFAB88025BE926177BDEC835355C1DDE.jpg",
         "product_date": "2025.12.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/tokai/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2026.01.01"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/053418/tokai/",
@@ -276,13 +283,6 @@
         "product_price": 159,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/290294/9205C01A9483D019870B62398FAE7F44.jpg",
         "product_date": "2025.12.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/290261/tokai/",
-        "product_name": "７Ｐ　トリュフ香る　　ポテトデニッシュ２個入",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/290261/823B51F56E9361A478FDA6AA3FAAFCED.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "東海"
@@ -305,6 +305,13 @@
         "product_date": "2025.12.30"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/kinki/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/053215/kinki/",
         "product_name": "ＢＩＧ　ハムとたまご",
         "product_price": 429,
@@ -324,13 +331,6 @@
         "product_price": 192,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/290136/38D06DC24049CFD9128DCB53A7BAE3A7.jpg",
         "product_date": "2025.12.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/290294/kinki/",
-        "product_name": "７プレミアム　いちご　チョコデニッシュ３個入",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/290294/9205C01A9483D019870B62398FAE7F44.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "近畿"
@@ -338,6 +338,13 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/chugoku/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/290294/chugoku/",
         "product_name": "７プレミアム　いちご　チョコデニッシュ３個入",
@@ -372,13 +379,6 @@
         "product_price": 192,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/450033/E26D1CF76B279A8EE7DD0027BBA1E7DD.jpg",
         "product_date": "2025.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/450174/chugoku/",
-        "product_name": "ブルガリアフローズン　ＹＧデザート濃い苺",
-        "product_price": 248,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/450174/0C312C32BDB7DB97B2A49274099509EA.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "中国"
@@ -386,6 +386,13 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/shikoku/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/290294/shikoku/",
         "product_name": "７プレミアム　いちご　チョコデニッシュ３個入",
@@ -420,13 +427,6 @@
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110161/9F729DD0FDA99CDC4E76B33B9B0A70CB.jpg",
         "product_date": "2025.12.31"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/450033/shikoku/",
-        "product_name": "７プレミアム　まるで甘熟いちご",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/450033/E26D1CF76B279A8EE7DD0027BBA1E7DD.jpg",
-        "product_date": "2026.01.01"
       }
     ],
     "prefecture_name": "四国"
@@ -434,6 +434,13 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/kyushu/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/290294/kyushu/",
         "product_name": "７プレミアム　いちご　チョコデニッシュ３個入",
@@ -468,13 +475,6 @@
         "product_price": 259,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110296/2D614B074381379979A6E7D6CBAB54BD.jpg",
         "product_date": "2026.01.02"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/110161/kyushu/",
-        "product_name": "跳ねる！でっかいざくざくカステラ",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110161/9F729DD0FDA99CDC4E76B33B9B0A70CB.jpg",
-        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "九州"
@@ -488,6 +488,13 @@
         "product_price": 151,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/048005/6C5FCD6B737E237FB133E90BD717A54B.jpg",
         "product_date": "2026.01.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041066/okinawa/",
+        "product_name": "浜田オムライス",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041066/7914763079043208337FCB4F89393F16.jpg",
+        "product_date": "2025.12.31"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/303576/okinawa/",
@@ -516,13 +523,6 @@
         "product_price": 248,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/450174/0C312C32BDB7DB97B2A49274099509EA.jpg",
         "product_date": "2025.12.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/460221/okinawa/",
-        "product_name": "ゴンチャ　いちご和紅茶ミルクティー２８０ｍｌ",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/460221/E1F991A5168BFC54EDB684AD9040FC41.jpg",
-        "product_date": "2026.01.05"
       }
     ],
     "prefecture_name": "沖縄"
