@@ -374,11 +374,11 @@
         "product_date": "2026.01.01"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/110296/chugoku/",
-        "product_name": "とろ生チーズケーキ　いちご",
-        "product_price": 259,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110296/2D614B074381379979A6E7D6CBAB54BD.jpg",
-        "product_date": "2026.01.01"
+        "product_url": "https://www.sej.co.jp/products/a/item/110161/chugoku/",
+        "product_name": "跳ねる！でっかいざくざくカステラ",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110161/9F729DD0FDA99CDC4E76B33B9B0A70CB.jpg",
+        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "中国"
@@ -490,13 +490,6 @@
         "product_date": "2026.01.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041065/okinawa/",
-        "product_name": "浜田唐揚げ弁当",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041065/1379446CCC5DE905002CC301CDA515DF.jpg",
-        "product_date": "2026.01.01"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041066/okinawa/",
         "product_name": "浜田オムライス",
         "product_price": 594,
@@ -518,11 +511,18 @@
         "product_date": "2025.12.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/110161/okinawa/",
-        "product_name": "跳ねる！でっかいざくざくカステラ",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/110161/9F729DD0FDA99CDC4E76B33B9B0A70CB.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/450033/okinawa/",
+        "product_name": "７プレミアム　まるで甘熟いちご",
+        "product_price": 192,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/450033/E26D1CF76B279A8EE7DD0027BBA1E7DD.jpg",
         "product_date": "2025.12.31"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/450174/okinawa/",
+        "product_name": "ブルガリアフローズン　ＹＧデザート濃い苺",
+        "product_price": 248,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/450174/0C312C32BDB7DB97B2A49274099509EA.jpg",
+        "product_date": "2025.12.30"
       }
     ],
     "prefecture_name": "沖縄"
