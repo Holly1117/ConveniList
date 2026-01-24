@@ -196,13 +196,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1171068.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/1171075.html",
-    "product_name": "おつまみポテトペンネ　チェダー&ミートソース",
-    "product_price": 398,
-    "product_date": "2026.1.20",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1171075.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/deli/1032086.html",
     "product_name": "溶岩風チーズのミートソースグラタン",
     "product_price": 548,
@@ -266,18 +259,39 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1941548.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/dessert/1952087.html",
-    "product_name": "6層の濃厚オペラケーキ　ショコラフランボワーズ",
-    "product_price": 378,
-    "product_date": "2026.1.20",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1952087.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/dessert/1952100.html",
     "product_name": "くちどけふんわりワッフル苺",
     "product_price": 228,
     "product_date": "2026.1.20",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1952100.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324396.html",
+    "product_name": "洋酒香るラムレーズンサンド",
+    "product_price": 248,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324396.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1327434.html",
+    "product_name": "［ブルーグリーン］植物生まれのキャラメルサンド",
+    "product_price": 208,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1327434.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324235.html",
+    "product_name": "クロワッサンワッフル　チョコ入り",
+    "product_price": 225,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324235.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1316858.html",
+    "product_name": "塩豆大福",
+    "product_price": 178,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1316858.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/processed_foods/3817575.html",
@@ -288,7 +302,7 @@
   },
   {
     "product_url": "https://www.family.co.jp/goods/processed_foods/5410507.html",
-    "product_name": "低温製法米　国産コシヒカリ米1KG",
+    "product_name": "低温製法米　国産コシヒカリ米1kg",
     "product_price": 755,
     "product_date": "2026.1.20",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/5410507.jpg"
@@ -644,13 +658,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1171068.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sidedishes/1171075.html",
-    "product_name": "おつまみポテトペンネ　チェダー&ミートソース",
-    "product_price": 398,
-    "product_date": "2026.1.20",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1171075.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/deli/1032086.html",
     "product_name": "溶岩風チーズのミートソースグラタン",
     "product_price": 548,
@@ -714,18 +721,39 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1941548.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/dessert/1952087.html",
-    "product_name": "6層の濃厚オペラケーキ　ショコラフランボワーズ",
-    "product_price": 378,
-    "product_date": "2026.1.20",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1952087.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/dessert/1952100.html",
     "product_name": "くちどけふんわりワッフル苺",
     "product_price": 228,
     "product_date": "2026.1.20",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1952100.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324396.html",
+    "product_name": "洋酒香るラムレーズンサンド",
+    "product_price": 248,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324396.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1327434.html",
+    "product_name": "［ブルーグリーン］植物生まれのキャラメルサンド",
+    "product_price": 208,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1327434.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1324235.html",
+    "product_name": "クロワッサンワッフル　チョコ入り",
+    "product_price": 225,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1324235.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/baked_sweets/1316858.html",
+    "product_name": "塩豆大福",
+    "product_price": 178,
+    "product_date": "2026.1.20",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1316858.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/processed_foods/3817575.html",
@@ -736,7 +764,7 @@
   },
   {
     "product_url": "https://www.family.co.jp/goods/processed_foods/5410507.html",
-    "product_name": "低温製法米　国産コシヒカリ米1KG",
+    "product_name": "低温製法米　国産コシヒカリ米1kg",
     "product_price": 755,
     "product_date": "2026.1.20",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/5410507.jpg"
