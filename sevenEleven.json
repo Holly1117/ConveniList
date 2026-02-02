@@ -106,13 +106,6 @@
         "product_date": "2026.01.27"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041114/kanto/",
-        "product_name": "ねぎ味噌おむすび　茨城県産ねぎ使用",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041114/DD76D819B77C0C5F62C5845B7884ECAD.jpg",
-        "product_date": "2026.01.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041141/kanto/",
         "product_name": "カレーピラフ＆チキン南蛮",
         "product_price": 753,
@@ -139,6 +132,13 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041188/9FF49E9FAEC9327CC9EC179E6D77CD67.jpg",
         "product_date": "2026.01.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041143/kanto/",
+        "product_name": "チーズの虜　ヤンニョムチキン丼",
+        "product_price": 753,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041143/2BD4A0FBECEF2AED8C7331A28F1E34A3.jpg",
+        "product_date": "2026.01.27"
       }
     ],
     "prefecture_name": "関東"
@@ -152,13 +152,6 @@
         "product_price": 594,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041166/5D87E15BF83432DDF10FF6479948608E.jpg",
         "product_date": "2026.01.27"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041165/koshinetsu/",
-        "product_name": "２種の味！若鶏の唐揚げ弁当（醤油・塩）",
-        "product_price": 680,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041165/9795281E2F7D9FF33F805A788479EE02.jpg",
-        "product_date": "2026.02.01"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/041141/koshinetsu/",
@@ -187,6 +180,13 @@
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041143/2BD4A0FBECEF2AED8C7331A28F1E34A3.jpg",
         "product_date": "2026.01.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053483/koshinetsu/",
+        "product_name": "チョコホイップサンド",
+        "product_price": 410,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053483/D05BED75AF30DFF12D4D41FD27D711FC.jpg",
+        "product_date": "2026.01.28"
       }
     ],
     "prefecture_name": "甲信越"
@@ -483,20 +483,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040072/okinawa/",
-        "product_name": "味付のりおにぎり　辛子高菜（九州産高菜使用）",
-        "product_price": 194,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040072/E6A14947AFAF3F4E4D0B9C735BAAF7B0.jpg",
-        "product_date": "2026.01.27"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040767/okinawa/",
-        "product_name": "こだわりおむすび　炙りたらこ",
-        "product_price": 224,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040767/89649472FB55E72F419C080C3DE9FCF5.jpg",
-        "product_date": "2026.01.27"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040828/okinawa/",
         "product_name": "ソーセージ＆生姜焼き（ソース焼きスパ）",
         "product_price": 753,
@@ -522,6 +508,20 @@
         "product_name": "スモークサーモン＆クリームチーズ",
         "product_price": 494,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053468/891CCFD98989AE4F0161DD3DD4611356.jpg",
+        "product_date": "2026.01.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091027/okinawa/",
+        "product_name": "牛肉うどん",
+        "product_price": 626,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091027/DC2C57EB753DD8D744B2D965B4237227.jpg",
+        "product_date": "2026.01.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091031/okinawa/",
+        "product_name": "ミニ冷し中華",
+        "product_price": 432,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091031/158724FB50E2DF67C83CF2F73053AC5A.jpg",
         "product_date": "2026.01.28"
       }
     ],
