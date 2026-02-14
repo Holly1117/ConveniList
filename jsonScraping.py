@@ -34,7 +34,7 @@ def get_familymart():
 
 def get_lawson():
     try:
-        info_jsons = LNScraping.get_product_information()
+        info_jsons = LNScraping.get_all_products()
         WebHook.post_requests(0, True)
         dt_now = datetime.datetime.now()
         STORE_TIME_LIST.append({"lawson":dt_now.strftime('%Y年%m月%d日 %H:%M:%S')})
