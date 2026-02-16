@@ -435,13 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041734/kyushu/",
-        "product_name": "直巻おむすび　たらこバター醤油",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041734/B12A2829D259DAA8F3A94EE3915EE62E.jpg",
-        "product_date": "2026.02.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041728/kyushu/",
         "product_name": "直巻おむすび　和風ツナマヨネーズ",
         "product_price": 213,
@@ -474,6 +467,13 @@
         "product_name": "おおきなおむすび塩むすび",
         "product_price": 216,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041431/DBAE7A4BD180668E76297D20F1D525D0.jpg",
+        "product_date": "2026.02.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041619/kyushu/",
+        "product_name": "くまっこおむすびセット",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041619/7336313AD29B1D7C8276CC1567B9216E.jpg",
         "product_date": "2026.02.10"
       }
     ],
@@ -511,17 +511,17 @@
         "product_date": "2026.02.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041238/okinawa/",
-        "product_name": "だしむすび　おかかわさび",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041238/6FC2040031110D35BF846FE27E419972.jpg",
-        "product_date": "2026.02.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041243/okinawa/",
         "product_name": "若鶏のにんにく醤油唐揚げ弁当",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041243/7B3DFA5DFFD343D6B8763E8616137A31.jpg",
+        "product_date": "2026.02.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041720/okinawa/",
+        "product_name": "４種おかずの海苔弁当",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041720/35F1BD1A65B1E28DCA5BB869B815C17F.jpg",
         "product_date": "2026.02.10"
       }
     ],
