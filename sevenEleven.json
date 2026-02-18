@@ -38,10 +38,10 @@
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041767/hokkaido/",
-        "product_name": "手巻おにぎり　梅おかか",
-        "product_price": 196,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041767/E44D798BB88E331DFF75AC51EC6EAA11.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041770/hokkaido/",
+        "product_name": "手巻おにぎり　炭火焼牛カルビ",
+        "product_price": 232,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041770/3EC941040D1FE6A7BA76C8BB0C86A17B.jpg",
         "product_date": "2026.02.17"
       }
     ],
@@ -86,10 +86,10 @@
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041916/tohoku/",
-        "product_name": "手巻おにぎり　鶏そぼろ",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041916/9049CCBCD798B40858EEBD85606B19F6.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041765/tohoku/",
+        "product_name": "味付海苔海老マヨネーズこだわり卵のマヨネーズ",
+        "product_price": 226,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041765/D3C92947340D2DE9E3BD0F64AA711D9B.jpg",
         "product_date": "2026.02.17"
       }
     ],
@@ -182,10 +182,10 @@
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041916/koshinetsu/",
-        "product_name": "手巻おにぎり　鶏そぼろ",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041916/9049CCBCD798B40858EEBD85606B19F6.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041875/koshinetsu/",
+        "product_name": "味付海苔海老マヨネーズこだわり卵のマヨネーズ",
+        "product_price": 218,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041875/630B373E508128ECA9ACAAA18E247BBC.jpg",
         "product_date": "2026.02.17"
       }
     ],
@@ -243,6 +243,13 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tokai/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/041956/tokai/",
+        "product_name": "手巻おにぎり　北海道産昆布",
+        "product_price": 196,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041956/6FECF48DA60AA6DE5FBA4B9C8F0E6738.jpg",
+        "product_date": "2026.02.17"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/041917/tokai/",
         "product_name": "手巻おにぎり　熟成仕立て紀州南高梅",
         "product_price": 196,
@@ -276,13 +283,6 @@
         "product_price": 196,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041907/7285D27FA8F31DD2018BF293327EA168.jpg",
         "product_date": "2026.02.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041807/tokai/",
-        "product_name": "塩むすび",
-        "product_price": 156,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041807/A23271CD729B9AD355B69DF5C5199ECB.jpg",
-        "product_date": "2026.02.17"
       }
     ],
     "prefecture_name": "東海"
@@ -312,24 +312,24 @@
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041807/kinki/",
-        "product_name": "塩むすび",
-        "product_price": 156,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041807/A23271CD729B9AD355B69DF5C5199ECB.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041836/kinki/",
+        "product_name": "味付のり具たっぷり辛子明太子",
+        "product_price": 232,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041836/E0AE9ECA494C4DFD6D761FA749519256.jpg",
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041913/kinki/",
-        "product_name": "香ばし炒め玉子チャーハンおむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041913/F98BF71C8E526FE415F19785C68CD4DC.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041835/kinki/",
+        "product_name": "手巻おにぎり北海道産真昆布",
+        "product_price": 196,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041835/D819A6393D4FC50DCD4FEA25D5E10E72.jpg",
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041911/kinki/",
-        "product_name": "こだわりおむすび　さば味噌",
-        "product_price": 237,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041911/EB7F5DDB7C1D10D6D15986167852699E.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041802/kinki/",
+        "product_name": "味付のり海老マヨネーズ",
+        "product_price": 232,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041802/71E9F4889A4BE7DB2585A07BC3F9D0D0.jpg",
         "product_date": "2026.02.17"
       }
     ],
@@ -338,6 +338,20 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/chugoku/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041928/chugoku/",
+        "product_name": "味付海苔　ツナマヨネーズ",
+        "product_price": 196,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041928/B744ACC16B3F2F5C2489F0E7FA450681.jpg",
+        "product_date": "2026.02.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041927/chugoku/",
+        "product_name": "味付海苔　炭火焼紅しゃけ",
+        "product_price": 232,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041927/7940E86D9A6E433CB83D8E667AC302CD.jpg",
+        "product_date": "2026.02.17"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/041917/chugoku/",
         "product_name": "手巻おにぎり　熟成仕立て紀州南高梅",
@@ -365,20 +379,6 @@
         "product_price": 232,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041908/E8C45F3AC1E395E84C5331609F4D0737.jpg",
         "product_date": "2026.02.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041907/chugoku/",
-        "product_name": "手巻おにぎり　北海道産昆布",
-        "product_price": 196,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041907/7285D27FA8F31DD2018BF293327EA168.jpg",
-        "product_date": "2026.02.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041916/chugoku/",
-        "product_name": "手巻おにぎり　鶏そぼろ",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041916/9049CCBCD798B40858EEBD85606B19F6.jpg",
-        "product_date": "2026.02.17"
       }
     ],
     "prefecture_name": "中国"
@@ -386,6 +386,20 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041928/shikoku/",
+        "product_name": "味付海苔　ツナマヨネーズ",
+        "product_price": 196,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041928/B744ACC16B3F2F5C2489F0E7FA450681.jpg",
+        "product_date": "2026.02.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041927/shikoku/",
+        "product_name": "味付海苔　炭火焼紅しゃけ",
+        "product_price": 232,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041927/7940E86D9A6E433CB83D8E667AC302CD.jpg",
+        "product_date": "2026.02.17"
+      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/041917/shikoku/",
         "product_name": "手巻おにぎり　熟成仕立て紀州南高梅",
@@ -408,24 +422,10 @@
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041916/shikoku/",
-        "product_name": "手巻おにぎり　鶏そぼろ",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041916/9049CCBCD798B40858EEBD85606B19F6.jpg",
-        "product_date": "2026.02.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041807/shikoku/",
-        "product_name": "塩むすび",
-        "product_price": 156,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041807/A23271CD729B9AD355B69DF5C5199ECB.jpg",
-        "product_date": "2026.02.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041913/shikoku/",
-        "product_name": "香ばし炒め玉子チャーハンおむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041913/F98BF71C8E526FE415F19785C68CD4DC.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041842/shikoku/",
+        "product_name": "味付のりおにぎり　海老マヨネーズ",
+        "product_price": 224,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041842/3EA1A0407018E2936E14B111DF7AE5A3.jpg",
         "product_date": "2026.02.17"
       }
     ],
@@ -470,10 +470,10 @@
         "product_date": "2026.02.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041807/kyushu/",
-        "product_name": "塩むすび",
-        "product_price": 156,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041807/A23271CD729B9AD355B69DF5C5199ECB.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041761/kyushu/",
+        "product_name": "味付のり　ツナマヨネーズ",
+        "product_price": 196,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041761/3D0D31F98DCD9952C1418ACFE8B78883.jpg",
         "product_date": "2026.02.17"
       }
     ],
