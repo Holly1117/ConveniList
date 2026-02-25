@@ -168,13 +168,6 @@
         "product_date": "2026.02.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041740/koshinetsu/",
-        "product_name": "カレーピラフおむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041740/241BD1CECA7AB64130113F4C31DB1A7A.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041938/koshinetsu/",
         "product_name": "鶏釜めし仕立て",
         "product_price": 464,
@@ -186,6 +179,13 @@
         "product_name": "スパイス香るロースカツカレー",
         "product_price": 745,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041966/E0482AA49E0EE7EE213C0165180BB6A9.jpg",
+        "product_date": "2026.02.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041130/koshinetsu/",
+        "product_name": "チンジャオロース丼と塩焼そば",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041130/2F292BBF4BB5FEB598E3F62387BEFFC3.jpg",
         "product_date": "2026.02.24"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2026.02.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041740/shikoku/",
-        "product_name": "カレーピラフおむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041740/241BD1CECA7AB64130113F4C31DB1A7A.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041938/shikoku/",
         "product_name": "鶏釜めし仕立て",
         "product_price": 464,
@@ -426,6 +419,13 @@
         "product_name": "ソース仕立てのチキンたれかつ丼　もも・むね",
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041235/1BF7E02E1AFF0F255AF6B0BC5C1997E3.jpg",
+        "product_date": "2026.02.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041929/shikoku/",
+        "product_name": "旨辛麻婆炒飯",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041929/4093F945180A0FA20095EE322E5E4453.jpg",
         "product_date": "2026.02.24"
       }
     ],
@@ -470,10 +470,10 @@
         "product_date": "2026.02.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041740/kyushu/",
-        "product_name": "カレーピラフおむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041740/241BD1CECA7AB64130113F4C31DB1A7A.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/041952/kyushu/",
+        "product_name": "若鶏のチキン南蛮弁当",
+        "product_price": 807,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041952/662CC303E9F1EDDFCEADC499B58D98F0.jpg",
         "product_date": "2026.02.24"
       }
     ],
