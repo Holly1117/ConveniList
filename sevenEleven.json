@@ -10,13 +10,6 @@
         "product_date": "2026.02.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/052925/hokkaido/",
-        "product_name": "タルタル海老カツサンド",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/052925/8E15C3B346A3B7AA840E404206D7B44D.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053539/hokkaido/",
         "product_name": "キューバサンド仕立て　スパイシーポーク",
         "product_price": 429,
@@ -42,6 +35,13 @@
         "product_name": "明太子と大葉の和風パスタ",
         "product_price": 518,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090686/6DF32BBA46F11F02A6F3679884EA17C2.jpg",
+        "product_date": "2026.02.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091171/hokkaido/",
+        "product_name": "チーズの虜　焼きナポリタン",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091171/453224EF6BED94CFEF25E6B40340813D.jpg",
         "product_date": "2026.02.25"
       }
     ],
@@ -387,13 +387,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041039/shikoku/",
-        "product_name": "直巻おむすび　炭火焼鳥",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041039/26F5923995BE98ABF1699F008F27C338.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041932/shikoku/",
         "product_name": "だしむすび　海苔佃煮",
         "product_price": 170,
@@ -427,6 +420,13 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041929/4093F945180A0FA20095EE322E5E4453.jpg",
         "product_date": "2026.02.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053539/shikoku/",
+        "product_name": "キューバサンド仕立て　スパイシーポーク",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053539/F5980EC45836F7C92D920D3EC242DB1B.jpg",
+        "product_date": "2026.02.25"
       }
     ],
     "prefecture_name": "四国"
