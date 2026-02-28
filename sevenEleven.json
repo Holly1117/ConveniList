@@ -360,13 +360,6 @@
         "product_date": "2026.02.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041930/chugoku/",
-        "product_name": "だしむすび　しそきくらげ",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041930/E87E0C125E6737395757ECEDE9B40163.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041522/chugoku/",
         "product_name": "豚焼肉弁当",
         "product_price": 689,
@@ -379,6 +372,13 @@
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041938/9D8483C33395F1CEA461C357E0DD0A59.jpg",
         "product_date": "2026.02.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041929/chugoku/",
+        "product_name": "旨辛麻婆炒飯",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041929/4093F945180A0FA20095EE322E5E4453.jpg",
+        "product_date": "2026.02.25"
       }
     ],
     "prefecture_name": "中国"
@@ -391,13 +391,6 @@
         "product_name": "だしむすび　海苔佃煮",
         "product_price": 170,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041932/434A9DF767F304BA44737AD41C41582D.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041930/shikoku/",
-        "product_name": "だしむすび　しそきくらげ",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041930/E87E0C125E6737395757ECEDE9B40163.jpg",
         "product_date": "2026.02.24"
       },
       {
@@ -427,6 +420,13 @@
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053539/F5980EC45836F7C92D920D3EC242DB1B.jpg",
         "product_date": "2026.02.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091124/shikoku/",
+        "product_name": "お出汁のきいた　牛カレーうどん",
+        "product_price": 583,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091124/49795E7DD990B7363777ED4DC40A4994.jpg",
+        "product_date": "2026.02.25"
       }
     ],
     "prefecture_name": "四国"
@@ -449,13 +449,6 @@
         "product_date": "2026.02.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041930/kyushu/",
-        "product_name": "だしむすび　しそきくらげ",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041930/E87E0C125E6737395757ECEDE9B40163.jpg",
-        "product_date": "2026.02.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041861/kyushu/",
         "product_name": "Ｗ焼つくねおむすび",
         "product_price": 300,
@@ -474,6 +467,13 @@
         "product_name": "若鶏のチキン南蛮弁当",
         "product_price": 807,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041952/662CC303E9F1EDDFCEADC499B58D98F0.jpg",
+        "product_date": "2026.02.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041951/kyushu/",
+        "product_name": "チキンカツ弁当",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041951/7E1113208C424E56FD09680A74C6079C.jpg",
         "product_date": "2026.02.24"
       }
     ],
