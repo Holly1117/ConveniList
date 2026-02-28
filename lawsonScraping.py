@@ -71,6 +71,7 @@ def get_product_information(page_url):
                 price_text.replace("円(税込)", "")
                           .replace("円", "")
                           .replace("(税込)", "")
+                          .replace(",", "")
             )
         else:
             product_price = 0
@@ -106,3 +107,6 @@ def get_all_products():
         products = get_product_information(link)
         all_products.extend(products)
     return all_products
+
+
+get_all_products()
