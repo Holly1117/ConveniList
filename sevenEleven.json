@@ -127,17 +127,17 @@
         "product_date": "2026.03.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041957/kanto/",
-        "product_name": "炙りベーコン巻おむすびチーズマヨネーズ入",
-        "product_price": 324,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041957/DAB007A0783C5296FAB530A90F2735E8.jpg",
-        "product_date": "2026.03.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041926/kanto/",
         "product_name": "大船渡港水揚げさんまの混ぜごはんおむすび",
         "product_price": 216,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041926/9B53738DEF79C3D769E949F81E9B8E5F.jpg",
+        "product_date": "2026.03.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042036/kanto/",
+        "product_name": "２種盛りチーズチキンカツ弁当",
+        "product_price": 712,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042036/80BDBB509750CBF198F0D02EBB5EE5AA.jpg",
         "product_date": "2026.03.03"
       }
     ],
@@ -291,13 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041934/kinki/",
-        "product_name": "手巻おにぎり　炭火牛焼肉",
-        "product_price": 246,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041934/3DA1AD87ACFC8E3A40D6DF052EEEC2FF.jpg",
-        "product_date": "2026.03.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041916/kinki/",
         "product_name": "手巻おにぎり　鶏そぼろ",
         "product_price": 213,
@@ -330,6 +323,13 @@
         "product_name": "わかめご飯おむすび（三陸産わかめ使用）",
         "product_price": 159,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041735/CDD30F7613CA117693E75E0E97DA54FA.jpg",
+        "product_date": "2026.03.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041992/kinki/",
+        "product_name": "コク旨バターカレーのグリルチキン弁当",
+        "product_price": 732,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041992/38911F64B1552936E039BE745777D8FA.jpg",
         "product_date": "2026.03.03"
       }
     ],
@@ -374,10 +374,10 @@
         "product_date": "2026.03.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042043/chugoku/",
-        "product_name": "唐辛子マヨネーズで食べる　豚焼肉＆唐揚げ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042043/AFA9F485EA916B73D8945F38F4C755AE.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042031/chugoku/",
+        "product_name": "直火炙りのゴロっと焼豚　チャーハン",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042031/4CE5803954876E954EAFF17083E6B239.jpg",
         "product_date": "2026.03.03"
       }
     ],
@@ -386,13 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041934/shikoku/",
-        "product_name": "手巻おにぎり　炭火牛焼肉",
-        "product_price": 246,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041934/3DA1AD87ACFC8E3A40D6DF052EEEC2FF.jpg",
-        "product_date": "2026.03.03"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/042023/shikoku/",
         "product_name": "せいろ蒸し　赤飯おこわおむすび",
@@ -415,17 +408,24 @@
         "product_date": "2026.03.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042043/shikoku/",
-        "product_name": "唐辛子マヨネーズで食べる　豚焼肉＆唐揚げ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042043/AFA9F485EA916B73D8945F38F4C755AE.jpg",
-        "product_date": "2026.03.03"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041453/shikoku/",
         "product_name": "塩麹仕立ての炙り焼きさば御飯",
         "product_price": 518,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041453/56B404D7529D16D1D2A7925492ACA30D.jpg",
+        "product_date": "2026.03.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042031/shikoku/",
+        "product_name": "直火炙りのゴロっと焼豚　チャーハン",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042031/4CE5803954876E954EAFF17083E6B239.jpg",
+        "product_date": "2026.03.03"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041130/shikoku/",
+        "product_name": "チンジャオロース丼と塩焼そば",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041130/2F292BBF4BB5FEB598E3F62387BEFFC3.jpg",
         "product_date": "2026.03.03"
       }
     ],
@@ -470,10 +470,10 @@
         "product_date": "2026.03.03"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040735/kyushu/",
-        "product_name": "お手軽ごはん　野菜かき揚げ　海老入り",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040735/5F46036B4ECAEB2E3594344357A73785.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/042031/kyushu/",
+        "product_name": "直火炙りのゴロっと焼豚　チャーハン",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042031/4CE5803954876E954EAFF17083E6B239.jpg",
         "product_date": "2026.03.03"
       }
     ],
