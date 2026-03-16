@@ -120,13 +120,6 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042146/kanto/",
-        "product_name": "特製ソースのオムそばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042146/2B1A0E9CC1F7B424D50363FEB7A4B901.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042110/kanto/",
         "product_name": "味噌むすび（もち麦入り）",
         "product_price": 159,
@@ -138,6 +131,13 @@
         "product_name": "群馬県産舞茸使用　五目おこわおむすび",
         "product_price": 224,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042106/DC49C43441A966A0F2B2EEFB5A4A630B.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042103/kanto/",
+        "product_name": "茨城県産大葉使用大葉味噌おむすび",
+        "product_price": 159,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042103/C3E59EFA4C16B66F3456C72CDC8C4EEF.jpg",
         "product_date": "2026.03.10"
       }
     ],
@@ -216,13 +216,6 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041039/hokuriku/",
-        "product_name": "直巻おむすび　炭火焼鳥",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041039/26F5923995BE98ABF1699F008F27C338.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042165/hokuriku/",
         "product_name": "わかめご飯おむすび（三陸産わかめ使用）",
         "product_price": 159,
@@ -230,10 +223,17 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042162/hokuriku/",
-        "product_name": "鮭と昆布の混ぜめしおむすび",
+        "product_url": "https://www.sej.co.jp/products/a/item/042155/hokuriku/",
+        "product_name": "枝豆たっぷり　だし飯おむすび",
+        "product_price": 192,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042155/A00DDC5186BA27A9FB275D4B7874FC79.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042153/hokuriku/",
+        "product_name": "和風ツナ御飯（たまごそぼろ入り）",
         "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042162/1FF8D88117FB92A8C19D13204EB1D2F9.jpg",
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042153/69A220B98A700FA88B2C98FDDF12DB3A.jpg",
         "product_date": "2026.03.10"
       }
     ],
@@ -247,13 +247,6 @@
         "product_name": "ナポめしおむすび",
         "product_price": 149,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042183/1C33F39279D26FB57B1B7F0BCCAE337F.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042146/tokai/",
-        "product_name": "特製ソースのオムそばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042146/2B1A0E9CC1F7B424D50363FEB7A4B901.jpg",
         "product_date": "2026.03.10"
       },
       {
@@ -282,6 +275,13 @@
         "product_name": "豚しゃぶカレー　　　　",
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042123/4F50E2D4578935AD384051D616BB1AD8.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042099/tokai/",
+        "product_name": "豚肉とキャベツの胡麻味噌炒め弁当",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042099/313DF1A7F27A3738D995F0F53BF7BB78.jpg",
         "product_date": "2026.03.10"
       }
     ],
@@ -367,17 +367,17 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042146/chugoku/",
-        "product_name": "特製ソースのオムそばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042146/2B1A0E9CC1F7B424D50363FEB7A4B901.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042169/chugoku/",
         "product_name": "チキン南蛮弁当",
         "product_price": 777,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042169/9F119A9FC601D9AA32EF2817BB7DB094.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042145/chugoku/",
+        "product_name": "甘辛タレの鶏からあげ重",
+        "product_price": 486,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042145/7F0E9724902C059EF687B14E65ED6022.jpg",
         "product_date": "2026.03.10"
       }
     ],
@@ -401,20 +401,6 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042146/shikoku/",
-        "product_name": "特製ソースのオムそばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042146/2B1A0E9CC1F7B424D50363FEB7A4B901.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042150/shikoku/",
-        "product_name": "ＴＨＥ　唐揚げ弁当",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042150/73944F074239C46DEA54B229C9C7ADAB.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041724/shikoku/",
         "product_name": "手巻寿司　サーモンわさびマヨネーズ巻",
         "product_price": 278,
@@ -426,6 +412,20 @@
         "product_name": "ジューシーハムサンド",
         "product_price": 356,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053562/E6BA02B1C945A899848DCC5C52D1FEC0.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053554/shikoku/",
+        "product_name": "照焼チキンとたまごサンド",
+        "product_price": 367,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053554/C0353DD12EEA499513CB2395C46C571C.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053560/shikoku/",
+        "product_name": "たまご＆ハムレタスサンド",
+        "product_price": 345,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053560/816719678EA23C6560244C23FF1E37AE.jpg",
         "product_date": "2026.03.10"
       }
     ],
@@ -456,13 +456,6 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042146/kyushu/",
-        "product_name": "特製ソースのオムそばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042146/2B1A0E9CC1F7B424D50363FEB7A4B901.jpg",
-        "product_date": "2026.03.10"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041735/kyushu/",
         "product_name": "わかめご飯おむすび（三陸産わかめ使用）",
         "product_price": 159,
@@ -474,6 +467,13 @@
         "product_name": "甘辛醤油たれのチキンカツ丼",
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042096/1D2C6E962D58A44A31C7FAA955506D5A.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053562/kyushu/",
+        "product_name": "ジューシーハムサンド",
+        "product_price": 356,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053562/E6BA02B1C945A899848DCC5C52D1FEC0.jpg",
         "product_date": "2026.03.10"
       }
     ],
@@ -497,13 +497,6 @@
         "product_date": "2026.03.10"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041931/okinawa/",
-        "product_name": "紅鮭と青菜おむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041931/BC482443BA763A92FBBBF4178326B36B.jpg",
-        "product_date": "2026.03.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041938/okinawa/",
         "product_name": "鶏釜めし仕立て",
         "product_price": 464,
@@ -522,6 +515,13 @@
         "product_name": "わさびいなり",
         "product_price": 224,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041737/8A37169CF9CB3A582C1A550D9D31A876.jpg",
+        "product_date": "2026.03.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053562/okinawa/",
+        "product_name": "ジューシーハムサンド",
+        "product_price": 356,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053562/E6BA02B1C945A899848DCC5C52D1FEC0.jpg",
         "product_date": "2026.03.10"
       }
     ],
