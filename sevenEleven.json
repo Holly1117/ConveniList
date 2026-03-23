@@ -79,17 +79,17 @@
         "product_date": "2026.03.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042340/tohoku/",
-        "product_name": "キムチチャーハンおむすび（たくあん入り）",
-        "product_price": 183,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042340/13B677F2AC1EAD58787D6DE303A65491.jpg",
-        "product_date": "2026.03.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042279/tohoku/",
         "product_name": "春の彩りちらし寿司",
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042279/8FE5E342B0AE688B844541343095DDBD.jpg",
+        "product_date": "2026.03.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042220/tohoku/",
+        "product_name": "春の彩りおにぎりランチ",
+        "product_price": 464,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042220/AB57138B2DB4BDDF8DFF688077E9552E.jpg",
         "product_date": "2026.03.17"
       }
     ],
@@ -195,13 +195,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokuriku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042269/hokuriku/",
-        "product_name": "おおきなおむすび　たけのこ炊き込みご飯",
-        "product_price": 237,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042269/A14C2E50A65E117BD7FB602EB051632A.jpg",
-        "product_date": "2026.03.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042279/hokuriku/",
         "product_name": "春の彩りちらし寿司",
         "product_price": 464,
@@ -234,6 +227,13 @@
         "product_name": "辛口　ロースカツカレー",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042246/CF42AD8664BC3C760F30BA1688E73640.jpg",
+        "product_date": "2026.03.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042240/hokuriku/",
+        "product_name": "焼き鯖の押し寿司　塩味",
+        "product_price": 311,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042240/CB18EBCA371E63A23E42240170E74173.jpg",
         "product_date": "2026.03.17"
       }
     ],
@@ -394,20 +394,6 @@
         "product_date": "2026.03.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042187/shikoku/",
-        "product_name": "だしむすび　アジみりん干し",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042187/31BB84763620D3A957E935BF9CF20B11.jpg",
-        "product_date": "2026.03.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042279/shikoku/",
-        "product_name": "春の彩りちらし寿司",
-        "product_price": 464,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042279/8FE5E342B0AE688B844541343095DDBD.jpg",
-        "product_date": "2026.03.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042220/shikoku/",
         "product_name": "春の彩りおにぎりランチ",
         "product_price": 464,
@@ -427,6 +413,20 @@
         "product_price": 257,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042270/1E87E661485466F04ED2D11E0B1A38F7.jpg",
         "product_date": "2026.03.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053608/shikoku/",
+        "product_name": "ガツンとガリチキサンド",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053608/A7808029DE4B468DBB2ED461693E0F7E.jpg",
+        "product_date": "2026.03.18"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053609/shikoku/",
+        "product_name": "ツナサラダロール",
+        "product_price": 170,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053609/FCF83E8D4DD7E3A2384A272D854D84CD.jpg",
+        "product_date": "2026.03.18"
       }
     ],
     "prefecture_name": "四国"
@@ -456,13 +456,6 @@
         "product_date": "2026.03.17"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042279/kyushu/",
-        "product_name": "春の彩りちらし寿司",
-        "product_price": 464,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042279/8FE5E342B0AE688B844541343095DDBD.jpg",
-        "product_date": "2026.03.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042220/kyushu/",
         "product_name": "春の彩りおにぎりランチ",
         "product_price": 464,
@@ -474,6 +467,13 @@
         "product_name": "ふわとろ玉子のデミチーズオムライス",
         "product_price": 680,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042206/401F704E26710168079BB7A68112DFA1.jpg",
+        "product_date": "2026.03.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042270/kyushu/",
+        "product_name": "手巻寿司　シーフードサラダ巻",
+        "product_price": 257,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042270/1E87E661485466F04ED2D11E0B1A38F7.jpg",
         "product_date": "2026.03.17"
       }
     ],
