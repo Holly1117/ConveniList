@@ -435,13 +435,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042340/kyushu/",
-        "product_name": "キムチチャーハンおむすび（たくあん入り）",
-        "product_price": 183,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042340/13B677F2AC1EAD58787D6DE303A65491.jpg",
-        "product_date": "2026.03.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042302/kyushu/",
         "product_name": "鶏そぼろ＆玉子そぼろおむすび",
         "product_price": 192,
@@ -475,6 +468,13 @@
         "product_price": 354,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053516/C26FA3E6E22AADC828DD39AA73317B63.jpg",
         "product_date": "2026.03.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053618/kyushu/",
+        "product_name": "ＷたまごサンドＢＯＸ　だし巻き玉子・たまご",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053618/363BE28A43DB4F0A9A3958E6F4A362E4.jpg",
+        "product_date": "2026.03.27"
       }
     ],
     "prefecture_name": "九州"
