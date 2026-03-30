@@ -209,13 +209,6 @@
         "product_date": "2026.03.25"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042178/hokuriku/",
-        "product_name": "天タレまぶしおむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042178/18BE93C8743FD7444A2D4520A53414D1.jpg",
-        "product_date": "2026.03.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042403/hokuriku/",
         "product_name": "春の彩り幕の内",
         "product_price": 699,
@@ -223,17 +216,24 @@
         "product_date": "2026.03.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042404/hokuriku/",
-        "product_name": "海老バターピラフ＆Ｗチキンナポリタン弁当",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042404/850ABE9456F9382347364C70F6D3728D.jpg",
-        "product_date": "2026.03.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042356/hokuriku/",
         "product_name": "うま煮チャーハン",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042356/2EBD8807F042C8EF1A7583A47A979D9C.jpg",
+        "product_date": "2026.03.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042363/hokuriku/",
+        "product_name": "細巻寿司　梅しそたくあん",
+        "product_price": 280,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042363/E7F2BF1D1A9E8925C49C010A53B1A96F.jpg",
+        "product_date": "2026.03.24"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042362/hokuriku/",
+        "product_name": "細巻寿司　サーモンわさびマヨネーズ",
+        "product_price": 289,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042362/2E027ADA28C4F46E94E3397C40011115.jpg",
         "product_date": "2026.03.24"
       }
     ],
@@ -408,13 +408,6 @@
         "product_date": "2026.03.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042404/shikoku/",
-        "product_name": "海老バターピラフ＆Ｗチキンナポリタン弁当",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042404/850ABE9456F9382347364C70F6D3728D.jpg",
-        "product_date": "2026.03.24"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042349/shikoku/",
         "product_name": "ＴＨＥ　ハンバーグ弁当　和風おろしソース",
         "product_price": 829,
@@ -422,11 +415,18 @@
         "product_date": "2026.03.24"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041239/shikoku/",
-        "product_name": "納豆巻＆黒酢風味の梅納豆巻",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041239/354CD687407221411636FC06F62827FE.jpg",
-        "product_date": "2026.03.24"
+        "product_url": "https://www.sej.co.jp/products/a/item/053626/shikoku/",
+        "product_name": "チョコバナナサンド　　",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053626/A2E90335678A86E361286FDBE2D383AE.jpg",
+        "product_date": "2026.03.25"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053613/shikoku/",
+        "product_name": "たんぱく質が摂れるチキン＆チリ",
+        "product_price": 453,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053613/7A29756F38766506D86AD9C6F92AF753.jpg",
+        "product_date": "2026.03.25"
       }
     ],
     "prefecture_name": "四国"
@@ -463,18 +463,18 @@
         "product_date": "2026.03.26"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/053516/kyushu/",
-        "product_name": "ブルーベリーサンド",
-        "product_price": 354,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053516/C26FA3E6E22AADC828DD39AA73317B63.jpg",
-        "product_date": "2026.03.25"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053618/kyushu/",
         "product_name": "ＷたまごサンドＢＯＸ　だし巻き玉子・たまご",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053618/363BE28A43DB4F0A9A3958E6F4A362E4.jpg",
         "product_date": "2026.03.27"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053613/kyushu/",
+        "product_name": "たんぱく質が摂れるチキン＆チリ",
+        "product_price": 453,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053613/7A29756F38766506D86AD9C6F92AF753.jpg",
+        "product_date": "2026.03.25"
       }
     ],
     "prefecture_name": "九州"
