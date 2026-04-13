@@ -168,13 +168,6 @@
         "product_date": "2026.04.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042566/koshinetsu/",
-        "product_name": "鶏そぼろご飯おむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042566/6158CEA24BB61E38692B7E5E9D44AE4E.jpg",
-        "product_date": "2026.04.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042575/koshinetsu/",
         "product_name": "こだわりおむすび　炙りたらこ",
         "product_price": 259,
@@ -186,6 +179,13 @@
         "product_name": "豚焼肉弁当",
         "product_price": 689,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041276/3C9C628B5CD349979530B2EA205C58DB.jpg",
+        "product_date": "2026.04.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042499/koshinetsu/",
+        "product_name": "豚キムチ弁当",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042499/1158660AA33352036E9DD1CB658C0A8D.jpg",
         "product_date": "2026.04.07"
       }
     ],
@@ -202,24 +202,10 @@
         "product_date": "2026.04.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042579/hokuriku/",
-        "product_name": "旨さ相盛おむすび　卵黄と釜揚げしらす",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042579/445867E7C14F7CBD80025334E809C62D.jpg",
-        "product_date": "2026.04.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042602/hokuriku/",
         "product_name": "梅ひじきおむすび（押麦入り）",
         "product_price": 159,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042602/C1B6C3D4D30295EBD7F0C63634573DE9.jpg",
-        "product_date": "2026.04.07"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042566/hokuriku/",
-        "product_name": "鶏そぼろご飯おむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042566/6158CEA24BB61E38692B7E5E9D44AE4E.jpg",
         "product_date": "2026.04.07"
       },
       {
@@ -235,6 +221,20 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042499/1158660AA33352036E9DD1CB658C0A8D.jpg",
         "product_date": "2026.04.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042567/hokuriku/",
+        "product_name": "手巻寿司　すじこ醤油漬け",
+        "product_price": 280,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042567/F300363B2F124A5F4419F7D551D067C9.jpg",
+        "product_date": "2026.04.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053644/hokuriku/",
+        "product_name": "たんぱく質が摂れるチキン＆エッグサンド",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053644/8A32A4EE41F59E6CB3CBF956D074171E.jpg",
+        "product_date": "2026.04.08"
       }
     ],
     "prefecture_name": "北陸"
@@ -408,13 +408,6 @@
         "product_date": "2026.04.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042549/shikoku/",
-        "product_name": "海老と野菜の天重",
-        "product_price": 496,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042549/01083794A99B094AADFEB4917214D27C.jpg",
-        "product_date": "2026.04.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042547/shikoku/",
         "product_name": "塩麹仕立ての炙り焼きさば御飯",
         "product_price": 527,
@@ -426,6 +419,13 @@
         "product_name": "甘辛タレの鶏からあげ重",
         "product_price": 496,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042545/FA6436087803C7694FF4B1D641E5487A.jpg",
+        "product_date": "2026.04.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042528/shikoku/",
+        "product_name": "ラーメン屋さんのやみつきやきめし",
+        "product_price": 710,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042528/B521D5A4A507B7274BA17EB532ED4E50.jpg",
         "product_date": "2026.04.07"
       }
     ],
