@@ -106,20 +106,6 @@
         "product_date": "2026.04.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042648/kanto/",
-        "product_name": "ライスバーガー　チーズつくね",
-        "product_price": 289,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042648/B18BEE4DD242BB30CCB92CF7F148845D.jpg",
-        "product_date": "2026.04.14"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042647/kanto/",
-        "product_name": "だしむすび　あさりしぐれ煮",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042647/C7C9B3F7FCDCFBE8A43E86BD75E301D9.jpg",
-        "product_date": "2026.04.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042517/kanto/",
         "product_name": "群馬県産カリカリ梅おむすび",
         "product_price": 199,
@@ -138,6 +124,20 @@
         "product_name": "若鶏の醤油唐揚げ弁当　紫峰使用",
         "product_price": 723,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042622/8FDA8B8D3E7992E20DD3C6067077699B.jpg",
+        "product_date": "2026.04.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042617/kanto/",
+        "product_name": "豚焼肉弁当（唐辛子マヨネーズ）",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042617/FF126DAEADC2589C42F9F026EBCD7FED.jpg",
+        "product_date": "2026.04.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042522/kanto/",
+        "product_name": "豚ロース焼肉弁当",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042522/36BFE095DFFBCEADC08178567AB27DF4.jpg",
         "product_date": "2026.04.14"
       }
     ],
@@ -168,13 +168,6 @@
         "product_date": "2026.04.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042636/koshinetsu/",
-        "product_name": "枝豆鮭ごはんおむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042636/0E6C7C2F3577B82CD0334A5BEE9C4F61.jpg",
-        "product_date": "2026.04.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042573/koshinetsu/",
         "product_name": "ぷちもち食感！もち麦おむすび　紅しゃけ大葉",
         "product_price": 159,
@@ -186,6 +179,13 @@
         "product_name": "炭火焼きプルコギ弁当",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042541/CEC118995A7FA1FA5C40B035833BE29C.jpg",
+        "product_date": "2026.04.14"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042627/koshinetsu/",
+        "product_name": "２種の味！若鶏の唐揚げ弁当（醤油・塩）",
+        "product_price": 753,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042627/8E1569A9A131236E4A150944821EB57E.jpg",
         "product_date": "2026.04.14"
       }
     ],
@@ -291,13 +291,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kinki/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/040580/kinki/",
-        "product_name": "おおきなおむすび　高菜ご飯と明太子",
-        "product_price": 267,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040580/7F3AFA5B9C6A194AE934145DBAEE28B5.jpg",
-        "product_date": "2026.04.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042649/kinki/",
         "product_name": "ライスバーガー　炭火焼牛カルビ",
         "product_price": 321,
@@ -312,13 +305,6 @@
         "product_date": "2026.04.14"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042609/kinki/",
-        "product_name": "２種ソースのささみチーズカツ弁当",
-        "product_price": 624,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042609/48C46204C7716F567D696BDD8308B104.jpg",
-        "product_date": "2026.04.14"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042641/kinki/",
         "product_name": "チキンオムライス",
         "product_price": 537,
@@ -330,6 +316,20 @@
         "product_name": "よくばりサンド　カラーチョコ＆ホイップ",
         "product_price": 213,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053633/EDB64F8F0A3CC02D40B0BB0208364531.jpg",
+        "product_date": "2026.04.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053669/kinki/",
+        "product_name": "海老カツミックスサンド　淡路島産レタス使用",
+        "product_price": 421,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053669/C6D69A2357393B7071FBC1E63512390B.jpg",
+        "product_date": "2026.04.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053662/kinki/",
+        "product_name": "ソーセージエッグマフィン",
+        "product_price": 311,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053662/948A00C59A2B604F2014250D92E9AF90.jpg",
         "product_date": "2026.04.15"
       }
     ],
