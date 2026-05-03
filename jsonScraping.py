@@ -3,7 +3,6 @@ import familyMartScraping as FMScraping
 import lawsonScraping as LNScraping
 import sevenElevenScraping as SEScraping
 import dailyYamazakiScraping as DYScraping
-import webHook as WebHook
 import json
 import datetime
 
@@ -24,45 +23,41 @@ STORE_TIME_LIST = []
 def get_familymart():
     try:
         info_jsons = FMScraping.get_product_information()
-        WebHook.post_requests(1, True)
         dt_now = datetime.datetime.now()
         STORE_TIME_LIST.append({"familyMart":dt_now.strftime('%Y年%m月%d日 %H:%M:%S')})
         return info_jsons
     except:
-        WebHook.post_requests(1, False)
+        return
 
 
 def get_lawson():
     try:
         info_jsons = LNScraping.get_all_products()
-        WebHook.post_requests(0, True)
         dt_now = datetime.datetime.now()
         STORE_TIME_LIST.append({"lawson":dt_now.strftime('%Y年%m月%d日 %H:%M:%S')})
         return info_jsons
     except:
-        WebHook.post_requests(0, False)
+        return
+        
 
 
 def get_seveneleven():
     try:
         info_jsons = SEScraping.get_product_information()
-        WebHook.post_requests(2, True)
         dt_now = datetime.datetime.now()
         STORE_TIME_LIST.append({"sevenEleven":dt_now.strftime('%Y年%m月%d日 %H:%M:%S')})
         return info_jsons
     except:
-        WebHook.post_requests(2, False)
+        return
 
 def get_dailyYamazaki():
     try:
         info_jsons = DYScraping.get_product_information()
-        WebHook.post_requests(3, True)
         dt_now = datetime.datetime.now()
         STORE_TIME_LIST.append({"dailyYamazaki":dt_now.strftime('%Y年%m月%d日 %H:%M:%S')})
         return info_jsons
     except:
-        WebHook.post_requests(3, False)
-
+        return
 
 def git_deploy():
     store_def_list = [get_familymart(), get_lawson(), get_seveneleven(),get_dailyYamazaki(),STORE_TIME_LIST]
