@@ -65,13 +65,6 @@
         "product_date": "2026.04.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042877/tohoku/",
-        "product_name": "スパイスキーマカレーおむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042877/EE13AA39B50FACCC66F0C083FCC70ED3.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042791/tohoku/",
         "product_name": "たらこバター醤油おむすび石巻加工たらこ使用",
         "product_price": 183,
@@ -90,6 +83,13 @@
         "product_name": "ねぎ味噌おむすび　会津天宝味噌使用",
         "product_price": 183,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042704/4456195CABA66573034FDF8117995336.jpg",
+        "product_date": "2026.04.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042703/tohoku/",
+        "product_name": "ねぎ味噌おむすび　仙台味噌使用",
+        "product_price": 183,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042703/2D2EB8E5A3592DA838C2B413DC2C1D89.jpg",
         "product_date": "2026.04.28"
       }
     ],
@@ -113,13 +113,6 @@
         "product_date": "2026.04.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042872/kanto/",
-        "product_name": "お出かけおむすびセット　６個入り",
-        "product_price": 354,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042872/23A26E5ECEC229208E6043E66659235C.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042877/kanto/",
         "product_name": "スパイスキーマカレーおむすび",
         "product_price": 159,
@@ -138,6 +131,13 @@
         "product_name": "ピリ辛チキン＆２色そぼろ弁当",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041881/A8510ABE568506845385D5B6AD87624F.jpg",
+        "product_date": "2026.04.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042813/kanto/",
+        "product_name": "枝豆ごはんとちらし寿司の幕の内",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042813/529C8AC0AB0858FDF54111863E04A2C8.jpg",
         "product_date": "2026.04.28"
       }
     ],
@@ -175,17 +175,17 @@
         "product_date": "2026.04.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041878/koshinetsu/",
-        "product_name": "醤油ごはんの柚子なめ茸おむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041878/6627CACE332B1CF6C790F189E79394B8.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042810/koshinetsu/",
         "product_name": "お好みおかず弁当",
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042810/BC423A89D48A1841D5A028EC26E19D89.jpg",
+        "product_date": "2026.04.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042813/koshinetsu/",
+        "product_name": "枝豆ごはんとちらし寿司の幕の内",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042813/529C8AC0AB0858FDF54111863E04A2C8.jpg",
         "product_date": "2026.04.28"
       }
     ],
@@ -199,13 +199,6 @@
         "product_name": "ライスバーガー　牛カルビ",
         "product_price": 321,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042883/EC4F40539C84FAFED6E01463A2F6E76B.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042877/hokuriku/",
-        "product_name": "スパイスキーマカレーおむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042877/EE13AA39B50FACCC66F0C083FCC70ED3.jpg",
         "product_date": "2026.04.28"
       },
       {
@@ -235,6 +228,13 @@
         "product_price": 645,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042806/20ED87F3347EAF1BE2B72E0BA4890308.jpg",
         "product_date": "2026.04.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042804/hokuriku/",
+        "product_name": "５種おかずのミニ明太海苔弁当（もち麦）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042804/4B64D107663FD0FF5A4F84A3A179EC0C.jpg",
+        "product_date": "2026.04.28"
       }
     ],
     "prefecture_name": "北陸"
@@ -257,13 +257,6 @@
         "product_date": "2026.05.02"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042872/tokai/",
-        "product_name": "お出かけおむすびセット　６個入り",
-        "product_price": 354,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042872/23A26E5ECEC229208E6043E66659235C.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042877/tokai/",
         "product_name": "スパイスキーマカレーおむすび",
         "product_price": 159,
@@ -282,6 +275,13 @@
         "product_name": "枝豆ごはんとちらし寿司の幕の内",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042813/529C8AC0AB0858FDF54111863E04A2C8.jpg",
+        "product_date": "2026.04.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042806/tokai/",
+        "product_name": "４種おかずの海苔弁当",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042806/20ED87F3347EAF1BE2B72E0BA4890308.jpg",
         "product_date": "2026.04.28"
       }
     ],
@@ -305,13 +305,6 @@
         "product_date": "2026.04.28"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042743/kinki/",
-        "product_name": "こだわりおむすび　ちりめん山椒",
-        "product_price": 226,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042743/63E5B151A2360A3F5A041A4EC8A310BE.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042810/kinki/",
         "product_name": "お好みおかず弁当",
         "product_price": 537,
@@ -330,6 +323,13 @@
         "product_name": "５種おかずのミニ明太海苔弁当（もち麦）",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042804/4B64D107663FD0FF5A4F84A3A179EC0C.jpg",
+        "product_date": "2026.04.28"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042793/kinki/",
+        "product_name": "ふんわり玉子のとん玉丼（甘辛醤油仕立て）",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042793/24DA2EF43E93B08FD09EAAA021B5A19B.jpg",
         "product_date": "2026.04.28"
       }
     ],
@@ -483,13 +483,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042742/okinawa/",
-        "product_name": "オムライスおむすび　海老トマトクリームソース",
-        "product_price": 246,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042742/0734554C8F2931A3A5618162181C7EA5.jpg",
-        "product_date": "2026.04.28"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041320/okinawa/",
         "product_name": "ぷちもち食感！もち麦おむすび　塩こんぶ枝豆",
         "product_price": 159,
@@ -522,6 +515,13 @@
         "product_name": "ツナ＆きゅうりサンド",
         "product_price": 345,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053551/13155C994EE5ABC600B3A3D25805B635.jpg",
+        "product_date": "2026.04.29"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053706/okinawa/",
+        "product_name": "九州産華味鳥チーズチキンカツサンド",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053706/B99804CD92081CDC93322D40CC303335.jpg",
         "product_date": "2026.04.29"
       }
     ],
