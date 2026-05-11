@@ -216,13 +216,6 @@
         "product_date": "2026.05.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/053714/hokuriku/",
-        "product_name": "フィリーチーズステーキ仕立てロール",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053714/809DFA34C0EBEEED5627CEE9D03117DE.jpg",
-        "product_date": "2026.05.06"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/090910/hokuriku/",
         "product_name": "チャーシュー５枚のせ冷し醤油ラーメン",
         "product_price": 645,
@@ -234,6 +227,13 @@
         "product_name": "ガーリックトマトソースの大盛パスタ",
         "product_price": 561,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090822/4A27276E1DB17C5E3B97E47326722A00.jpg",
+        "product_date": "2026.05.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090823/hokuriku/",
+        "product_name": "チーズの虜　アラビアータ　焼きパスタ",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090823/9E4D4CBE0A7A821DECFB131DA2D18AF7.jpg",
         "product_date": "2026.05.06"
       }
     ],
@@ -298,13 +298,6 @@
         "product_date": "2026.05.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042632/kinki/",
-        "product_name": "だしむすびわさびのり佃煮",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042632/ECF01BE23FA4EDC8C60475984D21FA29.jpg",
-        "product_date": "2026.05.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042428/kinki/",
         "product_name": "炙り焼きソーセージ＆チキンカツ弁当",
         "product_price": 753,
@@ -330,6 +323,13 @@
         "product_name": "梅しそいなり　紀州南高梅使用",
         "product_price": 213,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042910/154A12651E5043312A377E9AB6DDC18C.jpg",
+        "product_date": "2026.05.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090901/kinki/",
+        "product_name": "冷しちく玉天ぶっかけうどん",
+        "product_price": 604,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090901/689D5F60CA04AC6476DF1140C517A3F3.jpg",
         "product_date": "2026.05.05"
       }
     ],
@@ -367,17 +367,17 @@
         "product_date": "2026.05.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/053714/chugoku/",
-        "product_name": "フィリーチーズステーキ仕立てロール",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053714/809DFA34C0EBEEED5627CEE9D03117DE.jpg",
-        "product_date": "2026.05.06"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053700/chugoku/",
         "product_name": "たんぱく質が摂れるチキンロール",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053700/EAD4ABDAF7082BDD7238947A1BFE3947.jpg",
+        "product_date": "2026.05.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090910/chugoku/",
+        "product_name": "チャーシュー５枚のせ冷し醤油ラーメン",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090910/98BB9D145A827109537D3EC4744A4BF5.jpg",
         "product_date": "2026.05.05"
       }
     ],
@@ -415,18 +415,18 @@
         "product_date": "2026.05.06"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/053714/shikoku/",
-        "product_name": "フィリーチーズステーキ仕立てロール",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053714/809DFA34C0EBEEED5627CEE9D03117DE.jpg",
-        "product_date": "2026.05.06"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053700/shikoku/",
         "product_name": "たんぱく質が摂れるチキンロール",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053700/EAD4ABDAF7082BDD7238947A1BFE3947.jpg",
         "product_date": "2026.05.05"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090860/shikoku/",
+        "product_name": "豚しゃぶと胡麻ぽん酢の和風おろし冷製パスタ",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090860/5EE8FF3D4B5F39C705D2AF126A9BAA0C.jpg",
+        "product_date": "2026.05.06"
       }
     ],
     "prefecture_name": "四国"
@@ -456,13 +456,6 @@
         "product_date": "2026.05.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042896/kyushu/",
-        "product_name": "鉄鍋炒めのキムチ炒飯",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042896/C0D4CF0DD5CC7FA422D1F896045B3125.jpg",
-        "product_date": "2026.05.05"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042890/kyushu/",
         "product_name": "だし巻き玉子と炭火焼鳥弁当（モモ・ムネ）",
         "product_price": 753,
@@ -475,6 +468,13 @@
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053289/D893FF4B6E164BA1C6BFE21C8A2359F7.jpg",
         "product_date": "2026.05.06"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090910/kyushu/",
+        "product_name": "チャーシュー５枚のせ冷し醤油ラーメン",
+        "product_price": 645,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090910/98BB9D145A827109537D3EC4744A4BF5.jpg",
+        "product_date": "2026.05.05"
       }
     ],
     "prefecture_name": "九州"
