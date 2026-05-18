@@ -10,31 +10,10 @@
         "product_date": "2026.05.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043002/hokkaido/",
-        "product_name": "旨さ相盛おむすび　紅しゃけと明太子",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043002/FF219C593BB12AC198DAD77BE1BA4F1C.jpg",
-        "product_date": "2026.05.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041932/hokkaido/",
         "product_name": "だしむすび　海苔佃煮",
         "product_price": 170,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041932/434A9DF767F304BA44737AD41C41582D.jpg",
-        "product_date": "2026.05.12"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/041717/hokkaido/",
-        "product_name": "濃厚豚骨醤油ご飯　半熟煮玉子おむすび",
-        "product_price": 224,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041717/6B21C6371A3538ED8647170A5B4CCC05.jpg",
-        "product_date": "2026.05.12"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/042960/hokkaido/",
-        "product_name": "炭火焼き鳥と鶏つくね重",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042960/69BA65B8BA7580229E1654E9C32A71B7.jpg",
         "product_date": "2026.05.12"
       },
       {
@@ -43,6 +22,27 @@
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042932/50AE99970C81F252C59AC2C7C5B63E71.jpg",
         "product_date": "2026.05.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053718/hokkaido/",
+        "product_name": "ブリトーウインナー２本入りスパイシーカレー",
+        "product_price": 311,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053718/C5B2E41F13CCD6E33ECDB15AE9AACCA3.jpg",
+        "product_date": "2026.05.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090977/hokkaido/",
+        "product_name": "豚肉そば　北海道産そば粉使用",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090977/39CA15AE4427DE564894023C85DDDE28.jpg",
+        "product_date": "2026.05.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091036/hokkaido/",
+        "product_name": "冷製パスタ　トマトと生ハムとチーズ",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091036/827B7845AA334BCDB988584FCE9A8A8D.jpg",
+        "product_date": "2026.05.13"
       }
     ],
     "prefecture_name": "北海道"
@@ -182,11 +182,11 @@
         "product_date": "2026.05.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042970/koshinetsu/",
-        "product_name": "ガーリックチキンステーキ弁当",
-        "product_price": 743,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042970/E99618C2AB8E5EE922EE646356ADF3CF.jpg",
-        "product_date": "2026.05.14"
+        "product_url": "https://www.sej.co.jp/products/a/item/042996/koshinetsu/",
+        "product_name": "いなり　２個入り",
+        "product_price": 257,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042996/4CF96E19D2CE4A9131EBD01BDFE53610.jpg",
+        "product_date": "2026.05.12"
       }
     ],
     "prefecture_name": "甲信越"
@@ -319,18 +319,18 @@
         "product_date": "2026.05.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042960/kinki/",
-        "product_name": "炭火焼き鳥と鶏つくね重",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042960/69BA65B8BA7580229E1654E9C32A71B7.jpg",
-        "product_date": "2026.05.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041262/kinki/",
         "product_name": "焼肉＆唐揚げごはん",
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041262/336D6CE0625DD916A5DC110BB563F004.jpg",
         "product_date": "2026.05.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053718/kinki/",
+        "product_name": "ブリトーウインナー２本入りスパイシーカレー",
+        "product_price": 311,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053718/C5B2E41F13CCD6E33ECDB15AE9AACCA3.jpg",
+        "product_date": "2026.05.13"
       }
     ],
     "prefecture_name": "近畿"
@@ -463,18 +463,18 @@
         "product_date": "2026.05.12"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/053723/kyushu/",
-        "product_name": "ホットサンド　チーズ＆ベーコン",
-        "product_price": 302,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053723/FFBB16B9090B7D36946FD2845F4CB68E.jpg",
-        "product_date": "2026.05.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053718/kyushu/",
         "product_name": "ブリトーウインナー２本入りスパイシーカレー",
         "product_price": 311,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053718/C5B2E41F13CCD6E33ECDB15AE9AACCA3.jpg",
         "product_date": "2026.05.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091067/kyushu/",
+        "product_name": "ねぎでまみれた冷しそば　牛肉入り",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091067/DE37B8C47BF26AD4A7175ACD01E33A08.jpg",
+        "product_date": "2026.05.12"
       }
     ],
     "prefecture_name": "九州"
