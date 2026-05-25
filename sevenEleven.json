@@ -154,13 +154,6 @@
         "product_date": "2026.05.20"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041932/koshinetsu/",
-        "product_name": "だしむすび　海苔佃煮",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041932/434A9DF767F304BA44737AD41C41582D.jpg",
-        "product_date": "2026.05.19"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043121/koshinetsu/",
         "product_name": "長野県産コシヒカリおむすび　炭火焼さば",
         "product_price": 237,
@@ -187,6 +180,13 @@
         "product_price": 259,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043118/28243A68A6A02CC34B629E4A9849E0F7.jpg",
         "product_date": "2026.05.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043111/koshinetsu/",
+        "product_name": "新潟県産新之助おむすび　厚切り牛たん",
+        "product_price": 321,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043111/FB005C9E0AFAB7ED09BE66A9F8A66832.jpg",
+        "product_date": "2026.05.19"
       }
     ],
     "prefecture_name": "甲信越"
