@@ -42,13 +42,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0616133.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0616294.html",
-    "product_name": "増量　にんにくから揚げ&ふんわり肉だんご弁当",
-    "product_price": 698,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0616294.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/obento/0615334.html",
     "product_name": "【東海】豚焼肉&焼そば弁当",
     "product_price": 598,
@@ -61,13 +54,6 @@
     "product_price": 598,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0616331.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/obento/0730303.html",
-    "product_name": "増量　スパイス香る！ロースかつカレー",
-    "product_price": 645,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0730303.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/obento/0615372.html",
@@ -145,13 +131,6 @@
     "product_price": 538,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0823302.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/noodle/0810425.html",
-    "product_name": "牛スープの旨み盛岡風冷麺",
-    "product_price": 578,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0810425.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/noodle/0817158.html",
@@ -287,6 +266,13 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1943078.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/dessert/1931532.html",
+    "product_name": "なめらか食感水ようかん",
+    "product_price": 178,
+    "product_date": "2026.6.2",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1931532.jpg"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/cafe/0210850.html",
     "product_name": "【巨大オールスター祭】アイスコーヒーLL",
     "product_price": 370,
@@ -348,13 +334,6 @@
     "product_price": 118,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/4230786.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/drink/1740721.html",
-    "product_name": "【北海道・東北・関東】スクイーズスクイーズ　ピンクグレープフルーツ",
-    "product_price": 298,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1740721.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/drink/1752250.html",
@@ -453,6 +432,62 @@
     "product_price": 184,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/3443187.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7331817.html",
+    "product_name": "タオルインポーチ コカ･コーラ",
+    "product_price": 0,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331817.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7331800.html",
+    "product_name": "今治タオルハンカチ コカ･コーラ",
+    "product_price": 800,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331800.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7441516.html",
+    "product_name": "ラインソックス コカ･コーラ ブラック",
+    "product_price": 600,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7441516.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7440793.html",
+    "product_name": "ラインソックス コカ･コーラ ホワイト",
+    "product_price": 600,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7440793.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7832154.html",
+    "product_name": "キャンパス綴じノート A6 B罫 コカ･コーラ",
+    "product_price": 278,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7832154.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7331688.html",
+    "product_name": "【九州】今治タオルハンカチ ホワイト＆イエロー",
+    "product_price": 800,
+    "product_date": "2026.6.3",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331688.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7442957.html",
+    "product_name": "【九州】ラインソックス ブラック＆イエロー",
+    "product_price": 700,
+    "product_date": "2026.6.3",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7442957.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7442940.html",
+    "product_name": "【九州】ラインソックス ホワイト＆イエロー",
+    "product_price": 700,
+    "product_date": "2026.6.3",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7442940.webp"
   },
   {
     "product_url": "https://www.family.co.jp/goods/disc/79704360.html",
@@ -574,13 +609,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0616133.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/obento/0616294.html",
-    "product_name": "増量　にんにくから揚げ&ふんわり肉だんご弁当",
-    "product_price": 698,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0616294.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/obento/0615334.html",
     "product_name": "【東海】豚焼肉&焼そば弁当",
     "product_price": 598,
@@ -593,13 +621,6 @@
     "product_price": 598,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0616331.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/obento/0730303.html",
-    "product_name": "増量　スパイス香る！ロースかつカレー",
-    "product_price": 645,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0730303.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/obento/0615372.html",
@@ -677,13 +698,6 @@
     "product_price": 538,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0823302.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/noodle/0810425.html",
-    "product_name": "牛スープの旨み盛岡風冷麺",
-    "product_price": 578,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0810425.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/noodle/0817158.html",
@@ -819,6 +833,13 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/1943078.jpg"
   },
   {
+    "product_url": "https://www.family.co.jp/goods/dessert/1931532.html",
+    "product_name": "なめらか食感水ようかん",
+    "product_price": 178,
+    "product_date": "2026.6.2",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/1931532.jpg"
+  },
+  {
     "product_url": "https://www.family.co.jp/goods/cafe/0210850.html",
     "product_name": "【巨大オールスター祭】アイスコーヒーLL",
     "product_price": 370,
@@ -880,13 +901,6 @@
     "product_price": 118,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/4230786.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/drink/1740721.html",
-    "product_name": "【北海道・東北・関東】スクイーズスクイーズ　ピンクグレープフルーツ",
-    "product_price": 298,
-    "product_date": "2026.6.2",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1740721.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/drink/1752250.html",
@@ -985,6 +999,62 @@
     "product_price": 184,
     "product_date": "2026.6.2",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/3443187.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7331817.html",
+    "product_name": "タオルインポーチ コカ･コーラ",
+    "product_price": 0,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331817.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7331800.html",
+    "product_name": "今治タオルハンカチ コカ･コーラ",
+    "product_price": 800,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331800.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7441516.html",
+    "product_name": "ラインソックス コカ･コーラ ブラック",
+    "product_price": 600,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7441516.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7440793.html",
+    "product_name": "ラインソックス コカ･コーラ ホワイト",
+    "product_price": 600,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7440793.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7832154.html",
+    "product_name": "キャンパス綴じノート A6 B罫 コカ･コーラ",
+    "product_price": 278,
+    "product_date": "2026.6.5",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7832154.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7331688.html",
+    "product_name": "【九州】今治タオルハンカチ ホワイト＆イエロー",
+    "product_price": 800,
+    "product_date": "2026.6.3",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7331688.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7442957.html",
+    "product_name": "【九州】ラインソックス ブラック＆イエロー",
+    "product_price": 700,
+    "product_date": "2026.6.3",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7442957.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cw/7442940.html",
+    "product_name": "【九州】ラインソックス ホワイト＆イエロー",
+    "product_price": 700,
+    "product_date": "2026.6.3",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/7442940.webp"
   },
   {
     "product_url": "https://www.family.co.jp/goods/disc/79704360.html",
