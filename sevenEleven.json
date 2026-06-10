@@ -435,6 +435,13 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/041320/kyushu/",
+        "product_name": "ぷちもち食感！もち麦おむすび　塩こんぶ枝豆",
+        "product_price": 159,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041320/970576912FB6E90E6F0404022B80D6C8.jpg",
+        "product_date": "2026.06.09"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/043356/kyushu/",
         "product_name": "とうもろこし御飯と梅御飯の焼き鯖弁当",
         "product_price": 699,
@@ -468,13 +475,6 @@
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053767/5344CA408226350E95E115EF439C75C3.jpg",
         "product_date": "2026.06.09"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/053766/kyushu/",
-        "product_name": "ブリトータコスミートサルサチーズ",
-        "product_price": 311,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053766/7E8EDDCE02183591297FE4AE21B18662.jpg",
-        "product_date": "2026.06.10"
       }
     ],
     "prefecture_name": "九州"
