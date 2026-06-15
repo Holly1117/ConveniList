@@ -17,13 +17,6 @@
         "product_date": "2026.06.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043343/hokkaido/",
-        "product_name": "スパカツ＆バターライス",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043343/CB0A6806123391B0D74A797ED33BB9DD.jpg",
-        "product_date": "2026.06.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043342/hokkaido/",
         "product_name": "洋食プレート　ハンバーグ＆ナポリタン",
         "product_price": 645,
@@ -43,6 +36,13 @@
         "product_price": 311,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053765/D0E2213F3E6F5BE2963ADBF2A2A6F073.jpg",
         "product_date": "2026.06.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/105284/hokkaido/",
+        "product_name": "小松菜と豚肉の中華玉子炒め",
+        "product_price": 419,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/105284/4D14994D9D0FB951E048EA7BC01FB818.jpg",
+        "product_date": "2026.06.11"
       }
     ],
     "prefecture_name": "北海道"
@@ -86,10 +86,10 @@
         "product_date": "2026.06.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043237/tohoku/",
-        "product_name": "東北限定　ねぎ塩牛たん御飯（麦飯）",
-        "product_price": 537,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043237/DF0A20511E7C73809B13354629CC73DD.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043352/tohoku/",
+        "product_name": "鶏照り焼きと和だしごはん（もち麦）",
+        "product_price": 464,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043352/A7D980CB9825AFA140AEA3D5262FB31D.jpg",
         "product_date": "2026.06.09"
       }
     ],
@@ -202,13 +202,6 @@
         "product_date": "2026.06.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041722/hokuriku/",
-        "product_name": "舞茸ご飯おむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041722/481D59B5669686CD2D515ADD470AA59E.jpg",
-        "product_date": "2026.06.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042352/hokuriku/",
         "product_name": "豚ロースとんかつ弁当",
         "product_price": 753,
@@ -234,6 +227,13 @@
         "product_name": "鶏ガラ醤油餡の肉そぼろ天津飯",
         "product_price": 680,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043347/CF1BF2CA5D8106B468432C376FF3E654.jpg",
+        "product_date": "2026.06.09"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043416/hokuriku/",
+        "product_name": "細巻寿司　和風ツナマヨネーズ",
+        "product_price": 267,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043416/A303A8401E65695FCA730DBFE99B6585.jpg",
         "product_date": "2026.06.09"
       }
     ],
@@ -497,13 +497,6 @@
         "product_date": "2026.06.09"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043326/okinawa/",
-        "product_name": "チーズキンパ　５巻",
-        "product_price": 300,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043326/E8427F3B8CF1E3936AF1FD400206FE18.jpg",
-        "product_date": "2026.06.09"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/053769/okinawa/",
         "product_name": "トマトと彩りミックスサンド",
         "product_price": 367,
@@ -523,6 +516,13 @@
         "product_price": 311,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053765/D0E2213F3E6F5BE2963ADBF2A2A6F073.jpg",
         "product_date": "2026.06.10"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091298/okinawa/",
+        "product_name": "辛口つけだれで食べる広島つけ麺",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091298/FB28D13DC1B936B383F211D78440F3DF.jpg",
+        "product_date": "2026.06.09"
       }
     ],
     "prefecture_name": "沖縄"
