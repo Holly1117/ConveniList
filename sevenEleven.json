@@ -51,20 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043559/tohoku/",
-        "product_name": "豚玉子そばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043559/A5EE92C1051405B02292DE426E43F9A7.jpg",
-        "product_date": "2026.06.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043557/tohoku/",
-        "product_name": "じゃがバター明太おむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043557/AB3D7907F3521FF646CA59703C838D07.jpg",
-        "product_date": "2026.06.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043471/tohoku/",
         "product_name": "銀河のしずくおむすび　炭火焼鳥",
         "product_price": 237,
@@ -90,6 +76,20 @@
         "product_name": "焼き鯖とわさびのだしごはん（もち麦）",
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041502/A0947BC5A4815B415AD7572640F49272.jpg",
+        "product_date": "2026.06.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043502/tohoku/",
+        "product_name": "５品目の天丼",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043502/B5C85ED1E9471731E7A81EE59F49B4E5.jpg",
+        "product_date": "2026.06.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/042998/tohoku/",
+        "product_name": "ＣＡＦＥ　ＢＯＸ　２種ソースのロコモコ風",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042998/1AB627844948F10A5FF1A6EA68D8F9F3.jpg",
         "product_date": "2026.06.30"
       }
     ],
@@ -312,13 +312,6 @@
         "product_date": "2026.06.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043557/kinki/",
-        "product_name": "じゃがバター明太おむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043557/AB3D7907F3521FF646CA59703C838D07.jpg",
-        "product_date": "2026.06.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043526/kinki/",
         "product_name": "お肉たっぷり炙り鶏の特製親子丼",
         "product_price": 645,
@@ -330,6 +323,13 @@
         "product_name": "やみつきニンニク醤油の温玉唐揚げ丼",
         "product_price": 734,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043503/D2234649EC2709F909CD3781D6B975F5.jpg",
+        "product_date": "2026.06.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043502/kinki/",
+        "product_name": "５品目の天丼",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043502/B5C85ED1E9471731E7A81EE59F49B4E5.jpg",
         "product_date": "2026.06.30"
       }
     ],
@@ -394,13 +394,6 @@
         "product_date": "2026.06.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043559/shikoku/",
-        "product_name": "豚玉子そばめしおむすび",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043559/A5EE92C1051405B02292DE426E43F9A7.jpg",
-        "product_date": "2026.06.30"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043513/shikoku/",
         "product_name": "山形県産つや姫おむすびしまね和牛の炭火焼き",
         "product_price": 321,
@@ -422,10 +415,17 @@
         "product_date": "2026.06.30"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043502/shikoku/",
-        "product_name": "５品目の天丼",
-        "product_price": 669,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043502/B5C85ED1E9471731E7A81EE59F49B4E5.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043512/shikoku/",
+        "product_name": "ハンバーグ弁当　ガーリックトマトソース",
+        "product_price": 861,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043512/7A599B8854682AA739F723BE3A171067.jpg",
+        "product_date": "2026.06.30"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043509/shikoku/",
+        "product_name": "寿司おむすび　カリカリ梅たくあん",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043509/587002FF401C2D1A1B2FFD8DC9ADF9B6.jpg",
         "product_date": "2026.06.30"
       }
     ],
