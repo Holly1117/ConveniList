@@ -367,17 +367,17 @@
         "product_date": "2026.07.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043598/chugoku/",
-        "product_name": "玉子チャーハン＆ソース焼きスパの中華弁当",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043598/03052971B83E236BE37C91C9988C1C0E.jpg",
-        "product_date": "2026.07.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043619/chugoku/",
         "product_name": "熟成だれの牛カルビ弁当",
         "product_price": 669,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043619/B083CC6B570A6F26E2658141CB388E1A.jpg",
+        "product_date": "2026.07.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043613/chugoku/",
+        "product_name": "ねぎ塩豚カルビ弁当（もち麦）",
+        "product_price": 570,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043613/F9E19B061BD11C53ACC17FD81C42D823.jpg",
         "product_date": "2026.07.07"
       }
     ],
@@ -401,13 +401,6 @@
         "product_date": "2026.07.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043598/shikoku/",
-        "product_name": "玉子チャーハン＆ソース焼きスパの中華弁当",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043598/03052971B83E236BE37C91C9988C1C0E.jpg",
-        "product_date": "2026.07.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043619/shikoku/",
         "product_name": "熟成だれの牛カルビ弁当",
         "product_price": 669,
@@ -426,6 +419,13 @@
         "product_name": "ＣＡＦＥ　ＢＯＸ　温玉ビビンバ（もち麦）",
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043612/7B0CD0A62116238DDFB97742F4C78089.jpg",
+        "product_date": "2026.07.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043607/shikoku/",
+        "product_name": "手巻寿司　青じそ納豆巻",
+        "product_price": 235,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043607/D0B26DFB8B6E4DA78EB3DFF3DBC3B21E.jpg",
         "product_date": "2026.07.07"
       }
     ],
