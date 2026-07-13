@@ -147,13 +147,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/koshinetsu/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041178/koshinetsu/",
-        "product_name": "具だくさんおむすび　ポーク玉子",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041178/BDBA40EDA421038B77034D0A29F6A925.jpg",
-        "product_date": "2026.07.07"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043605/koshinetsu/",
         "product_name": "ぷちもち食感！もち麦おむすび　塩こんぶ枝豆",
         "product_price": 149,
@@ -186,6 +179,13 @@
         "product_name": "鮭と明太子のごはん",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042503/308B0975941F734833B88890ADB48E26.jpg",
+        "product_date": "2026.07.07"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043620/koshinetsu/",
+        "product_name": "熟成だれの牛カルビ弁当",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043620/6E6C2A34B638FB73D8765AF2ED9C79C5.jpg",
         "product_date": "2026.07.07"
       }
     ],
@@ -271,17 +271,17 @@
         "product_date": "2026.07.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043599/tokai/",
-        "product_name": "炙り焼きハラスとだしごはん（もち麦）",
-        "product_price": 464,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043599/02F15E71D6579F8639548C13DF98341E.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043619/tokai/",
+        "product_name": "熟成だれの牛カルビ弁当",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043619/B083CC6B570A6F26E2658141CB388E1A.jpg",
         "product_date": "2026.07.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043620/tokai/",
-        "product_name": "熟成だれの牛カルビ弁当",
-        "product_price": 669,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043620/6E6C2A34B638FB73D8765AF2ED9C79C5.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043613/tokai/",
+        "product_name": "ねぎ塩豚カルビ弁当（もち麦）",
+        "product_price": 570,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043613/F9E19B061BD11C53ACC17FD81C42D823.jpg",
         "product_date": "2026.07.07"
       }
     ],
@@ -326,10 +326,10 @@
         "product_date": "2026.07.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043102/kinki/",
-        "product_name": "山形県産つや姫おむすび　厚切り牛たん",
-        "product_price": 321,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043102/F05A8D95AC92977BCD9757619D302C3C.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043613/kinki/",
+        "product_name": "ねぎ塩豚カルビ弁当（もち麦）",
+        "product_price": 570,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043613/F9E19B061BD11C53ACC17FD81C42D823.jpg",
         "product_date": "2026.07.07"
       }
     ],
@@ -422,10 +422,10 @@
         "product_date": "2026.07.07"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043607/shikoku/",
-        "product_name": "手巻寿司　青じそ納豆巻",
-        "product_price": 235,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043607/D0B26DFB8B6E4DA78EB3DFF3DBC3B21E.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043469/shikoku/",
+        "product_name": "手巻寿司　サーモンわさびマヨネーズ巻",
+        "product_price": 278,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043469/FE94CA4FD24EF2971A0137B929C3BAB8.jpg",
         "product_date": "2026.07.07"
       }
     ],
