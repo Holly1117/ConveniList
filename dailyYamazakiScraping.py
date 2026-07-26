@@ -8,46 +8,113 @@ from datetime import datetime
 DY_OFFICE_URL = 'https://www.daily-yamazaki.jp/new/'
 
 DY_PRODUCT_IMAGE = 'pic'
-
 DY_DETAIL_LIST = 'c-top-products__inner-list'
-
 DY_DETAIL_NAME = 'ttl'
-
 DY_DETAIL_PRICE = 'tax'
-
 DY_DETAIL_DATE = 'c-title03'
 
-DY_DETAIL_DATE_LIST = []
-
-DY_PRODUCT_LIST = []
 
 def get_product_information():
-    get_requests = requests.get(DY_OFFICE_URL)
-    beautiful_soup = BeautifulSoup(get_requests.text, "html.parser")
-    product_detailList = beautiful_soup.find_all("div", attrs={'class': DY_DETAIL_LIST})
-    for detailIndex ,detail in enumerate(product_detailList):
-        product_dateList = detail.find_all("h3", attrs={'class': DY_DETAIL_DATE})
-        product_name = detail.find_all("h3", attrs={'class': DY_DETAIL_NAME})
-        product_price = detail.find_all("span", attrs={'class': DY_DETAIL_PRICE})
-        product_image = detail.find_all("figure", attrs={'class': DY_PRODUCT_IMAGE})
-        product_date = product_dateList[0].text
-        for nameIndex ,name in enumerate(product_name):
-            product_price_findall = re.findall(r'税込(\d+)\s*円', product_price[nameIndex].text)
-            if product_price_findall and product_price_findall[0].isdigit():
-                price = int(product_price_findall[0])
-            else:
-                price = None  # デフォルト値やエラーハンドリングを設定
 
-            DY_DETAIL_DATE_LIST.append({
-                "product_name": name.text.replace('\n', '').replace('\t', ''),
+    product_list = []
+
+    response = requests.get(DY_OFFICE_URL)
+
+    if response.status_code != 200:
+        return product_list
+
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    product_detail_list = soup.find_all(
+        "div",
+        attrs={'class': DY_DETAIL_LIST}
+    )
+
+    for detail in product_detail_list:
+
+        # 発売日
+        date_element = detail.find(
+            "h3",
+            attrs={'class': DY_DETAIL_DATE}
+        )
+
+        if date_element:
+            product_date = get_product_ymd(date_element.text)
+        else:
+            product_date = None
+
+
+        # 商品情報
+        product_names = detail.find_all(
+            "h3",
+            attrs={'class': DY_DETAIL_NAME}
+        )
+
+        product_prices = detail.find_all(
+            "span",
+            attrs={'class': DY_DETAIL_PRICE}
+        )
+
+        product_images = detail.find_all(
+            "figure",
+            attrs={'class': DY_PRODUCT_IMAGE}
+        )
+
+
+        for index, name in enumerate(product_names):
+
+            # 価格
+            price = None
+
+            if index < len(product_prices):
+                price_text = product_prices[index].text
+
+                price_match = re.search(
+                    r'税込(\d+)\s*円',
+                    price_text
+                )
+
+                if price_match:
+                    price = int(price_match.group(1))
+
+
+            # 画像
+            image_url = None
+
+            if index < len(product_images):
+                img = product_images[index].find("img")
+
+                if img:
+                    image_url = img.get("src")
+
+
+            product_list.append({
+                "product_name": name.text.strip(),
                 "product_price": price,
-                "product_date": get_product_ymd(product_date),
-                "product_image": product_image[nameIndex].img.get("src")
+                "product_date": product_date,
+                "product_image": image_url
             })
-    return DY_DETAIL_DATE_LIST
+
+
+    return product_list
+
+
 
 def get_product_ymd(product_date):
-    current_year = datetime.now().year
-    product_date = re.findall(r'(\d{1,2})月(\d{1,2})日', product_date)
-    return str(current_year) + "." + product_date[0][0] + "." + product_date[0][1]
 
+    current_year = datetime.now().year
+
+    result = re.search(
+        r'(\d{1,2})月(\d{1,2})日',
+        product_date
+    )
+
+    if result:
+        month = result.group(1)
+        day = result.group(2)
+
+        return f"{current_year}.{month}.{day}"
+
+    return None
+
+print(get_product_information())
