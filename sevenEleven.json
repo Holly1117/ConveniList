@@ -65,20 +65,6 @@
         "product_date": "2026.08.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043844/tohoku/",
-        "product_name": "三陸産切昆布のおむすび",
-        "product_price": 159,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043844/EC5F4BC11C11B4B7273DE24F35C7C6D8.jpg",
-        "product_date": "2026.08.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043843/tohoku/",
-        "product_name": "ねぎ塩たれの牛たんおむすび",
-        "product_price": 237,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043843/418E2373F6BC0287AF20C1F6E7CF9A72.jpg",
-        "product_date": "2026.08.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043925/tohoku/",
         "product_name": "チキン南蛮＆生姜焼き弁当",
         "product_price": 699,
@@ -90,6 +76,20 @@
         "product_name": "塩麹仕立てのあじ御飯（もち麦）",
         "product_price": 429,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043926/E262AC88F1A3A979B2D460BD5D965F10.jpg",
+        "product_date": "2026.08.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043924/tohoku/",
+        "product_name": "焼き鮭御飯（もち麦）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043924/085F4B63733459414755D8AEE0D71A68.jpg",
+        "product_date": "2026.08.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043930/tohoku/",
+        "product_name": "じっくり煮込んだポークカレー",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043930/D0B4DAB58E1B26094C4C4BBF8A9D34ED.jpg",
         "product_date": "2026.08.04"
       }
     ],
@@ -305,20 +305,6 @@
         "product_date": "2026.08.05"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043921/kinki/",
-        "product_name": "和歌山中華そば風おむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043921/5F72F00B10D703548EF018E4F3C4D0B2.jpg",
-        "product_date": "2026.08.04"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043917/kinki/",
-        "product_name": "和歌山県産　梅としらすのおむすび",
-        "product_price": 181,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043917/13EAEBEBDD214E3FE4BCAEA3EA3FA11F.jpg",
-        "product_date": "2026.08.04"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043911/kinki/",
         "product_name": "銀座デリー監修ドライカレーおむすび",
         "product_price": 159,
@@ -326,10 +312,24 @@
         "product_date": "2026.08.04"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043925/kinki/",
-        "product_name": "チキン南蛮＆生姜焼き弁当",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043925/A1FA1ADCE4724DCCC7E48700599AF82E.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043919/kinki/",
+        "product_name": "和歌山県産しらすと明太子のごはん（もち麦）",
+        "product_price": 410,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043919/3CA5E5B52B3740C6C8BCCFDA5F278474.jpg",
+        "product_date": "2026.08.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043930/kinki/",
+        "product_name": "じっくり煮込んだポークカレー",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043930/D0B4DAB58E1B26094C4C4BBF8A9D34ED.jpg",
+        "product_date": "2026.08.04"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043619/kinki/",
+        "product_name": "熟成だれの牛カルビ弁当",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043619/B083CC6B570A6F26E2658141CB388E1A.jpg",
         "product_date": "2026.08.04"
       }
     ],
