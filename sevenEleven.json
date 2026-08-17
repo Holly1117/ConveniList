@@ -17,13 +17,6 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/hokkaido/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044050/hokkaido/",
         "product_name": "北海道産ゆめぴりかおむすび　肉味噌　北海道産豚肉使用",
         "product_price": 213,
@@ -43,6 +36,13 @@
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043609/69A0A90AE7A263046BE951F9061BEF46.jpg",
         "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044000/hokkaido/",
+        "product_name": "鶏照り焼きと和だしごはん（もち麦）",
+        "product_price": 464,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044000/1289E626334246262F219C68552996F0.jpg",
+        "product_date": "2026.08.11"
       }
     ],
     "prefecture_name": "北海道"
@@ -51,34 +51,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/tohoku/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043901/tohoku/",
-        "product_name": "直巻おむすび　チャーシューマヨネーズ",
-        "product_price": 224,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043901/C6732DE809D689F34EED7F269D75935B.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044023/tohoku/",
-        "product_name": "東北限定　三陸産わかめのおむすび",
-        "product_price": 149,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044023/7326124E48FD7A41CC6C12A64B528B7A.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/tohoku/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044024/tohoku/",
-        "product_name": "わかめ御飯",
-        "product_price": 291,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044024/53B79C91FB6AF66D142BD31767B3DA73.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043659/tohoku/",
         "product_name": "北海道産豚レバー使用　レバニラ丼",
         "product_price": 537,
@@ -86,11 +58,39 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044002/tohoku/",
-        "product_name": "ＣＡＦＥ　ＢＯＸ　骨付きチキンビリヤニ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044002/ACBFBDA7134E4ED854344CEB2ED5FDAB.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/043916/tohoku/",
+        "product_name": "紅生姜いなり",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043916/19E7EC7B75D5F567A104548378065E20.jpg",
+        "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091576/tohoku/",
+        "product_name": "スパイス香る冷かけカレーうどん　豆乳仕立て",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091576/48217F7C8F442E927F10568377AD166D.jpg",
         "product_date": "2026.08.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091546/tohoku/",
+        "product_name": "山形県産アスパラとベーコンのバター醤油パスタ",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091546/303C952E0DCE2D7A8DFD43DACC257050.jpg",
+        "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091547/tohoku/",
+        "product_name": "岩手県産アスパラとベーコンのバター醤油パスタ",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091547/1D5F07EAC70E648CBBD10045BFD46EE0.jpg",
+        "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090397/tohoku/",
+        "product_name": "あつあつオーブン焼き　キムチーズもんじゃ",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090397/33FACFD466B945D0766F1BDFDF9DCA04.jpg",
+        "product_date": "2026.08.12"
       }
     ],
     "prefecture_name": "東北"
@@ -103,13 +103,6 @@
         "product_name": "おおきなおむすび　しゃけわかめ",
         "product_price": 237,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041744/AB7F607EA4180881409C752E22BE4370.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/kanto/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
         "product_date": "2026.08.11"
       },
       {
@@ -127,18 +120,25 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044002/kanto/",
-        "product_name": "ＣＡＦＥ　ＢＯＸ　骨付きチキンビリヤニ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044002/ACBFBDA7134E4ED854344CEB2ED5FDAB.jpg",
-        "product_date": "2026.08.17"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043122/kanto/",
         "product_name": "ＣＡＦＥ　ＢＯＸ　チキンケバブライス",
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043122/90218EBC15AE007CEA6B20E4EF745CB1.jpg",
         "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/043922/kanto/",
+        "product_name": "手巻寿司　ツナきゅうり巻",
+        "product_price": 213,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043922/22BB7CE21901D9D8CCBF89C5FDCB963D.jpg",
+        "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091576/kanto/",
+        "product_name": "スパイス香る冷かけカレーうどん　豆乳仕立て",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091576/48217F7C8F442E927F10568377AD166D.jpg",
+        "product_date": "2026.08.17"
       }
     ],
     "prefecture_name": "関東"
@@ -168,13 +168,6 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/koshinetsu/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044026/koshinetsu/",
         "product_name": "すりだね入り御飯の親子丼おむすび",
         "product_price": 221,
@@ -186,6 +179,13 @@
         "product_name": "野沢菜めし　たくあんおむすび",
         "product_price": 181,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044025/6383F8D668DC25A8D3EC71B7E16E7CCB.jpg",
+        "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044041/koshinetsu/",
+        "product_name": "新潟県産コシヒカリおむすび　黒毛和牛すき焼き",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044041/5A0CD4F7C5227177A8DA2EF459AAA4A5.jpg",
         "product_date": "2026.08.11"
       }
     ],
@@ -199,13 +199,6 @@
         "product_name": "手巻おにぎり　野沢菜昆布",
         "product_price": 196,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043404/6B365716EB214E2BA941614F130F8E7E.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/hokuriku/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
         "product_date": "2026.08.11"
       },
       {
@@ -230,10 +223,17 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043929/hokuriku/",
-        "product_name": "銀座デリー監修　カシミールカレー",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043929/8B101214F273640AED239C6FCB15D761.jpg",
+        "product_url": "https://www.sej.co.jp/products/a/item/044055/hokuriku/",
+        "product_name": "手巻寿司サーモンと筋子巻　佐渡産サーモン使用",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044055/BAFA60E552D03F7179EF9D59E39118CC.jpg",
+        "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044054/hokuriku/",
+        "product_name": "サーモンの寿司（佐渡産サーモン使用）",
+        "product_price": 354,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044054/9704EB336D2C32E9ED9E547E32395DDF.jpg",
         "product_date": "2026.08.11"
       }
     ],
@@ -250,24 +250,10 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/tokai/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044041/tokai/",
         "product_name": "新潟県産コシヒカリおむすび　黒毛和牛すき焼き",
         "product_price": 300,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044041/5A0CD4F7C5227177A8DA2EF459AAA4A5.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043929/tokai/",
-        "product_name": "銀座デリー監修　カシミールカレー",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043929/8B101214F273640AED239C6FCB15D761.jpg",
         "product_date": "2026.08.11"
       },
       {
@@ -283,6 +269,20 @@
         "product_price": 753,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043964/C36E127704A646646DD3F1F056545802.jpg",
         "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/053931/tokai/",
+        "product_name": "バゲット　チキン＆大葉ジェノベーゼ",
+        "product_price": 388,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053931/CAC8D61C00DC837740B7E8ED653614A5.jpg",
+        "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091576/tokai/",
+        "product_name": "スパイス香る冷かけカレーうどん　豆乳仕立て",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091576/48217F7C8F442E927F10568377AD166D.jpg",
+        "product_date": "2026.08.17"
       }
     ],
     "prefecture_name": "東海"
@@ -312,13 +312,6 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/kinki/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/043962/kinki/",
         "product_name": "山形県産つや姫おむすび　ちりめん山椒",
         "product_price": 226,
@@ -330,6 +323,13 @@
         "product_name": "ねぎ塩グリルチキン弁当",
         "product_price": 732,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044017/58D9BA568DB56B81941838505184577E.jpg",
+        "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044049/kinki/",
+        "product_name": "温玉とりそぼろ丼（もち麦ごはん）",
+        "product_price": 518,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044049/0C695590F288F73F6B430DA6ED7EE04D.jpg",
         "product_date": "2026.08.11"
       }
     ],
@@ -346,27 +346,6 @@
         "product_date": "2026.08.11"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/chugoku/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043929/chugoku/",
-        "product_name": "銀座デリー監修　カシミールカレー",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043929/8B101214F273640AED239C6FCB15D761.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/053902/chugoku/",
-        "product_name": "３種のフルーツサンド",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053902/6D24D99F5B8A36F98A230F76494B71E3.jpg",
-        "product_date": "2026.08.12"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/091508/chugoku/",
         "product_name": "ピリ辛濃厚ごまだれ　冷し蒸し鶏そば",
         "product_price": 626,
@@ -379,6 +358,27 @@
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091045/ED7D45F4EBF6CC780DCC7A7274E7342D.jpg",
         "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091574/chugoku/",
+        "product_name": "スパイス香る冷かけカレーうどん　豆乳仕立て",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091574/B8ED7A7E1FBE559D4B685A8F1C5B4D6E.jpg",
+        "product_date": "2026.08.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091566/chugoku/",
+        "product_name": "スパイス香る冷かけカレーうどん　豆乳仕立て",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091566/89D154BAD14E69F968837791D19A0316.jpg",
+        "product_date": "2026.08.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091325/chugoku/",
+        "product_name": "小豆島手延べそうめん　島の光使用",
+        "product_price": 518,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091325/C278764D44295F42E7418322D67E62F8.jpg",
+        "product_date": "2026.08.11"
       }
     ],
     "prefecture_name": "中国"
@@ -386,34 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044040/shikoku/",
-        "product_name": "ディープリッチブラックカレーおむすび",
-        "product_price": 213,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044040/81863F15A2C4C249AF42D3618392BCC9.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043929/shikoku/",
-        "product_name": "銀座デリー監修　カシミールカレー",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043929/8B101214F273640AED239C6FCB15D761.jpg",
-        "product_date": "2026.08.11"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044002/shikoku/",
-        "product_name": "ＣＡＦＥ　ＢＯＸ　骨付きチキンビリヤニ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044002/ACBFBDA7134E4ED854344CEB2ED5FDAB.jpg",
-        "product_date": "2026.08.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/053902/shikoku/",
-        "product_name": "３種のフルーツサンド",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053902/6D24D99F5B8A36F98A230F76494B71E3.jpg",
-        "product_date": "2026.08.12"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/091045/shikoku/",
         "product_name": "鰹出汁の旨味引き立つかき揚げそば",
@@ -427,6 +399,34 @@
         "product_price": 594,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091574/B8ED7A7E1FBE559D4B685A8F1C5B4D6E.jpg",
         "product_date": "2026.08.17"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090313/shikoku/",
+        "product_name": "牛肉うどん",
+        "product_price": 572,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090313/BD8CB23A1BE7D2DEEBE725351FA37F05.jpg",
+        "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091325/shikoku/",
+        "product_name": "小豆島手延べそうめん　島の光使用",
+        "product_price": 518,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091325/C278764D44295F42E7418322D67E62F8.jpg",
+        "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091537/shikoku/",
+        "product_name": "とろーりチーズソースのナポリタン",
+        "product_price": 410,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091537/9A12553202E9572F80B2C0EAE2850E6B.jpg",
+        "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091063/shikoku/",
+        "product_name": "明太子と高菜のピリ辛和風パスタ",
+        "product_price": 537,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091063/27E49D7F006039291BCCC5F7EAD3C9FE.jpg",
+        "product_date": "2026.08.12"
       }
     ],
     "prefecture_name": "四国"
@@ -434,20 +434,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kyushu/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044002/kyushu/",
-        "product_name": "ＣＡＦＥ　ＢＯＸ　骨付きチキンビリヤニ",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044002/ACBFBDA7134E4ED854344CEB2ED5FDAB.jpg",
-        "product_date": "2026.08.17"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/053929/kyushu/",
-        "product_name": "バジル香る生ハムと玉葱マリネのフォカッチャ",
-        "product_price": 442,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/053929/D3AF9FD3842508CCD441431A04F103CA.jpg",
-        "product_date": "2026.08.12"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/091508/kyushu/",
         "product_name": "ピリ辛濃厚ごまだれ　冷し蒸し鶏そば",
@@ -475,6 +461,20 @@
         "product_price": 518,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091565/DEC0A948F57D5BC67F7447E61EA1ABF4.jpg",
         "product_date": "2026.08.11"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/091557/kyushu/",
+        "product_name": "３種きのこと大根おろしの和風パスタ",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091557/74027A3651B7E1268AC375C68111DCBC.jpg",
+        "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/090397/kyushu/",
+        "product_name": "あつあつオーブン焼き　キムチーズもんじゃ",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/090397/33FACFD466B945D0766F1BDFDF9DCA04.jpg",
+        "product_date": "2026.08.12"
       }
     ],
     "prefecture_name": "九州"
@@ -488,13 +488,6 @@
         "product_price": 699,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043823/2D416F4B9D712FBA5DFB4A4049346DEC.jpg",
         "product_date": "2026.08.13"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/043929/okinawa/",
-        "product_name": "銀座デリー監修　カシミールカレー",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043929/8B101214F273640AED239C6FCB15D761.jpg",
-        "product_date": "2026.08.11"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/044070/okinawa/",
@@ -523,6 +516,13 @@
         "product_price": 635,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091417/0B77B37D6E0BE3647E7DDDC0AD87F312.jpg",
         "product_date": "2026.08.12"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/101220/okinawa/",
+        "product_name": "７プレミアム　　　　　牛カルビ焼き",
+        "product_price": 354,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/101220/A3EB271E321D9C4779234C5A32C29085.jpg",
+        "product_date": "2026.08.11"
       }
     ],
     "prefecture_name": "沖縄"
