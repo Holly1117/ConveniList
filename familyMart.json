@@ -105,13 +105,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0515115.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sushi/0510813.html",
-    "product_name": "サーモン寿司",
-    "product_price": 289,
-    "product_date": "2026.9.15",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510813.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/sandwich/0910323.html",
     "product_name": "ツナとたまごサンド",
     "product_price": 298,
@@ -208,13 +201,6 @@
     "product_price": 398,
     "product_date": "2026.9.15",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0827058.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/salad/1222340.html",
-    "product_name": "青じそ香る！たらこのパスタサラダ",
-    "product_price": 429,
-    "product_date": "2026.9.15",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1222340.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/salad/1212457.html",
@@ -516,6 +502,41 @@
     "product_price": 990,
     "product_date": "2026.9.17",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/6391201.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6726669.html",
+    "product_name": "hana by hince　ウォーターグラスティント　12ハニーベリー",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6726669.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6725877.html",
+    "product_name": "hana by hince　ウォーターグラスティント　13ルビー",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6725877.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6726492.html",
+    "product_name": "hana by hince　シアーグラスリップスティック　07モカ",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6726492.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6728519.html",
+    "product_name": "hana by hince　シアーグラスリップスティック　08ガーネット",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6728519.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6724061.html",
+    "product_name": "hana by hince　ベールフィットフェイスパウダー　シアーホワイト",
+    "product_price": 380,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6724061.webp"
   },
   {
     "product_url": "https://www.family.co.jp/goods/omusubi/0412001.html",
@@ -623,13 +644,6 @@
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0515115.jpg"
   },
   {
-    "product_url": "https://www.family.co.jp/goods/sushi/0510813.html",
-    "product_name": "サーモン寿司",
-    "product_price": 289,
-    "product_date": "2026.9.15",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/0510813.jpg"
-  },
-  {
     "product_url": "https://www.family.co.jp/goods/sandwich/0910323.html",
     "product_name": "ツナとたまごサンド",
     "product_price": 298,
@@ -726,13 +740,6 @@
     "product_price": 398,
     "product_date": "2026.9.15",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/0827058.jpg"
-  },
-  {
-    "product_url": "https://www.family.co.jp/goods/salad/1222340.html",
-    "product_name": "青じそ香る！たらこのパスタサラダ",
-    "product_price": 429,
-    "product_date": "2026.9.15",
-    "product_image": "https://www.family.co.jp/content/dam/family/goods/1222340.jpg"
   },
   {
     "product_url": "https://www.family.co.jp/goods/salad/1212457.html",
@@ -1034,5 +1041,40 @@
     "product_price": 990,
     "product_date": "2026.9.17",
     "product_image": "https://www.family.co.jp/content/dam/family/goods/6391201.jpg"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6726669.html",
+    "product_name": "hana by hince　ウォーターグラスティント　12ハニーベリー",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6726669.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6725877.html",
+    "product_name": "hana by hince　ウォーターグラスティント　13ルビー",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6725877.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6726492.html",
+    "product_name": "hana by hince　シアーグラスリップスティック　07モカ",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6726492.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6728519.html",
+    "product_name": "hana by hince　シアーグラスリップスティック　08ガーネット",
+    "product_price": 990,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6728519.webp"
+  },
+  {
+    "product_url": "https://www.family.co.jp/goods/cosmetics/6724061.html",
+    "product_name": "hana by hince　ベールフィットフェイスパウダー　シアーホワイト",
+    "product_price": 380,
+    "product_date": "2026.9.18",
+    "product_image": "https://www.family.co.jp/content/dam/family/goods/6724061.webp"
   }
 ]
