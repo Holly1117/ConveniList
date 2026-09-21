@@ -3,13 +3,6 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/hokkaido/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044562/hokkaido/",
-        "product_name": "おむすび＆おかず　焼鮭・和風ツナマヨネーズ",
-        "product_price": 429,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044562/B0662E4646A6CDCFE59082D94064E32A.jpg",
-        "product_date": "2026.09.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044560/hokkaido/",
         "product_name": "だしむすび　たまご醤油",
         "product_price": 181,
@@ -43,6 +36,13 @@
         "product_price": 594,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044569/3AA2E2964E76EC01E7D687436EFDBBB6.jpg",
         "product_date": "2026.09.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044510/hokkaido/",
+        "product_name": "直火炙り焼豚と香ばし炒めのチャーハン",
+        "product_price": 496,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044510/332BA51072961B607644B5BBA850ABB2.jpg",
+        "product_date": "2026.09.15"
       }
     ],
     "prefecture_name": "北海道"
@@ -65,20 +65,6 @@
         "product_date": "2026.09.15"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044454/tohoku/",
-        "product_name": "麻辣チャーハンおむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044454/B061A7F24D4B4AA87BC90B811C9601F6.jpg",
-        "product_date": "2026.09.15"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040888/tohoku/",
-        "product_name": "チキンガーリックピラフおむすび",
-        "product_price": 192,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040888/F35AF9742AE7EF7821ACD4B99597FA58.jpg",
-        "product_date": "2026.09.15"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044575/tohoku/",
         "product_name": "山形県産つや姫おむすび　紅鮭と塩筋子",
         "product_price": 321,
@@ -91,6 +77,20 @@
         "product_price": 300,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044572/6C76C5BB1C2DFEDD7E7FEC762D04456B.jpg",
         "product_date": "2026.09.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044571/tohoku/",
+        "product_name": "会津産コシヒカリおむすび　炙りたらこ",
+        "product_price": 267,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044571/289D05D848CBC28C82E9F5C78006B8E3.jpg",
+        "product_date": "2026.09.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044570/tohoku/",
+        "product_name": "山形県産つや姫おむすび炙りたらこ",
+        "product_price": 267,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044570/E7CF4C5E58217CC7D820090F157109AC.jpg",
+        "product_date": "2026.09.15"
       }
     ],
     "prefecture_name": "東北"
@@ -98,13 +98,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/kanto/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044563/kanto/",
-        "product_name": "鶏づくしおむすびセット",
-        "product_price": 354,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044563/0BD1CD2958960BF705B0A8FCE409F734.jpg",
-        "product_date": "2026.09.15"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/044562/kanto/",
         "product_name": "おむすび＆おかず　焼鮭・和風ツナマヨネーズ",
@@ -138,6 +131,13 @@
         "product_name": "新潟県産コシヒカリおむすび　炙りたらこ",
         "product_price": 267,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044600/4C60E9072A819BDC489DF2E46967E0CA.jpg",
+        "product_date": "2026.09.15"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044599/kanto/",
+        "product_name": "新潟県産コシヒカリおむすび　鮭ハラスの西京焼",
+        "product_price": 300,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044599/5C16B7AFFC7F62BC535B572120B107AA.jpg",
         "product_date": "2026.09.15"
       }
     ],
