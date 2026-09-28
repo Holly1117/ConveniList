@@ -17,13 +17,6 @@
         "product_date": "2026.09.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044722/hokkaido/",
-        "product_name": "アジフライ御飯",
-        "product_price": 464,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044722/6D55A002629CCE2D4B2C74BD22012298.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/041417/hokkaido/",
         "product_name": "鶏釜めし仕立て（もち麦）",
         "product_price": 464,
@@ -43,6 +36,13 @@
         "product_price": 669,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044663/14A322E8053F8FE4C1913EDD982F4A17.jpg",
         "product_date": "2026.09.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044654/hokkaido/",
+        "product_name": "炭火焼き鳥丼",
+        "product_price": 753,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044654/1AEE6AAC2E0BD755EA81D1316846DBFC.jpg",
+        "product_date": "2026.09.24"
       }
     ],
     "prefecture_name": "北海道"
@@ -58,24 +58,10 @@
         "product_date": "2026.09.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044530/tohoku/",
-        "product_name": "ごま油香る　ピーマンとツナのおむすび",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044530/1D2D1369B04E693C7026BEADB4A4F655.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044659/tohoku/",
         "product_name": "山形県産つや姫おむすび　はちみつ梅おかか",
         "product_price": 237,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044659/D6F13B962958C930F40C5021318BA08D.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044656/tohoku/",
-        "product_name": "会津産コシヒカリおむすび　はちみつ梅おかか",
-        "product_price": 237,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044656/9E14394AE7D1A59AF7294AE118A206D3.jpg",
         "product_date": "2026.09.22"
       },
       {
@@ -90,6 +76,20 @@
         "product_name": "鶏釜めし仕立て（もち麦）",
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041417/700141B99FA9EE1ABA4051CE41D3F90B.jpg",
+        "product_date": "2026.09.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044518/tohoku/",
+        "product_name": "東北限定　炭火焼鳥とふわとろ卵の親子丼",
+        "product_price": 583,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044518/997327E047C8B86836F4148DA6EF39AF.jpg",
+        "product_date": "2026.09.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044517/tohoku/",
+        "product_name": "彩り野菜と海鮮の中華丼",
+        "product_price": 594,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044517/8F3DFB78D9B9502C9115388D45D6A8F2.jpg",
         "product_date": "2026.09.22"
       }
     ],
@@ -209,13 +209,6 @@
         "product_date": "2026.09.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042484/hokuriku/",
-        "product_name": "直火焼ソーセージおむすび",
-        "product_price": 221,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042484/9AF51DFEDE902EE72B584B6861374150.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044732/hokuriku/",
         "product_name": "新潟県産コシヒカリおむすび　佐渡産サーモン",
         "product_price": 257,
@@ -234,6 +227,13 @@
         "product_name": "鶏釜めし仕立て（もち麦）",
         "product_price": 464,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041417/700141B99FA9EE1ABA4051CE41D3F90B.jpg",
+        "product_date": "2026.09.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044669/hokuriku/",
+        "product_name": "旨塩ダレのねぎ塩豚カルビ弁当（もち麦）",
+        "product_price": 570,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044669/EFF6192949D5FA40BC4B21F510806B23.jpg",
         "product_date": "2026.09.22"
       }
     ],
@@ -264,24 +264,24 @@
         "product_date": "2026.09.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044725/tokai/",
-        "product_name": "直火焼つくねおむすび",
-        "product_price": 286,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044725/647E52611695DBB08573F59B74AF8893.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/040443/tokai/",
-        "product_name": "静岡県水揚げしらすと三つ葉ごはんのおむすび",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040443/5D4B302F7D6DDF3E46A9F2975A452AE6.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/042484/tokai/",
         "product_name": "直火焼ソーセージおむすび",
         "product_price": 221,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042484/9AF51DFEDE902EE72B584B6861374150.jpg",
+        "product_date": "2026.09.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044738/tokai/",
+        "product_name": "イカフライおかか御飯（麦飯）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044738/535BD5B6432CF51737FF075D77DA496B.jpg",
+        "product_date": "2026.09.23"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/041417/tokai/",
+        "product_name": "鶏釜めし仕立て（もち麦）",
+        "product_price": 464,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041417/700141B99FA9EE1ABA4051CE41D3F90B.jpg",
         "product_date": "2026.09.22"
       }
     ],
@@ -449,13 +449,6 @@
         "product_date": "2026.09.22"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/043651/kyushu/",
-        "product_name": "肉乗せ炒飯＆焼きそば弁当",
-        "product_price": 645,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/043651/1A6AB04A06DA54F23E57FC640C746CCC.jpg",
-        "product_date": "2026.09.22"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044737/kyushu/",
         "product_name": "おでかけ　おにぎりランチ",
         "product_price": 464,
@@ -474,6 +467,13 @@
         "product_name": "旨塩ダレのねぎ塩豚カルビ弁当（もち麦）",
         "product_price": 570,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044668/BF2CED7CE835850AF0424A7EE680024F.jpg",
+        "product_date": "2026.09.22"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044663/kyushu/",
+        "product_name": "熟成ダレの牛カルビ弁当",
+        "product_price": 669,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044663/14A322E8053F8FE4C1913EDD982F4A17.jpg",
         "product_date": "2026.09.22"
       }
     ],
