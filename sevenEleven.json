@@ -10,6 +10,13 @@
         "product_date": "2026.09.29"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/044768/hokkaido/",
+        "product_name": "やみつきカルボ飯",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044768/18C15F6FEAE19BF75E7A1272038A06EA.jpg",
+        "product_date": "2026.10.01"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/044673/hokkaido/",
         "product_name": "ぶたはげ監修　炭火焼き豚丼",
         "product_price": 753,
@@ -36,13 +43,6 @@
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091775/D8A70D34382E72D3D3805C79031320ED.jpg",
         "product_date": "2026.09.30"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/103369/hokkaido/",
-        "product_name": "辛味噌もつ煮込み鍋　道産ホルモン使用",
-        "product_price": 559,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/103369/7C1DCC85894C2CFC069AEE848727C993.jpg",
-        "product_date": "2026.10.01"
       }
     ],
     "prefecture_name": "北海道"
@@ -326,11 +326,11 @@
         "product_date": "2026.09.29"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044673/kinki/",
-        "product_name": "ぶたはげ監修　炭火焼き豚丼",
-        "product_price": 753,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044673/5D1D9AAE0F40C0B64A9D28CE29AB4E62.jpg",
-        "product_date": "2026.09.29"
+        "product_url": "https://www.sej.co.jp/products/a/item/044768/kinki/",
+        "product_name": "やみつきカルボ飯",
+        "product_price": 699,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044768/18C15F6FEAE19BF75E7A1272038A06EA.jpg",
+        "product_date": "2026.10.01"
       }
     ],
     "prefecture_name": "近畿"
