@@ -65,13 +65,6 @@
         "product_date": "2026.10.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/044796/tohoku/",
-        "product_name": "なめこなめ茸のだしむすび福島県産なめこ使用",
-        "product_price": 170,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044796/FCA66F3247D6C58CC751228D0D306CB3.jpg",
-        "product_date": "2026.10.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044794/tohoku/",
         "product_name": "ケチャップライスおむすび",
         "product_price": 159,
@@ -90,6 +83,13 @@
         "product_name": "会津産コシヒカリおむすび　炭火焼さば",
         "product_price": 267,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044795/FAAF42540731687486F7504DDB62E662.jpg",
+        "product_date": "2026.10.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044660/tohoku/",
+        "product_name": "山形県産つや姫おむすび　炭火焼さば",
+        "product_price": 267,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044660/542A9CB099C41A9E09ADE8B03C5F4320.jpg",
         "product_date": "2026.10.13"
       }
     ],
@@ -360,13 +360,6 @@
         "product_date": "2026.10.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042535/chugoku/",
-        "product_name": "高菜チャーハンおむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042535/EC24209E9AA04B3721080F981F4E2109.jpg",
-        "product_date": "2026.10.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/044833/chugoku/",
         "product_name": "コク旨だれの炭火焼き牛カルビ弁当",
         "product_price": 699,
@@ -379,6 +372,13 @@
         "product_price": 537,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044895/F385B7431B3F4F44071513A1CBDB9CCD.jpg",
         "product_date": "2026.10.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/044829/chugoku/",
+        "product_name": "ラーメン屋さんのやみつきやきめし",
+        "product_price": 710,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044829/5A6151B0BEAA8C52D6C9C70892D1B8E2.jpg",
+        "product_date": "2026.10.13"
       }
     ],
     "prefecture_name": "中国"
@@ -386,13 +386,6 @@
   {
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/shikoku/",
     "product_list": [
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/044677/shikoku/",
-        "product_name": "直巻おむすび　具たっぷりとり五目",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044677/BD541D68C7C3E09EF456C2087E6C7CF4.jpg",
-        "product_date": "2026.10.13"
-      },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/044859/shikoku/",
         "product_name": "おおきなおむすび　チャーシューマヨネーズ",
@@ -408,13 +401,6 @@
         "product_date": "2026.10.13"
       },
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/042535/shikoku/",
-        "product_name": "高菜チャーハンおむすび",
-        "product_price": 203,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/042535/EC24209E9AA04B3721080F981F4E2109.jpg",
-        "product_date": "2026.10.13"
-      },
-      {
         "product_url": "https://www.sej.co.jp/products/a/item/040216/shikoku/",
         "product_name": "山形県産つや姫おむすび鮭ハラスの西京焼",
         "product_price": 300,
@@ -427,6 +413,20 @@
         "product_price": 710,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044829/5A6151B0BEAA8C52D6C9C70892D1B8E2.jpg",
         "product_date": "2026.10.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040157/shikoku/",
+        "product_name": "海上自衛隊てんりゅう　呉海自カレー牛すじ入り",
+        "product_price": 753,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040157/9F057EBA381E1680F13B717643BE2F0B.jpg",
+        "product_date": "2026.10.13"
+      },
+      {
+        "product_url": "https://www.sej.co.jp/products/a/item/040795/shikoku/",
+        "product_name": "ＣＡＦＥ　ＢＯＸ　デミトマロコモコ",
+        "product_price": 797,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040795/90B6FC74BFA255DBB32380328C52FF79.jpg",
+        "product_date": "2026.10.14"
       }
     ],
     "prefecture_name": "四国"
@@ -483,11 +483,11 @@
     "prefecture_url": "https://www.sej.co.jp/products/a/thisweek/area/okinawa/",
     "product_list": [
       {
-        "product_url": "https://www.sej.co.jp/products/a/item/041914/okinawa/",
-        "product_name": "旨さ相盛おむすび　高菜と明太子",
-        "product_price": 289,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/041914/002F89B98651A93E4E182904A5BFF7F4.jpg",
-        "product_date": "2026.10.13"
+        "product_url": "https://www.sej.co.jp/products/a/item/044792/okinawa/",
+        "product_name": "油みそおむすび",
+        "product_price": 170,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/044792/7B1F7D00F17B7CAC10413667CB760BC4.jpg",
+        "product_date": "2026.10.15"
       },
       {
         "product_url": "https://www.sej.co.jp/products/a/item/044802/okinawa/",
@@ -504,6 +504,13 @@
         "product_date": "2026.10.13"
       },
       {
+        "product_url": "https://www.sej.co.jp/products/a/item/040154/okinawa/",
+        "product_name": "沖縄県産もずく使用　もずく丼（もち麦）",
+        "product_price": 429,
+        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/040154/C15921D61A8A149455740BD448548CAB.jpg",
+        "product_date": "2026.10.15"
+      },
+      {
         "product_url": "https://www.sej.co.jp/products/a/item/044495/okinawa/",
         "product_name": "ＣＡＦＥ　ＢＯＸ　スパイス香るキーマカレー",
         "product_price": 753,
@@ -515,13 +522,6 @@
         "product_name": "トーストサンド　タコミ―ト",
         "product_price": 419,
         "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/054081/F814F88C11302AA0244AFE4A185521AC.jpg",
-        "product_date": "2026.10.14"
-      },
-      {
-        "product_url": "https://www.sej.co.jp/products/a/item/091879/okinawa/",
-        "product_name": "やみつきガーリック山盛ペペロンチーノ",
-        "product_price": 699,
-        "product_image": "https://img-afd.7api-01.dp1.sej.co.jp/item-image/091879/55C2700E218C9A59042EBFE9B9A8B799.jpg",
         "product_date": "2026.10.14"
       }
     ],
